@@ -1,0 +1,53 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5b11a58205ec3474ca216360e9fa74a8, type: 3}
+  m_Name: MainMenu Shared Data
+  m_EditorClassIdentifier: Unity.Localization::UnityEngine.Localization.Tables.SharedTableData
+  m_TableCollectionName: MainMenu
+  m_TableCollectionNameGuidString: a052a12e10583254f9965e4f034c6bd5
+  m_Entries:
+  - m_Id: 5476843520
+    m_Key: language_flag
+    m_Metadata:
+      m_Items: []
+  m_Metadata:
+    m_Items:
+    - rid: 2016924983150510663
+  m_KeyGenerator:
+    rid: 2016924983150510662
+  references:
+    version: 2
+    RefIds:
+    - rid: 2016924983150510662
+      type: {class: DistributedUIDGenerator, ns: UnityEngine.Localization.Tables, asm: Unity.Localization}
+      data:
+        m_CustomEpoch: 1766940870154
+    - rid: 2016924983150510663
+      type: {class: AssetTypeMetadata, ns: UnityEngine.Localization.Metadata, asm: Unity.Localization}
+      data:
+        m_Entries:
+        - m_KeyId: 5476843520
+          m_TableCodes:
+          - ar
+          - zh-Hans
+          - zh-Hant
+          - en
+          - fr
+          - de
+          - id
+          - it
+          - ja
+          - ko
+          - pt
+          - es
+        m_TypeString: UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0,
+          Culture=neutral, PublicKeyToken=null

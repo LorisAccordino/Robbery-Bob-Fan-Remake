@@ -634,7 +634,7 @@ MonoBehaviour:
           m_StringArgument: it
           m_BoolArgument: 0
         m_CallState: 2
-      - m_Target: {fileID: 253087354}
+      - m_Target: {fileID: 0}
         m_TargetAssemblyTypeName: LanguageFlagManager, Assembly-CSharp
         m_MethodName: UpdateFlag
         m_Mode: 1
@@ -860,7 +860,7 @@ GameObject:
   - component: {fileID: 253087351}
   - component: {fileID: 253087350}
   - component: {fileID: 253087353}
-  - component: {fileID: 253087354}
+  - component: {fileID: 253087355}
   m_Layer: 5
   m_Name: Language Button
   m_TagString: Untagged
@@ -995,7 +995,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::ButtonClickSound
   clickSound: {fileID: 1535177836}
---- !u!114 &253087354
+--- !u!114 &253087355
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -1004,35 +1004,32 @@ MonoBehaviour:
   m_GameObject: {fileID: 253087348}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: f57f4962619a182408a6fdc49193c163, type: 3}
+  m_Script: {fileID: 11500000, guid: 3f55fcc3768689a4f9cf863b8c11c618, type: 3}
   m_Name: 
-  m_EditorClassIdentifier: Assembly-CSharp::LanguageFlagManager
-  flagImage: {fileID: 253087351}
-  flags:
-  - localeCode: en
-    flagSprite: {fileID: -659565980, guid: fa211f26b9ccec94fac25ca2a55ef210, type: 3}
-  - localeCode: fr
-    flagSprite: {fileID: 304219955, guid: fa211f26b9ccec94fac25ca2a55ef210, type: 3}
-  - localeCode: it
-    flagSprite: {fileID: 1238569828, guid: fa211f26b9ccec94fac25ca2a55ef210, type: 3}
-  - localeCode: de
-    flagSprite: {fileID: 1394218187, guid: fa211f26b9ccec94fac25ca2a55ef210, type: 3}
-  - localeCode: es
-    flagSprite: {fileID: 125511590, guid: fa211f26b9ccec94fac25ca2a55ef210, type: 3}
-  - localeCode: pt
-    flagSprite: {fileID: -169584461, guid: fa211f26b9ccec94fac25ca2a55ef210, type: 3}
-  - localeCode: ja
-    flagSprite: {fileID: 728876621, guid: fa211f26b9ccec94fac25ca2a55ef210, type: 3}
-  - localeCode: ko
-    flagSprite: {fileID: -2045490760, guid: fa211f26b9ccec94fac25ca2a55ef210, type: 3}
-  - localeCode: zh-Hans
-    flagSprite: {fileID: -284049562, guid: fa211f26b9ccec94fac25ca2a55ef210, type: 3}
-  - localeCode: zh-Hant
-    flagSprite: {fileID: -284049562, guid: fa211f26b9ccec94fac25ca2a55ef210, type: 3}
-  - localeCode: ar
-    flagSprite: {fileID: 983998972, guid: fa211f26b9ccec94fac25ca2a55ef210, type: 3}
-  - localeCode: id
-    flagSprite: {fileID: 627871122, guid: fa211f26b9ccec94fac25ca2a55ef210, type: 3}
+  m_EditorClassIdentifier: Unity.Localization::UnityEngine.Localization.Components.LocalizeSpriteEvent
+  m_LocalizedAssetReference:
+    m_TableReference:
+      m_TableCollectionName: GUID:a052a12e10583254f9965e4f034c6bd5
+    m_TableEntryReference:
+      m_KeyId: 5476843520
+      m_Key: 
+    m_FallbackState: 0
+    m_WaitForCompletion: 0
+  m_UpdateAsset:
+    m_PersistentCalls:
+      m_Calls:
+      - m_Target: {fileID: 253087351}
+        m_TargetAssemblyTypeName: UnityEngine.UI.Image, UnityEngine.UI
+        m_MethodName: set_sprite
+        m_Mode: 0
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
 --- !u!1 &285528907
 GameObject:
   m_ObjectHideFlags: 0
@@ -1320,7 +1317,7 @@ MonoBehaviour:
           m_StringArgument: ko
           m_BoolArgument: 0
         m_CallState: 2
-      - m_Target: {fileID: 253087354}
+      - m_Target: {fileID: 0}
         m_TargetAssemblyTypeName: LanguageFlagManager, Assembly-CSharp
         m_MethodName: UpdateFlag
         m_Mode: 1
@@ -1478,7 +1475,7 @@ MonoBehaviour:
           m_StringArgument: en
           m_BoolArgument: 0
         m_CallState: 2
-      - m_Target: {fileID: 253087354}
+      - m_Target: {fileID: 0}
         m_TargetAssemblyTypeName: LanguageFlagManager, Assembly-CSharp
         m_MethodName: UpdateFlag
         m_Mode: 1
@@ -1662,7 +1659,7 @@ MonoBehaviour:
           m_StringArgument: fr
           m_BoolArgument: 0
         m_CallState: 2
-      - m_Target: {fileID: 253087354}
+      - m_Target: {fileID: 0}
         m_TargetAssemblyTypeName: LanguageFlagManager, Assembly-CSharp
         m_MethodName: UpdateFlag
         m_Mode: 1
@@ -3199,7 +3196,7 @@ MonoBehaviour:
           m_StringArgument: pt
           m_BoolArgument: 0
         m_CallState: 2
-      - m_Target: {fileID: 253087354}
+      - m_Target: {fileID: 0}
         m_TargetAssemblyTypeName: LanguageFlagManager, Assembly-CSharp
         m_MethodName: UpdateFlag
         m_Mode: 1
@@ -4767,7 +4764,7 @@ MonoBehaviour:
           m_StringArgument: id
           m_BoolArgument: 0
         m_CallState: 2
-      - m_Target: {fileID: 253087354}
+      - m_Target: {fileID: 0}
         m_TargetAssemblyTypeName: LanguageFlagManager, Assembly-CSharp
         m_MethodName: UpdateFlag
         m_Mode: 1
@@ -5013,7 +5010,7 @@ MonoBehaviour:
           m_StringArgument: zh-Hant
           m_BoolArgument: 0
         m_CallState: 2
-      - m_Target: {fileID: 253087354}
+      - m_Target: {fileID: 0}
         m_TargetAssemblyTypeName: LanguageFlagManager, Assembly-CSharp
         m_MethodName: UpdateFlag
         m_Mode: 1
@@ -5362,7 +5359,7 @@ MonoBehaviour:
           m_StringArgument: es
           m_BoolArgument: 0
         m_CallState: 2
-      - m_Target: {fileID: 253087354}
+      - m_Target: {fileID: 0}
         m_TargetAssemblyTypeName: LanguageFlagManager, Assembly-CSharp
         m_MethodName: UpdateFlag
         m_Mode: 1
@@ -5787,7 +5784,7 @@ MonoBehaviour:
           m_StringArgument: de
           m_BoolArgument: 0
         m_CallState: 2
-      - m_Target: {fileID: 253087354}
+      - m_Target: {fileID: 0}
         m_TargetAssemblyTypeName: LanguageFlagManager, Assembly-CSharp
         m_MethodName: UpdateFlag
         m_Mode: 1
@@ -7735,7 +7732,7 @@ MonoBehaviour:
           m_StringArgument: zh-Hans
           m_BoolArgument: 0
         m_CallState: 2
-      - m_Target: {fileID: 253087354}
+      - m_Target: {fileID: 0}
         m_TargetAssemblyTypeName: LanguageFlagManager, Assembly-CSharp
         m_MethodName: UpdateFlag
         m_Mode: 1
@@ -8404,7 +8401,7 @@ MonoBehaviour:
           m_StringArgument: ja
           m_BoolArgument: 0
         m_CallState: 2
-      - m_Target: {fileID: 253087354}
+      - m_Target: {fileID: 0}
         m_TargetAssemblyTypeName: LanguageFlagManager, Assembly-CSharp
         m_MethodName: UpdateFlag
         m_Mode: 1
@@ -8785,7 +8782,7 @@ MonoBehaviour:
           m_StringArgument: ar
           m_BoolArgument: 0
         m_CallState: 2
-      - m_Target: {fileID: 253087354}
+      - m_Target: {fileID: 0}
         m_TargetAssemblyTypeName: LanguageFlagManager, Assembly-CSharp
         m_MethodName: UpdateFlag
         m_Mode: 1
