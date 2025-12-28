@@ -1,0 +1,58 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Localization-Assets-Shared
+  m_EditorClassIdentifier: Unity.Addressables.Editor::UnityEditor.AddressableAssets.Settings.AddressableAssetGroup
+  m_GroupName: Localization-Assets-Shared
+  m_GUID: 179e6519806c934438a78792d3fffe20
+  m_SerializeEntries:
+  - m_GUID: 4405daaa85300c248a8644aa131eb1a0
+    m_Address: Assets/Localization/Tables/Hints/Hints Shared Data.asset
+    m_ReadOnly: 1
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 528c112f67a5b1a45ad5119a422f333b
+    m_Address: Assets/Localization/Tables/Menus/Menus Shared Data.asset
+    m_ReadOnly: 1
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 56308ec015554634f8febbfd4481ade0
+    m_Address: Assets/Localization/Tables/LootNames/LootNames Shared Data.asset
+    m_ReadOnly: 1
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 5ff1c1d18f06e74428bf3b10078e8de4
+    m_Address: Assets/Localization/Tables/LevelNames/LevelNames Shared Data.asset
+    m_ReadOnly: 1
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 97402f528cb33644bbadbb7e28bb5d69
+    m_Address: Assets/Localization/Tables/TRVB/TRVB Shared Data.asset
+    m_ReadOnly: 1
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 99e3c89befe70b44682eedb4793bff27
+    m_Address: Assets/Localization/Tables/InappItems/InappItems Shared Data.asset
+    m_ReadOnly: 1
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: b1d830cb9b9413c4cacbdfcad6fba5d6
+    m_Address: Assets/Localization/Tables/StoryEvents/StoryEvents Shared Data.asset
+    m_ReadOnly: 1
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  m_ReadOnly: 1
+  m_Settings: {fileID: 11400000, guid: 4d17e89b8d77e5143a9dcdbd36d12aa4, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 43715e6898112d1438ff0745574b8c80, type: 2}
+    - {fileID: 11400000, guid: 7de8be526d24cdc4092f70f3bcb40aba, type: 2}

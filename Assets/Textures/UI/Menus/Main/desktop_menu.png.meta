@@ -6,7 +6,7 @@ TextureImporter:
   serializedVersion: 12
   mipmaps:
     mipMapMode: 0
-    enableMipMap: 1
+    enableMipMap: 0
     sRGBTexture: 1
     linearTexture: 0
     fadeOut: 0
@@ -37,13 +37,13 @@ TextureImporter:
     filterMode: 1
     aniso: 1
     mipBias: 0
-    wrapU: 0
-    wrapV: 0
+    wrapU: 1
+    wrapV: 1
     wrapW: 0
-  nPOTScale: 1
+  nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
-  spriteMode: 0
+  spriteMode: 2
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
@@ -52,9 +52,9 @@ TextureImporter:
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
-  alphaIsTransparency: 0
+  alphaIsTransparency: 1
   spriteTessellationDetail: -1
-  textureType: 0
+  textureType: 8
   textureShape: 1
   singleChannelComponent: 0
   flipbookRows: 1
@@ -121,18 +121,103 @@ TextureImporter:
     forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
-    sprites: []
+    sprites:
+    - serializedVersion: 2
+      name: loading_logo
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 512
+        width: 422
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 444978ac9246c51489244fce92a21fb6
+      internalID: 500252292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robbery_bob_title2
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 231
+        width: 608
+        height: 259
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c73e92f9818e3ed4e9d859e534f67be2
+      internalID: 1476687185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: desktop_menu_19
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 8
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d39d8c5e4cbb0044d9154456c6c7ce53
+      internalID: 2134933304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: be585fb1081a41047b7c6be00c93f78f
     internalID: 0
     vertices: []
     indices: 
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      desktop_menu_1: 795798776
+      desktop_menu_11: -432752906
+      desktop_menu_12: 339444407
+      desktop_menu_13: 158951790
+      desktop_menu_14: 285574529
+      desktop_menu_15: -1621912228
+      desktop_menu_16: -351660948
+      desktop_menu_17: -154068400
+      desktop_menu_18: -880480977
+      desktop_menu_19: 2134933304
+      desktop_menu_2: 123710742
+      desktop_menu_20: 332931741
+      desktop_menu_21: -625952441
+      desktop_menu_3: -1528444567
+      desktop_menu_4: 1046988813
+      desktop_menu_5: -122346157
+      desktop_menu_6: -8762711
+      desktop_menu_7: 474272037
+      desktop_menu_8: 504380952
+      desktop_menu_9: -1872218639
+      loading_logo: 500252292
+      robbery_bob_title2: 1476687185
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -1,0 +1,341 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: InappItems_fr
+  m_EditorClassIdentifier: Unity.Localization::UnityEngine.Localization.Tables.StringTable
+  m_LocaleId:
+    m_Code: fr
+  m_SharedData: {fileID: 11400000, guid: 99e3c89befe70b44682eedb4793bff27, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 18609209347
+    m_Localized: "Vous aurez l\u2019air stupide. Si stupide, que cela peut distraire
+      les gens \xE0 tel point qu\u2019ils ne pensent plus \xE0 vous poursuivre."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18609209348
+    m_Localized: "A vraiment l\u2019air b\xEAte"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18609209349
+    m_Localized: Tenue de lapin
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18609209350
+    m_Localized: Les objets de valeur voleront dans vos poches sans aucun effort.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18609209351
+    m_Localized: Cleptomanie
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18609209352
+    m_Localized: "Chaque pi\xE8ce que vous trouvez double de valeur! \xC0 la longue,
+      c\u2019est un grand investissement!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18609209353
+    m_Localized: "Multiplicateur de pi\xE8ce x2"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18609209354
+    m_Localized: "Stimulateur de pi\xE8ces"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18609209355
+    m_Localized: "Une mani\xE8re agr\xE9able et facile d\u2019obtenir de nouveaux
+      gadgets ou de pouvoir effectuer des am\xE9liorations!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18609209356
+    m_Localized: "Ajouter %0 pi\xE8ces."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18609209357
+    m_Localized: "Paquet de pi\xE8ces"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18609209358
+    m_Localized: "Ces beignets ont l\u2019air d\xE9licieux, mais leur fourrage secret
+      fera souffrir n\u2019importe quel pauvre estomac."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18609209359
+    m_Localized: Neutralise les gardiens
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18609209360
+    m_Localized: Beignet pourri
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18609209361
+    m_Localized: "C\u2019est une jolie somme d\u2019esp\xE8ces! Mettez vos comp\xE9tences
+      aux maximum ou bien procurez-vous une nouvelle tenue!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18609209362
+    m_Localized: "Ajouter 4500 pi\xE8ces."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18609209363
+    m_Localized: Paquet de fortune
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18609209364
+    m_Localized: Cette combinaison est pour une utilisation dans des conditions de
+      milieux dangereux, quoi que cela signifie.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18609209365
+    m_Localized: "Bonne journ\xE9e en toute s\xE9curit\xE9!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18609209366
+    m_Localized: Combinaison Hazmat
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18609209367
+    m_Localized: "Ce n\u2019est pas la derni\xE8re mode, mais cette armure vous prot\xE8ge
+      de toute situation dangereuse."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18609209368
+    m_Localized: Protection lourde
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18609209369
+    m_Localized: Armure de chevalier
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18609209370
+    m_Localized: "Une porte verrouill\xE9e ne sera plus une barri\xE8re entre vous
+      et votre pillage."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18609209371
+    m_Localized: "D\xE9verrouille une porte verrouill\xE9e"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18609209372
+    m_Localized: "Pic \xE0 verrou"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18609209373
+    m_Localized: "Illuminez votre journ\xE9e avec ce joli bonus de pi\xE8ces!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18609209374
+    m_Localized: "Ajouter 1500 pi\xE8ces."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18609209375
+    m_Localized: Paquet de la chance
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18609209376
+    m_Localized: "Profitez d\u2019une vie de luxe! Vous n\u2019aurez plus besoin
+      de travailler un seul jour de votre vie!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18609209377
+    m_Localized: "Ajouter 10000 pi\xE8ces."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18609209378
+    m_Localized: Paquet de luxe
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18609209379
+    m_Localized: Chomp chomp
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18609209380
+    m_Localized: Chomp chomp
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18609209381
+    m_Localized: Chompzilla
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18609209382
+    m_Localized: "Je ne les aime pas. Ils sont tellement ennuyants. Ils se r\xE9partissent
+      sur le sol dans un bruit d\xE9rangeant!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18609209383
+    m_Localized: Une distraction bruyante
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18609209384
+    m_Localized: "Jouet \xE0 remonter"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18609209385
+    m_Localized: "Avec cette fausse tenue authentique de ninja vous pouvez pr\xE9tendre
+      \xEAtre un vrai ninja!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18609209386
+    m_Localized: "Maintenant \xE0 100% encore plus silencieux!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18609209387
+    m_Localized: Tenue de Ninja
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18609209388
+    m_Localized: "Pas assez de pi\xE8ces"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18609209389
+    m_Localized: "Vous pouvez am\xE9liorer votre portefeuille maintenant en achetant
+      plus de pi\xE8ces"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18609209390
+    m_Localized: "Ce petit cochon grossit avec chaque pi\xE8ce qu'il re\xE7oit\_!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18609209391
+    m_Localized: "Payant \xE0 chaque ouverture. R\xE9initialis\xE9 une fois ouvert."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18609209392
+    m_Localized: Tirelire
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18609209393
+    m_Localized: "Comprend toutes les vitamines dont un voleur en d\xE9veloppement
+      a besoin! Mais cela ne dure que quelques minutes."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18609209394
+    m_Localized: Rend Bob invisible
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18609209395
+    m_Localized: "Liquide \xE9trange"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18613403648
+    m_Localized: "Si vous ne pouvez pas d\xE9jouer des gens, vous pouvez toujours
+      vous \xE9chapper en courant."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18613403649
+    m_Localized: Vitesse
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18613403650
+    m_Localized: "Allons plus loin! L\u2019essoufflement n\u2019est jamais amusant,
+      toujours douloureux."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18613403651
+    m_Localized: Endurance
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18613403652
+    m_Localized: "\xCAtre silencieux et se d\xE9placer rapidement, c\u2019est la
+      caract\xE9ristique cl\xE9 de tout voleur ou ninja."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18613403653
+    m_Localized: "Furtivit\xE9"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18613403654
+    m_Localized: "Si vous avez plus d'argent que vous pouvez d\xE9penser, pourquoi
+      ne pas le montrer?"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18613403655
+    m_Localized: Pour le cambrioleur chic
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18613403656
+    m_Localized: Tenue de costume
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18613403657
+    m_Localized: "Les Super-h\xE9ros vivent certainement la bonne vie. Ceci va certainement
+      stimuler la v\xF4tre."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18613403658
+    m_Localized: A une cape fringante
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18613403659
+    m_Localized: Tenue de Super Bob
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18613403660
+    m_Localized: "La mine T\xE9l\xE9porteur t\xE9l\xE9portera les on-steppers inconscients
+      pour qui sait o\xF9."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18613403661
+    m_Localized: "T\xE9l\xE9porteur portatif"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18613403662
+    m_Localized: "Mine T\xE9l\xE9porteur"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18613403663
+    m_Localized: "Pour le voleur qui a tout, il ya des fa\xE7ons de d\xE9penser tout
+      cet argent durement gagn\xE9!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18613403664
+    m_Localized: "Ajouter 22000 pi\xE8ces."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18613403665
+    m_Localized: "Paquet de tr\xE9sor"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18613403666
+    m_Localized: Je ne savais pas que vous aviez un bon sens de la mode!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18613403667
+    m_Localized: "D\xE9bloque toutes les tenues"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18613403668
+    m_Localized: Garde-robe
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18613403669
+    m_Localized: "Vous avez d\xE9j\xE0 l\u2019air riche! Regardez mes marchandises. 
+      Elles devraient vous \xEAtre utiles."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18613403670
+    m_Localized: Vous avez besoin de quelque chose'?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18613403671
+    m_Localized: Bienvenue dans mon magasin de voleur! Mise quelques pieces sur moi
+      et regarde mes marchandises!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18613403672
+    m_Localized: "Qu\u2019est-ce que vous achetez?"
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []

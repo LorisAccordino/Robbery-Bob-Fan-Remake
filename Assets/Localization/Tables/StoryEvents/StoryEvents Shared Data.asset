@@ -1,0 +1,1342 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5b11a58205ec3474ca216360e9fa74a8, type: 3}
+  m_Name: StoryEvents Shared Data
+  m_EditorClassIdentifier: Unity.Localization::UnityEngine.Localization.Tables.SharedTableData
+  m_TableCollectionName: StoryEvents
+  m_TableCollectionNameGuidString: b1d830cb9b9413c4cacbdfcad6fba5d6
+  m_Entries:
+  - m_Id: 1775234056192
+    m_Key: Downtown_01_Intro.001
+    m_Metadata:
+      m_Items:
+      - rid: 2016924983150510485
+  - m_Id: 1775234056193
+    m_Key: Downtown_01_Intro.002
+    m_Metadata:
+      m_Items:
+      - rid: 2016924983150510486
+  - m_Id: 1775234056194
+    m_Key: Downtown_01_Intro.003
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1775234056195
+    m_Key: Downtown_01_Intro.004
+    m_Metadata:
+      m_Items:
+      - rid: 2016924983150510487
+  - m_Id: 1775234056196
+    m_Key: Downtown_01_Intro.005
+    m_Metadata:
+      m_Items:
+      - rid: 2016924983150510488
+  - m_Id: 1775234056197
+    m_Key: Downtown_02_Intro.001
+    m_Metadata:
+      m_Items:
+      - rid: 2016924983150510489
+  - m_Id: 1775234056198
+    m_Key: Downtown_02_Intro.002
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1775234056199
+    m_Key: Downtown_03_Intro.001
+    m_Metadata:
+      m_Items:
+      - rid: 2016924983150510490
+  - m_Id: 1775234056200
+    m_Key: Downtown_03_Intro.002
+    m_Metadata:
+      m_Items:
+      - rid: 2016924983150510491
+  - m_Id: 1775234056201
+    m_Key: Downtown_03_Intro.003
+    m_Metadata:
+      m_Items:
+      - rid: 2016924983150510492
+  - m_Id: 1775234056202
+    m_Key: Downtown_04_Intro.001
+    m_Metadata:
+      m_Items:
+      - rid: 2016924983150510493
+  - m_Id: 1775234056203
+    m_Key: Downtown_04_Intro.002
+    m_Metadata:
+      m_Items:
+      - rid: 2016924983150510494
+  - m_Id: 1775234056204
+    m_Key: Downtown_04_Intro.003
+    m_Metadata:
+      m_Items:
+      - rid: 2016924983150510495
+  - m_Id: 1775234056205
+    m_Key: Downtown_05_Intro.001
+    m_Metadata:
+      m_Items:
+      - rid: 2016924983150510496
+  - m_Id: 1775234056206
+    m_Key: Downtown_05_Intro.002
+    m_Metadata:
+      m_Items:
+      - rid: 2016924983150510497
+  - m_Id: 1775234056207
+    m_Key: Downtown_05_Intro.003
+    m_Metadata:
+      m_Items:
+      - rid: 2016924983150510498
+  - m_Id: 1775234056208
+    m_Key: Downtown_06_Intro.001
+    m_Metadata:
+      m_Items:
+      - rid: 2016924983150510499
+  - m_Id: 1775234056209
+    m_Key: Downtown_06_Intro.002
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1775234056210
+    m_Key: Downtown_07_Intro.001
+    m_Metadata:
+      m_Items:
+      - rid: 2016924983150510500
+  - m_Id: 1775242444800
+    m_Key: Downtown_07_Intro.002
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1775242444801
+    m_Key: Downtown_08_Intro.001
+    m_Metadata:
+      m_Items:
+      - rid: 2016924983150510501
+  - m_Id: 1775242444802
+    m_Key: Downtown_08_Intro.002
+    m_Metadata:
+      m_Items:
+      - rid: 2016924983150510502
+  - m_Id: 1775242444803
+    m_Key: Downtown_08_Intro.003
+    m_Metadata:
+      m_Items:
+      - rid: 2016924983150510503
+  - m_Id: 1775242444804
+    m_Key: Downtown_08_Intro.004
+    m_Metadata:
+      m_Items:
+      - rid: 2016924983150510504
+  - m_Id: 1775242444805
+    m_Key: Downtown_09_Intro.001
+    m_Metadata:
+      m_Items:
+      - rid: 2016924983150510505
+  - m_Id: 1775242444806
+    m_Key: Downtown_09_Intro.002
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1775242444807
+    m_Key: Downtown_10_Intro.001
+    m_Metadata:
+      m_Items:
+      - rid: 2016924983150510506
+  - m_Id: 1775242444808
+    m_Key: Downtown_10_Intro.002
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1775242444809
+    m_Key: Downtown_10_Intro.003
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1775242444810
+    m_Key: Downtown_10_Intro.004
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1775242444811
+    m_Key: Downtown_10_Intro.005
+    m_Metadata:
+      m_Items:
+      - rid: 2016924983150510507
+  - m_Id: 1775242444812
+    m_Key: Downtown_11_Intro.001
+    m_Metadata:
+      m_Items:
+      - rid: 2016924983150510508
+  - m_Id: 1775242444813
+    m_Key: Downtown_11_Intro.002
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1775242444814
+    m_Key: Downtown_12_Intro.001
+    m_Metadata:
+      m_Items:
+      - rid: 2016924983150510509
+  - m_Id: 1775242444815
+    m_Key: Downtown_12_Intro.002
+    m_Metadata:
+      m_Items:
+      - rid: 2016924983150510510
+  - m_Id: 1775242444816
+    m_Key: Downtown_12_Objective.001
+    m_Metadata:
+      m_Items:
+      - rid: 2016924983150510511
+  - m_Id: 1775242444817
+    m_Key: Downtown_12_Objective.002
+    m_Metadata:
+      m_Items:
+      - rid: 2016924983150510512
+  - m_Id: 1775242444818
+    m_Key: Downtown_13_Intro.001
+    m_Metadata:
+      m_Items:
+      - rid: 2016924983150510513
+  - m_Id: 1775242444819
+    m_Key: Downtown_13_Intro.002
+    m_Metadata:
+      m_Items:
+      - rid: 2016924983150510514
+  - m_Id: 1775242444820
+    m_Key: Downtown_13_Intro.003
+    m_Metadata:
+      m_Items:
+      - rid: 2016924983150510515
+  - m_Id: 1775242444821
+    m_Key: Downtown_13_Intro.004
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1775242444822
+    m_Key: Downtown_14_Intro.001
+    m_Metadata:
+      m_Items:
+      - rid: 2016924983150510516
+  - m_Id: 1775242444823
+    m_Key: Downtown_14_Intro.002
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1775242444824
+    m_Key: Downtown_14_Intro.003
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1775242444825
+    m_Key: Downtown_14_Objective.001
+    m_Metadata:
+      m_Items:
+      - rid: 2016924983150510517
+  - m_Id: 1775242444826
+    m_Key: Downtown_14_Objective.002
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1775242444827
+    m_Key: Downtown_14_Objective.003
+    m_Metadata:
+      m_Items:
+      - rid: 2016924983150510518
+  - m_Id: 1775242444828
+    m_Key: Downtown_14_Objective.004
+    m_Metadata:
+      m_Items:
+      - rid: 2016924983150510519
+  - m_Id: 1775242444829
+    m_Key: Downtown_15_Intro.001
+    m_Metadata:
+      m_Items:
+      - rid: 2016924983150510520
+  - m_Id: 1775242444830
+    m_Key: Downtown_15_Intro.002
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1775242444831
+    m_Key: Downtown_15_Trigger1.001
+    m_Metadata:
+      m_Items:
+      - rid: 2016924983150510521
+  - m_Id: 1775242444832
+    m_Key: Downtown_15_Trigger1.002
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1775242444833
+    m_Key: ID.001
+    m_Metadata:
+      m_Items:
+      - rid: 2016924983150510522
+  - m_Id: 1775242444834
+    m_Key: SecretLabs_01_Intro.001
+    m_Metadata:
+      m_Items:
+      - rid: 2016924983150510523
+  - m_Id: 1775242444835
+    m_Key: SecretLabs_01_Intro.002
+    m_Metadata:
+      m_Items:
+      - rid: 2016924983150510524
+  - m_Id: 1775242444836
+    m_Key: SecretLabs_01_Intro.003
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1775242444837
+    m_Key: SecretLabs_01_Intro.004
+    m_Metadata:
+      m_Items:
+      - rid: 2016924983150510525
+  - m_Id: 1775242444838
+    m_Key: SecretLabs_01_Intro.005
+    m_Metadata:
+      m_Items:
+      - rid: 2016924983150510526
+  - m_Id: 1775242444839
+    m_Key: SecretLabs_02_Intro.001
+    m_Metadata:
+      m_Items:
+      - rid: 2016924983150510527
+  - m_Id: 1775242444840
+    m_Key: SecretLabs_02_Intro.002
+    m_Metadata:
+      m_Items:
+      - rid: 2016924983150510528
+  - m_Id: 1775242444841
+    m_Key: SecretLabs_02_Intro.003
+    m_Metadata:
+      m_Items:
+      - rid: 2016924983150510529
+  - m_Id: 1775242444842
+    m_Key: SecretLabs_02_Intro.004
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1775242444843
+    m_Key: SecretLabs_02_Objective.001
+    m_Metadata:
+      m_Items:
+      - rid: 2016924983150510530
+  - m_Id: 1775242444844
+    m_Key: SecretLabs_02_Objective.002
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1775242444845
+    m_Key: SecretLabs_03_Intro.001
+    m_Metadata:
+      m_Items:
+      - rid: 2016924983150510531
+  - m_Id: 1775242444846
+    m_Key: SecretLabs_03_Intro.002
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1775242444847
+    m_Key: SecretLabs_03_Intro.003
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1775242444848
+    m_Key: SecretLabs_04_Intro.001
+    m_Metadata:
+      m_Items:
+      - rid: 2016924983150510532
+  - m_Id: 1775242444849
+    m_Key: SecretLabs_04_Intro.002
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1775242444850
+    m_Key: SecretLabs_05_Intro.001
+    m_Metadata:
+      m_Items:
+      - rid: 2016924983150510533
+  - m_Id: 1775242444851
+    m_Key: SecretLabs_05_Intro.002
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1775242444852
+    m_Key: SecretLabs_05_Trigger1.001
+    m_Metadata:
+      m_Items:
+      - rid: 2016924983150510534
+  - m_Id: 1775242444853
+    m_Key: SecretLabs_05_Trigger2.001
+    m_Metadata:
+      m_Items:
+      - rid: 2016924983150510535
+  - m_Id: 1775242444854
+    m_Key: SecretLabs_05_Trigger2.002
+    m_Metadata:
+      m_Items:
+      - rid: 2016924983150510536
+  - m_Id: 1775242444855
+    m_Key: SecretLabs_05_Trigger2.003
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1775242444856
+    m_Key: SecretLabs_06_Intro.001
+    m_Metadata:
+      m_Items:
+      - rid: 2016924983150510537
+  - m_Id: 1775242444857
+    m_Key: SecretLabs_06_Intro.002
+    m_Metadata:
+      m_Items:
+      - rid: 2016924983150510538
+  - m_Id: 1775242444858
+    m_Key: SecretLabs_06_Intro.003
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1775242444859
+    m_Key: SecretLabs_06_Objective.001
+    m_Metadata:
+      m_Items:
+      - rid: 2016924983150510539
+  - m_Id: 1775242444860
+    m_Key: SecretLabs_06_Objective.002
+    m_Metadata:
+      m_Items:
+      - rid: 2016924983150510540
+  - m_Id: 1775242444861
+    m_Key: SecretLabs_07_Intro.001
+    m_Metadata:
+      m_Items:
+      - rid: 2016924983150510541
+  - m_Id: 1775242444862
+    m_Key: SecretLabs_07_Intro.002
+    m_Metadata:
+      m_Items:
+      - rid: 2016924983150510542
+  - m_Id: 1775242444863
+    m_Key: SecretLabs_07_Intro.003
+    m_Metadata:
+      m_Items:
+      - rid: 2016924983150510543
+  - m_Id: 1775242444864
+    m_Key: SecretLabs_07_Intro.004
+    m_Metadata:
+      m_Items:
+      - rid: 2016924983150510544
+  - m_Id: 1775242444865
+    m_Key: SecretLabs_08_Intro.001
+    m_Metadata:
+      m_Items:
+      - rid: 2016924983150510545
+  - m_Id: 1775242444866
+    m_Key: SecretLabs_08_Intro.002
+    m_Metadata:
+      m_Items:
+      - rid: 2016924983150510546
+  - m_Id: 1775242444867
+    m_Key: SecretLabs_08_Intro.003
+    m_Metadata:
+      m_Items:
+      - rid: 2016924983150510547
+  - m_Id: 1775242444868
+    m_Key: SecretLabs_09_Intro.001
+    m_Metadata:
+      m_Items:
+      - rid: 2016924983150510548
+  - m_Id: 1775242444869
+    m_Key: SecretLabs_09_Intro.002
+    m_Metadata:
+      m_Items:
+      - rid: 2016924983150510549
+  - m_Id: 1775242444870
+    m_Key: SecretLabs_09_Intro.003
+    m_Metadata:
+      m_Items:
+      - rid: 2016924983150510550
+  - m_Id: 1775242444871
+    m_Key: SecretLabs_10_Intro.001
+    m_Metadata:
+      m_Items:
+      - rid: 2016924983150510551
+  - m_Id: 1775242444872
+    m_Key: SecretLabs_10_Intro.002
+    m_Metadata:
+      m_Items:
+      - rid: 2016924983150510552
+  - m_Id: 1775242444873
+    m_Key: SecretLabs_10_Intro.003
+    m_Metadata:
+      m_Items:
+      - rid: 2016924983150510553
+  - m_Id: 1775242444874
+    m_Key: SecretLabs_10_Objective.001
+    m_Metadata:
+      m_Items:
+      - rid: 2016924983150510554
+  - m_Id: 1775242444875
+    m_Key: SecretLabs_10_Objective.002
+    m_Metadata:
+      m_Items:
+      - rid: 2016924983150510555
+  - m_Id: 1775242444876
+    m_Key: SecretLabs_10_Objective.003
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1775242444877
+    m_Key: SecretLabs_10_Trigger1.001
+    m_Metadata:
+      m_Items:
+      - rid: 2016924983150510556
+  - m_Id: 1775242444878
+    m_Key: SecretLabs_11_Intro.001
+    m_Metadata:
+      m_Items:
+      - rid: 2016924983150510557
+  - m_Id: 1775242444879
+    m_Key: SecretLabs_11_Intro.002
+    m_Metadata:
+      m_Items:
+      - rid: 2016924983150510558
+  - m_Id: 1775242444880
+    m_Key: SecretLabs_12_Intro.001
+    m_Metadata:
+      m_Items:
+      - rid: 2016924983150510559
+  - m_Id: 1775242444881
+    m_Key: SecretLabs_12_Intro.002
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1775242444882
+    m_Key: SecretLabs_13_Intro.001
+    m_Metadata:
+      m_Items:
+      - rid: 2016924983150510560
+  - m_Id: 1775242444883
+    m_Key: SecretLabs_14_Intro.001
+    m_Metadata:
+      m_Items:
+      - rid: 2016924983150510561
+  - m_Id: 1775242444884
+    m_Key: SecretLabs_14_Intro.002
+    m_Metadata:
+      m_Items:
+      - rid: 2016924983150510562
+  - m_Id: 1775242444885
+    m_Key: SecretLabs_15_Intro.001
+    m_Metadata:
+      m_Items:
+      - rid: 2016924983150510563
+  - m_Id: 1775242444886
+    m_Key: SecretLabs_15_Objective.001
+    m_Metadata:
+      m_Items:
+      - rid: 2016924983150510564
+  - m_Id: 1775242444887
+    m_Key: SecretLabs_15_Objective.002
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1775242444888
+    m_Key: SecretLabs_15_Objective.003
+    m_Metadata:
+      m_Items:
+      - rid: 2016924983150510565
+  - m_Id: 1775242444889
+    m_Key: SecretLabs_15_Objective.004
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1775242444890
+    m_Key: Suburbs_01_Intro.001
+    m_Metadata:
+      m_Items:
+      - rid: 2016924983150510566
+  - m_Id: 1775242444891
+    m_Key: Suburbs_01_Intro.002
+    m_Metadata:
+      m_Items:
+      - rid: 2016924983150510567
+  - m_Id: 1775242444892
+    m_Key: Suburbs_01_Intro.003
+    m_Metadata:
+      m_Items:
+      - rid: 2016924983150510568
+  - m_Id: 1775242444893
+    m_Key: Suburbs_01_Intro.004
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1775242444894
+    m_Key: Suburbs_01_Objective.001
+    m_Metadata:
+      m_Items:
+      - rid: 2016924983150510569
+  - m_Id: 1775242444895
+    m_Key: Suburbs_01_Objective.002
+    m_Metadata:
+      m_Items:
+      - rid: 2016924983150510570
+  - m_Id: 1775242444896
+    m_Key: Suburbs_02_Intro.001
+    m_Metadata:
+      m_Items:
+      - rid: 2016924983150510571
+  - m_Id: 1775242444897
+    m_Key: Suburbs_02_Intro.002
+    m_Metadata:
+      m_Items:
+      - rid: 2016924983150510572
+  - m_Id: 1775242444898
+    m_Key: Suburbs_02_Intro.003
+    m_Metadata:
+      m_Items:
+      - rid: 2016924983150510573
+  - m_Id: 1775242444899
+    m_Key: Suburbs_03_Intro.001
+    m_Metadata:
+      m_Items:
+      - rid: 2016924983150510574
+  - m_Id: 1775242444900
+    m_Key: Suburbs_03_Intro.002
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1775242444901
+    m_Key: Suburbs_03_Intro.003
+    m_Metadata:
+      m_Items:
+      - rid: 2016924983150510575
+  - m_Id: 1775242444902
+    m_Key: Suburbs_03_Objective.001
+    m_Metadata:
+      m_Items:
+      - rid: 2016924983150510576
+  - m_Id: 1775242444903
+    m_Key: Suburbs_04_Intro.001
+    m_Metadata:
+      m_Items:
+      - rid: 2016924983150510577
+  - m_Id: 1775242444904
+    m_Key: Suburbs_04_Intro.002
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1775242444905
+    m_Key: Suburbs_04_Intro.003
+    m_Metadata:
+      m_Items:
+      - rid: 2016924983150510578
+  - m_Id: 1775242444906
+    m_Key: Suburbs_04_Objective.001
+    m_Metadata:
+      m_Items:
+      - rid: 2016924983150510579
+  - m_Id: 1775242444907
+    m_Key: Suburbs_05_Intro.001
+    m_Metadata:
+      m_Items:
+      - rid: 2016924983150510580
+  - m_Id: 1775242444908
+    m_Key: Suburbs_05_Intro.002
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1775242444909
+    m_Key: Suburbs_05_Intro.003
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1775242444910
+    m_Key: Suburbs_06_Intro.001
+    m_Metadata:
+      m_Items:
+      - rid: 2016924983150510581
+  - m_Id: 1775250833408
+    m_Key: Suburbs_06_Intro.002
+    m_Metadata:
+      m_Items:
+      - rid: 2016924983150510582
+  - m_Id: 1775250833409
+    m_Key: Suburbs_06_Intro.003
+    m_Metadata:
+      m_Items:
+      - rid: 2016924983150510583
+  - m_Id: 1775250833410
+    m_Key: Suburbs_06_Intro.004
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1775250833411
+    m_Key: Suburbs_07_Intro.001
+    m_Metadata:
+      m_Items:
+      - rid: 2016924983150510584
+  - m_Id: 1775250833412
+    m_Key: Suburbs_07_Intro.002
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1775250833413
+    m_Key: Suburbs_07_Intro.003
+    m_Metadata:
+      m_Items:
+      - rid: 2016924983150510585
+  - m_Id: 1775250833414
+    m_Key: Suburbs_08_Intro.001
+    m_Metadata:
+      m_Items:
+      - rid: 2016924983150510586
+  - m_Id: 1775250833415
+    m_Key: Suburbs_08_Intro.002
+    m_Metadata:
+      m_Items:
+      - rid: 2016924983150510587
+  - m_Id: 1775250833416
+    m_Key: Suburbs_08_Intro.003
+    m_Metadata:
+      m_Items:
+      - rid: 2016924983150510588
+  - m_Id: 1775250833417
+    m_Key: Suburbs_08_Intro.004
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1775250833418
+    m_Key: Suburbs_08_Objective.001
+    m_Metadata:
+      m_Items:
+      - rid: 2016924983150510589
+  - m_Id: 1775250833419
+    m_Key: Suburbs_08_Objective.002
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1775250833420
+    m_Key: Suburbs_08_Objective.003
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1775250833421
+    m_Key: Suburbs_08_Objective.004
+    m_Metadata:
+      m_Items:
+      - rid: 2016924983150510590
+  - m_Id: 1775250833422
+    m_Key: Suburbs_09_Intro.001
+    m_Metadata:
+      m_Items:
+      - rid: 2016924983150510591
+  - m_Id: 1775250833423
+    m_Key: Suburbs_09_Intro.002
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1775250833424
+    m_Key: Suburbs_09_Intro.003
+    m_Metadata:
+      m_Items:
+      - rid: 2016924983150510592
+  - m_Id: 1775250833425
+    m_Key: Suburbs_09_Intro.004
+    m_Metadata:
+      m_Items:
+      - rid: 2016924983150510593
+  - m_Id: 1775250833426
+    m_Key: Suburbs_10_Intro.001
+    m_Metadata:
+      m_Items:
+      - rid: 2016924983150510594
+  - m_Id: 1775250833427
+    m_Key: Suburbs_10_Intro.002
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1775250833428
+    m_Key: Suburbs_10_Intro.003
+    m_Metadata:
+      m_Items:
+      - rid: 2016924983150510595
+  - m_Id: 1775250833429
+    m_Key: Suburbs_11_Intro.001
+    m_Metadata:
+      m_Items:
+      - rid: 2016924983150510596
+  - m_Id: 1775250833430
+    m_Key: Suburbs_11_Objective.001
+    m_Metadata:
+      m_Items:
+      - rid: 2016924983150510597
+  - m_Id: 1775250833431
+    m_Key: Suburbs_11_Objective.002
+    m_Metadata:
+      m_Items:
+      - rid: 2016924983150510598
+  - m_Id: 1775250833432
+    m_Key: Suburbs_12_Intro.001
+    m_Metadata:
+      m_Items:
+      - rid: 2016924983150510599
+  - m_Id: 1775250833433
+    m_Key: Suburbs_12_Intro.002
+    m_Metadata:
+      m_Items:
+      - rid: 2016924983150510600
+  - m_Id: 1775250833434
+    m_Key: Suburbs_12_Intro.003
+    m_Metadata:
+      m_Items:
+      - rid: 2016924983150510601
+  - m_Id: 1775250833435
+    m_Key: Suburbs_12_Intro.004
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1775250833436
+    m_Key: Suburbs_12_Objective.001
+    m_Metadata:
+      m_Items:
+      - rid: 2016924983150510602
+  - m_Id: 1775250833437
+    m_Key: Suburbs_12_Objective.002
+    m_Metadata:
+      m_Items:
+      - rid: 2016924983150510603
+  - m_Id: 1775250833438
+    m_Key: Suburbs_13_Intro.001
+    m_Metadata:
+      m_Items:
+      - rid: 2016924983150510604
+  - m_Id: 1775250833439
+    m_Key: Suburbs_13_Intro.002
+    m_Metadata:
+      m_Items:
+      - rid: 2016924983150510605
+  - m_Id: 1775250833440
+    m_Key: Suburbs_13_Intro.003
+    m_Metadata:
+      m_Items:
+      - rid: 2016924983150510606
+  - m_Id: 1775250833441
+    m_Key: Suburbs_14_Intro.001
+    m_Metadata:
+      m_Items:
+      - rid: 2016924983150510607
+  - m_Id: 1775250833442
+    m_Key: Suburbs_14_Intro.002
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1775250833443
+    m_Key: Suburbs_14_Intro.003
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1775250833444
+    m_Key: Suburbs_14_Intro.004
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1775250833445
+    m_Key: Suburbs_15_Intro.001
+    m_Metadata:
+      m_Items:
+      - rid: 2016924983150510608
+  - m_Id: 1775250833446
+    m_Key: Suburbs_15_Intro.002
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1775250833447
+    m_Key: Suburbs_15_Objective.001
+    m_Metadata:
+      m_Items:
+      - rid: 2016924983150510609
+  - m_Id: 1775250833448
+    m_Key: Suburbs_15_Objective.002
+    m_Metadata:
+      m_Items:
+      - rid: 2016924983150510610
+  m_Metadata:
+    m_Items: []
+  m_KeyGenerator:
+    rid: 2016924983150510421
+  references:
+    version: 2
+    RefIds:
+    - rid: 2016924983150510421
+      type: {class: DistributedUIDGenerator, ns: UnityEngine.Localization.Tables, asm: Unity.Localization}
+      data:
+        m_CustomEpoch: 1766927522851
+    - rid: 2016924983150510485
+      type: {class: Comment, ns: UnityEngine.Localization.Metadata, asm: Unity.Localization}
+      data:
+        m_CommentText: Bob
+    - rid: 2016924983150510486
+      type: {class: Comment, ns: UnityEngine.Localization.Metadata, asm: Unity.Localization}
+      data:
+        m_CommentText: Biff
+    - rid: 2016924983150510487
+      type: {class: Comment, ns: UnityEngine.Localization.Metadata, asm: Unity.Localization}
+      data:
+        m_CommentText: Bob
+    - rid: 2016924983150510488
+      type: {class: Comment, ns: UnityEngine.Localization.Metadata, asm: Unity.Localization}
+      data:
+        m_CommentText: Biff
+    - rid: 2016924983150510489
+      type: {class: Comment, ns: UnityEngine.Localization.Metadata, asm: Unity.Localization}
+      data:
+        m_CommentText: Biff
+    - rid: 2016924983150510490
+      type: {class: Comment, ns: UnityEngine.Localization.Metadata, asm: Unity.Localization}
+      data:
+        m_CommentText: Biff
+    - rid: 2016924983150510491
+      type: {class: Comment, ns: UnityEngine.Localization.Metadata, asm: Unity.Localization}
+      data:
+        m_CommentText: Bob
+    - rid: 2016924983150510492
+      type: {class: Comment, ns: UnityEngine.Localization.Metadata, asm: Unity.Localization}
+      data:
+        m_CommentText: Biff
+    - rid: 2016924983150510493
+      type: {class: Comment, ns: UnityEngine.Localization.Metadata, asm: Unity.Localization}
+      data:
+        m_CommentText: Biff
+    - rid: 2016924983150510494
+      type: {class: Comment, ns: UnityEngine.Localization.Metadata, asm: Unity.Localization}
+      data:
+        m_CommentText: Bob
+    - rid: 2016924983150510495
+      type: {class: Comment, ns: UnityEngine.Localization.Metadata, asm: Unity.Localization}
+      data:
+        m_CommentText: Biff
+    - rid: 2016924983150510496
+      type: {class: Comment, ns: UnityEngine.Localization.Metadata, asm: Unity.Localization}
+      data:
+        m_CommentText: Bob
+    - rid: 2016924983150510497
+      type: {class: Comment, ns: UnityEngine.Localization.Metadata, asm: Unity.Localization}
+      data:
+        m_CommentText: Biff
+    - rid: 2016924983150510498
+      type: {class: Comment, ns: UnityEngine.Localization.Metadata, asm: Unity.Localization}
+      data:
+        m_CommentText: Bob
+    - rid: 2016924983150510499
+      type: {class: Comment, ns: UnityEngine.Localization.Metadata, asm: Unity.Localization}
+      data:
+        m_CommentText: Biff
+    - rid: 2016924983150510500
+      type: {class: Comment, ns: UnityEngine.Localization.Metadata, asm: Unity.Localization}
+      data:
+        m_CommentText: Biff
+    - rid: 2016924983150510501
+      type: {class: Comment, ns: UnityEngine.Localization.Metadata, asm: Unity.Localization}
+      data:
+        m_CommentText: Bob
+    - rid: 2016924983150510502
+      type: {class: Comment, ns: UnityEngine.Localization.Metadata, asm: Unity.Localization}
+      data:
+        m_CommentText: Biff
+    - rid: 2016924983150510503
+      type: {class: Comment, ns: UnityEngine.Localization.Metadata, asm: Unity.Localization}
+      data:
+        m_CommentText: Bob
+    - rid: 2016924983150510504
+      type: {class: Comment, ns: UnityEngine.Localization.Metadata, asm: Unity.Localization}
+      data:
+        m_CommentText: Biff
+    - rid: 2016924983150510505
+      type: {class: Comment, ns: UnityEngine.Localization.Metadata, asm: Unity.Localization}
+      data:
+        m_CommentText: Biff
+    - rid: 2016924983150510506
+      type: {class: Comment, ns: UnityEngine.Localization.Metadata, asm: Unity.Localization}
+      data:
+        m_CommentText: Biff
+    - rid: 2016924983150510507
+      type: {class: Comment, ns: UnityEngine.Localization.Metadata, asm: Unity.Localization}
+      data:
+        m_CommentText: Bob
+    - rid: 2016924983150510508
+      type: {class: Comment, ns: UnityEngine.Localization.Metadata, asm: Unity.Localization}
+      data:
+        m_CommentText: Biff
+    - rid: 2016924983150510509
+      type: {class: Comment, ns: UnityEngine.Localization.Metadata, asm: Unity.Localization}
+      data:
+        m_CommentText: Biff
+    - rid: 2016924983150510510
+      type: {class: Comment, ns: UnityEngine.Localization.Metadata, asm: Unity.Localization}
+      data:
+        m_CommentText: Biff
+    - rid: 2016924983150510511
+      type: {class: Comment, ns: UnityEngine.Localization.Metadata, asm: Unity.Localization}
+      data:
+        m_CommentText: Bob
+    - rid: 2016924983150510512
+      type: {class: Comment, ns: UnityEngine.Localization.Metadata, asm: Unity.Localization}
+      data:
+        m_CommentText: Biff
+    - rid: 2016924983150510513
+      type: {class: Comment, ns: UnityEngine.Localization.Metadata, asm: Unity.Localization}
+      data:
+        m_CommentText: Biff
+    - rid: 2016924983150510514
+      type: {class: Comment, ns: UnityEngine.Localization.Metadata, asm: Unity.Localization}
+      data:
+        m_CommentText: Bob
+    - rid: 2016924983150510515
+      type: {class: Comment, ns: UnityEngine.Localization.Metadata, asm: Unity.Localization}
+      data:
+        m_CommentText: Biff
+    - rid: 2016924983150510516
+      type: {class: Comment, ns: UnityEngine.Localization.Metadata, asm: Unity.Localization}
+      data:
+        m_CommentText: Biff
+    - rid: 2016924983150510517
+      type: {class: Comment, ns: UnityEngine.Localization.Metadata, asm: Unity.Localization}
+      data:
+        m_CommentText: Biff
+    - rid: 2016924983150510518
+      type: {class: Comment, ns: UnityEngine.Localization.Metadata, asm: Unity.Localization}
+      data:
+        m_CommentText: Bob
+    - rid: 2016924983150510519
+      type: {class: Comment, ns: UnityEngine.Localization.Metadata, asm: Unity.Localization}
+      data:
+        m_CommentText: Biff
+    - rid: 2016924983150510520
+      type: {class: Comment, ns: UnityEngine.Localization.Metadata, asm: Unity.Localization}
+      data:
+        m_CommentText: Bob
+    - rid: 2016924983150510521
+      type: {class: Comment, ns: UnityEngine.Localization.Metadata, asm: Unity.Localization}
+      data:
+        m_CommentText: Biff
+    - rid: 2016924983150510522
+      type: {class: Comment, ns: UnityEngine.Localization.Metadata, asm: Unity.Localization}
+      data:
+        m_CommentText: Portrait
+    - rid: 2016924983150510523
+      type: {class: Comment, ns: UnityEngine.Localization.Metadata, asm: Unity.Localization}
+      data:
+        m_CommentText: Bob
+    - rid: 2016924983150510524
+      type: {class: Comment, ns: UnityEngine.Localization.Metadata, asm: Unity.Localization}
+      data:
+        m_CommentText: Doctor
+    - rid: 2016924983150510525
+      type: {class: Comment, ns: UnityEngine.Localization.Metadata, asm: Unity.Localization}
+      data:
+        m_CommentText: Bob
+    - rid: 2016924983150510526
+      type: {class: Comment, ns: UnityEngine.Localization.Metadata, asm: Unity.Localization}
+      data:
+        m_CommentText: Doctor
+    - rid: 2016924983150510527
+      type: {class: Comment, ns: UnityEngine.Localization.Metadata, asm: Unity.Localization}
+      data:
+        m_CommentText: Doctor
+    - rid: 2016924983150510528
+      type: {class: Comment, ns: UnityEngine.Localization.Metadata, asm: Unity.Localization}
+      data:
+        m_CommentText: Bob
+    - rid: 2016924983150510529
+      type: {class: Comment, ns: UnityEngine.Localization.Metadata, asm: Unity.Localization}
+      data:
+        m_CommentText: Doctor
+    - rid: 2016924983150510530
+      type: {class: Comment, ns: UnityEngine.Localization.Metadata, asm: Unity.Localization}
+      data:
+        m_CommentText: Doctor
+    - rid: 2016924983150510531
+      type: {class: Comment, ns: UnityEngine.Localization.Metadata, asm: Unity.Localization}
+      data:
+        m_CommentText: Doctor
+    - rid: 2016924983150510532
+      type: {class: Comment, ns: UnityEngine.Localization.Metadata, asm: Unity.Localization}
+      data:
+        m_CommentText: Doctor
+    - rid: 2016924983150510533
+      type: {class: Comment, ns: UnityEngine.Localization.Metadata, asm: Unity.Localization}
+      data:
+        m_CommentText: Doctor
+    - rid: 2016924983150510534
+      type: {class: Comment, ns: UnityEngine.Localization.Metadata, asm: Unity.Localization}
+      data:
+        m_CommentText: Bob
+    - rid: 2016924983150510535
+      type: {class: Comment, ns: UnityEngine.Localization.Metadata, asm: Unity.Localization}
+      data:
+        m_CommentText: Bob
+    - rid: 2016924983150510536
+      type: {class: Comment, ns: UnityEngine.Localization.Metadata, asm: Unity.Localization}
+      data:
+        m_CommentText: Doctor
+    - rid: 2016924983150510537
+      type: {class: Comment, ns: UnityEngine.Localization.Metadata, asm: Unity.Localization}
+      data:
+        m_CommentText: Bob
+    - rid: 2016924983150510538
+      type: {class: Comment, ns: UnityEngine.Localization.Metadata, asm: Unity.Localization}
+      data:
+        m_CommentText: Doctor
+    - rid: 2016924983150510539
+      type: {class: Comment, ns: UnityEngine.Localization.Metadata, asm: Unity.Localization}
+      data:
+        m_CommentText: Bob
+    - rid: 2016924983150510540
+      type: {class: Comment, ns: UnityEngine.Localization.Metadata, asm: Unity.Localization}
+      data:
+        m_CommentText: Doctor
+    - rid: 2016924983150510541
+      type: {class: Comment, ns: UnityEngine.Localization.Metadata, asm: Unity.Localization}
+      data:
+        m_CommentText: Bob
+    - rid: 2016924983150510542
+      type: {class: Comment, ns: UnityEngine.Localization.Metadata, asm: Unity.Localization}
+      data:
+        m_CommentText: Doctor
+    - rid: 2016924983150510543
+      type: {class: Comment, ns: UnityEngine.Localization.Metadata, asm: Unity.Localization}
+      data:
+        m_CommentText: Bob
+    - rid: 2016924983150510544
+      type: {class: Comment, ns: UnityEngine.Localization.Metadata, asm: Unity.Localization}
+      data:
+        m_CommentText: Doctor
+    - rid: 2016924983150510545
+      type: {class: Comment, ns: UnityEngine.Localization.Metadata, asm: Unity.Localization}
+      data:
+        m_CommentText: Doctor
+    - rid: 2016924983150510546
+      type: {class: Comment, ns: UnityEngine.Localization.Metadata, asm: Unity.Localization}
+      data:
+        m_CommentText: Bob
+    - rid: 2016924983150510547
+      type: {class: Comment, ns: UnityEngine.Localization.Metadata, asm: Unity.Localization}
+      data:
+        m_CommentText: Doctor
+    - rid: 2016924983150510548
+      type: {class: Comment, ns: UnityEngine.Localization.Metadata, asm: Unity.Localization}
+      data:
+        m_CommentText: Doctor
+    - rid: 2016924983150510549
+      type: {class: Comment, ns: UnityEngine.Localization.Metadata, asm: Unity.Localization}
+      data:
+        m_CommentText: Bob
+    - rid: 2016924983150510550
+      type: {class: Comment, ns: UnityEngine.Localization.Metadata, asm: Unity.Localization}
+      data:
+        m_CommentText: Doctor
+    - rid: 2016924983150510551
+      type: {class: Comment, ns: UnityEngine.Localization.Metadata, asm: Unity.Localization}
+      data:
+        m_CommentText: Doctor
+    - rid: 2016924983150510552
+      type: {class: Comment, ns: UnityEngine.Localization.Metadata, asm: Unity.Localization}
+      data:
+        m_CommentText: Bob
+    - rid: 2016924983150510553
+      type: {class: Comment, ns: UnityEngine.Localization.Metadata, asm: Unity.Localization}
+      data:
+        m_CommentText: Doctor
+    - rid: 2016924983150510554
+      type: {class: Comment, ns: UnityEngine.Localization.Metadata, asm: Unity.Localization}
+      data:
+        m_CommentText: Bob
+    - rid: 2016924983150510555
+      type: {class: Comment, ns: UnityEngine.Localization.Metadata, asm: Unity.Localization}
+      data:
+        m_CommentText: Doctor
+    - rid: 2016924983150510556
+      type: {class: Comment, ns: UnityEngine.Localization.Metadata, asm: Unity.Localization}
+      data:
+        m_CommentText: Doctor
+    - rid: 2016924983150510557
+      type: {class: Comment, ns: UnityEngine.Localization.Metadata, asm: Unity.Localization}
+      data:
+        m_CommentText: Bob
+    - rid: 2016924983150510558
+      type: {class: Comment, ns: UnityEngine.Localization.Metadata, asm: Unity.Localization}
+      data:
+        m_CommentText: Doctor
+    - rid: 2016924983150510559
+      type: {class: Comment, ns: UnityEngine.Localization.Metadata, asm: Unity.Localization}
+      data:
+        m_CommentText: Doctor
+    - rid: 2016924983150510560
+      type: {class: Comment, ns: UnityEngine.Localization.Metadata, asm: Unity.Localization}
+      data:
+        m_CommentText: Doctor
+    - rid: 2016924983150510561
+      type: {class: Comment, ns: UnityEngine.Localization.Metadata, asm: Unity.Localization}
+      data:
+        m_CommentText: Bob
+    - rid: 2016924983150510562
+      type: {class: Comment, ns: UnityEngine.Localization.Metadata, asm: Unity.Localization}
+      data:
+        m_CommentText: Doctor
+    - rid: 2016924983150510563
+      type: {class: Comment, ns: UnityEngine.Localization.Metadata, asm: Unity.Localization}
+      data:
+        m_CommentText: Bob
+    - rid: 2016924983150510564
+      type: {class: Comment, ns: UnityEngine.Localization.Metadata, asm: Unity.Localization}
+      data:
+        m_CommentText: Bob
+    - rid: 2016924983150510565
+      type: {class: Comment, ns: UnityEngine.Localization.Metadata, asm: Unity.Localization}
+      data:
+        m_CommentText: Doctor
+    - rid: 2016924983150510566
+      type: {class: Comment, ns: UnityEngine.Localization.Metadata, asm: Unity.Localization}
+      data:
+        m_CommentText: Dealer
+    - rid: 2016924983150510567
+      type: {class: Comment, ns: UnityEngine.Localization.Metadata, asm: Unity.Localization}
+      data:
+        m_CommentText: Bob
+    - rid: 2016924983150510568
+      type: {class: Comment, ns: UnityEngine.Localization.Metadata, asm: Unity.Localization}
+      data:
+        m_CommentText: Dealer
+    - rid: 2016924983150510569
+      type: {class: Comment, ns: UnityEngine.Localization.Metadata, asm: Unity.Localization}
+      data:
+        m_CommentText: Bob
+    - rid: 2016924983150510570
+      type: {class: Comment, ns: UnityEngine.Localization.Metadata, asm: Unity.Localization}
+      data:
+        m_CommentText: Dealer
+    - rid: 2016924983150510571
+      type: {class: Comment, ns: UnityEngine.Localization.Metadata, asm: Unity.Localization}
+      data:
+        m_CommentText: Dealer
+    - rid: 2016924983150510572
+      type: {class: Comment, ns: UnityEngine.Localization.Metadata, asm: Unity.Localization}
+      data:
+        m_CommentText: Bob
+    - rid: 2016924983150510573
+      type: {class: Comment, ns: UnityEngine.Localization.Metadata, asm: Unity.Localization}
+      data:
+        m_CommentText: Dealer
+    - rid: 2016924983150510574
+      type: {class: Comment, ns: UnityEngine.Localization.Metadata, asm: Unity.Localization}
+      data:
+        m_CommentText: Dealer
+    - rid: 2016924983150510575
+      type: {class: Comment, ns: UnityEngine.Localization.Metadata, asm: Unity.Localization}
+      data:
+        m_CommentText: Bob
+    - rid: 2016924983150510576
+      type: {class: Comment, ns: UnityEngine.Localization.Metadata, asm: Unity.Localization}
+      data:
+        m_CommentText: Bob
+    - rid: 2016924983150510577
+      type: {class: Comment, ns: UnityEngine.Localization.Metadata, asm: Unity.Localization}
+      data:
+        m_CommentText: Dealer
+    - rid: 2016924983150510578
+      type: {class: Comment, ns: UnityEngine.Localization.Metadata, asm: Unity.Localization}
+      data:
+        m_CommentText: Bob
+    - rid: 2016924983150510579
+      type: {class: Comment, ns: UnityEngine.Localization.Metadata, asm: Unity.Localization}
+      data:
+        m_CommentText: Dealer
+    - rid: 2016924983150510580
+      type: {class: Comment, ns: UnityEngine.Localization.Metadata, asm: Unity.Localization}
+      data:
+        m_CommentText: Dealer
+    - rid: 2016924983150510581
+      type: {class: Comment, ns: UnityEngine.Localization.Metadata, asm: Unity.Localization}
+      data:
+        m_CommentText: Dealer
+    - rid: 2016924983150510582
+      type: {class: Comment, ns: UnityEngine.Localization.Metadata, asm: Unity.Localization}
+      data:
+        m_CommentText: Bob
+    - rid: 2016924983150510583
+      type: {class: Comment, ns: UnityEngine.Localization.Metadata, asm: Unity.Localization}
+      data:
+        m_CommentText: Dealer
+    - rid: 2016924983150510584
+      type: {class: Comment, ns: UnityEngine.Localization.Metadata, asm: Unity.Localization}
+      data:
+        m_CommentText: Dealer
+    - rid: 2016924983150510585
+      type: {class: Comment, ns: UnityEngine.Localization.Metadata, asm: Unity.Localization}
+      data:
+        m_CommentText: Bob
+    - rid: 2016924983150510586
+      type: {class: Comment, ns: UnityEngine.Localization.Metadata, asm: Unity.Localization}
+      data:
+        m_CommentText: Dealer
+    - rid: 2016924983150510587
+      type: {class: Comment, ns: UnityEngine.Localization.Metadata, asm: Unity.Localization}
+      data:
+        m_CommentText: Bob
+    - rid: 2016924983150510588
+      type: {class: Comment, ns: UnityEngine.Localization.Metadata, asm: Unity.Localization}
+      data:
+        m_CommentText: Dealer
+    - rid: 2016924983150510589
+      type: {class: Comment, ns: UnityEngine.Localization.Metadata, asm: Unity.Localization}
+      data:
+        m_CommentText: Dealer
+    - rid: 2016924983150510590
+      type: {class: Comment, ns: UnityEngine.Localization.Metadata, asm: Unity.Localization}
+      data:
+        m_CommentText: Bob
+    - rid: 2016924983150510591
+      type: {class: Comment, ns: UnityEngine.Localization.Metadata, asm: Unity.Localization}
+      data:
+        m_CommentText: Dealer
+    - rid: 2016924983150510592
+      type: {class: Comment, ns: UnityEngine.Localization.Metadata, asm: Unity.Localization}
+      data:
+        m_CommentText: Bob
+    - rid: 2016924983150510593
+      type: {class: Comment, ns: UnityEngine.Localization.Metadata, asm: Unity.Localization}
+      data:
+        m_CommentText: Dealer
+    - rid: 2016924983150510594
+      type: {class: Comment, ns: UnityEngine.Localization.Metadata, asm: Unity.Localization}
+      data:
+        m_CommentText: Dealer
+    - rid: 2016924983150510595
+      type: {class: Comment, ns: UnityEngine.Localization.Metadata, asm: Unity.Localization}
+      data:
+        m_CommentText: Bob
+    - rid: 2016924983150510596
+      type: {class: Comment, ns: UnityEngine.Localization.Metadata, asm: Unity.Localization}
+      data:
+        m_CommentText: Dealer
+    - rid: 2016924983150510597
+      type: {class: Comment, ns: UnityEngine.Localization.Metadata, asm: Unity.Localization}
+      data:
+        m_CommentText: Bob
+    - rid: 2016924983150510598
+      type: {class: Comment, ns: UnityEngine.Localization.Metadata, asm: Unity.Localization}
+      data:
+        m_CommentText: Dealer
+    - rid: 2016924983150510599
+      type: {class: Comment, ns: UnityEngine.Localization.Metadata, asm: Unity.Localization}
+      data:
+        m_CommentText: Dealer
+    - rid: 2016924983150510600
+      type: {class: Comment, ns: UnityEngine.Localization.Metadata, asm: Unity.Localization}
+      data:
+        m_CommentText: Bob
+    - rid: 2016924983150510601
+      type: {class: Comment, ns: UnityEngine.Localization.Metadata, asm: Unity.Localization}
+      data:
+        m_CommentText: Dealer
+    - rid: 2016924983150510602
+      type: {class: Comment, ns: UnityEngine.Localization.Metadata, asm: Unity.Localization}
+      data:
+        m_CommentText: Bob
+    - rid: 2016924983150510603
+      type: {class: Comment, ns: UnityEngine.Localization.Metadata, asm: Unity.Localization}
+      data:
+        m_CommentText: Dealer
+    - rid: 2016924983150510604
+      type: {class: Comment, ns: UnityEngine.Localization.Metadata, asm: Unity.Localization}
+      data:
+        m_CommentText: Dealer
+    - rid: 2016924983150510605
+      type: {class: Comment, ns: UnityEngine.Localization.Metadata, asm: Unity.Localization}
+      data:
+        m_CommentText: Bob
+    - rid: 2016924983150510606
+      type: {class: Comment, ns: UnityEngine.Localization.Metadata, asm: Unity.Localization}
+      data:
+        m_CommentText: Dealer
+    - rid: 2016924983150510607
+      type: {class: Comment, ns: UnityEngine.Localization.Metadata, asm: Unity.Localization}
+      data:
+        m_CommentText: Dealer
+    - rid: 2016924983150510608
+      type: {class: Comment, ns: UnityEngine.Localization.Metadata, asm: Unity.Localization}
+      data:
+        m_CommentText: Bob
+    - rid: 2016924983150510609
+      type: {class: Comment, ns: UnityEngine.Localization.Metadata, asm: Unity.Localization}
+      data:
+        m_CommentText: Bob
+    - rid: 2016924983150510610
+      type: {class: Comment, ns: UnityEngine.Localization.Metadata, asm: Unity.Localization}
+      data:
+        m_CommentText: Dealer

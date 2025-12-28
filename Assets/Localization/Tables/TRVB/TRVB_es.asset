@@ -1,0 +1,175 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: TRVB_es
+  m_EditorClassIdentifier: Unity.Localization::UnityEngine.Localization.Tables.StringTable
+  m_LocaleId:
+    m_Code: es
+  m_SharedData: {fileID: 11400000, guid: 97402f528cb33644bbadbb7e28bb5d69, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 17648713728
+    m_Localized: Spanish (Spain)
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17686462464
+    m_Localized: Text
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17686462465
+    m_Localized: "El traje de conejito puede evitar que los guardias persigan a Bob.
+      \xA1\xDAsalo en cualquier ubicaci\xF3n durante los pr\xF3ximos \"X\" minutos!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17686462466
+    m_Localized: "Bob puede llegar a su bot\xEDn desde m\xE1s lejos. \xA1Disfruta
+      de la cleptoman\xEDa mejorada durante los pr\xF3ximos \"X\" minutos!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17686462467
+    m_Localized: "Un buen ladr\xF3n no anda pisando huevos. \xA1Disfruta de la velocidad
+      mejorada durante los pr\xF3ximos \"X\" minutos!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17686462468
+    m_Localized: "\xBFSab\xEDas que Bob puede correr maratones? \xA1Disfruta de la
+      resistencia mejorada durante los pr\xF3ximos \"X\" minutos!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17686462469
+    m_Localized: "\xBFQuieres pasearte como Pedro por su casa? \xA1Disfruta del sigilo
+      mejorado durante los pr\xF3ximos \"X\" minutos!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17686462470
+    m_Localized: "Con la armadura de caballero, los guardias no podr\xE1n atrapar
+      a Bob, pero \xE9l tampoco podr\xE1 correr. \xA1\xDAsalo en cualquier ubicaci\xF3n
+      durante los pr\xF3ximos \"X\" minutos!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17686462471
+    m_Localized: "Bob puede llegar a su bot\xEDn desde m\xE1s lejos. \xA1Disfruta
+      de la cleptoman\xEDa al m\xE1ximo durante los pr\xF3ximos \"X\" minutos!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17686462472
+    m_Localized: "Un buen ladr\xF3n no anda pisando huevos. \xA1Disfruta de la velocidad
+      al m\xE1ximo durante los pr\xF3ximos \"X\" minutos!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17690656768
+    m_Localized: "\xBFSab\xEDas que Bob puede correr maratones? \xA1Disfruta de la
+      resistencia al m\xE1ximo durante los pr\xF3ximos \"X\" minutos!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17690656769
+    m_Localized: "\xBFQuieres pasearte como Pedro por su casa? \xA1Disfruta del sigilo
+      al m\xE1ximo durante los pr\xF3ximos \"X\" minutos!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17690656770
+    m_Localized: "El traje de ninja permite a Bob pasar desapercibido al correr o
+      pegar portazos. \xA1\xDAsalo en cualquier ubicaci\xF3n durante los pr\xF3ximos
+      \"X\" minutos!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17690656771
+    m_Localized: "El traje perfecto para un ladr\xF3n con clase. \xA1\xDAsalo en
+      cualquier ubicaci\xF3n durante los pr\xF3ximos \"X\" minutos!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17690656772
+    m_Localized: "Con el traje de Super-Bob, te mueves tan r\xE1pido que los guardias
+      te perder\xE1n la pista. \xA1\xDAsalo en cualquier ubicaci\xF3n durante los
+      pr\xF3ximos \"X\" minutos!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17690656773
+    m_Localized: "La bonificaci\xF3n finaliza en \"X\""
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17690656774
+    m_Localized: Comprar en la tienda
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17690656775
+    m_Localized: Llamada
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17690656776
+    m_Localized: Gratis
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17690656777
+    m_Localized: TRAJE DE CONEJITO
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17690656778
+    m_Localized: "CLEPTOMAN\xCDA MEJORADA"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17690656779
+    m_Localized: ARMADURA DE CABALLERO
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17690656780
+    m_Localized: TRAJE NINJA
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17690656781
+    m_Localized: VELOCIDAD MEJORADA
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17690656782
+    m_Localized: RESISTENCIA MEJORADA
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17690656783
+    m_Localized: SIGILO MEJORADO
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17690656784
+    m_Localized: TRAJE ELEGANTE
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17690656785
+    m_Localized: TRAJE DE SUPER-BOB
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17690656786
+    m_Localized: PRUEBA UN DISFRAZ GRATIS
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17690656787
+    m_Localized: "MEJORA LA CLEPTOMAN\xCDA GRATIS"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17690656788
+    m_Localized: MEJORA LA VELOCIDAD GRATIS
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17690656789
+    m_Localized: MEJORA LA RESISTENCIA GRATIS
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17690656790
+    m_Localized: MEJORA EL SIGILO GRATIS
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17690656791
+    m_Localized: La oferta finaliza en "X"
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []

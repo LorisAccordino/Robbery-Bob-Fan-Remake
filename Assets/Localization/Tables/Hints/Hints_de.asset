@@ -1,0 +1,178 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: Hints_de
+  m_EditorClassIdentifier: Unity.Localization::UnityEngine.Localization.Tables.StringTable
+  m_LocaleId:
+    m_Code: de
+  m_SharedData: {fileID: 11400000, guid: 4405daaa85300c248a8644aa131eb1a0, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 24942608384
+    m_Localized: "Du kannst zwischen den flie\xDFenden Steuerungen im Pause-Men\xFC
+      hin- und herschalten."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 24942608385
+    m_Localized: "Die meisten Leute rufen die Polizei, wenn sie Bob in ihren H\xE4usern
+      erwischen."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 24942608386
+    m_Localized: "Bei einer Verfolgung kann sich Bob hinter T\xFCren verstecken."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 24942608387
+    m_Localized: "Die meisten Wachm\xE4nner sind au\xDFer Form und werden schnell
+      m\xFCde."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 24942608388
+    m_Localized: "Bob kann eine offene T\xFCr zudr\xFCcken."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 24942608389
+    m_Localized: "Wenn Bob schl\xE4ft, tr\xE4umt er von Ninjas."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 24942608390
+    m_Localized: Bob kann an Mauern entlang huschen, um besonders gut zu schleichen.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 24942608391
+    m_Localized: "Zieh den Bildschirm zusammen, um herauszuzoomen und eine \xDCbersicht
+      \xFCber das gesamte Level zu erhalten."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 24942608392
+    m_Localized: Such nach Orten, wo du dich verstecken kannst, wenn ein Wachmann
+      in deine Richtung kommt.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 24942608393
+    m_Localized: "Laufen macht mehr L\xE4rm als Schleichen."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 24942608394
+    m_Localized: Benutze den Schnellvorlauf, wenn du darauf wartest, dass ein Wachmann
+      vorbeigeht.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 24942608395
+    m_Localized: Shadow Bob kann dir helfen, den besten Weg vorbei an einem aufmerksamen
+      Wachmann zu finden.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 24942608396
+    m_Localized: Bob legt seine Tarnung ab, wenn er versucht zu rennen.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 24942608397
+    m_Localized: "Achte darauf, in welche Richtung die Wachm\xE4nner sehen. Sie haben
+      keine Augen im Hinterkopf..."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 24942608398
+    m_Localized: "Wenn Bob einen Alarm ausl\xF6st, versuch, dich zu verstecken, bis
+      die Luft rein ist."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 24942608399
+    m_Localized: "Dr\xFCcke auf die \xDCberblick-Taste, um die Ansicht zu verkleinern
+      und das gesamte Level zu sehen."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 24942608400
+    m_Localized: "Die meisten Wachm\xE4nner sind nicht in Form und werden Bob nicht
+      lange verfolgen."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 24942608401
+    m_Localized: "Einige Wachm\xE4nner bemerken die offenen T\xFCren und werden sie
+      untersuchen."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 24942608402
+    m_Localized: "Wenn Bob schl\xE4ft, tr\xE4umt er von Cartoon-Ninjas."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 24942608403
+    m_Localized: "Bob kann an W\xE4nden entlang schleichen, um extra leise zu sein!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 24942608404
+    m_Localized: "Selbst wenn Bob einen Laseralarm ausl\xF6st, wurde er technisch
+      noch nicht gesehen."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 24942608405
+    m_Localized: "Die Teleporter-Mine (Patent ausstehend) ist eine absolut sichere
+      Methode, um die Wachm\xE4nner verschwinden zu lassen."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 24946802688
+    m_Localized: "Zu langsam? Gib ein paar gesammelte M\xFCnzen f\xFCr mehr Geschwindigkeit
+      aus!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 24946802689
+    m_Localized: "Wenn die Greiff\xE4higkeit von Bob erweitert wird, hat er eine
+      gr\xF6\xDFere Reichweite."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 24946802690
+    m_Localized: "Das wahre Talent von Bob ist seine F\xE4higkeit, den Wert in dem
+      M\xFCll anderer Leute zu erkennen."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 24946802691
+    m_Localized: Achte auf Orte, wo du dich verstecken kannst, wenn ein Wachmann
+      in deine Richtung kommt.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 24946802692
+    m_Localized: "Die Wachm\xE4nner k\xF6nnen dich h\xF6ren, wenn du l\xE4ufst."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 24946802693
+    m_Localized: "Dr\xFCcke auf die Schnellvorlauf-Taste, wenn du darauf wartest,
+      dass ein Wachmann vor\xFCbergeht."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 24946802694
+    m_Localized: "Tarnkleidungen machen dich praktisch unsichtbar, doch du kannst
+      nicht rennen oder etwas aufnehmen, w\xE4hrend du sie tr\xE4gst."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 24946802695
+    m_Localized: "Achte darauf, wohin die Wachm\xE4nner blicken. Sie haben keine
+      Augen im Hinterkopf."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 24946802696
+    m_Localized: "Wenn Bob einen Alarm ausl\xF6st, kann er versuchen, sich zu verstecken,
+      bis die Luft rein ist."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 24946802697
+    m_Localized: Zivilisten rufen die Polizei, wenn sie Bob in ihrem Haus entdecken.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 24946802698
+    m_Localized: "In einer brenzligen Situation kann sich Bob hinter einer ge\xF6ffneten
+      T\xFCr verstecken."
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []

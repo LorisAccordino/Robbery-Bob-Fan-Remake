@@ -1,0 +1,168 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: Hints_id
+  m_EditorClassIdentifier: Unity.Localization::UnityEngine.Localization.Tables.StringTable
+  m_LocaleId:
+    m_Code: id
+  m_SharedData: {fileID: 11400000, guid: 4405daaa85300c248a8644aa131eb1a0, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 24942608384
+    m_Localized: Kamu bisa mengubah kontrol mengambang di menu Jeda
+    m_Metadata:
+      m_Items: []
+  - m_Id: 24942608385
+    m_Localized: Kebanyakan warga akan memanggil polisi jika mereka menemukan Bob
+      di dalam rumah mereka
+    m_Metadata:
+      m_Items: []
+  - m_Id: 24942608386
+    m_Localized: Dalam keadaan terdesak, Bob bisa bersembunyi di balik pintu
+    m_Metadata:
+      m_Items: []
+  - m_Id: 24942608387
+    m_Localized: Sebagian besar penjaga tidak bugar dan mudah lelah
+    m_Metadata:
+      m_Items: []
+  - m_Id: 24942608388
+    m_Localized: Bob bisa menutup pintu yang terbuka
+    m_Metadata:
+      m_Items: []
+  - m_Id: 24942608389
+    m_Localized: Ketika Bob tidur, dia bermimpi tentang ninja
+    m_Metadata:
+      m_Items: []
+  - m_Id: 24942608390
+    m_Localized: Bob bisa bergeser di sepanjang dinding untuk lebih senyap
+    m_Metadata:
+      m_Items: []
+  - m_Id: 24942608391
+    m_Localized: Cubit layar untuk zoom perkecil guna melihat seluruh level
+    m_Metadata:
+      m_Items: []
+  - m_Id: 24942608392
+    m_Localized: Perhatikan tempat-tempat untuk bersembunyi ketika penjaga datang
+      ke arahmu
+    m_Metadata:
+      m_Items: []
+  - m_Id: 24942608393
+    m_Localized: Berlari lebih berisik daripada mengendap
+    m_Metadata:
+      m_Items: []
+  - m_Id: 24942608394
+    m_Localized: Gunakan tombol maju-cepat ketika kamu menunggu penjaga lewat
+    m_Metadata:
+      m_Items: []
+  - m_Id: 24942608395
+    m_Localized: Shadow Bob bisa membantumu menemukan cara terbaik melewati penjaga
+      yang sulit
+    m_Metadata:
+      m_Items: []
+  - m_Id: 24942608396
+    m_Localized: Bob akan menjatuhkan Samaran jika dia berusaha lari
+    m_Metadata:
+      m_Items: []
+  - m_Id: 24942608397
+    m_Localized: Perhatikan arah pandangan penjaga. Mereka tidak punya mata di belakang
+      kepala...
+    m_Metadata:
+      m_Items: []
+  - m_Id: 24942608398
+    m_Localized: Jika Bob memicu alarm, bersembunyilah sampai keadaan aman
+    m_Metadata:
+      m_Items: []
+  - m_Id: 24942608399
+    m_Localized: Tekan tombol [em]Tinjau[/] untuk zoom perkecil dan melihat seluruh
+      level.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 24942608400
+    m_Localized: Kebanyakan penjaga tidak bugar dan tidak akan mengejar Bob terlalu
+      lama.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 24942608401
+    m_Localized: Beberapa penjaga memperhatikan pintu terbuka dan akan menyelidikinya.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 24942608402
+    m_Localized: Ketika Bob tidur, dia bermimpi tentang ninja kartun.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 24942608403
+    m_Localized: Bob bisa bergeser di sepanjang dinding untuk lebih senyap!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 24942608404
+    m_Localized: Bahkan jika Bob memicu alarm laser, secara teknis dia belum terlihat.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 24942608405
+    m_Localized: '[em]Ranjau Teleportasi[/] (paten ditunda) adalah cara mudah untuk
+      membuat penjaga menghilang.'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 24946802688
+    m_Localized: Terlalu lambat? Gunakan koin pungutan untuk peningkatan kecepatan!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 24946802689
+    m_Localized: Meningkatkan [em]kemampuan mencomot[/] Bob akan memperpanjang jangkauannya.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 24946802690
+    m_Localized: Bakat asli Bob adalah kemampuannya dalam melihat nilai barang rongsokan
+      orang lain.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 24946802691
+    m_Localized: Perhatikan tempat-tempat untuk bersembunyi ketika penjaga datang
+      ke arahmu
+    m_Metadata:
+      m_Items: []
+  - m_Id: 24946802692
+    m_Localized: Penjaga bisa mendengarmu jika kamu berlari.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 24946802693
+    m_Localized: Tekan tombol [em]Maju-cepat[/] ketika kamu menunggu penjaga lewat.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 24946802694
+    m_Localized: Samaran akan membuatmu nyaris tidak terlihat, tetapi kamu tidak
+      bisa lari atau mengambil barang curian ketika mengenakannya.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 24946802695
+    m_Localized: Perhatikan arah pandangan penjaga. Mereka tidak punya mata di belakang
+      kepala.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 24946802696
+    m_Localized: Jika Bob memicu alarm, dia bisa bersembunyi sampai keadaan aman.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 24946802697
+    m_Localized: Warga akan memanggil polisi jika mereka melihat Bob di dalam rumah
+      mereka.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 24946802698
+    m_Localized: Dalam keadaan terdesak, Bob bisa bersembunyi di balik pintu yang
+      terbuka.
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []

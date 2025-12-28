@@ -1,0 +1,172 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: Hints_pt
+  m_EditorClassIdentifier: Unity.Localization::UnityEngine.Localization.Tables.StringTable
+  m_LocaleId:
+    m_Code: pt
+  m_SharedData: {fileID: 11400000, guid: 4405daaa85300c248a8644aa131eb1a0, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 24942608384
+    m_Localized: Ative ou desative os controles flutuantes no menu de pausa
+    m_Metadata:
+      m_Items: []
+  - m_Id: 24942608385
+    m_Localized: "A maioria dos civis chamar\xE1 a pol\xEDcia se virem Bob dentro
+      de casa"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 24942608386
+    m_Localized: "Se estiver em apuros, Bob pode se esconder atr\xE1s de portas"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 24942608387
+    m_Localized: "A maioria dos guardas est\xE1 fora de forma e se cansa facilmente"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 24942608388
+    m_Localized: Bob pode fechar portas abertas
+    m_Metadata:
+      m_Items: []
+  - m_Id: 24942608389
+    m_Localized: Quando Bob dorme, ele sonha com ninjas
+    m_Metadata:
+      m_Items: []
+  - m_Id: 24942608390
+    m_Localized: Bob pode se pendurar nas paredes para ser ainda mais furtivo
+    m_Metadata:
+      m_Items: []
+  - m_Id: 24942608391
+    m_Localized: "Pince os dedos na tela para afastar a c\xE2mera e ver o n\xEDvel
+      inteiro"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 24942608392
+    m_Localized: "Procure lugares para se esconder quando um guarda se aproximar
+      de voc\xEA"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 24942608393
+    m_Localized: Correr faz muito mais barulho do que ser furtivo
+    m_Metadata:
+      m_Items: []
+  - m_Id: 24942608394
+    m_Localized: "Use o bot\xE3o de avan\xE7o r\xE1pido quando estiver esperando
+      um guarda passar"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 24942608395
+    m_Localized: "Bob Sombra pode ajud\xE1-lo a encontrar a melhor forma de passar
+      por um guarda complicado"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 24942608396
+    m_Localized: "Bob perder\xE1 o disfarce se tentar correr"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 24942608397
+    m_Localized: "Preste aten\xE7\xE3o para onde os guardas est\xE3o olhando. Eles
+      n\xE3o s\xE3o corujas..."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 24942608398
+    m_Localized: "Se Bob ativar um alarme, tente se esconder at\xE9 o perigo acabar"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 24942608399
+    m_Localized: "Pressione o bot\xE3o Vis\xE3o geral para ampliar e visualizar o
+      n\xEDvel completo."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 24942608400
+    m_Localized: "A maioria dos guardas est\xE1 fora de forma e n\xE3o perseguem
+      Bob durante muito tempo."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 24942608401
+    m_Localized: Alguns guardar avistam portas abertas e investigam.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 24942608402
+    m_Localized: Quando Bob adormece ele sobre com desenhos animados ninjas.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 24942608403
+    m_Localized: Bob consegue andar entre paredes e ser muito sorrateiro!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 24942608404
+    m_Localized: "Mesmo se Bob acionar um alarme laser, tecnicamente ainda n\xE3o
+      foi avistado."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 24942608405
+    m_Localized: "A fonte de teletransportadora (patente pendente) \xE9 uma forma
+      infal\xEDvel de desaparecer com os guardar."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 24946802688
+    m_Localized: Demasiado lento? Gaste as moedas coletadas em um upgrade de velocidade!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 24946802689
+    m_Localized: "Melhorar a capacidade de coleta de Bob aumentar\xE1 seu alcance."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 24946802690
+    m_Localized: "O verdadeiro talento de Bob \xE9 sua capacidade de ver o valor
+      no lixo das outras pessoas."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 24946802691
+    m_Localized: "Fique atento a locais para se esconder quando um guarda vem em
+      sua dire\xE7\xE3o."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 24946802692
+    m_Localized: "Os guardar conseguem ouvi-lo quando voc\xEA corre."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 24946802693
+    m_Localized: "Pressione o bot\xE3o Avan\xE7ar rapidamente quando aguarda a passagem
+      de um guarda."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 24946802694
+    m_Localized: "Os disfarces v\xE3o torn\xE1-lo praticamente invis\xEDvel, mas
+      voc\xEA n\xE3o pode correr nem efetuar saques quando est\xE1 a utiliz\xE1-los."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 24946802695
+    m_Localized: "Preste aten\xE7\xE3o para onde os guardar est\xE3o virados. Eles
+      n\xE3o t\xEAm olhos na nuca."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 24946802696
+    m_Localized: "Se Bob acionar um alarme, ele pode tentar se esconder at\xE9 o
+      caminho ficar livre."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 24946802697
+    m_Localized: "Os civis ir\xE3o contatar os policiais se avistarem Bob em sua
+      casa."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 24946802698
+    m_Localized: "Bob pode esconder-se rapidamente atr\xE1s de uma porta."
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []

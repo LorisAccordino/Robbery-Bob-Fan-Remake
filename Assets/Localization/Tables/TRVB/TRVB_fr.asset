@@ -1,0 +1,176 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: TRVB_fr
+  m_EditorClassIdentifier: Unity.Localization::UnityEngine.Localization.Tables.StringTable
+  m_LocaleId:
+    m_Code: fr
+  m_SharedData: {fileID: 11400000, guid: 97402f528cb33644bbadbb7e28bb5d69, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 17648713728
+    m_Localized: French
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17686462464
+    m_Localized: Text
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17686462465
+    m_Localized: "La tenue de lapin emp\xEAche les gardes de poursuivre Bob. Elle
+      est \xE0 votre disposition partout o\xF9 vous voulez pendant les \"X\" prochaines
+      minutes\_!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17686462466
+    m_Localized: "Bob peut attraper des butins plus \xE9loign\xE9s. Profitez de votre
+      capacit\xE9 de vol augment\xE9e pendant les \"X\" prochaines minutes\_!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17686462467
+    m_Localized: "Un bon voleur doit \xEAtre rapide. Profitez d'une vitesse am\xE9lior\xE9e
+      pendant les \"X\" prochaines minutes\_!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17686462468
+    m_Localized: "Savez-vous que Bob peut courir un marathon\_? Profitez d'une endurance
+      augment\xE9e pendant les \"X\" prochaines minutes\_!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17686462469
+    m_Localized: "Vous voulez gagner en furtivit\xE9\_? Profitez d'une furtivit\xE9
+      am\xE9lior\xE9e pendant les \"X\" prochaines minutes\_!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17686462470
+    m_Localized: "Gr\xE2ce \xE0 l'armure de chevalier, les gardes ne pourront pas
+      mettre la main sur Bob. Mais il ne peut pas non plus courir. Elle est \xE0
+      votre disposition partout o\xF9 vous voulez pendant les X\" prochaines minutes\_!\""
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17686462471
+    m_Localized: "Bob peut attraper des butins plus \xE9loign\xE9s. Profitez de votre
+      capacit\xE9 de vol maximale pendant les \"X\" prochaines minutes\_!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17686462472
+    m_Localized: "Un bon voleur doit \xEAtre rapide. Profitez d'une vitesse maximale
+      pendant les \"X\" prochaines minutes\_!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17690656768
+    m_Localized: "Savez-vous que Bob peut courir un marathon\_? Profitez d'une endurance
+      maximale pendant les \"X\" prochaines minutes\_!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17690656769
+    m_Localized: "Vous voulez gagner en furtivit\xE9\_? Profitez d'une furtivit\xE9
+      maximale pendant les \"X\" prochaines minutes\_!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17690656770
+    m_Localized: "La tenue de ninja rend Bob silencieux lorsqu'il court ou fracasse
+      des portes. Elle est \xE0 votre disposition partout o\xF9 vous voulez pendant
+      les \"X\" prochaines minutes\_!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17690656771
+    m_Localized: "La tenue parfaite pour un voleur \xE9l\xE9gant. Elle est \xE0 votre
+      disposition partout o\xF9 vous voulez pendant les \"X\" prochaines minutes\_!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17690656772
+    m_Localized: "Avec la super tenue de bob, vous serez tellement rapide que les
+      gardes ne pourront pas vous rep\xE9rer. Elle est \xE0 votre disposition partout
+      o\xF9 vous voulez pendant les X\" prochaines minutes\_!\""
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17690656773
+    m_Localized: Le bonus se termine dans "X"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17690656774
+    m_Localized: Achetez dans la boutique
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17690656775
+    m_Localized: Vocation
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17690656776
+    m_Localized: Gratuit
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17690656777
+    m_Localized: TENUE DE LAPIN
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17690656778
+    m_Localized: "CAPACIT\xC9 DE VOL AM\xC9LIOR\xC9E"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17690656779
+    m_Localized: ARMURE DE CHEVALIER
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17690656780
+    m_Localized: TENUE DE NINJA
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17690656781
+    m_Localized: "VITESSE AM\xC9LIOR\xC9E"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17690656782
+    m_Localized: "ENDURANCE AM\xC9LIOR\xC9E"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17690656783
+    m_Localized: "FURTIVIT\xC9 AM\xC9LIOR\xC9E"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17690656784
+    m_Localized: "TENUE \xC9L\xC9GANTE"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17690656785
+    m_Localized: SUPER TENUE DE BOB
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17690656786
+    m_Localized: ESSAYEZ UN COSTUME GRATUITEMENT
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17690656787
+    m_Localized: "AM\xC9LIOREZ GRATUITEMENT VOTRE CAPACIT\xC9 DE VOL"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17690656788
+    m_Localized: "AM\xC9LIOREZ GRATUITEMENT VOTRE VITESSE"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17690656789
+    m_Localized: AUGMENTEZ GRATUITEMENT VOTRE ENDURANCE
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17690656790
+    m_Localized: "AM\xC9LIOREZ GRATUITEMENT VOTRE FURTIVIT\xC9"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17690656791
+    m_Localized: L'offre se termine dans "X"
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []

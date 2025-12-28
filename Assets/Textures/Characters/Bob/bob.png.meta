@@ -1,0 +1,4068 @@
+fileFormatVersion: 2
+guid: abcd975e517b16d4389b24203b53ed63
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 1
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 48
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: bob_electrocute001
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 230
+        width: 92
+        height: 94
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fb2fb743e7f4a9a8ddaec8adaebaed7
+      internalID: 1611984366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bob_electrocute002
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 418
+        width: 92
+        height: 94
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 924bec6c3af44c6e87208b8cd01c4562
+      internalID: -1977682168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bob_electrocute003
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 324
+        width: 92
+        height: 94
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0648175534747b6b62613edb3702982
+      internalID: 474581636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bob_idle001
+      rect:
+        serializedVersion: 2
+        x: 946
+        y: 226
+        width: 44
+        height: 36
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c38864793160413cbf1f0f1e9787e116
+      internalID: -602547993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bob_idle002
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 116
+        width: 44
+        height: 36
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e749096871d847828b6487712a580c19
+      internalID: -2010496764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bob_idle003
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 80
+        width: 44
+        height: 36
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0312d296b48f4ac698a5cac62e4fcfc0
+      internalID: 1315957320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bob_idle004
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 188
+        width: 44
+        height: 36
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a0fe6dca7de4f8581b77972f0f4d1e5
+      internalID: -773868657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bob_idle005
+      rect:
+        serializedVersion: 2
+        x: 904
+        y: 264
+        width: 44
+        height: 38
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c6c0d4ad97c4ce88b6db1fdd286efac
+      internalID: 1981367923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bob_idle006
+      rect:
+        serializedVersion: 2
+        x: 948
+        y: 264
+        width: 44
+        height: 38
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 516443e9b6b047599d43f632a6b03d09
+      internalID: -181578438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bob_idle007
+      rect:
+        serializedVersion: 2
+        x: 724
+        y: 224
+        width: 44
+        height: 38
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba38e9ca9a074f56826f5a6379562928
+      internalID: 1463029901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bob_idle008
+      rect:
+        serializedVersion: 2
+        x: 856
+        y: 224
+        width: 44
+        height: 38
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe6ac518d1e64d5eada49845f029f9d3
+      internalID: 1077104648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bob_idle009
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 224
+        width: 44
+        height: 38
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8dbdc1b6592f4bf1a8d71498db71613c
+      internalID: -1313071594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bob_idle010
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 142
+        width: 44
+        height: 40
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 707ddd0d5c0445c0a6dbe89bf1cc490f
+      internalID: -1283632092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bob_idle011
+      rect:
+        serializedVersion: 2
+        x: 724
+        y: 262
+        width: 44
+        height: 40
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e3e84c5850b4d8c94a30f732668c31c
+      internalID: -901200535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bob_idle012
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 302
+        width: 44
+        height: 40
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 820c73daf5fd44298c3c431c599a4f1c
+      internalID: -275798087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bob_idle013
+      rect:
+        serializedVersion: 2
+        x: 944
+        y: 302
+        width: 44
+        height: 40
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f70b3a137dad408f9c35ec1028b83817
+      internalID: -230254037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bob_idle014
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 222
+        width: 44
+        height: 40
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ad9c2bb98024b0485276ed13d104cbf
+      internalID: 377873026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bob_idle015
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 102
+        width: 44
+        height: 40
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c79399814a7948208b5b953be4009a13
+      internalID: 1531054470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bob_idle016
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 182
+        width: 44
+        height: 40
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12e3a05f4b994d89b90e04e158e1fe3a
+      internalID: 224825306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bob_idle017
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 150
+        width: 44
+        height: 42
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f892fbd36294d05910c295ba610cf15
+      internalID: -647396235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bob_idle018
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 234
+        width: 44
+        height: 42
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f64dfa7e8f04c5b9ed3b9329ff934c3
+      internalID: 1226971280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bob_idle019
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 24
+        width: 44
+        height: 42
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58be02e491af4c5da1baa3ed757b9c0d
+      internalID: 1241027589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bob_idle020
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 108
+        width: 44
+        height: 42
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0178849a5eaa4b08b2f0c1375ddd52a5
+      internalID: 1264942734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bob_idle021
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 276
+        width: 44
+        height: 42
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0027f2b0fc0e4e42862b0e5ef8e3df33
+      internalID: -96396035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bob_idle022
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 192
+        width: 44
+        height: 42
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cc5e865f4c44525b9af71fc4e1e05bc
+      internalID: -2056939553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bob_idle023
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 66
+        width: 44
+        height: 42
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4219e6ac36524f4da5e32989f33cfa03
+      internalID: -2121249539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bob_idle024
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 302
+        width: 44
+        height: 40
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60340f5428574c268923e4515b96e178
+      internalID: -2140269079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bob_idle025
+      rect:
+        serializedVersion: 2
+        x: 724
+        y: 302
+        width: 44
+        height: 40
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe388b63260e45ce8da393c863c378e4
+      internalID: 2025690401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bob_idle026
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 302
+        width: 44
+        height: 40
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba2ae94befc24a419ce31de80bd39d81
+      internalID: 1074832506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bob_idle027
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 62
+        width: 44
+        height: 40
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfb8fbd77d25443eac3016281b35a99c
+      internalID: 760678278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bob_idle028
+      rect:
+        serializedVersion: 2
+        x: 812
+        y: 302
+        width: 44
+        height: 40
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65d0e121d54245f2ad09339506ca3ec8
+      internalID: 1214680402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bob_idle029
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 262
+        width: 44
+        height: 40
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4459ab918db4ce7b1803777a229d608
+      internalID: 413152477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bob_idle030
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 262
+        width: 44
+        height: 40
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5c1e8a1b06c40388d434cda6160d412
+      internalID: -3975349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bob_idle031
+      rect:
+        serializedVersion: 2
+        x: 724
+        y: 72
+        width: 44
+        height: 38
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c43477e4aac49289154d5c0f1feaf22
+      internalID: 1095111127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bob_idle032
+      rect:
+        serializedVersion: 2
+        x: 724
+        y: 148
+        width: 44
+        height: 38
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75a5397944cf44ae9ecc8a798c545fc1
+      internalID: 129385047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bob_idle033
+      rect:
+        serializedVersion: 2
+        x: 724
+        y: 110
+        width: 44
+        height: 38
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 621c1f0a78764ecc84a1dbbcd2142cfc
+      internalID: 902620052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bob_idle034
+      rect:
+        serializedVersion: 2
+        x: 724
+        y: 34
+        width: 44
+        height: 38
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc8565207e2d48c488ab02cfcec19180
+      internalID: -1134659933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bob_idle035
+      rect:
+        serializedVersion: 2
+        x: 812
+        y: 224
+        width: 44
+        height: 38
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04b66a75822f4ee2bf9e1505a7fadccb
+      internalID: -2046407304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bob_idle036
+      rect:
+        serializedVersion: 2
+        x: 724
+        y: 186
+        width: 44
+        height: 38
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e76f7f709a24996a45c0529871f2967
+      internalID: -1373475950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bob_idle037
+      rect:
+        serializedVersion: 2
+        x: 812
+        y: 188
+        width: 44
+        height: 36
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba8d75d14dd747e58cff0def6a7100a8
+      internalID: -893422031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bob_idle038
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 8
+        width: 44
+        height: 36
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf6e5fbc1b6b4754be677ffe383414c7
+      internalID: 1773018181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bob_idle039
+      rect:
+        serializedVersion: 2
+        x: 856
+        y: 188
+        width: 44
+        height: 36
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddc11c3bf8d240a68206a640363a77a2
+      internalID: -682698993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bob_idletointeract001
+      rect:
+        serializedVersion: 2
+        x: 638
+        y: 216
+        width: 42
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f01d0f232ce84abc921491630463d1d6
+      internalID: -1680955614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bob_idletorun001
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 22
+        width: 44
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a97b8d08abc493fa835c2a34670d68b
+      internalID: 736857317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bob_idletosneakL001
+      rect:
+        serializedVersion: 2
+        x: 868
+        y: 436
+        width: 46
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ca932eb0ce245f393bc2da2a2657df7
+      internalID: 59958522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bob_idletosneakR001
+      rect:
+        serializedVersion: 2
+        x: 812
+        y: 264
+        width: 46
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dac077cfae8645a2874cb9f97bb50640
+      internalID: 39667580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bob_idletostrafe001
+      rect:
+        serializedVersion: 2
+        x: 822
+        y: 342
+        width: 50
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47b0b1a2436e4617bacaeb2ad920ccdd
+      internalID: 1667837033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bob_idletostrafe002
+      rect:
+        serializedVersion: 2
+        x: 966
+        y: 374
+        width: 52
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d95cf9b354a46debc3b5a847f5732be
+      internalID: 69336980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bob_idletostrafe003
+      rect:
+        serializedVersion: 2
+        x: 638
+        y: 342
+        width: 58
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fa2603e45264ceda777395c374d8279
+      internalID: 1873085950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bob_interact001
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 296
+        width: 44
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d6464f5f9a84c6b9f866089a2ae50e0
+      internalID: 1377012280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bob_interact002
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 136
+        width: 44
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c263cd275df4d44a7ce49629d653f6a
+      internalID: 2090627783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bob_interact003
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 32
+        width: 44
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29bafb910fd34b8ea79400c3543615b2
+      internalID: 225797648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bob_interact004
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 84
+        width: 44
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03a3054074ff429091b075e95706baf3
+      internalID: 691796272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bob_interact005
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 282
+        width: 44
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57b4d5553f9c41d3886b0f72bd8eff0d
+      internalID: -351681686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bob_interact006
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 350
+        width: 44
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06a04e7292b74fcb999c289618856518
+      internalID: -262807619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bob_interact007
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 404
+        width: 44
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e48ca420f7a54a0d91b5b39a7a9eafe5
+      internalID: 1635149882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bob_interact008
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 458
+        width: 44
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: caeba5eda26c479eaa248331b8fb169e
+      internalID: -70633477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bob_run001
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 366
+        width: 42
+        height: 76
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a451d65f57a46929395878c0203ca43
+      internalID: 1948970809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bob_run002
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 168
+        width: 42
+        height: 62
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3248aab4ee004271a651fc44fd761c8d
+      internalID: -1811617589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bob_run003
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 136
+        width: 44
+        height: 50
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52b26e403cb94c97a66e81d93714a804
+      internalID: -666864007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bob_run004
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 432
+        width: 44
+        height: 48
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bec4948069d949c19ee18f729781ae5d
+      internalID: 619421545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bob_run005
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 188
+        width: 44
+        height: 54
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20d8a2f2f91f47718a8e40ab9d02e572
+      internalID: -1212093984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bob_run006
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 340
+        width: 46
+        height: 58
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e721fa6d75a46e4a700a57db6188a90
+      internalID: 1354132544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bob_run007
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 210
+        width: 44
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b93809b5a9374550970dffa1cdb2c84d
+      internalID: -1975098192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bob_run008
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 220
+        width: 42
+        height: 74
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b332a349cf084c36bd4d2eb988885a18
+      internalID: 1480922325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bob_run009
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 92
+        width: 44
+        height: 70
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da90c8bc35344b00aa8a2f8a9e28f57a
+      internalID: -324662753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bob_run010
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 30
+        width: 44
+        height: 62
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6064efde8ea7474e980eadc7a81ac489
+      internalID: 812389601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bob_run011
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 86
+        width: 44
+        height: 50
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9a61063cf534e8abe203afc62b49848
+      internalID: -462086976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bob_run012
+      rect:
+        serializedVersion: 2
+        x: 636
+        y: 432
+        width: 44
+        height: 48
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2cff7294c1014c9399c55445bf7e7dae
+      internalID: -1530142248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bob_run013
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 242
+        width: 44
+        height: 54
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6833fe957464ecabb04bf822f266168
+      internalID: 369600694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bob_run014
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 170
+        width: 44
+        height: 58
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86386b2389c44ff187c830d79d0f3f54
+      internalID: -383142616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bob_run015
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 138
+        width: 46
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6ab5b2f13764ab494df71bf66575e7e
+      internalID: -57969925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bob_snatch001
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 152
+        width: 44
+        height: 36
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b889d455764f4b35a30855f003076e6f
+      internalID: -1032259232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bob_snatch002
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 44
+        width: 44
+        height: 36
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7143ce06e1a4c5787293002868baf3b
+      internalID: -1312503389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bob_snatch003
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 226
+        width: 46
+        height: 36
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a934ae60cfd4ca3a18a5d8a973fa659
+      internalID: -1141366049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bob_snatch004
+      rect:
+        serializedVersion: 2
+        x: 858
+        y: 264
+        width: 46
+        height: 38
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 641b4fdd481a449b9a37b3d0ffc9adab
+      internalID: 691664823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bob_snatch005
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 362
+        width: 46
+        height: 42
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89df5a589159424eb4a0e3d2b6b8e2f2
+      internalID: 958142540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bob_snatch006
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 432
+        width: 44
+        height: 48
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53645f34d2854ca9bbb545f71806d9dc
+      internalID: -1372781099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bob_snatch007
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 34
+        width: 42
+        height: 52
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 952e33bed4404c40a94808b4d4d4dcef
+      internalID: -767676717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bob_snatch008
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 426
+        width: 40
+        height: 54
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e65faba2a354ac0a30e7be23b3b11c0
+      internalID: 1875099081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bob_snatch009
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 372
+        width: 38
+        height: 54
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d120dd57b78d49acbe971c1e49cde547
+      internalID: 1029815846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bob_snatch010
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 318
+        width: 42
+        height: 44
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 168daedd96c1469b9524fefa6ac7d8aa
+      internalID: 1049178736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bob_snatch011
+      rect:
+        serializedVersion: 2
+        x: 638
+        y: 258
+        width: 42
+        height: 42
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f45d1252c8b3401bbdf0b87ff383e916
+      internalID: 943086665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bob_snatch012
+      rect:
+        serializedVersion: 2
+        x: 638
+        y: 300
+        width: 42
+        height: 42
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f3ed862ed2c4edaa94b4fb072c3e659
+      internalID: -92890995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bob_snatch013
+      rect:
+        serializedVersion: 2
+        x: 856
+        y: 302
+        width: 44
+        height: 40
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 940bd81a833c4205abdfccd51b0a99ea
+      internalID: -226396689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bob_snatch014
+      rect:
+        serializedVersion: 2
+        x: 638
+        y: 178
+        width: 42
+        height: 38
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ab6abce45e04787804d203fc75cb4f9
+      internalID: 14949003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bob_snatch015
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 188
+        width: 44
+        height: 36
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45b60b6247a84d509870b7880ccbc286
+      internalID: 326675289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bob_sneak001
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 162
+        width: 50
+        height: 68
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb8fc50ec5024486ad6c2c02e22b164d
+      internalID: 1584136067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bob_sneak002
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 390
+        width: 50
+        height: 60
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 743179e2c8f8436381846a0d3f555b81
+      internalID: 616442172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bob_sneak003
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 14
+        width: 50
+        height: 58
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 668bf7cec55042568a9bc974f2fd52dd
+      internalID: -1210262792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bob_sneak004
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 330
+        width: 50
+        height: 60
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d38468880ef4e37b064d1b675d5bc75
+      internalID: 1722524444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bob_sneak005
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 454
+        width: 50
+        height: 58
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc2c9124723a49a7be141ef3ddb7514c
+      internalID: -1306627483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bob_sneak006
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 450
+        width: 50
+        height: 62
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f6b4f817e8c42cb93e3f333474ecd57
+      internalID: 563849635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bob_sneak007
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 254
+        width: 48
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c349d7c481f4b4e80188c291e0c8be0
+      internalID: 992480943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bob_sneak008
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 188
+        width: 46
+        height: 66
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6a0c40649214ffdbb7ab66ae8780078
+      internalID: -178030353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bob_sneak009
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 294
+        width: 44
+        height: 72
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23fb728e83fc4523ade4d4223682d286
+      internalID: 1967661063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bob_sneak010
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 228
+        width: 44
+        height: 74
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0cd8ab4024a49c183e996b9c1e9da42
+      internalID: -1325469032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bob_sneak011
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 302
+        width: 44
+        height: 74
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da2cbdf287fb4b0c802452f60b9237a0
+      internalID: -846352699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bob_sneak012
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 80
+        width: 44
+        height: 70
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e791eb1fe6204f008b407d04e9eb3395
+      internalID: -1021498881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bob_sneak013
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 72
+        width: 44
+        height: 66
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f053813fa58b4f7b9b8d26d775c0f97b
+      internalID: -447842154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bob_sneak014
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 202
+        width: 46
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09571357d1f34769a647ab80f1497c10
+      internalID: 1238322110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bob_sneak015
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 282
+        width: 46
+        height: 58
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 436e05a7e80442c78011ae0f3b8d8873
+      internalID: 1373442526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bob_sneak016
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 12
+        width: 46
+        height: 54
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 582bd4eea81d48618be4d589308f4969
+      internalID: 677814987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bob_sneak017
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 186
+        width: 46
+        height: 48
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 702ec32d9cc64c86837d26fea9c92521
+      internalID: -1006787252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bob_sneak018
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 234
+        width: 46
+        height: 48
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ebbaef60c09440e91c55bb8f80f5d87
+      internalID: -1127296016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bob_sneak019
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 334
+        width: 46
+        height: 50
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8305b6137604e2abb0036b0945e61ac
+      internalID: -258379620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bob_sneak020
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 74
+        width: 46
+        height: 52
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06560fcc0c784ed986829628ed4e8ecc
+      internalID: 2132144311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bob_sneak021
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 22
+        width: 46
+        height: 52
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58422a9c490a42339719fd24217552aa
+      internalID: 695432221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bob_sneak022
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 224
+        width: 48
+        height: 50
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d33a01fae514d54bc3977898cfe9908
+      internalID: 810654243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bob_sneak023
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 118
+        width: 48
+        height: 52
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7805ed6895c4952937ab96410d9b418
+      internalID: 891884571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bob_sneak024
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 274
+        width: 48
+        height: 60
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5848e872092c4f2099ce35819ca67599
+      internalID: -753422885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bob_sneak025
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 126
+        width: 48
+        height: 62
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5804e513fe0b49749c953d9f2de08245
+      internalID: 1915844450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bob_sneak026
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 382
+        width: 48
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0dd3bebe99b145e6ba8f832a7a9f19d0
+      internalID: -446744166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bob_sneak027
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 376
+        width: 48
+        height: 68
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57132d50ff324bfbb878ae0bb1b2d191
+      internalID: 955790751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bob_sneak028
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 14
+        width: 46
+        height: 70
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4fe56bf8daa411cafed465f0651b0f3
+      internalID: -1239009313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bob_sneak029
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 442
+        width: 46
+        height: 70
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b1ef9f294cf4862b25264b7788e7e06
+      internalID: 2141243018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bob_sneak030
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 0
+        width: 46
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4bdbc76605d4b0d9e07defb4bb74cec
+      internalID: -2146400238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bob_sneak031
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 92
+        width: 46
+        height: 60
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ed0d4a0fd3a4e3d939178d01af6cfbd
+      internalID: 1097847705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bob_sneak032
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 322
+        width: 46
+        height: 54
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63f4b9132aa44d3693804bec9e5ec4b5
+      internalID: -1691786273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bob_sneak033
+      rect:
+        serializedVersion: 2
+        x: 724
+        y: 436
+        width: 48
+        height: 44
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fcf8dd460be46c5801ffe89ed3620dc
+      internalID: 1924911208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bob_sneak034
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 174
+        width: 48
+        height: 50
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d43cf43297c45d68b8355227875dc02
+      internalID: 665311501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bob_sneak035
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 228
+        width: 48
+        height: 54
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7447cbc0e7024e70a3d330b487f2c9dd
+      internalID: -1462838575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bob_sneak036
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 398
+        width: 46
+        height: 58
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70d0a2a5354541de9e901f5589e41942
+      internalID: -1811383927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bob_sneak037
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 266
+        width: 46
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 725365bc38ae4f88a11b681846c934f0
+      internalID: -167797777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bob_sneak038
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 150
+        width: 44
+        height: 70
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 849770b987424b85903547dd0338fa99
+      internalID: 29300628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bob_sneak039
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 154
+        width: 44
+        height: 74
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c61c2a046485436bbd6ea07fcf77999b
+      internalID: 682776467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bob_sneak040
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 16
+        width: 44
+        height: 76
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5bfb448dc0f44c2bdce7bc770cf57f5
+      internalID: 694302657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bob_sneak041
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 20
+        width: 46
+        height: 72
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a15c98c66f841fb8148e70c0df453c8
+      internalID: 733071786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bob_sneak042
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 84
+        width: 46
+        height: 70
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9306f99511043d7801eb9dc9743ccdd
+      internalID: -82523557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bob_sneak043
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 14
+        width: 46
+        height: 66
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4a7bd068a014682b80028fcdd92fbe4
+      internalID: -441600690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bob_sneak044
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 334
+        width: 48
+        height: 60
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6deb90186475446b9f861df61c794a19
+      internalID: 1295172120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bob_sneak045
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 394
+        width: 48
+        height: 60
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdeb165785f343f28154d6f89596bed1
+      internalID: 282838506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bob_sneak046
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 456
+        width: 48
+        height: 56
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d75130c3d73420b9d8d5f856e006390
+      internalID: -820876077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bob_sneak047
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 432
+        width: 48
+        height: 48
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 536cfbfedad04fe9a23757176047761c
+      internalID: -791156250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bob_sneak048
+      rect:
+        serializedVersion: 2
+        x: 914
+        y: 438
+        width: 48
+        height: 42
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7bb6ab6475cc40adacfeb7d11c8964b1
+      internalID: 657211837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bob_sneak049
+      rect:
+        serializedVersion: 2
+        x: 820
+        y: 436
+        width: 48
+        height: 44
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfdc12aa7d804b9c9f0c459d311ba5ff
+      internalID: -1921697126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bob_sneak050
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 274
+        width: 50
+        height: 48
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2464ef4c7b64fcd8a604d27dbd08cd9
+      internalID: -1046861270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bob_sneak051
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 126
+        width: 50
+        height: 48
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d718c423cd124ee8b5fde4ad108d5d30
+      internalID: 636374318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bob_sneak052
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 384
+        width: 48
+        height: 48
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ac032172bd048aaae26669b9daaa06f
+      internalID: -1486306452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bob_sneak053
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 66
+        width: 48
+        height: 52
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62f5cb421b094d80ad8491edcdd60463
+      internalID: 13462310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bob_sneak054
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 152
+        width: 48
+        height: 58
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95924fc7c16d4037b5941aba3acb7b97
+      internalID: -1692967514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bob_sneak055
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 64
+        width: 48
+        height: 62
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25f0568217474b35aa3307ba4d64b0a5
+      internalID: -2140651034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bob_sneak056
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 318
+        width: 48
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d70a141951743a8b6d7d0c18439b188
+      internalID: 1688766256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bob_sneak057
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 446
+        width: 48
+        height: 66
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c5a5e77e7a647f9b347a1e2e727ff7e
+      internalID: 312928282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bob_sneak058
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 92
+        width: 48
+        height: 70
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ada8200f0594b35b9bd4737feb1e5db
+      internalID: -1074177606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bob_sneak059
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 444
+        width: 48
+        height: 68
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc11ce87a0da4b3a9071819600da8db0
+      internalID: -1047185691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bob_sneakLtorun001
+      rect:
+        serializedVersion: 2
+        x: 772
+        y: 436
+        width: 48
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ef215dd06074415b961d00553806926
+      internalID: 1869679375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bob_sneakRtorun001
+      rect:
+        serializedVersion: 2
+        x: 962
+        y: 438
+        width: 46
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 481bee05901d47008db24121ceb695be
+      internalID: 313196788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bob_strafeL001
+      rect:
+        serializedVersion: 2
+        x: 702
+        y: 374
+        width: 62
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a1d97da3db4478d801223676896d24d
+      internalID: -1613151476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bob_strafeL002
+      rect:
+        serializedVersion: 2
+        x: 638
+        y: 374
+        width: 64
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2575a81ddcf4c7aa2dbffe2591dab49
+      internalID: 467674138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bob_strafeL003
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 482
+        width: 70
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4a278a4dc58449787dac4aa0969e2cb
+      internalID: -389062087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bob_strafeL004
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 410
+        width: 76
+        height: 34
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 264288b105c74f70a8831f1778848e35
+      internalID: -1191526547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bob_strafeL005
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 478
+        width: 78
+        height: 34
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8ce2b82266a461793977602f0166fe4
+      internalID: 249618763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bob_strafeL006
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 480
+        width: 74
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf0e2cd783b64106ace3454ba51f0460
+      internalID: -877350845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bob_strafeL007
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 378
+        width: 70
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fbfe3bc11ca40b5a9ff093a4fb4ce29
+      internalID: 251919861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bob_strafeL008
+      rect:
+        serializedVersion: 2
+        x: 730
+        y: 406
+        width: 72
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6815c8963e414b5ba23e5a377b1f389f
+      internalID: 377245909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bob_strafeL009
+      rect:
+        serializedVersion: 2
+        x: 874
+        y: 406
+        width: 70
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16211e5abada4872af179b662334b8c7
+      internalID: 1747900420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bob_strafeL010
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 404
+        width: 70
+        height: 28
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c36bcc7370d4f82aa4ced61e35aeac1
+      internalID: -1690518296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bob_strafeL011
+      rect:
+        serializedVersion: 2
+        x: 790
+        y: 482
+        width: 68
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abbe9b69058643a09050d9526478e2bb
+      internalID: -1825212429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bob_strafeL012
+      rect:
+        serializedVersion: 2
+        x: 760
+        y: 346
+        width: 62
+        height: 28
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f08000cee7bc4779917df791b7ed6d7d
+      internalID: 740261739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bob_strafeR001
+      rect:
+        serializedVersion: 2
+        x: 764
+        y: 374
+        width: 62
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42736b741fc2499cb277e94b28580fbf
+      internalID: -373838287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bob_strafeR002
+      rect:
+        serializedVersion: 2
+        x: 858
+        y: 482
+        width: 66
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35ce9723f47f49b0b01954ef6e0604ae
+      internalID: -1981356408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bob_strafeR003
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 482
+        width: 70
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27003a713a8d47c5aa885a7621b1c63c
+      internalID: -1097729036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bob_strafeR004
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 376
+        width: 76
+        height: 34
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70261a5afeba40a99a68cb43a7c03c12
+      internalID: -1851327269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bob_strafeR005
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 444
+        width: 76
+        height: 34
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e39a65cf3ecc4acebd449cdcedc88bb0
+      internalID: -1988017755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bob_strafeR006
+      rect:
+        serializedVersion: 2
+        x: 578
+        y: 480
+        width: 72
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14e070cfece74c83ace639a59990495d
+      internalID: -1291578478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bob_strafeR007
+      rect:
+        serializedVersion: 2
+        x: 802
+        y: 406
+        width: 72
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ad0742c3f054df887241e86c78c6a36
+      internalID: -1744097863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bob_strafeR008
+      rect:
+        serializedVersion: 2
+        x: 944
+        y: 406
+        width: 70
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d24dbd0a7e564da6b8e7bc8a3335afa2
+      internalID: 86711360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bob_strafeR009
+      rect:
+        serializedVersion: 2
+        x: 826
+        y: 378
+        width: 70
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cae73bddd37b499c861b591f20662026
+      internalID: -764165806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bob_strafeR010
+      rect:
+        serializedVersion: 2
+        x: 662
+        y: 404
+        width: 68
+        height: 28
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8f82763fd154833b59d228807983388
+      internalID: 1791048136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bob_strafeR011
+      rect:
+        serializedVersion: 2
+        x: 924
+        y: 482
+        width: 66
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: acb64ca6a02b4c8782fd5d7f56067110
+      internalID: 373681959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bob_strafeR012
+      rect:
+        serializedVersion: 2
+        x: 696
+        y: 346
+        width: 64
+        height: 28
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20221a68abb44866b447ee515daf9d28
+      internalID: -2135365300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: ce12b37b7557fa54189c272f662fcb43
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      bob_1: -1096881081
+      bob_10: 2027911276
+      bob_100: 1075644001
+      bob_101: -38634372
+      bob_102: 463455972
+      bob_104: 585142014
+      bob_105: 1086713343
+      bob_106: -785886422
+      bob_108: 1660812139
+      bob_109: 1842162618
+      bob_11: 606352649
+      bob_110: 1224993693
+      bob_111: -286038854
+      bob_112: 307973319
+      bob_113: -1096204241
+      bob_114: 1634775497
+      bob_115: -689081407
+      bob_117: 574376282
+      bob_118: -1529001446
+      bob_119: 174596617
+      bob_12: -2056297760
+      bob_120: 986122436
+      bob_121: 1543307748
+      bob_122: -729225969
+      bob_123: -1906284128
+      bob_124: 959707421
+      bob_125: -1726337220
+      bob_126: -2020799886
+      bob_127: 377628377
+      bob_128: -381859782
+      bob_129: -1622716132
+      bob_13: 1845364864
+      bob_130: 1240102623
+      bob_131: -1154696415
+      bob_132: 1963070201
+      bob_133: 1892887566
+      bob_134: 2061303805
+      bob_135: -2119952876
+      bob_136: -174148256
+      bob_137: -59955021
+      bob_138: -1451786353
+      bob_139: -432494682
+      bob_14: -1535516456
+      bob_140: 1348294432
+      bob_141: -1154710799
+      bob_142: 1549296694
+      bob_143: 1841383228
+      bob_144: -839052390
+      bob_145: -865526648
+      bob_146: -1016351045
+      bob_147: -643875783
+      bob_148: 554034168
+      bob_149: 1693985716
+      bob_15: -1796284332
+      bob_150: -1066718166
+      bob_16: 2062295653
+      bob_17: -866687588
+      bob_18: -86689656
+      bob_19: -1593716340
+      bob_2: -721901529
+      bob_20: -1431387965
+      bob_21: -484868521
+      bob_22: -1847642845
+      bob_23: -1520854346
+      bob_24: -1982175727
+      bob_25: -490076698
+      bob_26: -1747326294
+      bob_27: -386442069
+      bob_28: 405038843
+      bob_29: 967421424
+      bob_3: -759284353
+      bob_31: -1112803460
+      bob_32: -26180108
+      bob_33: 1963007854
+      bob_34: 418691107
+      bob_35: 588053958
+      bob_36: -889769230
+      bob_37: -2044162016
+      bob_38: 886183537
+      bob_39: -1722429513
+      bob_4: 1692302157
+      bob_40: -1891414347
+      bob_41: -98650726
+      bob_42: 1920887815
+      bob_43: -2134335305
+      bob_44: -1014587858
+      bob_45: 1525982780
+      bob_46: 1673063836
+      bob_47: -1148736485
+      bob_48: -1007651439
+      bob_49: 676868557
+      bob_5: 535387395
+      bob_50: 61310904
+      bob_51: 460253682
+      bob_52: -1964243870
+      bob_53: 735370824
+      bob_54: -1191355447
+      bob_55: 1280813222
+      bob_56: 2009198449
+      bob_57: -1197503539
+      bob_58: 2006648280
+      bob_59: -1820360770
+      bob_6: 335886702
+      bob_60: -232119953
+      bob_61: -36717677
+      bob_62: 1316994163
+      bob_64: 612538135
+      bob_65: -891942442
+      bob_66: 119345419
+      bob_67: -483474355
+      bob_68: -2028097384
+      bob_69: -1079640012
+      bob_7: 361965248
+      bob_70: -107618694
+      bob_71: 342874790
+      bob_72: -1244969892
+      bob_73: -1548777414
+      bob_74: 432688397
+      bob_75: -1691932402
+      bob_76: -629033212
+      bob_77: -1575099516
+      bob_78: 810462131
+      bob_79: 67526384
+      bob_8: 1547082857
+      bob_80: 1375289329
+      bob_81: 1052106961
+      bob_82: 236746651
+      bob_83: 1569165597
+      bob_84: -601112982
+      bob_85: 1096418039
+      bob_86: -51785200
+      bob_87: 1984555766
+      bob_88: -1342389300
+      bob_89: 1603715304
+      bob_9: 236954953
+      bob_90: 1593564399
+      bob_93: -340160929
+      bob_94: -286068096
+      bob_95: -851870668
+      bob_96: -2141101989
+      bob_97: -858985889
+      bob_98: -719195078
+      bob_99: -1382304521
+      bob_electrocute00: -1723600739
+      bob_electrocute001: 1611984366
+      bob_electrocute002: -1977682168
+      bob_electrocute003: 474581636
+      bob_idle001: -602547993
+      bob_idle002: -2010496764
+      bob_idle003: 1315957320
+      bob_idle004: -773868657
+      bob_idle005: 1981367923
+      bob_idle006: -181578438
+      bob_idle007: 1463029901
+      bob_idle008: 1077104648
+      bob_idle009: -1313071594
+      bob_idle010: -1283632092
+      bob_idle011: -901200535
+      bob_idle012: -275798087
+      bob_idle013: -230254037
+      bob_idle014: 377873026
+      bob_idle015: 1531054470
+      bob_idle016: 224825306
+      bob_idle017: -647396235
+      bob_idle018: 1226971280
+      bob_idle019: 1241027589
+      bob_idle020: 1264942734
+      bob_idle021: -96396035
+      bob_idle022: -2056939553
+      bob_idle023: -2121249539
+      bob_idle024: -2140269079
+      bob_idle025: 2025690401
+      bob_idle026: 1074832506
+      bob_idle027: 760678278
+      bob_idle028: 1214680402
+      bob_idle029: 413152477
+      bob_idle030: -3975349
+      bob_idle031: 1095111127
+      bob_idle032: 129385047
+      bob_idle033: 902620052
+      bob_idle034: -1134659933
+      bob_idle035: -2046407304
+      bob_idle036: -1373475950
+      bob_idle037: -893422031
+      bob_idle038: 1773018181
+      bob_idle039: -682698993
+      bob_idletointeract001: -1680955614
+      bob_idletorun001: 736857317
+      bob_idletosneakL001: 59958522
+      bob_idletosneakR001: 39667580
+      bob_idletostrafe001: 1667837033
+      bob_idletostrafe002: 69336980
+      bob_idletostrafe003: 1873085950
+      bob_interact001: 1377012280
+      bob_interact002: 2090627783
+      bob_interact003: 225797648
+      bob_interact004: 691796272
+      bob_interact005: -351681686
+      bob_interact006: -262807619
+      bob_interact007: 1635149882
+      bob_interact008: -70633477
+      bob_run001: 1948970809
+      bob_run002: -1811617589
+      bob_run003: -666864007
+      bob_run004: 619421545
+      bob_run005: -1212093984
+      bob_run006: 1354132544
+      bob_run007: -1975098192
+      bob_run008: 1480922325
+      bob_run009: -324662753
+      bob_run010: 812389601
+      bob_run011: -462086976
+      bob_run012: -1530142248
+      bob_run013: 369600694
+      bob_run014: -383142616
+      bob_run015: -57969925
+      bob_snatch001: -1032259232
+      bob_snatch002: -1312503389
+      bob_snatch003: -1141366049
+      bob_snatch004: 691664823
+      bob_snatch005: 958142540
+      bob_snatch006: -1372781099
+      bob_snatch007: -767676717
+      bob_snatch008: 1875099081
+      bob_snatch009: 1029815846
+      bob_snatch010: 1049178736
+      bob_snatch011: 943086665
+      bob_snatch012: -92890995
+      bob_snatch013: -226396689
+      bob_snatch014: 14949003
+      bob_snatch015: 326675289
+      bob_sneak001: 1584136067
+      bob_sneak002: 616442172
+      bob_sneak003: -1210262792
+      bob_sneak004: 1722524444
+      bob_sneak005: -1306627483
+      bob_sneak006: 563849635
+      bob_sneak007: 992480943
+      bob_sneak008: -178030353
+      bob_sneak009: 1967661063
+      bob_sneak010: -1325469032
+      bob_sneak011: -846352699
+      bob_sneak012: -1021498881
+      bob_sneak013: -447842154
+      bob_sneak014: 1238322110
+      bob_sneak015: 1373442526
+      bob_sneak016: 677814987
+      bob_sneak017: -1006787252
+      bob_sneak018: -1127296016
+      bob_sneak019: -258379620
+      bob_sneak020: 2132144311
+      bob_sneak021: 695432221
+      bob_sneak022: 810654243
+      bob_sneak023: 891884571
+      bob_sneak024: -753422885
+      bob_sneak025: 1915844450
+      bob_sneak026: -446744166
+      bob_sneak027: 955790751
+      bob_sneak028: -1239009313
+      bob_sneak029: 2141243018
+      bob_sneak030: -2146400238
+      bob_sneak031: 1097847705
+      bob_sneak032: -1691786273
+      bob_sneak033: 1924911208
+      bob_sneak034: 665311501
+      bob_sneak035: -1462838575
+      bob_sneak036: -1811383927
+      bob_sneak037: -167797777
+      bob_sneak038: 29300628
+      bob_sneak039: 682776467
+      bob_sneak040: 694302657
+      bob_sneak041: 733071786
+      bob_sneak042: -82523557
+      bob_sneak043: -441600690
+      bob_sneak044: 1295172120
+      bob_sneak045: 282838506
+      bob_sneak046: -820876077
+      bob_sneak047: -791156250
+      bob_sneak048: 657211837
+      bob_sneak049: -1921697126
+      bob_sneak050: -1046861270
+      bob_sneak051: 636374318
+      bob_sneak052: -1486306452
+      bob_sneak053: 13462310
+      bob_sneak054: -1692967514
+      bob_sneak055: -2140651034
+      bob_sneak056: 1688766256
+      bob_sneak057: 312928282
+      bob_sneak058: -1074177606
+      bob_sneak059: -1047185691
+      bob_sneakLtorun001: 1869679375
+      bob_sneakRtorun001: 313196788
+      bob_strafeL001: -1613151476
+      bob_strafeL002: 467674138
+      bob_strafeL003: -389062087
+      bob_strafeL004: -1191526547
+      bob_strafeL005: 249618763
+      bob_strafeL006: -877350845
+      bob_strafeL007: 251919861
+      bob_strafeL008: 377245909
+      bob_strafeL009: 1747900420
+      bob_strafeL010: -1690518296
+      bob_strafeL011: -1825212429
+      bob_strafeL012: 740261739
+      bob_strafeR001: -373838287
+      bob_strafeR002: -1981356408
+      bob_strafeR003: -1097729036
+      bob_strafeR004: -1851327269
+      bob_strafeR005: -1988017755
+      bob_strafeR006: -1291578478
+      bob_strafeR007: -1744097863
+      bob_strafeR008: 86711360
+      bob_strafeR009: -764165806
+      bob_strafeR010: 1791048136
+      bob_strafeR011: 373681959
+      bob_strafeR012: -2135365300
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,1629 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: Menus_it
+  m_EditorClassIdentifier: Unity.Localization::UnityEngine.Localization.Tables.StringTable
+  m_LocaleId:
+    m_Code: it
+  m_SharedData: {fileID: 11400000, guid: 528c112f67a5b1a45ad5119a422f333b, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 12223413092356
+    m_Localized: Livelli di bonus
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12223413092355
+    m_Localized: Le avventure di Robbery Bob continua!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12223413092354
+    m_Localized: Automatico
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12223413092353
+    m_Localized: Audio/Musica
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12223413092352
+    m_Localized: Informazioni Su
+    m_Metadata:
+      m_Items: []
+  - m_Id: 13117634510848
+    m_Localized: 
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12223413092357
+    m_Localized: Campo Estivo
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12223413092358
+    m_Localized: Sfida
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12223413092359
+    m_Localized: "Il capitolo \xE8 bloccato"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12223413092360
+    m_Localized: Controlla
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12223413092361
+    m_Localized: Guadagna ricompense
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12223413092362
+    m_Localized: Chiudi
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12223413092363
+    m_Localized: Completo
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12223413092364
+    m_Localized: Chillingo e il logo Chillingo sono marchi commerciali o marchi commerciali
+      registrati di Chillingo Limited negli Stati Uniti e/o in altri paesi.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12223413092365
+    m_Localized: 'Robbery Bob: Man of Steal'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12223413092366
+    m_Localized: 'Un gioco pubblicato da Chillingo e
+
+      sviluppato da Level Eight.'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12223413092367
+    m_Localized: Con l'acquisto e/o l'uso di questa applicazione si accetta quanto
+      indicato di seguito.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12223413092368
+    m_Localized: La selezione di un'opzione determina l'uscita dal gioco e l'avvio
+      del browser. Potrebbero essere applicabili le tariffe di collegamento alla
+      rete.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12223413092369
+    m_Localized: Quartieri centrali
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12223413092370
+    m_Localized: Accordo di licenza
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12223413092371
+    m_Localized: Esci dal gioco
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12223413092372
+    m_Localized: Extras
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12223413092373
+    m_Localized: Facebook punteggi
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12223413092374
+    m_Localized: gratis
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12223413092375
+    m_Localized: Scarica 100 gratis!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12223413092376
+    m_Localized: Grattacielo
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12223413092377
+    m_Localized: Disegni
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12223413092378
+    m_Localized: Introduzione
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12223413092379
+    m_Localized: Invitare 10 amici per ottenere Bob un abito elegante!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12223413092380
+    m_Localized: Tedesco
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12223413092381
+    m_Localized: Inglese
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12223413092382
+    m_Localized: Spagnolo
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12223413092383
+    m_Localized: Francese
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12223413092384
+    m_Localized: Italiano
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12223413092385
+    m_Localized: Bloccato
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12223413092386
+    m_Localized: Avanzato
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12223413092387
+    m_Localized: Gioca
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12223413092388
+    m_Localized: Bitte warten
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12223413092389
+    m_Localized: Please wait
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12223413092390
+    m_Localized: Espera, por favor
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12223413092391
+    m_Localized: Veuillez patienter
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12223413092392
+    m_Localized: Attendi
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12223413092393
+    m_Localized: Please wait
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12223413092394
+    m_Localized: Please wait
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12223413092395
+    m_Localized: Normativa sulla privacy e cookie
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12223413092396
+    m_Localized: Uscire dal gioco?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12223413092397
+    m_Localized: Chiudi Robbery Bob
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12223413092398
+    m_Localized: Risistemare
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12223413092399
+    m_Localized: Mi piace
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12223413092400
+    m_Localized: Seguici
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12223413092401
+    m_Localized: Iscriviti
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12223413092402
+    m_Localized: Ricompense
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12223413092403
+    m_Localized: Aggiungere %s monete.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12223413092404
+    m_Localized: '%s% di sconto!'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12223413092405
+    m_Localized: Laboratori segreti
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12223413092406
+    m_Localized: Disconnettersi
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12223413092407
+    m_Localized: Periferie
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12223413092408
+    m_Localized: "Abito elegante \xE8 disponibile in inventario!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12223413092409
+    m_Localized: Campo Estivo
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12223413092410
+    m_Localized: Termini Di Servizio
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12223413092411
+    m_Localized: "Sblocca tutti i livelli all'interno del capitolo [em]Avanzato[/]
+      che diventer\xE0 giocabile in qualsiasi ordine."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12223413092412
+    m_Localized: "Sblocca tutti i livelli all'interno del gioco che diventer\xE0
+      giocabile in qualsiasi ordine."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12223413092413
+    m_Localized: Sblocca tutti i capitoli
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12223413092414
+    m_Localized: "Sblocca tutti i livelli all'interno del capitolo [em]Bonus[/] che
+      diventer\xE0 giocabile in qualsiasi ordine."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12223413092415
+    m_Localized: "Sblocca tutti i livelli all'interno del capitolo [em]Campo Estivo[/]
+      che diventer\xE0 giocabile in qualsiasi ordine."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12223413092416
+    m_Localized: "Sblocca tutti i livelli all'interno del capitolo [em]Sfida[/] che
+      diventer\xE0 giocabile in qualsiasi ordine."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12223413092417
+    m_Localized: Sblocca il primo livello nel capitolo [em]Quartieri Centrali[/].
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12223413092418
+    m_Localized: "Sblocca tutti i livelli all'interno del capitolo [em]Extras[/]
+      che diventer\xE0 giocabile in qualsiasi ordine."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12223413092419
+    m_Localized: "Sblocca tutti i livelli all'interno del capitolo [em]Grattacielo[/]
+      che diventer\xE0 giocabile in qualsiasi ordine."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12223413092420
+    m_Localized: Sblocca ora!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12223413092421
+    m_Localized: Sblocca il primo livello nel capitolo [em]Laboratori Segreti[/].
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12223413092422
+    m_Localized: "Sblocca tutti i livelli all'interno del capitolo [em]Inverno[/]
+      che diventer\xE0 giocabile in qualsiasi ordine."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12223413092423
+    m_Localized: Prendi gratis
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12223413092424
+    m_Localized: Inverno
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12223413092425
+    m_Localized: Per sbloccare questo capitolo devi completare [#ffff00]Periferie[/].
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12223413092426
+    m_Localized: Per sbloccare questo capitolo devi completare [#ffff00]Quartieri
+      centrali[/].
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12223413092427
+    m_Localized: "\xC8 necessario completare i capitolo [em]Laboratori segreti[/]
+      con il %s% per sbloccare questo capitolo."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12223413092428
+    m_Localized: "\xC8 necessario completare i capitolo [em]Avanzato[/] con il %s%
+      per sbloccare questo capitolo."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12223413092429
+    m_Localized: "\xC8 necessario completare i capitolo [em]Bonus[/] con il %s% per
+      sbloccare questo capitolo."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12223413092430
+    m_Localized: "\xC8 necessario completare i capitolo [em]Extras[/] con il %s%
+      per sbloccare questo capitolo."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12223413092431
+    m_Localized: "\xC8 necessario completare i capitolo [em]Inverno[/] con il %s%
+      per sbloccare questo capitolo."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12223413092432
+    m_Localized: "\xC8 necessario completare i capitolo [em]Grattacielo[/] con il
+      %s% per sbloccare questo capitolo."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12223413092433
+    m_Localized: "\xC8 necessario completare i capitolo [em]Campo Estivo[/] con il
+      %s% per sbloccare questo capitolo."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12223413092434
+    m_Localized: Per sbloccare questo capitolo devi completare [#ffff00]Laboratori
+      segreti[/].
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12223413092435
+    m_Localized: Per sbloccare questo capitolo devi completare [#ffff00]Avanzato[/].
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12223413092436
+    m_Localized: Per sbloccare questo capitolo devi completare [#ffff00]Bonus[/].
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12223413092437
+    m_Localized: Per sbloccare questo capitolo devi completare [#ffff00]Extras[/].
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12223413092438
+    m_Localized: Per sbloccare questo capitolo devi completare [#ffff00]Inverno[/].
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12223413092439
+    m_Localized: Per sbloccare questo capitolo devi completare [#ffff00]Grattacielo[/].
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12223413092440
+    m_Localized: Per sbloccare questo capitolo devi completare [#ffff00]Campo Estivo[/].
+    m_Metadata:
+      m_Items: []
+  - m_Id: 13117630316544
+    m_Localized: 
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12223413092442
+    m_Localized: Miglior punteggio
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12223413092443
+    m_Localized: "Sguinzaglia la spregevole ombra di Bob e seguila nelle situazioni
+      pi\xF9 complicate."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12223413092444
+    m_Localized: Checkpoint salvato
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12223413092445
+    m_Localized: Attiva Shadow Bob
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12223413092446
+    m_Localized: Chiave trovata
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12223413092447
+    m_Localized: I'Avanzamento Rapido
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12223413092448
+    m_Localized: Camminare
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12223413092449
+    m_Localized: Mappa panoramica
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12223413092450
+    m_Localized: Pausa
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12223413092451
+    m_Localized: Correre
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12223413092452
+    m_Localized: Utilit
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12223413092453
+    m_Localized: Punteggio massimo
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12223413092454
+    m_Localized: Bottino
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12223413092455
+    m_Localized: Avanti
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12223413092456
+    m_Localized: No
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12223413092457
+    m_Localized: Tempo previsto
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12223413092458
+    m_Localized: Menu
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12223413092459
+    m_Localized: Riavvia il livello
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12223413092460
+    m_Localized: Riprova
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12223417286656
+    m_Localized: Shadow Bob
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12223417286657
+    m_Localized: L'attivazione di Shadow Bob richiede il riavvio del livello. Confermare?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12223417286658
+    m_Localized: L'attivazione di Shadow Bob costa [#ffff00]10 monete[/] e richiede
+      il riavvio del livello.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12223417286659
+    m_Localized: L'attivazione di Shadow Bob costa [#ffff00]10 monete[/].
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12223417286660
+    m_Localized: L'attivazione di Shadow Bob richiede il riavvio del livello. Confermare?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12223417286661
+    m_Localized: Salta
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12223417286662
+    m_Localized: salta
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12223417286663
+    m_Localized: Limite
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12223417286664
+    m_Localized: Tempo limite
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12223417286665
+    m_Localized: Tempo
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12223417286666
+    m_Localized: Segnalalo su Twitter!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12223417286667
+    m_Localized: Non rilevato
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12223417286668
+    m_Localized: Sbloccato
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12223417286669
+    m_Localized: "S\xEC"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12223417286670
+    m_Localized: OK
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12223417286671
+    m_Localized: Elimina
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12223417286672
+    m_Localized: Annulla
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12223417286673
+    m_Localized: Attivo
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12223417286674
+    m_Localized: Disattivo
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12223417286675
+    m_Localized: Indietro
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12780936757255
+    m_Localized: 
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12223417286677
+    m_Localized: "Capacit\xE0"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12223417286678
+    m_Localized: Confermare?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12223417286679
+    m_Localized: Compra
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12223417286680
+    m_Localized: Compralo!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12223417286681
+    m_Localized: La modifica del corredo richiede il riavvio del livello.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12223417286682
+    m_Localized: Monete
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12223417286683
+    m_Localized: Attrezza
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12223417286684
+    m_Localized: Attrezza il corredo
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12223417286685
+    m_Localized: '[em]Raffronta i punteggi dei tuoi amici.[/]'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12223417286686
+    m_Localized: '[em]Pubblica i risultati e i punteggi su Facebook.[/]'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12223417286687
+    m_Localized: Non pubblicheremo la tua bacheca senza autorizzazione. Puoi disattivare
+      la condivisione su Facebook in qualsiasi momento, nelle opzioni.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12223417286688
+    m_Localized: 'Collegati a Facebook e:'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12223417286689
+    m_Localized: Ottieni altre monete!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12223417286690
+    m_Localized: How does outfits work?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12223417286691
+    m_Localized: How does utilities work?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12223417286692
+    m_Localized: Invita amici
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12223417286693
+    m_Localized: Caricamento
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12223417286694
+    m_Localized: Costumi
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12223417286695
+    m_Localized: Pacchetti
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12223417286696
+    m_Localized: Attendi
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12223417286697
+    m_Localized: Riavvia livello
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12223417286698
+    m_Localized: Elaborazione della richiesta di acquisto
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12223417286699
+    m_Localized: Rimuovi
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12223417286700
+    m_Localized: Ripristino acquisti precedenti
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12223417286701
+    m_Localized: Accedi
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12223417286702
+    m_Localized: Aggiorna
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12223417286703
+    m_Localized: Aggiorna
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12223417286704
+    m_Localized: "Utilit\xE0"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12223417286705
+    m_Localized: Guarda su Youtube
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12780936757254
+    m_Localized: 
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12223417286707
+    m_Localized: Applica
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12223417286708
+    m_Localized: Accetta
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12223417286709
+    m_Localized: Capitoli con bonus
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12223417286710
+    m_Localized: 'Livello di completamento gioco: %0%'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12223417286711
+    m_Localized: Vuoi veramente uscire da Robbery Bob?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12223417286712
+    m_Localized: I creatori
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12223417286713
+    m_Localized: Gli artisti
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12223417286714
+    m_Localized: Il produttore audio
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12223417286715
+    m_Localized: Il presidente
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12223417286716
+    m_Localized: Il produttore
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12223417286717
+    m_Localized: I programmatori
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12223417286718
+    m_Localized: "Garanzia qualit\xE0/collaudatore"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12223417286719
+    m_Localized: Dettagli artistici supplementari
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12223417286720
+    m_Localized: Direttore community
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12223417286721
+    m_Localized: Ripristinare i valori iniziali
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12223417286722
+    m_Localized: Informazione
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12223417286723
+    m_Localized: Mantenere queste impostazioni?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12223417286724
+    m_Localized: Lingua
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12223417286725
+    m_Localized: Scelte
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12223417286726
+    m_Localized: Premere il tasto per utilzzare %0 oppure per ESC
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12223417286727
+    m_Localized: E' lieta di presentare
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12223417286728
+    m_Localized: Valuta
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12223417286729
+    m_Localized: Valuta l'app
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12223417286730
+    m_Localized: Ripristina gli acquisti
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12223417286731
+    m_Localized: Inverti
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12223429869568
+    m_Localized: Social media
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12223429869569
+    m_Localized: Negozio
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12223429869570
+    m_Localized: Capitoli della storia
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12223429869571
+    m_Localized: Aiuto
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12223429869572
+    m_Localized: Volume musica
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12223429869573
+    m_Localized: Volume suono
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12223429869574
+    m_Localized: Impostazione del display
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12223429869575
+    m_Localized: Risoluzione
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12223429869576
+    m_Localized: Comandi
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12223429869577
+    m_Localized: Vibrazione
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12223429869578
+    m_Localized: Comandi del gamepad
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12223429869579
+    m_Localized: Comandi della tastiera
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12223429869580
+    m_Localized: Tastiera
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12223429869581
+    m_Localized: Su
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12223429869582
+    m_Localized: "Gi\xF9"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12223429869583
+    m_Localized: Sinistra
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12223429869584
+    m_Localized: Destra
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12223429869585
+    m_Localized: Attiva
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12223429869586
+    m_Localized: Corri
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12223429869587
+    m_Localized: Utilizza oggetto
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12223429869588
+    m_Localized: Prossimo oggetto
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12223429869589
+    m_Localized: Oggetto precedente
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12223429869590
+    m_Localized: Panoramica
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12223429869591
+    m_Localized: Avanti rapido
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12223429869592
+    m_Localized: Conferma
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12223429869593
+    m_Localized: Cancella/torna indietro
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12223429869594
+    m_Localized: Pausa
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12223429869595
+    m_Localized: Cambia lingua
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12223429869596
+    m_Localized: Schermo intero
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12223429869597
+    m_Localized: "Articoli & abilit\xE0"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12223429869598
+    m_Localized: Audio
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12223429869599
+    m_Localized: Gioca a Robbery Bob
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12223429869600
+    m_Localized: Esci dal gioco
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12780936757253
+    m_Localized: 
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12223429869602
+    m_Localized: Articoli & miglioramenti
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12223429869603
+    m_Localized: Riprendi
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12223429869604
+    m_Localized: Riprendi il gioco
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12223429869605
+    m_Localized: Punteggio alto
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12223429869606
+    m_Localized: 'Mantenere queste impostazioni?
+
+      Conto alla rovescia in %0'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12223429869607
+    m_Localized: "Benvenuto a Robbery Bob!\nE' un gioco semplice e divertente, dove
+      il tuo scopo \xE8 quello di trovare il tesoro in ogni livello e fuggire senza
+      farti prendere!\n\nTrova tutto il bottino del livello per guadagnare ulteriori
+      punti!\n\nPuoi giocare o con il gamepad, oppure con mouse e tastiera."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12223429869608
+    m_Localized: 'Suggerimento:
+
+
+      Se non ti va di aspettare che la guardia
+      di pattuglia sia passata, puoi premere il tasto Fast Forward (Avanti rapido,F
+      come impostazione standard) per accelerare.'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12223429869609
+    m_Localized: 'Suggerimento:
+
+
+      Puoi premere il tasto Overview (Panoramica,
+      O come impostazione standard) per una prospettiva a volo d''uccello su tutto
+      il livello.'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12223429869610
+    m_Localized: "Lo schermo di articoli & miglioramenti \xE8 dove puoi utilizzare
+      tutte le monete che hai trovato per dare a Bob nuovi miglioramenti delle sue
+      abilit\xE0, oggetti strani ed accessori alla moda."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12223429869611
+    m_Localized: "Il Negozio \xE8 il luogo dove puoi utilizzare tutte le monete che
+      hai trovato per dare a Bob nuovi miglioramenti della sua attivit\xE0, oggetti
+      strani ed accessori alla moda."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12223429869612
+    m_Localized: Ok, ho capito
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12223429869613
+    m_Localized: Portoghese
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12223429869614
+    m_Localized: Portoghese brasiliano
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12223429869615
+    m_Localized: Cinese semplificato
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12223429869616
+    m_Localized: Cinese tradizionale
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12223429869617
+    m_Localized: Giapponese
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12223429869618
+    m_Localized: Coreano
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12223429869619
+    m_Localized: Arabo
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12223429869620
+    m_Localized: 'Versione: %0'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12223429869621
+    m_Localized: Sicuro, vai!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12223429869622
+    m_Localized: No, passo
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12223429869623
+    m_Localized: "Ti piacerebbe guardare un avviso pubblicitario selezionato? Se
+      lo guardi ora, le altre pubblicit\xE0 saranno disattivate per un po'."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12223429869624
+    m_Localized: "Ti piacerebbe guardare un avviso pubblicitario selezionato? Se
+      lo guardi ora, le altre pubblicit\xE0 saranno disattivate per %0 minuti."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12223429869625
+    m_Localized: Ora disponibile nel negozio Steam.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12223429869626
+    m_Localized: Anteprima video
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12223429869627
+    m_Localized: Guarda un video demo con tutti gli accessori
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12223429869628
+    m_Localized: Guarda un video demo con tutti gli oggetti
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12223429869629
+    m_Localized: Prosegui la tua Avventura Robbery Bob Adventure!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12223429869630
+    m_Localized: Visita il negozio Steam
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12223429869631
+    m_Localized: Bob su Youtube
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12223429869632
+    m_Localized: Realizzazioni
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12223429869633
+    m_Localized: "Johnny Edstr\xF6m"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12223434063872
+    m_Localized: "Rickard J\xE4ger"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12223434063873
+    m_Localized: "Josef Falkensk\xF6ld"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12780936757252
+    m_Localized: 
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12223434063875
+    m_Localized: Raddoppiale!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12223434063876
+    m_Localized: Monete raccolte
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12780936757251
+    m_Localized: 
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12223434063878
+    m_Localized: Ottieni l'amplificatore di monete
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12223434063879
+    m_Localized: Non riesco a collegarmi a YouTube
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12223434063880
+    m_Localized: Usa iCloud
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12223434063881
+    m_Localized: Dati locali
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12223434063882
+    m_Localized: Utilizza dati locali
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12223434063883
+    m_Localized: Non adesso
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12223434063884
+    m_Localized: "Con iCloud il tuo gioco salvato \xE8 aggiornato su tutti i dispositivi
+      Apple. Vuoi attivare iCloud"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12223434063885
+    m_Localized: Quali dati salvati desideri utilizzare? Se scegli dati locali i
+      tuoi dati locali salvati saranno caricati su iCloud
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12223434063886
+    m_Localized: 'Dati locali: %0 monete, %1 livelli completati.
+
+      iCloud: %2
+      monete, %3 livelli completati.'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12223438258176
+    m_Localized: Sei sicuro di voler disabilitare iCloud ed utilizzare solo i tuoi
+      dati locali salvati? I dati salvati iCloud rimarranno sul cloud e potrai riattivarli
+      quando vorrai.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12780936757250
+    m_Localized: 
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12223438258178
+    m_Localized: Salva partita
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12223438258179
+    m_Localized: Classifiche
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12780936757249
+    m_Localized: 
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12223438258181
+    m_Localized: "Hai gi\xE0 avviato Robbery Bob su un altro dispositivo. Premi Ok
+      per riprendere il gioco su questo dispositivo o premi il pulsante Home."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12780936757248
+    m_Localized: 
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12780928368650
+    m_Localized: 
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12223438258184
+    m_Localized: Game services
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12223438258185
+    m_Localized: 'Gareggia contro il punteggio dei tuoi amici.
+
+      Pubblica punteggi
+      e obiettivi raggiunti.'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12223438258186
+    m_Localized: "Solo i messaggi autorizzati verranno pubblicati sulla tua bacheca.\nPuoi
+      uscire dalle funzionalit\xE0 di Google Play in qualsiasi momento."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12223438258187
+    m_Localized: iCloud
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12223438258188
+    m_Localized: Google Play Game Services
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12780928368649
+    m_Localized: 
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12223438258190
+    m_Localized: Accedi
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12780928368648
+    m_Localized: 
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12780928368647
+    m_Localized: 
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12223438258193
+    m_Localized: 'Accedi a Google Play per:'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12223438258194
+    m_Localized: Checkpoints
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12780928368646
+    m_Localized: 
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12223438258196
+    m_Localized: '%0% in meno'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12223442452480
+    m_Localized: Risparmia il %0%!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12223442452481
+    m_Localized: "Questa \xE8 un' [em]offerta una tantum[/].\\nConfermi di non volerla
+      accettare?"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12223442452482
+    m_Localized: Confermi?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12223442452483
+    m_Localized: SCONTI!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12223442452484
+    m_Localized: Risparmia %0% con questa offerta a tempo limitato!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12780928368645
+    m_Localized: 
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12223442452486
+    m_Localized: Offerta monete
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12223442452487
+    m_Localized: Mostra offerte
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12223442452488
+    m_Localized: Ottieni monete gratis.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12780928368644
+    m_Localized: 
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12223442452490
+    m_Localized: Monete non sufficienti
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12223442452491
+    m_Localized: Ti mancano %0 monete
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12780928368643
+    m_Localized: 
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12223442452493
+    m_Localized: -----
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12223442452494
+    m_Localized: "Rimuovi la pubblicit\xE0!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12223442452495
+    m_Localized: "Nessuna pubblicit\xE0"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12223442452496
+    m_Localized: "Stanco della pubblicit\xE0?"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12223442452497
+    m_Localized: "Acquista e rimuovi per sempre la pubblicit\xE0"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12223442452498
+    m_Localized: Arraffalo!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12223442452499
+    m_Localized: Grazie per aver supportato lo sviluppo di Robbery Bob!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12223463424000
+    m_Localized: Uscita segreta! Vietato guardare!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12223463424001
+    m_Localized: Indonesiano
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12780928368642
+    m_Localized: 
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12223463424003
+    m_Localized: -----
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12223463424004
+    m_Localized: Installa la versione completa
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12223463424005
+    m_Localized: Abbandona
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12223463424006
+    m_Localized: Continua
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12223463424007
+    m_Localized: Riavvia
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12223463424008
+    m_Localized: Ripeti
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12780928368641
+    m_Localized: 
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12223463424010
+    m_Localized: 
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12223463424011
+    m_Localized: Fumo
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12223463424012
+    m_Localized: Bomba fumogena
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12223463424013
+    m_Localized: Riprendi subito
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12223463424014
+    m_Localized: Diventa invisibile per un po'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12223463424015
+    m_Localized: Non farti vedere
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12223463424016
+    m_Localized: 'Numero di video: %0 / %1'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12223463424017
+    m_Localized: 'Nuovi video disponibili tra: %0'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12223463424018
+    m_Localized: Non adesso
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12223463424019
+    m_Localized: Guarda video
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12780928368640
+    m_Localized: 
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12223463424021
+    m_Localized: settimane
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12223463424022
+    m_Localized: settimana
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12223463424023
+    m_Localized: s
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12223463424024
+    m_Localized: giorni
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12223463424025
+    m_Localized: giorno
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12223463424026
+    m_Localized: g
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12223463424027
+    m_Localized: ore
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12223463424028
+    m_Localized: ora
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12223463424029
+    m_Localized: h
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12223463424030
+    m_Localized: minuti
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12223463424031
+    m_Localized: minuto
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12223463424032
+    m_Localized: min
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12223463424033
+    m_Localized: m
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12223463424034
+    m_Localized: secondo
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12223463424035
+    m_Localized: secondi
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12223463424036
+    m_Localized: sec
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12223463424037
+    m_Localized: s
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12780924174339
+    m_Localized: 
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12223463424039
+    m_Localized: Prigione
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12223463424040
+    m_Localized: "Sblocca tutti i livelli all'interno del capitolo [em]Prigione[/]
+      che diventer\xE0 giocabile in qualsiasi ordine."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12780924174338
+    m_Localized: 
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12223463424042
+    m_Localized: Attrezzi a sorpresa
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12223463424043
+    m_Localized: Guarda un annuncio e ricevi gratis un pacchetto di attrezzi a sorpresa!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12223463424044
+    m_Localized: Sorpresa!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12223463424045
+    m_Localized: Hai ricevuto dei nuovi attrezzi!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12780924174337
+    m_Localized: 
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12223463424047
+    m_Localized: Non abbastanza rastrello di bloccaggio
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12223463424048
+    m_Localized: Guarda un annuncio per ottenere 1 rastrello di bloccaggio o comprane
+      uno con le monete
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12223463424049
+    m_Localized: Tempo prima del riempimento automatico
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12223463424050
+    m_Localized: Ottenere un rastrello di bloccaggio
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12780924174336
+    m_Localized: 
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12223463424052
+    m_Localized: NUOVO AGGIORNAMENTO DISPONIBILE!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12223463424053
+    m_Localized: Aggiorna il gioco per una migliore esperienza.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12223463424054
+    m_Localized: Aggiorna il gioco per continuare a giocarci.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12223463424055
+    m_Localized: Aggiorna
+    m_Metadata:
+      m_Items: []
+  - m_Id: 13117634510849
+    m_Localized: 
+    m_Metadata:
+      m_Items: []
+  - m_Id: 13117634510850
+    m_Localized: 
+    m_Metadata:
+      m_Items: []
+  - m_Id: 13117668065280
+    m_Localized: 
+    m_Metadata:
+      m_Items: []
+  - m_Id: 13117668065281
+    m_Localized: 
+    m_Metadata:
+      m_Items: []
+  - m_Id: 13117668065282
+    m_Localized: 
+    m_Metadata:
+      m_Items: []
+  - m_Id: 13117668065283
+    m_Localized: 
+    m_Metadata:
+      m_Items: []
+  - m_Id: 13117668065284
+    m_Localized: 
+    m_Metadata:
+      m_Items: []
+  - m_Id: 13117668065285
+    m_Localized: 
+    m_Metadata:
+      m_Items: []
+  - m_Id: 13117668065286
+    m_Localized: 
+    m_Metadata:
+      m_Items: []
+  - m_Id: 13117668065287
+    m_Localized: 
+    m_Metadata:
+      m_Items: []
+  - m_Id: 13117668065288
+    m_Localized: 
+    m_Metadata:
+      m_Items: []
+  - m_Id: 13117668065289
+    m_Localized: 
+    m_Metadata:
+      m_Items: []
+  - m_Id: 13117668065290
+    m_Localized: 
+    m_Metadata:
+      m_Items: []
+  - m_Id: 13117668065291
+    m_Localized: 
+    m_Metadata:
+      m_Items: []
+  - m_Id: 13117668065292
+    m_Localized: 
+    m_Metadata:
+      m_Items: []
+  - m_Id: 13117668065293
+    m_Localized: 
+    m_Metadata:
+      m_Items: []
+  - m_Id: 13117668065294
+    m_Localized: 
+    m_Metadata:
+      m_Items: []
+  - m_Id: 13117668065295
+    m_Localized: 
+    m_Metadata:
+      m_Items: []
+  - m_Id: 13117668065296
+    m_Localized: 
+    m_Metadata:
+      m_Items: []
+  - m_Id: 13117668065297
+    m_Localized: 
+    m_Metadata:
+      m_Items: []
+  - m_Id: 13117668065298
+    m_Localized: 
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15268947558400
+    m_Localized: 
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []

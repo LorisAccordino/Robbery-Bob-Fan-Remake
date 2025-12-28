@@ -1,0 +1,340 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: InappItems_pt
+  m_EditorClassIdentifier: Unity.Localization::UnityEngine.Localization.Tables.StringTable
+  m_LocaleId:
+    m_Code: pt
+  m_SharedData: {fileID: 11400000, guid: 99e3c89befe70b44682eedb4793bff27, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 18609209344
+    m_Localized: "Eu n\xE3o sabia que voc\xEA tinha um bom senso de moda, tais!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18609209345
+    m_Localized: Desbloquear todos os trajes
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18609209346
+    m_Localized: "Arm\xE1rio"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18609209347
+    m_Localized: "Voc\xEA ficar\xE1 com cara de bobo. T\xE3o bobo que pode fazer
+      as pessoas desistirem de ir atr\xE1s de voc\xEA."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18609209348
+    m_Localized: "\xC9 muito careta"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18609209349
+    m_Localized: Uniforme de Coelho
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18609209350
+    m_Localized: "Objetos de valor procurar\xE3o os seus bolsos sem esfor\xE7o de
+      sua parte."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18609209351
+    m_Localized: Agarrabilidade
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18609209352
+    m_Localized: "Toda moeda encontrada vale o dobro! A longo prazo, \xE9 um \xF3timo
+      investimento!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18609209353
+    m_Localized: "Dobra a quantidade de moedas encontradas em um n\xEDvel"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18609209354
+    m_Localized: Amplificador de Moedas
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18609209355
+    m_Localized: "\xC9 muito \xFAtil para obter novos dispositivos rapidamente ou
+      dar continuidade aos projetos de melhoria!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18609209356
+    m_Localized: "Adiciona %0 moedas ao invent\xE1rio de Bob"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18609209357
+    m_Localized: Pacote de Moedas
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18609209358
+    m_Localized: "Estes donuts t\xEAm uma cara muito boa, mas o recheio secreto far\xE1
+      qualquer est\xF4mago se revirar."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18609209359
+    m_Localized: Incapacita guardas.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18609209360
+    m_Localized: Donut Estragado
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18609209361
+    m_Localized: "\xC9 muita grana! Deixe suas habilidades no m\xE1ximo ou compre
+      mais alguns uniformes!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18609209362
+    m_Localized: "Adiciona 4500 moedas ao invent\xE1rio de Bob"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18609209363
+    m_Localized: Pacote da Fortuna
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18609209364
+    m_Localized: "Este fato destina-se a ser usado em condi\xE7\xF5es ambientais
+      perigosas."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18609209365
+    m_Localized: Tenha um dia extremamente seguro.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18609209366
+    m_Localized: Fato Hazmat
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18609209367
+    m_Localized: "Apesar de n\xE3o ser das mais recentes, esta armadura deve proteg\xEA-lo
+      do perigo."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18609209368
+    m_Localized: "Prote\xE7\xE3o contra ataques pesados"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18609209369
+    m_Localized: Armadura do Cavaleiro
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18609209370
+    m_Localized: "Nenhuma porta trancada ficar\xE1 entre voc\xEA e seus despojos."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18609209371
+    m_Localized: Abre uma porta trancada
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18609209372
+    m_Localized: Gazua
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18609209373
+    m_Localized: "Anime o seu dia com este \xF3timo pacote de moedas!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18609209374
+    m_Localized: "Adiciona 1500 moedas ao invent\xE1rio de Bob"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18609209375
+    m_Localized: Pacote da Sorte
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18609209376
+    m_Localized: "Aproveite sua vida no luxo! Voc\xEA nunca mais precisar\xE1 trabalhar
+      de novo!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18609209377
+    m_Localized: "Adiciona 10.000 moedas ao invent\xE1rio de Bob"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18609209378
+    m_Localized: "Pacote da Lux\xFAria"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18609209379
+    m_Localized: Chomp chomp
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18609209380
+    m_Localized: Chomp chomp
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18609209381
+    m_Localized: Chompzilla
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18609209382
+    m_Localized: "N\xE3o gosto deles. S\xE3o muito chatos. Eles ficam andando pelo
+      ch\xE3o fazendo barulhos irritantes!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18609209383
+    m_Localized: "Uma distra\xE7\xE3o barulhenta"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18609209384
+    m_Localized: Brinquedo de Corda
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18609209385
+    m_Localized: "Com este uniforme de ninja das Organiza\xE7\xF5es Tabajara, voc\xEA
+      pode fingir que \xE9 ninja de verdade!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18609209386
+    m_Localized: Agora 100% mais silencioso!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18609209387
+    m_Localized: Uniforme de Ninja
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18609209388
+    m_Localized: Moedas insuficientes
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18609209389
+    m_Localized: "Voc\xEA pode rechear sua carteira agora comprando mais moedas."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18609209390
+    m_Localized: Este porquinho engorda com cada moeda coletada!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18609209391
+    m_Localized: Pague para abrir. Reinicia quando aberto.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18609209392
+    m_Localized: Cofre de porquinho
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18609209393
+    m_Localized: "Cont\xE9m todas as vitaminas necess\xE1rias para um ladr\xE3o em
+      fase de crescimento! Mas s\xF3 dura alguns segundos."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18609209394
+    m_Localized: "Faz Bob ficar invis\xEDvel"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18609209395
+    m_Localized: "L\xEDquido Estranho"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18613403648
+    m_Localized: "Se voc\xEA n\xE3o for mais inteligente que algu\xE9m, ainda sobra
+      a possibilidade de ser mais r\xE1pido."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18613403649
+    m_Localized: Velocidade
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18613403650
+    m_Localized: "Permite correr at\xE9 mais longe. Ficar sem ar \xE9 horr\xEDvel,
+      d\xE1 um inc\xF4modo forte."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18613403651
+    m_Localized: "F\xF4lego"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18613403652
+    m_Localized: "Ficar em sil\xEAncio e se mover rapidamente s\xE3o os segredos
+      de todo ladr\xE3o ou ninja."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18613403653
+    m_Localized: Furtivo
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18613403654
+    m_Localized: "Se voc\xEA tem mais dinheiro do que consegue gastar, por que n\xE3o
+      demonstra?"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18613403655
+    m_Localized: "Para ladr\xF5es de classe"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18613403656
+    m_Localized: Uniforme Estiloso
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18613403657
+    m_Localized: "Super-her\xF3is merecem ter uma boa vida. Esta capa certamente
+      melhorar\xE1 a sua."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18613403658
+    m_Localized: Tem uma capa irada
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18613403659
+    m_Localized: Uniforme do Super Bob
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18613403660
+    m_Localized: "A Mina de Teletransporte levar\xE1 os distra\xEDdos que pisarem
+      nela para um lugar desconhecido."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18613403661
+    m_Localized: "Teletransportador port\xE1til"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18613403662
+    m_Localized: Mina de Teletransporte
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18613403663
+    m_Localized: "Para um ladr\xE3o que tem tudo, \xE9 preciso ser criativo na hora
+      de gastar!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18613403664
+    m_Localized: "Adiciona 22.000 moedas ao invent\xE1rio de Bob"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18613403665
+    m_Localized: Pacote do Tesouro
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18613403669
+    m_Localized: "Voc\xEA tem cara de rico! Os meus produtos devem ser \xFAteis para
+      voc\xEA. D\xEA uma olhada."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18613403670
+    m_Localized: "Quer o qu\xEA?"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18613403671
+    m_Localized: "Bem-vindo ao covil do roubo! Me d\xEA algumas moedas e veja os
+      meus produtos!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18613403672
+    m_Localized: "Vai levar o qu\xEA?"
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []

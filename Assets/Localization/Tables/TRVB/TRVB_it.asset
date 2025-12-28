@@ -1,0 +1,172 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: TRVB_it
+  m_EditorClassIdentifier: Unity.Localization::UnityEngine.Localization.Tables.StringTable
+  m_LocaleId:
+    m_Code: it
+  m_SharedData: {fileID: 11400000, guid: 97402f528cb33644bbadbb7e28bb5d69, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 17648713728
+    m_Localized: Italian
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17686462464
+    m_Localized: Text
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17686462465
+    m_Localized: "La tuta da coniglio pu\xF2 impedire alle guardie di inseguire Bob.
+      Usala ovunque per i prossimi \"X\" minuti!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17686462466
+    m_Localized: "Bob pu\xF2 allungarsi di pi\xF9 per ottenere il bottino. Sfrutta
+      la capacit\xE0 di rubare migliorata per i prossimi \"X\" minuti!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17686462467
+    m_Localized: "La rapidit\xE0 \xE8 tipica di un bravo ladro. Sfrutta la velocit\xE0
+      migliorata per i prossimi \"X\" minuti!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17686462468
+    m_Localized: "Sai che Bob pu\xF2 correre una maratona? Sfrutta la resistenza
+      migliorata per i prossimi \"X\" minuti!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17686462469
+    m_Localized: "Vuoi essere pi\xF9 furtivo? Sfrutta la furtivit\xE0 migliorata
+      per i prossimi \"X\" minuti!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17686462470
+    m_Localized: "Con l'Armatura del cavaliere, le guardie non acciufferanno Bob,
+      ma lui non potr\xE0 nemmeno scappare. Usala ovunque per i prossimi \"X\" minuti!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17686462471
+    m_Localized: "Bob pu\xF2 allungarsi di pi\xF9 per prendere il bottino. Sfrutta
+      la capacit\xE0 di rubare al massimo livello per i prossimi \"X\" minuti!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17686462472
+    m_Localized: "La rapidit\xE0 \xE8 tipica di un bravo ladro. Sfrutta la velocit\xE0
+      al massimo livello per i prossimi \"X\" minuti!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17690656768
+    m_Localized: "Sai che Bob pu\xF2 correre una maratona? Sfrutta la resistenza
+      al massimo livello per i prossimi \"X\" minuti!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17690656769
+    m_Localized: "Vuoi essere pi\xF9 furtivo? Sfrutta la furtivit\xE0 al massimo
+      livello per i prossimi \"X\" minuti!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17690656770
+    m_Localized: La tuta da ninja rende Bob silenzioso mentre corre o sfonda le porte.
+      Usala ovunque per i prossimi "X" minuti!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17690656771
+    m_Localized: L'abito perfetto per il ladro elegante. Usalo ovunque per i prossimi
+      "X" minuti!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17690656772
+    m_Localized: "Corri cos\xEC velocemente che le guardie non riescono a vederti
+      con la tuta da Super Bob. Usala ovunque per i prossimi \"X\" minuti!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17690656773
+    m_Localized: Il bonus scade tra "X"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17690656774
+    m_Localized: Acquista in negozio
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17690656775
+    m_Localized: Chiamata
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17690656776
+    m_Localized: Gratis
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17690656777
+    m_Localized: TUTA DA CONIGLIO
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17690656778
+    m_Localized: "CAPACIT\xC0 DI RUBARE MIGLIORATA"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17690656779
+    m_Localized: ARMATURA DEL CAVALIERE
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17690656780
+    m_Localized: TUTA DA NINJA
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17690656781
+    m_Localized: "VELOCIT\xC0 MIGLIORATA"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17690656782
+    m_Localized: RESISTENZA MIGLIORATA
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17690656783
+    m_Localized: "FURTIVIT\xC0 MIGLIORATA"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17690656784
+    m_Localized: ABITO ELEGANTE
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17690656785
+    m_Localized: TUTA DA SUPER BOB
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17690656786
+    m_Localized: PROVA GRATIS UN VESTITO
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17690656787
+    m_Localized: "MIGLIORA GRATIS LA CAPACIT\xC0 DI RUBARE"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17690656788
+    m_Localized: "MIGLIORA GRATIS LA VELOCIT\xC0"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17690656789
+    m_Localized: MIGLIORA GRATIS LA RESISTENZA
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17690656790
+    m_Localized: "MIGLIORA GRATIS LA FURTIVIT\xC0"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17690656791
+    m_Localized: L'offerta scade tra "X"
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []

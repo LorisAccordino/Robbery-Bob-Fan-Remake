@@ -1,0 +1,172 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: TRVB_id
+  m_EditorClassIdentifier: Unity.Localization::UnityEngine.Localization.Tables.StringTable
+  m_LocaleId:
+    m_Code: id
+  m_SharedData: {fileID: 11400000, guid: 97402f528cb33644bbadbb7e28bb5d69, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 17648713728
+    m_Localized: Indonesian
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17686462464
+    m_Localized: Text
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17686462465
+    m_Localized: Pakaian Kelinci bisa menghentikan penjaga yang mengejar Bob. Pakai
+      di mana saja selama "X" menit!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17686462466
+    m_Localized: Bob bisa pergi lebih jauh untuk mendapat jarahan. Nikmati perbaikan
+      kemampuan ambil selama "X" menit ke depan!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17686462467
+    m_Localized: Pencuri yang cekatan adalah pencuri yang baik. Nikmati perbaikan
+      kecepatan selama "X" menit ke depan!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17686462468
+    m_Localized: Tahukah kamu Bob bisa lari maraton? Nikmati perbaikan stamina selama
+      "X" menit ke depan!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17686462469
+    m_Localized: Ingin lebih lihai? Nikmati perbaikan kasat mata selama "X" menit
+      ke depan!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17686462470
+    m_Localized: Dengan Baju Baja Kesatria penjaga tak bisa menangkap Bob, tapi dia
+      pun tak bisa lari juga. Pakai di mana saja selama "X" menit!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17686462471
+    m_Localized: Bob bisa pergi lebih jauh untuk mendapat jarahan. Nikmati kemampuan
+      ambil maksimal selama "X" menit ke depan!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17686462472
+    m_Localized: Pencuri yang cekatan adalah pencuri yang baik. Nikmati kecepatan
+      maksimal selama "X" menit ke depan!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17690656768
+    m_Localized: Tahukah kamu Bob bisa lari maraton? Nikmati stamina maksimal selama
+      "X" menit ke depan!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17690656769
+    m_Localized: Ingin lebih lihai? Nikmati kasat mata maksimal selama "X" menit
+      ke depan!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17690656770
+    m_Localized: Pakaian Ninja membuat Bob tak bersuara saat berlari atau menerobos
+      pintu. Pakai di mana saja selama "X" menit!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17690656771
+    m_Localized: Hanya pakaian bagi pencuri berkelas. Pakai di mana saja selama "X"
+      menit!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17690656772
+    m_Localized: Berlari sedemikan cepat sehingga penjaga tidak bisa melihatmu dengan
+      Pakaian Bob Super. Pakai di mana saja selama "X" menit!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17690656773
+    m_Localized: Bonus berakhir dalam "X"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17690656774
+    m_Localized: Beli di Toko
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17690656775
+    m_Localized: Memanggil
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17690656776
+    m_Localized: Gratis
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17690656777
+    m_Localized: PAKAIAN KELINCI
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17690656778
+    m_Localized: PERBAIKAN KEMAMPUAN AMBIL
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17690656779
+    m_Localized: BAJU BAJA KESATRIA
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17690656780
+    m_Localized: PAKAIAN NINJA
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17690656781
+    m_Localized: PERBAIKAN KECEPATAN
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17690656782
+    m_Localized: PERBAIKAN STAMINA
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17690656783
+    m_Localized: PERBAIKAN KASAT MATA
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17690656784
+    m_Localized: PAKAIAN BERGAYA
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17690656785
+    m_Localized: PAKAIAN BOB SUPER
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17690656786
+    m_Localized: MENCOBA KOSTUM SECARA GRATIS
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17690656787
+    m_Localized: MEMPERBAIKI KEMAMPUAN AMBIL SECARA GRATIS
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17690656788
+    m_Localized: MEMPERBAIKI KECEPATAN SECARA GRATIS
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17690656789
+    m_Localized: MEMPERBAIKI STAMINA SECARA GRATIS
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17690656790
+    m_Localized: MEMPERBAIKI KASAT MATA SECARA GRATIS
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17690656791
+    m_Localized: Penawaran berakhir dalam "X"
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []

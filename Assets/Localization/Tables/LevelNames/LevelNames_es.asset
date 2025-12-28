@@ -1,0 +1,727 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: LevelNames_es
+  m_EditorClassIdentifier: Unity.Localization::UnityEngine.Localization.Tables.StringTable
+  m_LocaleId:
+    m_Code: es
+  m_SharedData: {fileID: 11400000, guid: 5ff1c1d18f06e74428bf3b10078e8de4, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 19133497344
+    m_Localized: Avanzado
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19167051776
+    m_Localized: Avanzado 1
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19171246080
+    m_Localized: Avanzado 2
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19171246081
+    m_Localized: Avanzado 3
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19171246082
+    m_Localized: Avanzado 4
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19171246083
+    m_Localized: Avanzado 5
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19171246084
+    m_Localized: Avanzado 6
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19171246085
+    m_Localized: Avanzado 7
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19171246086
+    m_Localized: Avanzado 8
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19171246087
+    m_Localized: Avanzado 9
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19171246088
+    m_Localized: Avanzado 10
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19171246089
+    m_Localized: Avanzado 11
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19171246090
+    m_Localized: Avanzado 12
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19171246091
+    m_Localized: Avanzado 13
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19171246092
+    m_Localized: Avanzado 14
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19171246093
+    m_Localized: Avanzado 15
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19171246094
+    m_Localized: Bonus
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19171246095
+    m_Localized: Bonus 1
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19171246096
+    m_Localized: Bonus 2
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19171246097
+    m_Localized: Bonus 3
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19171246098
+    m_Localized: Bonus 4
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19171246099
+    m_Localized: Bonus 5
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19179634688
+    m_Localized: Bonus 6
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19179634689
+    m_Localized: Bonus 7
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19179634690
+    m_Localized: Bonus 8
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19179634691
+    m_Localized: Bonus 9
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19179634692
+    m_Localized: Bonus 10
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19179634693
+    m_Localized: Bonus 11
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19179634694
+    m_Localized: Bonus 12
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19179634695
+    m_Localized: Bonus 13
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19179634696
+    m_Localized: Bonus 14
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19179634697
+    m_Localized: Bonus 15
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19179634698
+    m_Localized: "Desaf\xEDo"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19179634699
+    m_Localized: "Desaf\xEDo 1"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19179634700
+    m_Localized: "Desaf\xEDo 2"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19183828992
+    m_Localized: "Desaf\xEDo 3"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19183828993
+    m_Localized: "Desaf\xEDo 4"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19183828994
+    m_Localized: "Desaf\xEDo 5"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19188023296
+    m_Localized: "Desaf\xEDo 6"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19188023297
+    m_Localized: "Desaf\xEDo 7"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19188023298
+    m_Localized: "Desaf\xEDo 8"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19188023299
+    m_Localized: "Desaf\xEDo 9"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19188023300
+    m_Localized: "Desaf\xEDo 10"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19188023301
+    m_Localized: "Desaf\xEDo 11"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19188023302
+    m_Localized: "Desaf\xEDo 12"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19188023303
+    m_Localized: "Desaf\xEDo 13"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19188023304
+    m_Localized: "Desaf\xEDo 14"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19188023305
+    m_Localized: "Desaf\xEDo 15"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19188023306
+    m_Localized: Centro
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19188023307
+    m_Localized: "Helader\xEDa Biff"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19188023308
+    m_Localized: "\xBFQu\xE9 ha sido eso?"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19188023309
+    m_Localized: Bob disfrazado
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19188023310
+    m_Localized: Cambio de estrategia
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19188023311
+    m_Localized: "Ladr\xF3n de oficinas"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19188023312
+    m_Localized: "S\xEDgueme"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19188023313
+    m_Localized: Turno de noche
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19188023314
+    m_Localized: "C\xE1mara oculta"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19188023315
+    m_Localized: Problemas de furia
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19188023316
+    m_Localized: Pasta gansa
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19192217600
+    m_Localized: "\xA1Quieto!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19192217601
+    m_Localized: Tanto trabajar...
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19192217602
+    m_Localized: Cloud City Ribs
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19192217603
+    m_Localized: "Noche en la comisar\xEDa"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19192217604
+    m_Localized: "Retribuci\xF3n"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19192217605
+    m_Localized: Extras
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19192217606
+    m_Localized: Extras 1
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19192217607
+    m_Localized: Extras 2
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19192217608
+    m_Localized: Extras 3
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19192217609
+    m_Localized: Extras 4
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19192217610
+    m_Localized: Extras 5
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19192217611
+    m_Localized: Extras 6
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19192217612
+    m_Localized: Extras 7
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19192217613
+    m_Localized: Extras 8
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19192217614
+    m_Localized: Extras 9
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19192217615
+    m_Localized: Extras 10
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19192217616
+    m_Localized: Extras 11
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19192217617
+    m_Localized: Extras 12
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19192217618
+    m_Localized: Extras 13
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19192217619
+    m_Localized: Extras 14
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19196411904
+    m_Localized: Extras 15
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19196411905
+    m_Localized: Rascacielos
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19196411906
+    m_Localized: Rascacielos 1
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19196411907
+    m_Localized: Rascacielos 2
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19196411908
+    m_Localized: Rascacielos 3
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19196411909
+    m_Localized: Rascacielos 4
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19196411910
+    m_Localized: Rascacielos 5
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19196411911
+    m_Localized: Rascacielos 6
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19196411912
+    m_Localized: Rascacielos 7
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19196411913
+    m_Localized: Rascacielos 8
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19196411914
+    m_Localized: Rascacielos 9
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19196411915
+    m_Localized: Rascacielos 10
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19196411916
+    m_Localized: Rascacielos 11
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19196411917
+    m_Localized: Rascacielos 12
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19196411918
+    m_Localized: Rascacielos 13
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19196411919
+    m_Localized: Rascacielos 14
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19196411920
+    m_Localized: Rascacielos 15
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19204800512
+    m_Localized: "Prisi\xF3n"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19204800513
+    m_Localized: "Prisi\xF3n 1"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19204800514
+    m_Localized: "Prisi\xF3n 2"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19204800515
+    m_Localized: "Prisi\xF3n 3"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19204800516
+    m_Localized: "Prisi\xF3n 4"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19204800517
+    m_Localized: "Prisi\xF3n 5"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19204800518
+    m_Localized: "Prisi\xF3n 6"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19229966336
+    m_Localized: "Prisi\xF3n 7"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19229966337
+    m_Localized: "Prisi\xF3n 8"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19229966338
+    m_Localized: "Prisi\xF3n 9"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19229966339
+    m_Localized: "Prisi\xF3n 10"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19229966340
+    m_Localized: "Prisi\xF3n 11"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19229966341
+    m_Localized: "Prisi\xF3n 12"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19229966342
+    m_Localized: "Prisi\xF3n 13"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19229966343
+    m_Localized: "Prisi\xF3n 14"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19229966344
+    m_Localized: "Prisi\xF3n 15"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19229966345
+    m_Localized: Laboratorios secretos
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19229966346
+    m_Localized: "\xA1Atrapado!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19229966347
+    m_Localized: "A qui\xE9n le importa el l\xE1ser"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19229966348
+    m_Localized: "Huye de los l\xE1seres"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19229966349
+    m_Localized: "Boogie el\xE9ctrico"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19229966350
+    m_Localized: Un terrible error
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19234160640
+    m_Localized: Al otro lado de la tierra
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19234160641
+    m_Localized: "Desechos t\xF3xicos"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19234160642
+    m_Localized: "Aqu\xED est\xE1 el Limonador"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19234160643
+    m_Localized: "Misi\xF3n: Implausible"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19234160644
+    m_Localized: Salida secreta
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19234160645
+    m_Localized: "\xBFSubes?"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19234160646
+    m_Localized: 'Planes: Frustrados'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19234160647
+    m_Localized: Retorno
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19234160648
+    m_Localized: Ya casi estamos
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19234160649
+    m_Localized: Fuegos artificiales
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19234160650
+    m_Localized: Suburbios
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19234160651
+    m_Localized: Un gran favor
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19234160652
+    m_Localized: No hay nadie en casa
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19234160653
+    m_Localized: Una vista memorable
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19234160654
+    m_Localized: Chupado
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19234160655
+    m_Localized: Haciendo ruido
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19234160656
+    m_Localized: Supervillano
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19234160657
+    m_Localized: "Bob est\xE1 lleno de sorpresas"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19234160658
+    m_Localized: Burocracia
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19234160659
+    m_Localized: La gaviota blanca
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19234160660
+    m_Localized: "La llave de su coraz\xF3n"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19234160661
+    m_Localized: La jet set
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19234160662
+    m_Localized: El mejor amigo de Bob
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19234160663
+    m_Localized: Negocio familiar
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19234160664
+    m_Localized: La encerrona
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19234160665
+    m_Localized: Ajuste de cuentas
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19234160666
+    m_Localized: Campamento de Verano
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19234160667
+    m_Localized: Campamento de Verano 1
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19234160668
+    m_Localized: Campamento de Verano 2
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19234160669
+    m_Localized: Campamento de Verano 3
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19234160670
+    m_Localized: Campamento de Verano 4
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19234160671
+    m_Localized: Campamento de Verano 5
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19234160672
+    m_Localized: Campamento de Verano 6
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19234160673
+    m_Localized: Campamento de Verano 7
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19234160674
+    m_Localized: Campamento de Verano 8
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19234160675
+    m_Localized: Campamento de Verano 9
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19234160676
+    m_Localized: Campamento de Verano 10
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19234160677
+    m_Localized: Campamento de Verano 11
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19234160678
+    m_Localized: Campamento de Verano 12
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19234160679
+    m_Localized: Campamento de Verano 13
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19234160680
+    m_Localized: Campamento de Verano 14
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19234160681
+    m_Localized: Campamento de Verano 15
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19234160682
+    m_Localized: Invierno
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19234160683
+    m_Localized: Invierno 1
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19234160684
+    m_Localized: Invierno 2
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19234160685
+    m_Localized: Invierno 3
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19234160686
+    m_Localized: Invierno 4
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19234160687
+    m_Localized: Invierno 5
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19234160688
+    m_Localized: Invierno 6
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19234160689
+    m_Localized: Invierno 7
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19234160690
+    m_Localized: Invierno 8
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19234160691
+    m_Localized: Invierno 9
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19234160692
+    m_Localized: Invierno 10
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19234160693
+    m_Localized: Invierno 11
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19234160694
+    m_Localized: Invierno 12
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19234160695
+    m_Localized: Invierno 13
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19234160696
+    m_Localized: Invierno 14
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19234160697
+    m_Localized: Invierno 15
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []

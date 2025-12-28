@@ -1,0 +1,167 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: Hints_en
+  m_EditorClassIdentifier: Unity.Localization::UnityEngine.Localization.Tables.StringTable
+  m_LocaleId:
+    m_Code: en
+  m_SharedData: {fileID: 11400000, guid: 4405daaa85300c248a8644aa131eb1a0, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 24942608384
+    m_Localized: You can toggle floating controls in the Pause menu
+    m_Metadata:
+      m_Items: []
+  - m_Id: 24942608385
+    m_Localized: Most civilians will call the police if they catch Bob inside their
+      houses
+    m_Metadata:
+      m_Items: []
+  - m_Id: 24942608386
+    m_Localized: In a pickle, Bob can hide behind doors
+    m_Metadata:
+      m_Items: []
+  - m_Id: 24942608387
+    m_Localized: Most guards are out of shape and tire easily
+    m_Metadata:
+      m_Items: []
+  - m_Id: 24942608388
+    m_Localized: Bob can push close an open door
+    m_Metadata:
+      m_Items: []
+  - m_Id: 24942608389
+    m_Localized: When Bob sleeps he dreams about ninjas
+    m_Metadata:
+      m_Items: []
+  - m_Id: 24942608390
+    m_Localized: Bob can shimmy along walls to be extra sneaky
+    m_Metadata:
+      m_Items: []
+  - m_Id: 24942608391
+    m_Localized: Pinch the screen to zoom out to an overview of the entire level
+    m_Metadata:
+      m_Items: []
+  - m_Id: 24942608392
+    m_Localized: Be on the look-out for places to hide when a guard is coming your
+      way
+    m_Metadata:
+      m_Items: []
+  - m_Id: 24942608393
+    m_Localized: Running is much noisier than sneaking
+    m_Metadata:
+      m_Items: []
+  - m_Id: 24942608394
+    m_Localized: Use the fast-forward button when you're waiting for a guard to pass
+    m_Metadata:
+      m_Items: []
+  - m_Id: 24942608395
+    m_Localized: Shadow Bob can help you find the best way past a tricky guard
+    m_Metadata:
+      m_Items: []
+  - m_Id: 24942608396
+    m_Localized: Bob will drop his Disguise if he tries to run
+    m_Metadata:
+      m_Items: []
+  - m_Id: 24942608397
+    m_Localized: Pay attention to where guards are looking. They don't have eyes
+      in the back of their heads...
+    m_Metadata:
+      m_Items: []
+  - m_Id: 24942608398
+    m_Localized: If Bob triggers an alarm, try to hide until the coast is clear
+    m_Metadata:
+      m_Items: []
+  - m_Id: 24942608399
+    m_Localized: Press the [em]Overview[/] button to zoom out and view the entire
+      level.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 24942608400
+    m_Localized: Most guards are out of shape and won't chase Bob for very long.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 24942608401
+    m_Localized: Some guards will notice open doors and will investigate.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 24942608402
+    m_Localized: When Bob sleeps he dreams about cartoon ninjas.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 24942608403
+    m_Localized: Bob can shimmy along walls to be extra sneaky!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 24942608404
+    m_Localized: Even if Bob trips a laser alarm, he technically hasn't been seen
+      yet.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 24942608405
+    m_Localized: The [em]Teleporter mine[/] (patent pending) is an foolproof way
+      to make guards disappear.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 24946802688
+    m_Localized: Too slow? Spend picked up coins on a speed upgrade!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 24946802689
+    m_Localized: Upgrading Bob's [em]grab-ability[/] will extend his reach.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 24946802690
+    m_Localized: Bob's true talent is his ability to see the value in other people's
+      junk.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 24946802691
+    m_Localized: Be on the lookout for places to hide when a guard is coming your
+      way.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 24946802692
+    m_Localized: Guards can hear you if you run.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 24946802693
+    m_Localized: Press the [em]Fast-forward[/] button when you're waiting for a guard
+      to pass.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 24946802694
+    m_Localized: Disguises will make you practically invisible, but you can't run
+      or pick up loot while wearing them.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 24946802695
+    m_Localized: Pay attention to where guards are facing. They don't have eyes in
+      the back of their heads.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 24946802696
+    m_Localized: If Bob triggers an alarm, he can try to hide until the coast is
+      clear.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 24946802697
+    m_Localized: Civilians will call the police if they spot Bob inside their house.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 24946802698
+    m_Localized: In a pickle Bob can hide behind an open door.
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []

@@ -1,0 +1,895 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: LootNames_it
+  m_EditorClassIdentifier: Unity.Localization::UnityEngine.Localization.Tables.StringTable
+  m_LocaleId:
+    m_Code: it
+  m_SharedData: {fileID: 11400000, guid: 56308ec015554634f8febbfd4481ade0, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 18416271360
+    m_Localized: Bowling palla
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18416271361
+    m_Localized: Batteria AAA
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18416271362
+    m_Localized: Duplicatore di antimateria
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18416271363
+    m_Localized: Gomitolo di lana
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18416271364
+    m_Localized: Gomitolo di lana
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18416271365
+    m_Localized: Torta di compleanno
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18420465664
+    m_Localized: Cravattino
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18420465665
+    m_Localized: Trofeo di bowling
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18420465666
+    m_Localized: Corrompere i soldi
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18420465667
+    m_Localized: Disco rotto
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18420465668
+    m_Localized: Giocattolo rotto
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18420465669
+    m_Localized: Disco rotto
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18420465670
+    m_Localized: Forbici rotte
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18420465671
+    m_Localized: Giocattolo rotto
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18420465672
+    m_Localized: Scopa
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18420465673
+    m_Localized: Manciata di graffette
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18420465674
+    m_Localized: Fusibile bruciato
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18420465675
+    m_Localized: Calcolatrice
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18420465676
+    m_Localized: Compact disk
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18420465677
+    m_Localized: Grattugia
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18420465679
+    m_Localized: Disegno di bambini
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18420465680
+    m_Localized: "Circuito rel\xE8"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18420465681
+    m_Localized: Portablocco
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18420465682
+    m_Localized: "Macchina per il caff\xE8"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18420465683
+    m_Localized: Promemoria aziendale
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18420465684
+    m_Localized: Cook book
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18420465685
+    m_Localized: Pomodori critici
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18420465686
+    m_Localized: Fogli sgualciti
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18420465687
+    m_Localized: Cupcake
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18420465688
+    m_Localized: "Mezzo vuoto tazza di caff\xE8"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18420465689
+    m_Localized: "Mezzo pieno tazza di caff\xE8"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18420465690
+    m_Localized: Disco dati
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18420465691
+    m_Localized: Valigetta dello spacciatore
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18420465692
+    m_Localized: Mazzo di carte
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18420465693
+    m_Localized: Mazzo di carte
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18420465694
+    m_Localized: Dentiere
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18420465695
+    m_Localized: Lampada da tavolo
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18420465696
+    m_Localized: Detersivo
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18420465697
+    m_Localized: Orologio digitale
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18420465698
+    m_Localized: Vestiti sporchi
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18420465699
+    m_Localized: Documenti di divorzio
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18420465700
+    m_Localized: Ciotola del cane
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18424659968
+    m_Localized: Collare di cane
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18424659969
+    m_Localized: Cibo per cani
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18424659970
+    m_Localized: Cagnolino toy
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18424659971
+    m_Localized: Ciambella
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18424659972
+    m_Localized: Nastro adesivo
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18424659973
+    m_Localized: Comic polveroso
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18424659974
+    m_Localized: Modello di ET
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18424659975
+    m_Localized: Portafoglio vuoto
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18424659976
+    m_Localized: Portafoglio vuoto
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18424659977
+    m_Localized: Enciclopedia
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18424659978
+    m_Localized: Enciclopedia F-J
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18424659979
+    m_Localized: Enciclopedia K-O
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18424659980
+    m_Localized: Enciclopedia P-R
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18424659981
+    m_Localized: Enciclopedia S-U
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18424659982
+    m_Localized: Enciclopedia V-Z
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18424659983
+    m_Localized: Abito per travestimento
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18424659984
+    m_Localized: Boa di piume
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18424659985
+    m_Localized: Portachiavi
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18424659986
+    m_Localized: Manciata di centesimi
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18424659987
+    m_Localized: Vassoio di cibo
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18424659988
+    m_Localized: Collettore di Fresnel
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18424659989
+    m_Localized: Padella
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18424659990
+    m_Localized: Popcorn gigante
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18424659991
+    m_Localized: Braccialetto doro
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18424659992
+    m_Localized: Cassa della chitarra
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18424659993
+    m_Localized: Orsetti gommosi
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18424659994
+    m_Localized: "Mezza tazza di caff\xE8"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18424659995
+    m_Localized: Panino al prosciutto
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18424659996
+    m_Localized: Localizzatore del bosone di Higgs
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18424659997
+    m_Localized: Hot dog
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18424659998
+    m_Localized: Bolletta di casa
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18424659999
+    m_Localized: Enorme penny
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18424660000
+    m_Localized: Statuetta giapponese
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18424660001
+    m_Localized: Portagioie
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18424660002
+    m_Localized: Tastiera
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18424660003
+    m_Localized: Portachiavi
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18424660004
+    m_Localized: Lettiera per gatti
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18424660005
+    m_Localized: Camice da laboratorio
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18424660006
+    m_Localized: Computer portatile
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18424660007
+    m_Localized: Ottiche laser
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18424660008
+    m_Localized: Laser pistola giocattolo
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18424660009
+    m_Localized: Perdite secchio
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18424660010
+    m_Localized: Avanzi di bistecca
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18424660011
+    m_Localized: Pezzo di spago
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18424660012
+    m_Localized: Lampadina
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18424660013
+    m_Localized: Dadi truccati
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18424660014
+    m_Localized: Biglie sparse
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18424660015
+    m_Localized: Posta
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18424660016
+    m_Localized: Evidenziatore
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18424660017
+    m_Localized: Passe-partout
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18424660018
+    m_Localized: Menu
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18424660019
+    m_Localized: Microfono
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18424660020
+    m_Localized: Telefono cellulare
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18424660021
+    m_Localized: Mouse pad
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18424660022
+    m_Localized: Tovagliolo
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18424660023
+    m_Localized: Blocco per appunti
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18424660024
+    m_Localized: Penna divertente
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18424660071
+    m_Localized: Telefono ufficio
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18424660072
+    m_Localized: Vecchie riviste
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18428854272
+    m_Localized: Vecchio giornale
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18428854273
+    m_Localized: Scarpa vecchia
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18428854274
+    m_Localized: Quadro dipinto
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18428854275
+    m_Localized: Prototipo parziale
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18428854276
+    m_Localized: Dispositivo emettitore di particelle
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18428854277
+    m_Localized: Noccioline
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18428854278
+    m_Localized: Pallina
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18428854279
+    m_Localized: Matita
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18428854280
+    m_Localized: Pratiche del personale
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18428854281
+    m_Localized: Numero di telefono
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18428854282
+    m_Localized: Rubrica telefonica
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18428854283
+    m_Localized: Fotografia
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18428854284
+    m_Localized: Busta di plastica
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18428854285
+    m_Localized: Bicchiere di plastica
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18428854286
+    m_Localized: Forchetta di plastica
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18428854287
+    m_Localized: Chip
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18428854288
+    m_Localized: Rilevatore di neutrini portatile
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18428854289
+    m_Localized: Separatore di positroni
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18428854290
+    m_Localized: Pianta in vaso
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18428854291
+    m_Localized: Costolette di carne
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18428854292
+    m_Localized: A distanza
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18428854293
+    m_Localized: Schedario rotativo
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18428854294
+    m_Localized: Relazione scientifica
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18428854295
+    m_Localized: Gratta e vinci usati
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18428854296
+    m_Localized: Ricetta dello stufato di gabbiano
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18428854297
+    m_Localized: Cane giocattolo
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18428854298
+    m_Localized: Qualcosa di puzzolente
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18428854299
+    m_Localized: Qualcosa di appiccicoso
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18428854300
+    m_Localized: Soup du Jour
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18428854301
+    m_Localized: Candela daccensione
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18428854302
+    m_Localized: Diluizione spaziale
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18428854303
+    m_Localized: Mucchio di carta
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18428854304
+    m_Localized: Cucitrice
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18428854305
+    m_Localized: Carta da lettere
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18428854306
+    m_Localized: Contenitore di polistirolo
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18428854307
+    m_Localized: Modellino di Super Bob
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18428854308
+    m_Localized: Fumetto di Super Bob
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18428854309
+    m_Localized: Aringhe in scatola
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18428854310
+    m_Localized: Rapporto TPS
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18428854311
+    m_Localized: Telecomando
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18428854312
+    m_Localized: Computer tablet
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18428854313
+    m_Localized: Tarantula-Man Issue #1
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18428854314
+    m_Localized: Provette
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18428854315
+    m_Localized: Carta igienica
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18428854316
+    m_Localized: Wok
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18428854317
+    m_Localized: Stuzzicadenti
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18428854318
+    m_Localized: Chiavetta USB
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18428854319
+    m_Localized: Frammento di unobtanium
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18428854320
+    m_Localized: Spazzolino da denti usato
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18428854321
+    m_Localized: Gratta e Vinci usato
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18428854322
+    m_Localized: Spazzolino da denti usato
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18428854323
+    m_Localized: Nastro videoregistratore
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18428854324
+    m_Localized: Registratore vocale
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18428854325
+    m_Localized: Biglietto vincente
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18428854326
+    m_Localized: Pianta avvizzita
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18428854327
+    m_Localized: Giornale di ieri
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18428854328
+    m_Localized: Bob fumetto
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18428854329
+    m_Localized: Barra di cioccolato
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18428854330
+    m_Localized: Dadi a sei
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18428854331
+    m_Localized: Delizioso Ciambella
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18428854332
+    m_Localized: Floppy disk
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18428854333
+    m_Localized: Rivista di moda
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18428854334
+    m_Localized: Rivista di musica
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18428854335
+    m_Localized: Magazine gioco
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18428854336
+    m_Localized: Guadagni giornalieri
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18428854337
+    m_Localized: Biglietti gratta e vinci
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18428854338
+    m_Localized: I soldi
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18428854339
+    m_Localized: Dollari
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18428854340
+    m_Localized: Computer portatile
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18428854341
+    m_Localized: Due dollari
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18433048576
+    m_Localized: Una piccola fortuna
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18433048577
+    m_Localized: Camera prototipo
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18433048578
+    m_Localized: "Attestato di tranquillit\xE0"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18433048579
+    m_Localized: Malloppo
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18433048580
+    m_Localized: Centoni
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18433048581
+    m_Localized: World of Woodcraft
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18433048582
+    m_Localized: Costolette glassate al miele
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18433048583
+    m_Localized: Prova incriminante
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18433048584
+    m_Localized: Grande mucchio di quattrini
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18433048585
+    m_Localized: Trinitrossipropano
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18433048586
+    m_Localized: Codici di taratura
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18433048587
+    m_Localized: Prisma di cristallo
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18433048588
+    m_Localized: Inibitore delle armoniche spettrali
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18433048589
+    m_Localized: Batterie antimateria
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18433048590
+    m_Localized: Alimenti per animali
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18433048591
+    m_Localized: Tazza di trimetilxantina
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18433048592
+    m_Localized: Codici di accesso rampa di lancio
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18433048593
+    m_Localized: Dispositivo P.A.L.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18433048594
+    m_Localized: Barretta di cioccolato
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18433048595
+    m_Localized: 'Codice di accesso: Alfa'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18433048596
+    m_Localized: 'Codice di accesso: Beta'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18433048597
+    m_Localized: 'Codice di accesso: Gamma'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18433048598
+    m_Localized: 'Codice di accesso: Omega'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18433048599
+    m_Localized: Autodistruzione avviata
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18433048600
+    m_Localized: Valigetta del trafficante
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18433048601
+    m_Localized: Nessuno in casa
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18433048602
+    m_Localized: Telecomando TV
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18433048603
+    m_Localized: Padella
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18433048604
+    m_Localized: Far rumore
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18433048605
+    m_Localized: Problema uomo tarantola no1
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18433048606
+    m_Localized: Portachiavi
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18433048607
+    m_Localized: '"Documenti legali"'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18433048608
+    m_Localized: Ricetta dello stufato di gabbiano
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18433048609
+    m_Localized: Numero di telefono
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18433048610
+    m_Localized: Dipinto
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18433048611
+    m_Localized: Biglietto vincente
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18433048612
+    m_Localized: Dadi truccati
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18433048613
+    m_Localized: Passe-partout
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18433048614
+    m_Localized: Telefono
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18433048615
+    m_Localized: Tesoro
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18433048616
+    m_Localized: Phonenumber
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18433048617
+    m_Localized: Grado di squali repellente
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18433048618
+    m_Localized: Lista della spesa
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18433048619
+    m_Localized: Vecchia calza
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18433048620
+    m_Localized: Qualcosa di appiccicoso
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18433048621
+    m_Localized: Figura di azione Super-Bob
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18433048622
+    m_Localized: Tincan vuoto
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []

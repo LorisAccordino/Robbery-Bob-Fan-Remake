@@ -1,0 +1,168 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: TRVB_en
+  m_EditorClassIdentifier: Unity.Localization::UnityEngine.Localization.Tables.StringTable
+  m_LocaleId:
+    m_Code: en
+  m_SharedData: {fileID: 11400000, guid: 97402f528cb33644bbadbb7e28bb5d69, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 17686462464
+    m_Localized: English
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17686462465
+    m_Localized: Bunny Suit can stop guards from chasing Bob. Use it anywhere for
+      the next "X" minutes!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17686462466
+    m_Localized: Bob can reach farther to get the loot. Enjoy your improved grab-ability
+      for the next "X" minutes!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17686462467
+    m_Localized: A quick thief is a good thief. Enjoy your improved speed for the
+      next "X" minutes!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17686462468
+    m_Localized: You know Bob can run a marathon? Enjoy your improved stamina for
+      the next "X" minutes!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17686462469
+    m_Localized: Wanna be more sneaky? Enjoy your improved stealth for the next "X"
+      minutes!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17686462470
+    m_Localized: With Knight's Armor guards won't bust Bob, but he can't run either.
+      Use it anywhere for the next "X" minutes!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17686462471
+    m_Localized: Bob can reach farther to get the loot. Enjoy your maxed out grab-ability
+      for the next "X" minutes!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17686462472
+    m_Localized: A quick thief is a good thief. Enjoy your maxed out speed for the
+      next "X" minutes!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17690656768
+    m_Localized: You know Bob can run a marathon? Enjoy your maxed out stamina for
+      the next "X" minutes!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17690656769
+    m_Localized: Wanna be more sneaky? Enjoy your maxed out stealth for the next
+      "X" minutes!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17690656770
+    m_Localized: Ninja Suit makes Bob silent while running or crashing through doors.
+      Use it anywhere for the next "X" minutes!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17690656771
+    m_Localized: Just the suit for the classy burglar. Use it anywhere for the next
+      "X" minutes!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17690656772
+    m_Localized: Dash so fast that guards can't spot you with Super Bob Suit. Use
+      it anywhere for the next "X" minutes!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17690656773
+    m_Localized: Bonus expires in "X"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17690656774
+    m_Localized: Buy in Store
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17690656775
+    m_Localized: Calling
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17690656776
+    m_Localized: Free
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17690656777
+    m_Localized: BUNNY SUIT
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17690656778
+    m_Localized: IMPROVED GRAB-ABILITY
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17690656779
+    m_Localized: KNIGHT'S ARMOR
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17690656780
+    m_Localized: NINJA SUIT
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17690656781
+    m_Localized: IMPROVED SPEED
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17690656782
+    m_Localized: IMPROVED STAMINA
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17690656783
+    m_Localized: IMPROVED STEALTH
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17690656784
+    m_Localized: STYLISH SUIT
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17690656785
+    m_Localized: SUPER BOB SUIT
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17690656786
+    m_Localized: TRY A COSTUME FOR FREE
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17690656787
+    m_Localized: IMPROVE GRAB-ABILITY FOR FREE
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17690656788
+    m_Localized: IMPROVE SPEED FOR FREE
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17690656789
+    m_Localized: IMPROVE STAMINA FOR FREE
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17690656790
+    m_Localized: IMPROVE STEALTH FOR FREE
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17690656791
+    m_Localized: Offer expires in "X"
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []

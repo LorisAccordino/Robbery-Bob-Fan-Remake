@@ -1,0 +1,334 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: InappItems_en
+  m_EditorClassIdentifier: Unity.Localization::UnityEngine.Localization.Tables.StringTable
+  m_LocaleId:
+    m_Code: en
+  m_SharedData: {fileID: 11400000, guid: 99e3c89befe70b44682eedb4793bff27, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 18609209347
+    m_Localized: This will look silly on you. So silly in fact, that it might distract
+      people from chasing you.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18609209348
+    m_Localized: Looks really goofy
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18609209349
+    m_Localized: Bunny suit
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18609209350
+    m_Localized: Valuables will be flying into your pockets without any effort.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18609209351
+    m_Localized: Grab-ability
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18609209352
+    m_Localized: Every coin you find is worth double! In the long run it's a great
+      investment!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18609209353
+    m_Localized: Doubles the amount of coins found in a level.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18609209354
+    m_Localized: Coin booster
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18609209355
+    m_Localized: A nice, quick way to get some new gadgets, or to get those upgrades
+      going!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18609209356
+    m_Localized: Adds %0 coins to Bob's inventory.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18609209357
+    m_Localized: Coin pack
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18609209358
+    m_Localized: These donuts look delicious, but their secret filling will turn
+      any poor stomach upside-down.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18609209359
+    m_Localized: Incapacitates guards
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18609209360
+    m_Localized: Rotten donut
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18609209361
+    m_Localized: This is a hefty amount of cash! Crank your abilities to the max,
+      or get your hands on a few outfits!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18609209362
+    m_Localized: Adds 4500 coins to Bob's inventory.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18609209363
+    m_Localized: Fortune pack
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18609209364
+    m_Localized: This suit is for use in hazardous environment conditions, whatever
+      that means.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18609209365
+    m_Localized: Have a very safe day.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18609209366
+    m_Localized: Hazmat suit
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18609209367
+    m_Localized: It's not the latest fashion, but this armor should keep you safe
+      from harm's way.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18609209368
+    m_Localized: Heavy-duty protection
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18609209369
+    m_Localized: Knight's Armor
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18609209370
+    m_Localized: No longer will a locked door stand between you and your loot.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18609209371
+    m_Localized: Unlocks a locked door
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18609209372
+    m_Localized: Lock pick
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18609209373
+    m_Localized: Brighten your day with this neat coin bonus!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18609209374
+    m_Localized: Adds 1500 coins to Bob's inventory.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18609209375
+    m_Localized: Lucky pack
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18609209376
+    m_Localized: Kick back in a life of luxury! You'll never have to work another
+      day in your life!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18609209377
+    m_Localized: Adds 10000 coins to Bob's inventory.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18609209378
+    m_Localized: Luxury pack
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18609209379
+    m_Localized: Chomp chomp
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18609209380
+    m_Localized: Chomp chomp
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18609209381
+    m_Localized: Chompzilla
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18609209382
+    m_Localized: I don't like these. They're so annoying. They dash across the floor
+      making annoying squeaks!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18609209383
+    m_Localized: A noisy distraction
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18609209384
+    m_Localized: Wind-up toy
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18609209385
+    m_Localized: With this faux-authentic ninja suit you can pretend to be a real
+      ninja!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18609209386
+    m_Localized: Now 100% more silent!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18609209387
+    m_Localized: Ninja suit
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18609209388
+    m_Localized: Not enough coins
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18609209389
+    m_Localized: You can top up your wallet right now by purchasing more coins
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18609209390
+    m_Localized: This little piggy fattens with every coin collected!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18609209391
+    m_Localized: Pay each time opened. Resets when open.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18609209392
+    m_Localized: Piggy bank
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18609209393
+    m_Localized: Includes all the vitamins a growing thief needs! It'll only last
+      a couple of seconds though.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18609209394
+    m_Localized: Turns Bob invisible
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18609209395
+    m_Localized: Invisibility potion
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18613403648
+    m_Localized: If you can't outsmart people, you can always outrun them.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18613403649
+    m_Localized: Speed
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18613403650
+    m_Localized: Lets you run further! Running out of steam is never fun, always
+      painful.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18613403651
+    m_Localized: Stamina
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18613403652
+    m_Localized: Staying quiet and moving fast is the key trait of any thief or ninja.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18613403653
+    m_Localized: Stealth
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18613403654
+    m_Localized: If you've got more money than you can spend, why not show it?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18613403655
+    m_Localized: For the classy burglar
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18613403656
+    m_Localized: Stylish suit
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18613403657
+    m_Localized: Super heroes sure live the good life. This will surely boost yours.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18613403658
+    m_Localized: Has a dashing cape
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18613403659
+    m_Localized: Super-Bob suit
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18613403660
+    m_Localized: The Teleporter Mine will teleport unknowing on-steppers to who-knows-where.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18613403661
+    m_Localized: Portable teleporter
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18613403662
+    m_Localized: Teleport mine
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18613403663
+    m_Localized: For the thief who has everything, there are ways to spend all that
+      hard earned cash!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18613403664
+    m_Localized: Adds 22000 coins to Bob's inventory.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18613403665
+    m_Localized: Treasury pack
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18613403666
+    m_Localized: I didn't know you had such great fashion sense!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18613403667
+    m_Localized: Unlocks all outfits
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18613403668
+    m_Localized: Wardrobe pack
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18613403669
+    m_Localized: You look rich already! Take a look at my wares. They should prove
+      helpful to you.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18613403670
+    m_Localized: Need somethin'?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18613403671
+    m_Localized: Welcome to my thievin' store! Have a few coins on me and check out
+      my wares!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18613403672
+    m_Localized: What're ya buyin'?
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []

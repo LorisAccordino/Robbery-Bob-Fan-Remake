@@ -1,0 +1,339 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: InappItems_id
+  m_EditorClassIdentifier: Unity.Localization::UnityEngine.Localization.Tables.StringTable
+  m_LocaleId:
+    m_Code: id
+  m_SharedData: {fileID: 11400000, guid: 99e3c89befe70b44682eedb4793bff27, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 18609209347
+    m_Localized: Ini akan terlihat lucu padamu. Saking lucunya, bisa mengalihkan
+      perhatian orang untuk tidak mengejarmu.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18609209348
+    m_Localized: Terlihat sangat tolol
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18609209349
+    m_Localized: Pakaian kelinci
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18609209350
+    m_Localized: Barang berharga akan terbang ke dalam sakumu tanpa usaha apa pun.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18609209351
+    m_Localized: Kemampuan mencomot
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18609209352
+    m_Localized: Setiap koin yang kamu temukan akan bernilai ganda! Dalam jangka
+      panjang, akan menjadi investasi yang hebat!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18609209353
+    m_Localized: Menggandakan jumlah koin yang ditemukan di suatu level.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18609209354
+    m_Localized: Pemacu koin
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18609209355
+    m_Localized: Cara keren dan cepat mendapatkan sejumlah perkakas baru, atau agar
+      peningkatan itu berlangsung!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18609209356
+    m_Localized: Menambahkan %0 koin ke inventori Bob.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18609209357
+    m_Localized: Pak koin
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18609209358
+    m_Localized: Donat ini kelihatannya lezat, tetapi isi rahasianya akan membuat
+      perut pemakannya melilit.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18609209359
+    m_Localized: Buat penjaga tidak berdaya
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18609209360
+    m_Localized: Donat basi
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18609209361
+    m_Localized: Jumlah uang yang banyak sekali! Tingkatkan kemampuanmu hingga maksimal,
+      atau coba kenakan beberapa pakaian!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18609209362
+    m_Localized: Menambahkan 4500 koin ke inventori Bob.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18609209363
+    m_Localized: Pak kekayaan
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18609209364
+    m_Localized: Pakaian ini digunakan untuk keadaan di lingkungan yang berbahaya,
+      apa pun artinya.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18609209365
+    m_Localized: Semoga harimu aman.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18609209366
+    m_Localized: Pakaian Antiradiasi
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18609209367
+    m_Localized: Ini memang bukan mode mutakhir, tetapi baju baja ini akan melindungimu
+      dari bahaya.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18609209368
+    m_Localized: Perlindungan Kuat
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18609209369
+    m_Localized: Baju Baja Kesatria
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18609209370
+    m_Localized: Tak ada lagi pintu terkunci yang menghalangimu dari barang curian.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18609209371
+    m_Localized: Membuka pintu terkunci
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18609209372
+    m_Localized: Pembuka kunci
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18609209373
+    m_Localized: Mencerahkan harimu dengan bonus koin keren ini!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18609209374
+    m_Localized: Menambahkan 1500 koin ke inventori Bob.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18609209375
+    m_Localized: Pak peruntungan
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18609209376
+    m_Localized: Kembali ke kehidupan mewah! Kamu tidak akan perlu lagi bekerja!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18609209377
+    m_Localized: Menambahkan 10000 koin ke inventori Bob.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18609209378
+    m_Localized: Pak kemewahan
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18609209379
+    m_Localized: Chomp chomp
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18609209380
+    m_Localized: Chomp chomp
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18609209381
+    m_Localized: Chompzilla
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18609209382
+    m_Localized: Aku tidak suka ini. Mereka sangat mengganggu. Mereka berlari melintasi
+      lantai menimbulkan suara yang mengganggu!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18609209383
+    m_Localized: Gangguan berisik
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18609209384
+    m_Localized: Mainan putar
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18609209385
+    m_Localized: Dengan pakaian ninja asli tapi palsu ini, kamu bisa berpura-pura
+      menjadi ninja sejati!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18609209386
+    m_Localized: Sekarang 100% lebih senyap!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18609209387
+    m_Localized: Pakaian ninja
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18609209388
+    m_Localized: Koin tidak cukup
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18609209389
+    m_Localized: Kamu bisa melakukan top up pada dompetmu sekarang dengan membeli
+      lebih banyak koin
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18609209390
+    m_Localized: Babi kecil ini semakin gemuk dengan setiap koin yang dikumpulkan!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18609209391
+    m_Localized: Membayar setiap kali terbuka. Diatur ulang ketika dibuka.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18609209392
+    m_Localized: Celengan babi
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18609209393
+    m_Localized: Menyertakan semua vitamin yang dibutuhkan maling dalam pertumbuhan!
+      Tetapi ini akan berlangsung beberapa detik saja.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18609209394
+    m_Localized: Membuat Bob tak terlihat
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18609209395
+    m_Localized: Ramuan limunan
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18613403648
+    m_Localized: Jika kamu tidak bisa mengakali orang lain, kamu bisa mengalahkan
+      kemampuan berlari mereka.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18613403649
+    m_Localized: Kecepatan
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18613403650
+    m_Localized: Membuat kamu berlari lebih jauh! Kehabisan tenaga itu tidak menyenangkan,
+      selalu menyakitkan.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18613403651
+    m_Localized: Stamina
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18613403652
+    m_Localized: Tetap senyap dan gerak cepat adalah ciri utama setiap maling atau
+      ninja.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18613403653
+    m_Localized: Diam-Diam
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18613403654
+    m_Localized: Jika kamu punya lebih banyak uang daripada yang bisa kamu belanjakan,
+      mengapa tidak memamerkannya?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18613403655
+    m_Localized: Untuk maling berkelas
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18613403656
+    m_Localized: Jas bergaya
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18613403657
+    m_Localized: Pahlawan super pasti hidupnya enak. Ini pasti akan meningkatkan
+      hidupmu.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18613403658
+    m_Localized: Memiliki jubah yang gagah
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18613403659
+    m_Localized: Pakaian Super-Bob
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18613403660
+    m_Localized: Ranjau Teleportasi akan memindahkan orang yang tidak sengaja menginjaknya
+      ke entah ke mana.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18613403661
+    m_Localized: Alat teleportasi portabel
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18613403662
+    m_Localized: Ranjau Teleportasi
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18613403663
+    m_Localized: Bagi maling yang memiliki segalanya, ada banyak cara untuk membelanjakan
+      uang hasil kerja keras itu!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18613403664
+    m_Localized: Menambahkan 22000 koin ke inventori Bob.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18613403665
+    m_Localized: Pak Bendahara
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18613403666
+    m_Localized: Aku tidak tahu kamu punya selera mode yang tinggi!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18613403667
+    m_Localized: Aktifkan semua pakaian
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18613403668
+    m_Localized: Pak Lemari Pakaian
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18613403669
+    m_Localized: Kamu kelihatan kaya! Lihatlah barang daganganku. Ini pasti akan
+      bermanfaat untukmu.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18613403670
+    m_Localized: Perlu sesuatu?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18613403671
+    m_Localized: Selamat datang di toko curianku! Berikan aku beberapa koin dan lihatlah
+      barang daganganku!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18613403672
+    m_Localized: Apa yang akan kamu beli?
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []

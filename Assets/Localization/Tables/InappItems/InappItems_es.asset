@@ -1,0 +1,339 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: InappItems_es
+  m_EditorClassIdentifier: Unity.Localization::UnityEngine.Localization.Tables.StringTable
+  m_LocaleId:
+    m_Code: es
+  m_SharedData: {fileID: 11400000, guid: 99e3c89befe70b44682eedb4793bff27, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 18609209347
+    m_Localized: "Te har\xE1 parecer un memo. Tanto, de hecho, que a lo mejor consigues
+      que no te persigan."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18609209348
+    m_Localized: "Es muy rid\xEDculo"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18609209349
+    m_Localized: Traje de conejito
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18609209350
+    m_Localized: "Los objetos valiosos ir\xE1n a parar a tu bolsillo sin dificultad."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18609209351
+    m_Localized: "Cleptoman\xEDa"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18609209352
+    m_Localized: "\xA1Cada moneda que encuentres valdr\xE1 el doble! A la larga,
+      es una magn\xEDfica inversi\xF3n."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18609209353
+    m_Localized: Multiplica las moneas x2
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18609209354
+    m_Localized: Doble dinero
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18609209355
+    m_Localized: "\xA1Un fant\xE1stico modo de conseguir nuevos artilugios u obtener
+      mejoras!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18609209356
+    m_Localized: "A\xF1adir %0 monedas."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18609209357
+    m_Localized: Paquete de monedas
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18609209358
+    m_Localized: "Estos donuts parecen deliciosos, pero su relleno secreto hace que
+      cualquier est\xF3mago d\xE9 un vuelco."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18609209359
+    m_Localized: Incapacita a los guardias
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18609209360
+    m_Localized: Donut podrido
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18609209361
+    m_Localized: "\xA1Esto ya son palabras mayores! \xA1Lleva tus habilidades al
+      m\xE1ximo, o c\xF3mprate un par de trajes!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18609209362
+    m_Localized: "A\xF1adir 4500 monedas."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18609209363
+    m_Localized: Paquete de la fortuna
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18609209364
+    m_Localized: Este traje es para utilizar en condiciones peligrosas, lo que quiera
+      que esto signifique.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18609209365
+    m_Localized: "Que tengas un d\xEDa muy seguro."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18609209366
+    m_Localized: Traje Hazmat
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18609209367
+    m_Localized: "No ir\xE1s muy a la moda, pero esta armadura te mantendr\xE1 a
+      salvo."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18609209368
+    m_Localized: "Protecci\xF3n contra cualquier cosa"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18609209369
+    m_Localized: Armadura de caballero
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18609209370
+    m_Localized: "Las puertas cerradas ya no te impedir\xE1n obtener tu bot\xEDn."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18609209371
+    m_Localized: Abre una puerta cerrada
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18609209372
+    m_Localized: "Ganz\xFAa"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18609209373
+    m_Localized: "\xA1Al\xE9grate el d\xEDa con este magn\xEDfico bonus de monedas!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18609209374
+    m_Localized: "A\xF1adir 1500 monedas."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18609209375
+    m_Localized: Paquete de la suerte
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18609209376
+    m_Localized: "\xA1Rel\xE1jate en una vida de lujo! \xA1No tendr\xE1s que volver
+      a trabajar en tu vida!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18609209377
+    m_Localized: "A\xF1adir 10000 monedas."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18609209378
+    m_Localized: Paquete de lujo
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18609209379
+    m_Localized: Chomp chomp
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18609209380
+    m_Localized: Chomp chomp
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18609209381
+    m_Localized: Chompzilla
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18609209382
+    m_Localized: "No me gustan. Qu\xE9 cosas tan molestas. \xA1Se lanzan por el suelo
+      soltando unos chillidos de lo m\xE1s fastidiosos!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18609209383
+    m_Localized: "Una distracci\xF3n ruidosa"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18609209384
+    m_Localized: Juguete de cuerda
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18609209385
+    m_Localized: "\xA1Con este traje de ninja casi aut\xE9ntico puedes fingir ser
+      un verdadero ninja!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18609209386
+    m_Localized: "\xA1Un 100% m\xE1s silencioso!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18609209387
+    m_Localized: Traje ninja
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18609209388
+    m_Localized: No tienes suficientes monedas
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18609209389
+    m_Localized: "Puedes incrementar tu monedero comprando m\xE1s monedas"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18609209390
+    m_Localized: "\xA1El cerdito engorda con cada moneda obtenida!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18609209391
+    m_Localized: Paga cada vez que se abre. Se reinicia una vez abierto.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18609209392
+    m_Localized: Cerdito
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18609209393
+    m_Localized: "\xA1Con todas las vitaminas que necesita un ladr\xF3n en edad de
+      crecimiento! Pero solo dura unos segundos."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18609209394
+    m_Localized: Hace que Bob se vuelva invisible
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18609209395
+    m_Localized: "Extra\xF1o l\xEDquido"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18613403648
+    m_Localized: "Si no eres m\xE1s listo que los dem\xE1s, al menos puedes ser m\xE1s
+      r\xE1pido."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18613403649
+    m_Localized: Velocidad
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18613403650
+    m_Localized: "\xA1Te permite correr m\xE1s distancia! Quedarse sin energ\xEDa
+      nunca es divertido, siempre duele."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18613403651
+    m_Localized: Resistencia
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18613403652
+    m_Localized: "Moverse r\xE1pidamente y en silencio es el rasgo clave de cualquier
+      ladr\xF3n o ninja."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18613403653
+    m_Localized: Sigilo
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18613403654
+    m_Localized: "Si usted tiene m\xE1s dinero del que puede gastar, \xBFpor qu\xE9
+      no mostrarlo?"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18613403655
+    m_Localized: "Para el ladr\xF3n con clase"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18613403656
+    m_Localized: Traje elegante
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18613403657
+    m_Localized: "Los superh\xE9roes llevan una buena vida. Esto seguro que mejorar\xE1
+      la tuya."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18613403658
+    m_Localized: Con elegante capa
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18613403659
+    m_Localized: Traje de Super-Bob
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18613403660
+    m_Localized: La mina teletransportadora transporta a quien la pise a un lugar
+      desconocido.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18613403661
+    m_Localized: "Teletransportador port\xE1til"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18613403662
+    m_Localized: Mina teletransportadora
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18613403663
+    m_Localized: "\xA1Para el ladr\xF3n que lo tiene todo, hay maneras de gastar
+      todo ese dinero tan duramente ganado!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18613403664
+    m_Localized: "A\xF1adir 22000 monedas."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18613403665
+    m_Localized: Paquete del tesoro
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18613403666
+    m_Localized: "Yo no sab\xEDa que ten\xEDa tan buen sentido de la moda!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18613403667
+    m_Localized: Desbloquea todos los trajes
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18613403668
+    m_Localized: Armario
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18613403669
+    m_Localized: "\xA1Si t\xFA ya eres rico! Echa un vistazo a mi g\xE9nero. Seguro
+      que te ser\xE1 \xFAtil."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18613403670
+    m_Localized: "\xBFNecesitas algo?"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18613403671
+    m_Localized: "\xA1Bienvenido a mi tienda de latrocinio! Toma unas cuantas monedas
+      y \xA1echa un vistazo a mi g\xE9nero!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18613403672
+    m_Localized: "\xBFQu\xE9 vas a comprar?"
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []

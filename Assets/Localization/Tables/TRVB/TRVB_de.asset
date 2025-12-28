@@ -1,0 +1,173 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: TRVB_de
+  m_EditorClassIdentifier: Unity.Localization::UnityEngine.Localization.Tables.StringTable
+  m_LocaleId:
+    m_Code: de
+  m_SharedData: {fileID: 11400000, guid: 97402f528cb33644bbadbb7e28bb5d69, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 17648713728
+    m_Localized: German
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17686462464
+    m_Localized: Text
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17686462465
+    m_Localized: "Das Hasenkost\xFCm kann verhindern, dass Wachen Bob verfolgen.
+      Benutze ihn \xFCberall f\xFCr die n\xE4chsten X\"\_Minuten!\""
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17686462466
+    m_Localized: "Bob kann weiter greifen, um Beute einzusammeln. Genie\xDFe deine
+      verbesserte Greiff\xE4higkeit f\xFCr die n\xE4chsten X\"\_Minuten!\""
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17686462467
+    m_Localized: "Ein flinker Dieb ist ein guter Dieb. Genie\xDFe dein erh\xF6htes
+      Tempo f\xFCr die n\xE4chsten \"X\"\_Minuten!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17686462468
+    m_Localized: "Wusstest du, dass Bob einen Marathon laufen kann? Genie\xDFe deine
+      verbesserte Ausdauer f\xFCr die n\xE4chsten X\"\_Minuten!\""
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17686462469
+    m_Localized: "M\xF6chtest du heimlicher sein? Genie\xDFe deine verbesserte Tarnung
+      f\xFCr die n\xE4chsten \"X\"\_Minuten!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17686462470
+    m_Localized: "Mit der Ritterr\xFCstung werden die Wachen Bob nicht schnappen,
+      aber er kann auch nicht rennen. Nutze sie \xFCberall f\xFCr die n\xE4chsten
+      X\"\_Minuten!\""
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17686462471
+    m_Localized: "Bob kann weiter greifen, um Beute einzusammeln. Genie\xDFe deine
+      maximale Greiff\xE4higkeit f\xFCr die n\xE4chsten X\"\_Minuten!\""
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17686462472
+    m_Localized: "Ein flinker Dieb ist ein guter Dieb. Genie\xDFe dein maximales
+      Tempo f\xFCr die n\xE4chsten \"X\"\_Minuten!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17690656768
+    m_Localized: "Wusstest du, dass Bob einen Marathon laufen kann? Genie\xDFe deine
+      maximale Ausdauer f\xFCr die n\xE4chsten X\"\_Minuten!\""
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17690656769
+    m_Localized: "M\xF6chtest du heimlicher sein? Genie\xDFe deine maximale Tarnung
+      f\xFCr die n\xE4chsten \"X\"\_Minuten!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17690656770
+    m_Localized: "Mit dem Ninja-Anzug ist Bob beim Rennen oder Durchbrechen von T\xFCren
+      lautlos. Nutze ihn \xFCberall f\xFCr die n\xE4chsten \"X\"\_Minuten!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17690656771
+    m_Localized: "Der perfekte Anzug f\xFCr den eleganten Einbrecher. Benutze ihn
+      \xFCberall f\xFCr die n\xE4chsten \"X\"\_Minuten!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17690656772
+    m_Localized: "Mit dem Super-Bob-Anzug bist du so schnell, dass Wachen dich nicht
+      entdecken k\xF6nnen. Nutze ihn \xFCberall f\xFCr die n\xE4chsten X\"\_Minuten!\""
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17690656773
+    m_Localized: Der Bonus endet in "X"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17690656774
+    m_Localized: Im Store kaufen
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17690656775
+    m_Localized: Eingehender Anruf
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17690656776
+    m_Localized: Kostenlos
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17690656777
+    m_Localized: "HASENKOST\xDCM"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17690656778
+    m_Localized: "VERBESSERTE GREIFF\xC4HIGKEIT"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17690656779
+    m_Localized: "RITTERR\xDCSTUNG"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17690656780
+    m_Localized: NINJA-ANZUG
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17690656781
+    m_Localized: VERBESSERTES TEMPO
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17690656782
+    m_Localized: VERBESSERTE AUSDAUER
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17690656783
+    m_Localized: VERBESSERTE VERSTOHLENHEIT
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17690656784
+    m_Localized: STILVOLLER ANZUG
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17690656785
+    m_Localized: SUPER-BOB-ANZUG
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17690656786
+    m_Localized: "EIN KOST\xDCM KOSTENLOS AUSPROBIEREN"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17690656787
+    m_Localized: "GREIFF\xC4HIGKEIT KOSTENLOS VERBESSERN"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17690656788
+    m_Localized: TEMPO KOSTENLOS VERBESSERN
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17690656789
+    m_Localized: AUSDAUER KOSTENLOS VERBESSERN
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17690656790
+    m_Localized: VERSTOHLENHEIT KOSTENLOS VERBESSERN
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17690656791
+    m_Localized: Das Angebot endet in "X"
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []

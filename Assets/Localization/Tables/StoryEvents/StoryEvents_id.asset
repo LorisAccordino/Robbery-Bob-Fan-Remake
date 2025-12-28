@@ -1,0 +1,796 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: StoryEvents_id
+  m_EditorClassIdentifier: Unity.Localization::UnityEngine.Localization.Tables.StringTable
+  m_LocaleId:
+    m_Code: id
+  m_SharedData: {fileID: 11400000, guid: b1d830cb9b9413c4cacbdfcad6fba5d6, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 1775234056192
+    m_Localized: Maafkan aku sudah merusak es krim itu.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1775234056193
+    m_Localized: Ah, lupakan saja! Aku punya solusi yang sempurna. Aku akan membalikkan
+      ruas ini...
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1775234056194
+    m_Localized: Tetapi [em]kamera[/] akan menyorotku, sudah pasti.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1775234056195
+    m_Localized: Begitu? Aku kira aku tak bisa membantumu. Aku tak ingin masuk penjara
+      lagi.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1775234056196
+    m_Localized: Hey, bocah! Aku tidak memohon!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1775234056197
+    m_Localized: Sudah berminggu-minggu aku ingin merampok tempat ini, tetapi penjaganya
+      tak pernah meninggalkan pos mereka!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1775234056198
+    m_Localized: Keamanannya [em]sangat ketat![/] Mengapa kau tak mencobanya, anak
+      muda.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1775234056199
+    m_Localized: Kamu punya potensi besar, anak muda.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1775234056200
+    m_Localized: Boleh aku pulang sekarang?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1775234056201
+    m_Localized: Kau bercanda!? Masuklah ke sana dan ambil uang itu sebelum aku marah!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1775234056202
+    m_Localized: Ini ideku. Jika kau menyelinap di malam hari, suasana gelap dan
+      tidak ada banyak orang di sekitar.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1775234056203
+    m_Localized: Tetapi itu sudah lewat jam tidurku.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1775234056204
+    m_Localized: Masuklah ke sana atau aku akan membuatmu tidur selamanya.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1775234056205
+    m_Localized: Sepertinya aku tak ingin membantumu lagi, Biff. Aku tidak ingin
+      kembali ke penjara.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1775234056206
+    m_Localized: Ah, tenang saja, anak muda. Kau menggaruk punggungku, aku tak akan
+      mematahkan punggungmu.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1775234056207
+    m_Localized: '*Glek*'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1775234056208
+    m_Localized: Aku mendapatkan sesuatu dari toko ini minggu lalu dan aku tidak
+      sengaja memberikan uangku kepada mereka. Pergi dan ambilkan kembali uangku.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1775234056209
+    m_Localized: Pintu depan semua terkunci, tetapi pintu belakang rusak. Berhati-hatilah
+      dengan satpam penjaga.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1775234056210
+    m_Localized: Perusahaan pinjaman ini meneleponku semalam dan meminta uang mereka
+      kembali. Singkatnya, aku tak akan membayar.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1775242444800
+    m_Localized: Cara terbaik menghadapi rentenir adalah dengan menunjukkan siapa
+      yang berkuasa. Jadi, masuklah ke sana dan rampok mereka habis-habisan!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1775242444801
+    m_Localized: Pasti ada banyak kamera di sini.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1775242444802
+    m_Localized: Perusahaan ini khusus berdagang kamera keamanan. Hampir seluruh
+      kamera keamanan di kota ini mereka yang membuat.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1775242444803
+    m_Localized: Jadi, kenapa kita ada di sini? Aku tidak ingin terekam di kamera.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1775242444804
+    m_Localized: 'Seperti kata pepatah: ''Penjara lebih nyaman daripada peti mati.''
+      Tanya lagi dan kamu akan terbangun di peti mati.'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1775242444805
+    m_Localized: Kau tahu, anak muda. Kadang-kadang aku mengatakan hal yang tidak
+      sebenarnya. Atau, maksudnya, tak perlu aku katakan.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1775242444806
+    m_Localized: Hakim memerintahkanku untuk mengikuti kelas [em]pengendalian kemarahan[/],
+      jadi aku menyuruhmu untuk menyelinap masuk dan mencuri sertifikatnya.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1775242444807
+    m_Localized: Hey, bocah. Aku akan mencoba sesuatu yang baru. Tunggu sebentar,
+      ya.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1775242444808
+    m_Localized: Bersediakah... kamu...mmm...?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1775242444809
+    m_Localized: Membantuku... mencuri...mmm... ya? Dan... aku akan... sangat berterima
+      kasih...
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1775242444810
+    m_Localized: 'AAAAH! Aku tak bisa melakukannya! [em]Masuk ke sana! Ambil duit
+      itu! Atau akan kuhancurkan sesuatu yang penting untuk kesehatanmu![/]'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1775242444811
+    m_Localized: Siap, bos!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1775242444812
+    m_Localized: Ini akan menjadi tugas mudah untukmu, anak muda. Penjaga keamanan
+      yang bekerja di sini semuanya bodoh.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1775242444813
+    m_Localized: Asal jangan sampai terlihat oleh mereka dan lewati saja.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1775242444814
+    m_Localized: Ini adalah kantor perusahaan video game ternama.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1775242444815
+    m_Localized: Aku tidak sabar menunggu [em]game terbaru[/] mereka dirilis, jadi
+      kamu akan mencurinya untukku!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1775242444816
+    m_Localized: Dunia Kerajinan Kayu? Permainan ini seru?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1775242444817
+    m_Localized: Pasti seru! Aku akan bermain sebagai peraut level 60.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1775242444818
+    m_Localized: Restoran ini benar-benar mewah. Hidangan eksklusif hanya untuk anggota.
+      Aku pernah jadi anggota di sini.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1775242444819
+    m_Localized: Pernah?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1775242444820
+    m_Localized: Suatu waktu aku mengikuti [em]Tantangan Seratus Iga[/] dan mereka
+      menggunting kartu anggotaku!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1775242444821
+    m_Localized: Mereka yang rugi, karena sekarang kita akan merampok mereka.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1775242444822
+    m_Localized: Aku mendengar kabar angin bahwa Jaksa Wilayah akan menuntutku. Aku
+      perlu menutupi jejakku.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1775242444823
+    m_Localized: Aku tak akan berhasil tanpa bantuanmu, nak. Jadi kalau aku harus
+      tertangkap, aku juga akan menyeretmu.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1775242444824
+    m_Localized: Jadi kita akan membawanya ke kantor Jaksa. Temukan apa pun bukti
+      yang mereka punya dan curi.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1775242444825
+    m_Localized: Kerjamu bagus, anak muda! Kamu maling yang terlalu mahir untuk dilepaskan.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1775242444826
+    m_Localized: Sepertinya kau tidak akan bisa pulang dalam waktu dekat, anak muda.
+      Karena kau akan membuatku kaya raya!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1775242444827
+    m_Localized: Tapi...
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1775242444828
+    m_Localized: Apakah aku perlu mengingatkanmu siapa yang berkuasa dalam kerja
+      sama kita ini?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1775242444829
+    m_Localized: Apa ini? Sepertinya Biff kedatangan tamu.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1775242444830
+    m_Localized: Ini mungkin kesempatan baik untuk memperbaiki keadaan. Dia tidak
+      bisa lagi memerintahku seenaknya.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1775242444831
+    m_Localized: Polisi?! Di tempatku?!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1775242444832
+    m_Localized: Sekarang aku BENAR-BENAR murka! Tak seorang pun boleh masuk ke kamarku!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1775242444833
+    m_Localized: Text
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1775242444834
+    m_Localized: Apa yang terjadi? Di mana aku?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1775242444835
+    m_Localized: Salam Tuan Bob. Namaku [em]Dr. Thievious[/] dan kamu terpilih menjadi
+      tikus percobaanku yang baru.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1775242444836
+    m_Localized: Lakukan perintahku dan kamu mungkin bisa melihat matahari lagi.
+      GUAH HA HA!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1775242444837
+    m_Localized: Tidak ada matahari? Bagaimana dengan liburanku!?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1775242444838
+    m_Localized: Tugas pertamamu sederhana. Ambilkan sebuah [em]sampel kimia[/] untukku
+      dan kembalilah ke elevator.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1775242444839
+    m_Localized: Kamu sangat beruntung Tuan Bob, karena kamu adalah pion dari rencana
+      jahatku!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1775242444840
+    m_Localized: Aku benar-benar tidak ingin tahu.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1775242444841
+    m_Localized: ...sebuah rencana [em]cerdas[/] yang akan selalu diingat oleh semua
+      manusia, selamanya!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1775242444842
+    m_Localized: GUAH HA HA!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1775242444843
+    m_Localized: Bagus! [em]Kode kalibrasi[/] ini akan sangat berguna untuk mewujudkan
+      alat jahat ciptaanku!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1775242444844
+    m_Localized: GUAH HA HA!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1775242444845
+    m_Localized: Apakah kau menyukai laserku, Tuan Bob? Aku membuatnya sendiri.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1775242444846
+    m_Localized: Mengingat kegeniusanku yang luar biasa, yang berikut ini seharusnya
+      mustahil dipahami oleh pikiran lemahmu.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1775242444847
+    m_Localized: GUAH HA HA!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1775242444848
+    m_Localized: Rekanku yang cerdik tetapi payah belum mengetahui rencanaku, jadi
+      kamu jangan menghalangi mereka.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1775242444849
+    m_Localized: Jika tidak, kau akan melihat metode mereka agak... [em]mengejutkan![/]
+      GUAH HA HA!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1775242444850
+    m_Localized: Di lab ini ada bagian penting lain untuk alat jahat yang sedang
+      aku bangun.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1775242444851
+    m_Localized: Untuk mencapainya, kau perlu menggunakan salah satu penemuan terbaruku.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1775242444852
+    m_Localized: Aaah! Atomku!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1775242444853
+    m_Localized: Ini benar-benar keren!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1775242444854
+    m_Localized: Tentu tidak. Ini bisa terlalu panas! [em]Lemonator[/] adalah salah
+      satu kegagalan terbesar sepanjang karier sainsku.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1775242444855
+    m_Localized: Seharusnya ini menjadi [em]sistem penyegaran udara.[/] Tetapi nyatanya,
+      udaranya masih tetap basi!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1775242444856
+    m_Localized: Perjalanan dengan elevator yang cukup panjang.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1775242444857
+    m_Localized: Kamu telah menempuh perjalanan dua mil menembus kerak bumi. Aku
+      malah menyebutnya perjalanan elevator yang sangat cepat.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1775242444858
+    m_Localized: Kami menyebut bagian ini [em]Di Bawah Sana[/], tetapi kamu tidak
+      akan menemukan hewan marsupial di sini, kecuali koala mutan, tentu saja.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1775242444859
+    m_Localized: Apa hubungannya [em]makanan hewan[/] di rencana jahatmu?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1775242444860
+    m_Localized: Tidak ada. Aku kira kau mungkin lapar.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1775242444861
+    m_Localized: Aku bingung. Untuk apa semua komponen yang aku kumpulkan ini?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1775242444862
+    m_Localized: Ini adalah komponen untuk alat jahat ciptaanku, [em]Laser Pengendali
+      Pikiran Orbital[/]!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1775242444863
+    m_Localized: Lupakan aku bertanya.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1775242444864
+    m_Localized: Tak lama lagi, setiap pikiran manusia akan patuh terhadapku! GUAH
+      HA HA!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1775242444865
+    m_Localized: Sebelum aku bisa meluncurkan [em]Laser Pengendali Pikiran[/] ciptaanku
+      dan membuatnya [em]Orbital[/], aku perlu kode akses ke landasan peluncuran.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1775242444866
+    m_Localized: Tak bisakah kau menggunakannya begitu saja? Aku kira kau yang berkuasa
+      di sini.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1775242444867
+    m_Localized: Aku? Oh, tidak tidak. Aku sedang magang selama enam bulan di fasilitas
+      sains ini.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1775242444868
+    m_Localized: Alatku sudah hampir selesai. Aku hanya tinggal mendapatkan P.A.L.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1775242444869
+    m_Localized: Punya teman itu menyenangkan.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1775242444870
+    m_Localized: Bukan itu, dasar bodoh. [em]P.A.L.[/] adalah kecerdasan buatan super
+      canggih yang akan memandu laser pikiran ciptaanku.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1775242444871
+    m_Localized: Badut yang menjaga [em]Pintu Keluar Rahasia[/] memiliki barang yang
+      aku inginkan!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1775242444872
+    m_Localized: Pintu keluar rahasia?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1775242444873
+    m_Localized: Hah? Bukan, lupakan aku mengatakannya.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1775242444874
+    m_Localized: Cokelat batang? Mengapa aku mencuri ini?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1775242444875
+    m_Localized: Aku lapar! Aku akan mengambil kudapan manis darimu setelah kau kembali
+      ke selmu.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1775242444876
+    m_Localized: Jangan mendekati [em]Kontrol Laser Pintu Keluar Rahasia[/]! Itu
+      saja.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1775242444877
+    m_Localized: Jangan! Jangan ke sana!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1775242444878
+    m_Localized: Ini kesempatanku. Aku harus kembali ke permukaan dan keluar dari
+      tempat ini.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1775242444879
+    m_Localized: Usahamu sia-sia, Tuan Bob. Kau tak akan pernah bisa lepas dari genggamanku.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1775242444880
+    m_Localized: Tuan Bob. Segera kembali. Kita sudah hampir menyelesaikan laser
+      pikiran jahat kita.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1775242444881
+    m_Localized: Jika kau menurutiku, aku akan membiarkanmu bermain dengan laser
+      ini selama kurang lebih lima... bukan, sepuluh menit!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1775242444882
+    m_Localized: Kau menguji kesabaranku, Tuan Bob. Kalau begitu, lupakan bermain
+      dengan laser ini.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1775242444883
+    m_Localized: Aku pasti sudah dekat dengan pintu keluar. Dia terdengar lebih putus
+      asa sekarang.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1775242444884
+    m_Localized: Kembalilaaaah!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1775242444885
+    m_Localized: Horee! Aku bisa melihat pintu keluar! Tetapi, bagaimana cara ke
+      sana?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1775242444886
+    m_Localized: Aku berhasil! Nah, yang mana tombol keluar?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1775242444887
+    m_Localized: Aku akan coba yang merah besar ini!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1775242444888
+    m_Localized: Tidaaak! Apa yang kau lakukan!?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1775242444889
+    m_Localized: Kau merusak segalanya!!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1775242444890
+    m_Localized: Mengeluarkanmu dari penjara bukanlah bantuan kecil, Bob.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1775242444891
+    m_Localized: Terima kasih. Aku sangat menghargainya.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1775242444892
+    m_Localized: 'Ck, ck, ck. Aku tidak melakukannya untuk amal. Singkatnya, [em]kamu
+      berutang budi kepadaku![/]'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1775242444893
+    m_Localized: 'Di depan sana ada rumah kosong. [em]Masuk dan ambillah barang di
+      dalamnya.[/]'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1775242444894
+    m_Localized: 'Paham!
+
+      ... Apakah ini milikmu?'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1775242444895
+    m_Localized: Aku hanya ingin mengujimu sebelum kita benar-benar mulai. Pekerjaan
+      berikutnya akan sungguhan.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1775242444896
+    m_Localized: Untuk membayar [em]utang besarmu[/] kepadaku, aku menyuruhmu untuk
+      masuk ke dalam rumah ini dan mengambil semua barang!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1775242444897
+    m_Localized: Kau ingin aku melakukan pekerjaan kotormu? Sepertinya aku tidak
+      punya pilihan lain...
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1775242444898
+    m_Localized: Jangan khawatir, Bob. Kebetulan aku tahu bahwa [em]tak ada orang
+      di rumah[/] saat ini.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1775242444899
+    m_Localized: Pekerjaanmu bagus Bob, tetapi kamu tidak akan bisa membayar utangmu
+      dengan memberi kotak kosong kepadaku.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1775242444900
+    m_Localized: 'Untuk membuktikan kemampuanmu, aku menyuruhmu untuk menyelinap
+      masuk ke rumah ini [em]tanpa terlihat.[/]'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1775242444901
+    m_Localized: Aku akan berusaha sesenyap mungkin!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1775242444902
+    m_Localized: Aku selalu kehilangan barang ini.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1775242444903
+    m_Localized: Sekarang kamu mulai paham. Aku pikir sudah saatnya kita kaya.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1775242444904
+    m_Localized: Masuklah dan ambil barang apa pun yang terlihat mahal.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1775242444905
+    m_Localized: Barang mahal. Aku mengerti!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1775242444906
+    m_Localized: Kenapa kamu mengambil...? Ah, sudahlah...
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1775242444907
+    m_Localized: 'Aku tak ingin terdengar sombong, tapi aku pemain bowling yang cukup
+      berbakat. Aku bahkan pernah memenangkan [em]piala.[/]'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1775242444908
+    m_Localized: Maksudku... orang lain yang memenangkannya, tetapi semua orang tahu
+      aku yang seharusnya menang.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1775242444909
+    m_Localized: Itu yang membawa kita kemari. Masuklah dan rebut kembali [em]piala[/]ku.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1775242444910
+    m_Localized: Kau tahu apa yang membuatku naik darah? Anak nakal yang punya barang
+      yang aku inginkan!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1775250833408
+    m_Localized: Seharusnya kamu tidak perlu iri kepada anak kecil.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1775250833409
+    m_Localized: Tetapi aku melihat sepasang suami istri membelikan [em]edisi terbatas
+      pertama[/] dari komik favoritku untuk anak mereka.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1775250833410
+    m_Localized: Moral? Aku tidak peduli. Curi komik itu atau kamu akan bekerja untukku
+      sangat lama.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1775250833411
+    m_Localized: Ada [em]hal[/] yang perlu aku urus, tetapi sebelumnya, aku memintamu
+      untuk mengambilkan [em]kunci[/] untukku.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1775250833412
+    m_Localized: Pekerjaan ini mungkin agak sedikit lebih sulit dibandingkan dengan
+      yang terakhir.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1775250833413
+    m_Localized: Jangan khawatir. Aku sudah mempersiapkan [em]trik ninja[/]!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1775250833414
+    m_Localized: Kali ini, aku memintamu mencuri [em]dokumen legal[/] yang sangat
+      penting dari kantor pengacara ini.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1775250833415
+    m_Localized: Dokumen apa?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1775250833416
+    m_Localized: Sangat rahasia, aku tak bisa mengatakannya meskipun aku ingin.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1775250833417
+    m_Localized: Dan meskipun aku bisa, aku tak ingin melakukannya.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1775250833418
+    m_Localized: Bagus. Bawakan aku dokumen perceraian itu segera.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1775250833419
+    m_Localized: Maksudku, euh, [em]dokumen legal rahasia[/] itu...
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1775250833420
+    m_Localized: ...segera!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1775250833421
+    m_Localized: Tentu.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1775250833422
+    m_Localized: Sudah berbulan-bulan aku tidak makan makanan yang enak...
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1775250833423
+    m_Localized: Jadi kali ini, aku menyuruhmu mencuri resep rahasia hidangan yang
+      lezat.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1775250833424
+    m_Localized: Resep untuk apa?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1775250833425
+    m_Localized: Itu adalah hidangan keluarga mantan istriku. Membuat perkawinan
+      kami berlangsung lama.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1775250833426
+    m_Localized: 'Aku pergi ke tempat biasa semalam dan bertemu dengan seorang [em]wanita
+      cantik.[/]'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1775250833427
+    m_Localized: Aku meminta nomor teleponnya tetapi dia menolak, jadi aku menyuruhmu
+      untuk masuk ke rumahnya dan mencurinya.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1775250833428
+    m_Localized: Romantis sekali!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1775250833429
+    m_Localized: Tempat ini menyimpan barang-barang untuk orang kaya dan pesohor.
+      Seseorang berkata kepadaku bahwa sebuah [em]karya seni mahal[/] disimpan di
+      sini.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1775250833430
+    m_Localized: Apakah itu lukisan kera yang sedang makan pisang dengan sendok dan
+      garpu?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1775250833431
+    m_Localized: Itu seni! Tak perlu mempertanyakannya, Bob.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1775250833432
+    m_Localized: Apakah kamu main lotre, Bob?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1775250833433
+    m_Localized: Aku? Tidak. Aku kurang hoki.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1775250833434
+    m_Localized: Itu karena kamu melakukannya dengan salah. Aku menemukan cara mudah
+      untuk menang!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1775250833435
+    m_Localized: 'Tunggu hingga seseorang menang, lalu curi [em]tiketnya![/]'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1775250833436
+    m_Localized: Bukankah itu agak... tahu 'kan maksudku?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1775250833437
+    m_Localized: Aku melihatnya sebagai pengalihan kebahagiaan.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1775250833438
+    m_Localized: Kali ini aku memintamu untuk mencuri salah satu [em]pusaka keluargaku[/]
+      yang telah diwariskan secara turun temurun.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1775250833439
+    m_Localized: Aku pikir tidak baik mencuri di keluarga sendiri. Tak bisakah kau
+      memintanya?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1775250833440
+    m_Localized: Kakek nenekku mencoret namaku dari wasiat mereka. Jangan membuatku
+      mengingatkanmu alasan kamu tidak berada di penjara sekarang.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1775250833441
+    m_Localized: Bukankah kamu senang aku membawamu ke [em]rumah dengan keamanan
+      ketat[/] ini? Sayangnya, aku tidak bisa mengeluarkanmu kembali.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1775250833442
+    m_Localized: Dan melihat jumlah penjaga di sini, aku ragu kamu bisa melakukannya.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1775250833443
+    m_Localized: Jadi, sebelum kamu kembali ke sel penjaramu yang kotor, aku ingin
+      berterima kasih karena telah membuatku menjadi orang yang sangat kaya.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1775250833444
+    m_Localized: Ha Ha Ha!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1775250833445
+    m_Localized: Aku tak percaya dia menipuku seperti itu.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1775250833446
+    m_Localized: 'Setidaknya, aku tidak perlu lagi melakukan pekerjaan kotor pedagang
+      itu. Aku hanya perlu memberinya [em]pelajaran berharga.[/]'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1775250833447
+    m_Localized: Halo, ini polisi?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1775250833448
+    m_Localized: Bukan! Apa yang kau lakukan!?
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []

@@ -1,0 +1,338 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: InappItems_it
+  m_EditorClassIdentifier: Unity.Localization::UnityEngine.Localization.Tables.StringTable
+  m_LocaleId:
+    m_Code: it
+  m_SharedData: {fileID: 11400000, guid: 99e3c89befe70b44682eedb4793bff27, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 18609209347
+    m_Localized: "Quando lo indosserai ti far\xE0 sembrare del tutto scemo. Talmente
+      scemo da confondere quelli che ti danno la caccia."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18609209348
+    m_Localized: Ha un aspetto davvero stupido.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18609209349
+    m_Localized: Abito da coniglio
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18609209350
+    m_Localized: Gli oggetti di valore voleranno nelle tue tasche senza sforzo.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18609209351
+    m_Localized: "Capacit\xE0 di arraffare"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18609209352
+    m_Localized: Ogni moneta trovata vale doppio! Ottimo investimento di lungo periodo!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18609209353
+    m_Localized: Raddoppiatore di monete
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18609209354
+    m_Localized: Amplificatore di monete
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18609209355
+    m_Localized: Un sistema pratico e veloce per prendere nuovi gadget o attivare
+      gli upgrade!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18609209356
+    m_Localized: Aggiungere %0 monete.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18609209357
+    m_Localized: Pacco monete
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18609209358
+    m_Localized: Queste ciambelle hanno un aspetto delizioso ma la loro farcia segreta
+      mette KO qualsiasi stomaco.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18609209359
+    m_Localized: Inabilita le guardie
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18609209360
+    m_Localized: Ciambella avariata
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18609209361
+    m_Localized: "Una bella quantit\xE0 di denaro! Carica le capacit\xE0 al massimo
+      o acchiappa qualche nuovo corredo!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18609209362
+    m_Localized: Aggiungere 4500 monete.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18609209363
+    m_Localized: Pacco ricchezza
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18609209364
+    m_Localized: "Questa tuta \xE8 da utilizzare in condizioni ambientali a rischio,
+      in vari sensi del termine."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18609209365
+    m_Localized: Ti auguriamo una giornata molto sicura.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18609209366
+    m_Localized: Tuta protettiva
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18609209367
+    m_Localized: "Non \xE8 proprio l'ultima moda, ma questa armatura ti dovrebbe
+      dare una mano in situazioni pericolose."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18609209368
+    m_Localized: Protezione pesante
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18609209369
+    m_Localized: Armatura da cavaliere
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18609209370
+    m_Localized: "Nessuna porta chiusa potr\xE0 pi\xF9 dividervi dal bottino."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18609209371
+    m_Localized: Sblocca una porta chiusa
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18609209372
+    m_Localized: Grimaldello
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18609209373
+    m_Localized: Illumina la tua giornata con questo fantastico bonus di monete!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18609209374
+    m_Localized: Aggiungere 1500 monete.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18609209375
+    m_Localized: Pacco fortuna
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18609209376
+    m_Localized: Goditi una vita di lusso! Non dovrai lavorare un solo giorno della
+      tua vita!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18609209377
+    m_Localized: Aggiungere 10000 monete.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18609209378
+    m_Localized: Pacco lusso
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18609209379
+    m_Localized: Chomp chomp
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18609209380
+    m_Localized: Chomp chomp
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18609209381
+    m_Localized: Chompzilla
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18609209382
+    m_Localized: Questi non mi piacciono. Sono talmente fastidiosi. Corrono sul pavimento
+      facendo rumori insopportabili!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18609209383
+    m_Localized: Una distrazione rumorosa
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18609209384
+    m_Localized: Giocattolo a carica
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18609209385
+    m_Localized: "Questo falso autentico abito Ninja vi sar\xE0 passare per un autentico
+      ninja!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18609209386
+    m_Localized: "Ora 100% ancora pi\xF9 silenzioso!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18609209387
+    m_Localized: Abito ninja
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18609209388
+    m_Localized: Monete non sufficienti
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18609209389
+    m_Localized: "Acquistando pi\xF9 monete potrai ricaricare subito il portafoglio"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18609209390
+    m_Localized: Il maialino ingrassa con ogni moneta raccolta!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18609209391
+    m_Localized: Paga con ogni apertura. Si azzera quando viene aperto.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18609209392
+    m_Localized: Maialino
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18609209393
+    m_Localized: "Contiene tutte le vitamine necessarie a un giovane ladro in crescita!
+      Per\xF2 dura solo un paio di secondi."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18609209394
+    m_Localized: Rende Bob invisibile
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18609209395
+    m_Localized: Liquido strano
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18613403648
+    m_Localized: "Se non riesci a superare in astuzia le persone, prova ad andare
+      pi\xF9 veloce."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18613403649
+    m_Localized: "Velocit\xE0"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18613403650
+    m_Localized: "Ti fa correre di pi\xF9! Esaurire l'energia non \xE8 mai divertente,
+      anzi \xE8 sempre faticoso."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18613403651
+    m_Localized: Vigore
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18613403652
+    m_Localized: Stare in silenzio e muoversi rapidamente sono i tratti fondamentali
+      dei ladri o dei ninja.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18613403653
+    m_Localized: Azione furtiva
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18613403654
+    m_Localized: "Se hai pi\xF9 denaro di quanto si pu\xF2 spendere, perch\xE9 non
+      mostrarlo?"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18613403655
+    m_Localized: Per il ladro di classe
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18613403656
+    m_Localized: Abito elegante
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18613403657
+    m_Localized: "I super eroi fanno una bella vita, non c'\xE8 dubbio. Sicuramente
+      \xE8 un ottimo incentivo per la tua."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18613403658
+    m_Localized: Dispone di un elegante mantello
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18613403659
+    m_Localized: Abito Super Bob
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18613403660
+    m_Localized: "La mina di teletrasporto porter\xE0 i poveri ignari verso chi lo
+      sa dove."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18613403661
+    m_Localized: Teletrasportatore portatile
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18613403662
+    m_Localized: Mina di teletrasporto
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18613403663
+    m_Localized: Per il ladro che ha tutto, ci sono modi per spendere tutti quei
+      soldi duramente guadagnati!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18613403664
+    m_Localized: Aggiungere 22000 monete.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18613403665
+    m_Localized: Pacco tesoro
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18613403666
+    m_Localized: Non sapevo che tu avessi un tale buon senso della moda!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18613403667
+    m_Localized: Sblocca tutti i vestiti
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18613403668
+    m_Localized: Armadio
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18613403669
+    m_Localized: "Sembri gi\xE0 ricco! Dai un'occhiata alla merce. Dovrebbero esserti
+      utili."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18613403670
+    m_Localized: Hai bisogno di qualcosa?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18613403671
+    m_Localized: Benvenuto nel mio shop fraudolento! Investi qualche spicciolo e
+      dai un'occhiata alla merce!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18613403672
+    m_Localized: Che cosa stai comprando?
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []

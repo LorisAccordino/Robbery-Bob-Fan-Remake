@@ -1,0 +1,1700 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5b11a58205ec3474ca216360e9fa74a8, type: 3}
+  m_Name: Menus Shared Data
+  m_EditorClassIdentifier: Unity.Localization::UnityEngine.Localization.Tables.SharedTableData
+  m_TableCollectionName: Menus
+  m_TableCollectionNameGuidString: 528c112f67a5b1a45ad5119a422f333b
+  m_Entries:
+  - m_Id: 17773525860352
+    m_Key: New Entry 78
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12223463424003
+    m_Key: ----- Instant version ------
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12223463424010
+    m_Key: ----- Smoke bomb update -----
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12223442452493
+    m_Key: ----- v1.12.8 Update ------
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12223417286677
+    m_Key: abilities
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12223413092352
+    m_Key: about
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12223417286707
+    m_Key: accept
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12223429869632
+    m_Key: achievements
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12223417286708
+    m_Key: apply
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12223417286678
+    m_Key: are_you_sure
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12223413092353
+    m_Key: audio
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12223413092354
+    m_Key: auto
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12223429869625
+    m_Key: available_on_steam
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12223417286675
+    m_Key: back
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12223463424014
+    m_Key: become_invisible
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12223413092442
+    m_Key: best_score
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12223413092355
+    m_Key: bob2_header
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12223429869631
+    m_Key: bob_youtube
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12223417286709
+    m_Key: bonus_chapters
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12223413092356
+    m_Key: bonus_levels
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12223463424050
+    m_Key: btn_get_energy_lockpick
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12223463424018
+    m_Key: btn_not_now
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12223463424011
+    m_Key: btn_smoke
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12223463424019
+    m_Key: btn_watch video
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12223417286679
+    m_Key: buy
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12223417286680
+    m_Key: buy_it_
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12223413092443
+    m_Key: buy_shadow_bob
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12223413092357
+    m_Key: camp_levels
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12223417286672
+    m_Key: cancel
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12223442452481
+    m_Key: cancel_offer
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12223442452482
+    m_Key: cancel_offer_header
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12223413092358
+    m_Key: challenge_levels
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12223429869595
+    m_Key: change_language
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12223417286681
+    m_Key: change_outfit
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12223413092359
+    m_Key: chapter_is_locked
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12223413092360
+    m_Key: check_it_out
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12223413092444
+    m_Key: checkpoint_saved
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12223438258194
+    m_Key: checkpoints
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12223434063886
+    m_Key: choose_cloud_data
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12223434063885
+    m_Key: choose_cloud_desc
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12223413092361
+    m_Key: claim_reward
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12223413092362
+    m_Key: close
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12223434063883
+    m_Key: cloud_later
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12223434063880
+    m_Key: cloud_use
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12223442452486
+    m_Key: coin_offers
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12223417286682
+    m_Key: coins
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12223434063876
+    m_Key: collected_coins
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12223413092363
+    m_Key: complete
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12223417286710
+    m_Key: completion
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12223417286711
+    m_Key: confirm_quit
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12223429869623
+    m_Key: confirm_watch_reward_ad_suspend_ad
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12223429869624
+    m_Key: confirm_watch_reward_ad_suspend_ad2
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12223463424006
+    m_Key: continue
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12223429869585
+    m_Key: control_activate
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12223429869593
+    m_Key: control_cancel
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12223429869592
+    m_Key: control_confirm
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12223429869582
+    m_Key: control_down
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12223429869591
+    m_Key: control_fast_forward
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12223429869583
+    m_Key: control_left
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12223429869588
+    m_Key: control_next_utility
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12223429869590
+    m_Key: control_overview
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12223429869594
+    m_Key: control_pause
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12223429869589
+    m_Key: control_prev_utility
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12223429869584
+    m_Key: control_right
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12223429869586
+    m_Key: control_run
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12223429869581
+    m_Key: control_up
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12223429869587
+    m_Key: control_use_utility
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12223429869576
+    m_Key: controls
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12223434063881
+    m_Key: copy_local
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12223413092364
+    m_Key: copyright
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12223417286712
+    m_Key: credits
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12223413092365
+    m_Key: credits1
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12223413092366
+    m_Key: credits2
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12223417286713
+    m_Key: credits_artists
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12223417286714
+    m_Key: credits_audio
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12223417286715
+    m_Key: credits_chairman
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12223417286720
+    m_Key: credits_cm
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12223429869633
+    m_Key: credits_johnny
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12223434063873
+    m_Key: credits_josef
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12223417286716
+    m_Key: credits_producer
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12223417286717
+    m_Key: credits_programmer
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12223434063872
+    m_Key: credits_rickard
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12223417286719
+    m_Key: credits_supplemental
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12223417286718
+    m_Key: credits_tester
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12223417286721
+    m_Key: defaults
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12223438258176
+    m_Key: disable_cloud_desc
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12223413092367
+    m_Key: disclaimer1
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12223413092368
+    m_Key: disclaimer2
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12223417286671
+    m_Key: dismiss
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12223429869574
+    m_Key: display_mode
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12223434063875
+    m_Key: double_it
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12223413092369
+    m_Key: downtown
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12223434063884
+    m_Key: enable_cloud_desc
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12223413092445
+    m_Key: enable_shadow_bob
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12223417286683
+    m_Key: equip
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12223417286684
+    m_Key: equip_outfit
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12223413092370
+    m_Key: eula
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12223413092371
+    m_Key: exit_game
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12223413092372
+    m_Key: extra_levels
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12223417286685
+    m_Key: facebook_info_1
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12223417286686
+    m_Key: facebook_info_2
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12223417286687
+    m_Key: facebook_info_3
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12223417286688
+    m_Key: facebook_info_header
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12223413092373
+    m_Key: facebook_leaderboard
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12223463424054
+    m_Key: forced_update_body
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12223413092446
+    m_Key: found_key
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12223413092374
+    m_Key: free
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12223429869596
+    m_Key: fullscreen
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12223438258184
+    m_Key: game_services
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12223429869578
+    m_Key: gamepad_controls
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12223413092447
+    m_Key: gamepad_ff
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12223413092448
+    m_Key: gamepad_move
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12223413092449
+    m_Key: gamepad_overview
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12223413092450
+    m_Key: gamepad_pause
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12223413092451
+    m_Key: gamepad_run
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12223413092452
+    m_Key: gamepad_util
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12223413092375
+    m_Key: get_100_free
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12223434063878
+    m_Key: get_coin_booster
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12223463424047
+    m_Key: get_energy_lockpick_header
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12223442452498
+    m_Key: get_it
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12223417286689
+    m_Key: get_more_coins
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12223442452494
+    m_Key: go_ad_free
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12223438258185
+    m_Key: google_desc1
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12223438258186
+    m_Key: google_desc2
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12223438258188
+    m_Key: google_play_game_services
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12223429869612
+    m_Key: got_it
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12223429869605
+    m_Key: high_score
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12223413092376
+    m_Key: highrise_levels
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12223413092453
+    m_Key: highscore
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12223417286690
+    m_Key: how_does_suits_work_
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12223417286691
+    m_Key: how_does_utilities_work_
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12223438258187
+    m_Key: icloud
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12223413092377
+    m_Key: illustrations
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12223429869608
+    m_Key: info_fast_forward
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12223429869607
+    m_Key: info_first
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12223429869609
+    m_Key: info_overview
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12223429869610
+    m_Key: info_store
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12223429869611
+    m_Key: info_store2
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12223417286722
+    m_Key: information
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12223463424004
+    m_Key: install
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12223413092378
+    m_Key: introduction
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12223417286692
+    m_Key: invite_friends
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12223413092379
+    m_Key: invite_ten_friends
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12223429869597
+    m_Key: items
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12223429869602
+    m_Key: items & upgrades
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12223417286723
+    m_Key: keep_settings
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12223429869580
+    m_Key: keyboard
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12223429869579
+    m_Key: keyboard_controls
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12223429869619
+    m_Key: lang_ar
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12223413092380
+    m_Key: lang_de
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12223413092381
+    m_Key: lang_en
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12223413092382
+    m_Key: lang_es
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12223413092383
+    m_Key: lang_fr
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12223463424001
+    m_Key: lang_id
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12223413092384
+    m_Key: lang_it
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12223429869617
+    m_Key: lang_ja
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12223429869618
+    m_Key: lang_ko
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12223429869613
+    m_Key: lang_pt
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12223429869614
+    m_Key: lang_ptbr
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12223429869615
+    m_Key: lang_zh_hans
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12223429869616
+    m_Key: lang_zh_hant
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12223417286724
+    m_Key: language
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12223438258179
+    m_Key: leaderboards
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12223417286693
+    m_Key: loading
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12223413092385
+    m_Key: locked
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12223413092454
+    m_Key: loot
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12223438258181
+    m_Key: lost_lead_desc
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12223442452491
+    m_Key: missing_num_coins
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12223429869572
+    m_Key: music_volume
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12223413092386
+    m_Key: new_levels
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12223463424017
+    m_Key: new_videos_in
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12223413092455
+    m_Key: next
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12223413092456
+    m_Key: no
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12223442452495
+    m_Key: no_ads
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12223429869622
+    m_Key: no_thanks
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12223442452490
+    m_Key: not_enough_header
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12223463424016
+    m_Key: number_of_videos
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12223417286674
+    m_Key: off
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12223442452488
+    m_Key: offerwall_desc
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12223417286670
+    m_Key: ok
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12223417286673
+    m_Key: on
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12223417286725
+    m_Key: options
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12223429869598
+    m_Key: options_audio
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12223429869606
+    m_Key: options_revert
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12223417286694
+    m_Key: outfits
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12223417286695
+    m_Key: packs
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12223413092457
+    m_Key: par_time
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12223413092458
+    m_Key: pause_menu
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12223413092387
+    m_Key: play
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12223463424008
+    m_Key: play_again
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12223429869629
+    m_Key: play_bob2
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12223429869599
+    m_Key: play_robbery_bob
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12223417286696
+    m_Key: please_wait
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12223413092388
+    m_Key: please_wait_de
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12223413092389
+    m_Key: please_wait_en
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12223413092390
+    m_Key: please_wait_es
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12223413092391
+    m_Key: please_wait_fr
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12223413092392
+    m_Key: please_wait_it
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12223413092394
+    m_Key: please_wait_jp
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12223413092393
+    m_Key: please_wait_ko
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12223417286697
+    m_Key: popup_restart_level
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12223417286726
+    m_Key: press_button
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12223463424039
+    m_Key: prison_levels
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12223413092395
+    m_Key: privacy_and_cookie_policy
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12223417286698
+    m_Key: processing_purchase
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12223417286727
+    m_Key: proudly_presents
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12223463424005
+    m_Key: quit
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12223413092396
+    m_Key: quit_are_you_sure
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12223429869600
+    m_Key: quit_game
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12223413092397
+    m_Key: quit_robbery_bob
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12223417286728
+    m_Key: rate
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12223417286729
+    m_Key: rate_app
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12223442452480
+    m_Key: rebate
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12223438258196
+    m_Key: rebate_percent
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12223463424053
+    m_Key: recommended_update_body
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12223463424015
+    m_Key: remain_unseen
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12223417286699
+    m_Key: remove
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12223442452497
+    m_Key: remove_ads_desc
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12223442452496
+    m_Key: remove_ads_header
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12223413092398
+    m_Key: reset
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12223429869575
+    m_Key: resolution
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12223463424007
+    m_Key: restart
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12223413092459
+    m_Key: restart_level
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12223417286730
+    m_Key: restore_purchases
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12223417286700
+    m_Key: restoring_purchase
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12223429869603
+    m_Key: resume
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12223429869604
+    m_Key: resume_game
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12223463424013
+    m_Key: resume_immediately
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12223413092460
+    m_Key: retry
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12223417286731
+    m_Key: revert
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12223413092403
+    m_Key: reward_desc
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12223413092399
+    m_Key: reward_facebook
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12223413092400
+    m_Key: reward_twitter
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12223413092401
+    m_Key: reward_youtube
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12223463424043
+    m_Key: rewarded_tool_desc
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12223463424042
+    m_Key: rewarded_tool_name
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12223463424044
+    m_Key: rewarded_tool_popup_header
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12223463424045
+    m_Key: rewarded_tool_popup_message
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12223413092402
+    m_Key: rewards
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12223442452483
+    m_Key: sale
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12223442452484
+    m_Key: sale_desc
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12223438258178
+    m_Key: save_load
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12223413092404
+    m_Key: save_up_to
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12223463424000
+    m_Key: secret_exit
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12223413092405
+    m_Key: secret_labs
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12223417286656
+    m_Key: shadow_bob
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12223417286657
+    m_Key: shadow_bob_text
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12223417286658
+    m_Key: shadow_bob_text2
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12223417286659
+    m_Key: shadow_bob_text3
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12223417286660
+    m_Key: shadow_bob_text4
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12223442452487
+    m_Key: show_offers
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12223438258190
+    m_Key: sign_in
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12223417286701
+    m_Key: sign_in_facebook
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12223438258193
+    m_Key: sign_in_google
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12223413092406
+    m_Key: sign_out
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12223417286661
+    m_Key: skip
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12223417286662
+    m_Key: skip_lowercase
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12223463424012
+    m_Key: smoke_bomb_header
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12223429869568
+    m_Key: social
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12223429869573
+    m_Key: sound_volume
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12223429869569
+    m_Key: store
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12223429869570
+    m_Key: story_chapters
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12223413092407
+    m_Key: suburbs
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12223413092408
+    m_Key: suit_available
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12223413092409
+    m_Key: summer_camp_name
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12223429869571
+    m_Key: support
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12223429869621
+    m_Key: sure_ok
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12223417286663
+    m_Key: target
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12223417286664
+    m_Key: target_time
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12223413092410
+    m_Key: terms_of_service
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12223442452499
+    m_Key: thank_you_purchase
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12223417286665
+    m_Key: time
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12223463424049
+    m_Key: time_before_next_lockpick
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12223463424026
+    m_Key: time_d
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12223463424025
+    m_Key: time_day
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12223463424024
+    m_Key: time_days
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12223463424029
+    m_Key: time_h
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12223463424028
+    m_Key: time_hour
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12223463424027
+    m_Key: time_hours
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12223463424033
+    m_Key: time_m
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12223463424032
+    m_Key: time_min
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12223463424031
+    m_Key: time_minute
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12223463424030
+    m_Key: time_minutes
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12223463424037
+    m_Key: time_s
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12223463424036
+    m_Key: time_sec
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12223463424034
+    m_Key: time_second
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12223463424035
+    m_Key: time_seconds
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12223463424023
+    m_Key: time_w
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12223463424022
+    m_Key: time_week
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12223463424021
+    m_Key: time_weeks
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12223417286666
+    m_Key: tweet_it_
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12223417286667
+    m_Key: undetected
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12223413092411
+    m_Key: unlock_advanced_description
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12223413092412
+    m_Key: unlock_all_description
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12223413092413
+    m_Key: unlock_all_title
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12223413092414
+    m_Key: unlock_bonus_description
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12223413092415
+    m_Key: unlock_camp_description
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12223413092416
+    m_Key: unlock_challenges_description
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12223413092417
+    m_Key: unlock_downtown_description
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12223413092418
+    m_Key: unlock_extras_description
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12223413092419
+    m_Key: unlock_highrise_description
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12223413092420
+    m_Key: unlock_now
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12223463424040
+    m_Key: unlock_prison_description
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12223413092421
+    m_Key: unlock_secretlabs_description
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12223413092422
+    m_Key: unlock_winter_description
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12223417286668
+    m_Key: unlocked
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12223463424055
+    m_Key: update
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12223463424052
+    m_Key: update_header
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12223417286702
+    m_Key: upgrade
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12223417286703
+    m_Key: upgrades
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12223434063882
+    m_Key: use_local
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12223417286704
+    m_Key: utilities
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12223429869620
+    m_Key: version
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12223429869577
+    m_Key: vibration
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12223429869626
+    m_Key: video
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12223429869630
+    m_Key: visit_steam
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12223417286705
+    m_Key: watch_on_youtube
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12223463424048
+    m_Key: watch_or_buy_lockpick
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12223413092423
+    m_Key: watch_video_ad
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12223413092424
+    m_Key: winter_levels
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12223417286669
+    m_Key: yes
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12223413092425
+    m_Key: you_need1
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12223413092434
+    m_Key: you_need10
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12223413092435
+    m_Key: you_need11
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12223413092436
+    m_Key: you_need12
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12223413092437
+    m_Key: you_need13
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12223413092438
+    m_Key: you_need14
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12223413092439
+    m_Key: you_need15
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12223413092440
+    m_Key: you_need16
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12223413092426
+    m_Key: you_need2
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12223413092427
+    m_Key: you_need3
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12223413092428
+    m_Key: you_need4
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12223413092429
+    m_Key: you_need5
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12223413092430
+    m_Key: you_need6
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12223413092431
+    m_Key: you_need7
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12223413092432
+    m_Key: you_need8
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12223413092433
+    m_Key: you_need9
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12223434063879
+    m_Key: youtube_error
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12223429869627
+    m_Key: youtube_outfits
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12223429869628
+    m_Key: youtube_utilities
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17030618152960
+    m_Key: New Entry 77
+    m_Metadata:
+      m_Items: []
+  - m_Id: 16955812741120
+    m_Key: New Entry 76
+    m_Metadata:
+      m_Items: []
+  - m_Id: 16533261778944
+    m_Key: New Entry 75
+    m_Metadata:
+      m_Items: []
+  - m_Id: 16369402904576
+    m_Key: New Entry 74
+    m_Metadata:
+      m_Items: []
+  - m_Id: 16063499730944
+    m_Key: New Entry 73
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15862810673152
+    m_Key: New Entry 72
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15651170287616
+    m_Key: New Entry 71
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15268947558400
+    m_Key: New Entry 70
+    m_Metadata:
+      m_Items: []
+  - m_Id: 13117630316544
+    m_Key: New Entry 23
+    m_Metadata:
+      m_Items: []
+  - m_Id: 13117634510848
+    m_Key: New Entry 48
+    m_Metadata:
+      m_Items: []
+  - m_Id: 13117634510849
+    m_Key: New Entry 49
+    m_Metadata:
+      m_Items: []
+  - m_Id: 13117634510850
+    m_Key: New Entry 50
+    m_Metadata:
+      m_Items: []
+  - m_Id: 13117668065280
+    m_Key: New Entry 51
+    m_Metadata:
+      m_Items: []
+  - m_Id: 13117668065281
+    m_Key: New Entry 52
+    m_Metadata:
+      m_Items: []
+  - m_Id: 13117668065282
+    m_Key: New Entry 53
+    m_Metadata:
+      m_Items: []
+  - m_Id: 13117668065283
+    m_Key: New Entry 54
+    m_Metadata:
+      m_Items: []
+  - m_Id: 13117668065284
+    m_Key: New Entry 55
+    m_Metadata:
+      m_Items: []
+  - m_Id: 13117668065285
+    m_Key: New Entry 56
+    m_Metadata:
+      m_Items: []
+  - m_Id: 13117668065286
+    m_Key: New Entry 57
+    m_Metadata:
+      m_Items: []
+  - m_Id: 13117668065287
+    m_Key: New Entry 58
+    m_Metadata:
+      m_Items: []
+  - m_Id: 13117668065288
+    m_Key: New Entry 59
+    m_Metadata:
+      m_Items: []
+  - m_Id: 13117668065289
+    m_Key: New Entry 60
+    m_Metadata:
+      m_Items: []
+  - m_Id: 13117668065290
+    m_Key: New Entry 61
+    m_Metadata:
+      m_Items: []
+  - m_Id: 13117668065291
+    m_Key: New Entry 62
+    m_Metadata:
+      m_Items: []
+  - m_Id: 13117668065292
+    m_Key: New Entry 63
+    m_Metadata:
+      m_Items: []
+  - m_Id: 13117668065293
+    m_Key: New Entry 64
+    m_Metadata:
+      m_Items: []
+  - m_Id: 13117668065294
+    m_Key: New Entry 65
+    m_Metadata:
+      m_Items: []
+  - m_Id: 13117668065295
+    m_Key: New Entry 66
+    m_Metadata:
+      m_Items: []
+  - m_Id: 13117668065296
+    m_Key: New Entry 67
+    m_Metadata:
+      m_Items: []
+  - m_Id: 13117668065297
+    m_Key: New Entry 68
+    m_Metadata:
+      m_Items: []
+  - m_Id: 13117668065298
+    m_Key: New Entry 69
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12780924174336
+    m_Key: New Entry
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12780924174337
+    m_Key: New Entry 1
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12780924174338
+    m_Key: New Entry 2
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12780924174339
+    m_Key: New Entry 3
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12780928368640
+    m_Key: New Entry 4
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12780928368641
+    m_Key: New Entry 5
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12780928368642
+    m_Key: New Entry 6
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12780928368643
+    m_Key: New Entry 7
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12780928368644
+    m_Key: New Entry 8
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12780928368645
+    m_Key: New Entry 9
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12780928368646
+    m_Key: New Entry 10
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12780928368647
+    m_Key: New Entry 11
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12780928368648
+    m_Key: New Entry 12
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12780928368649
+    m_Key: New Entry 13
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12780928368650
+    m_Key: New Entry 14
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12780936757248
+    m_Key: New Entry 15
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12780936757249
+    m_Key: New Entry 16
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12780936757250
+    m_Key: New Entry 17
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12780936757251
+    m_Key: New Entry 18
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12780936757252
+    m_Key: New Entry 19
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12780936757253
+    m_Key: New Entry 20
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12780936757254
+    m_Key: New Entry 21
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12780936757255
+    m_Key: New Entry 22
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12450605957120
+    m_Key: New Entry 24
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12450605957121
+    m_Key: New Entry 25
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12450605957122
+    m_Key: New Entry 26
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12450610151424
+    m_Key: New Entry 27
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12450610151425
+    m_Key: New Entry 28
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12450610151426
+    m_Key: New Entry 29
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12450610151427
+    m_Key: New Entry 30
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12450610151428
+    m_Key: New Entry 31
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12450610151429
+    m_Key: New Entry 32
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12450610151430
+    m_Key: New Entry 33
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12450610151431
+    m_Key: New Entry 34
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12450610151432
+    m_Key: New Entry 35
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12450610151433
+    m_Key: New Entry 36
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12450610151434
+    m_Key: New Entry 37
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12450610151435
+    m_Key: New Entry 38
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12450610151436
+    m_Key: New Entry 39
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12450610151437
+    m_Key: New Entry 40
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12450610151438
+    m_Key: New Entry 41
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12450610151439
+    m_Key: New Entry 42
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12450610151440
+    m_Key: New Entry 43
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12450610151441
+    m_Key: New Entry 44
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12450610151442
+    m_Key: New Entry 45
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12450610151443
+    m_Key: New Entry 46
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12450610151444
+    m_Key: New Entry 47
+    m_Metadata:
+      m_Items: []
+  m_Metadata:
+    m_Items: []
+  m_KeyGenerator:
+    rid: 2016924983150510415
+  references:
+    version: 2
+    RefIds:
+    - rid: 2016924983150510415
+      type: {class: DistributedUIDGenerator, ns: UnityEngine.Localization.Tables, asm: Unity.Localization}
+      data:
+        m_CustomEpoch: 1766921779733

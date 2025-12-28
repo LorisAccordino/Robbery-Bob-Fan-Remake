@@ -1,0 +1,895 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: LootNames_es
+  m_EditorClassIdentifier: Unity.Localization::UnityEngine.Localization.Tables.StringTable
+  m_LocaleId:
+    m_Code: es
+  m_SharedData: {fileID: 11400000, guid: 56308ec015554634f8febbfd4481ade0, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 18416271360
+    m_Localized: Bola de bolos
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18416271361
+    m_Localized: Pila AAA
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18416271362
+    m_Localized: Replicador de antimateria
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18416271363
+    m_Localized: Ovillo
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18416271364
+    m_Localized: Bola de estambre
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18416271365
+    m_Localized: "Pastel de cumplea\xF1os"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18420465664
+    m_Localized: Pajarita
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18420465665
+    m_Localized: Trofeo de la bolera
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18420465666
+    m_Localized: Sobornar dinero
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18420465667
+    m_Localized: Disco roto
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18420465668
+    m_Localized: Juguete roto
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18420465669
+    m_Localized: Disco rayado
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18420465670
+    m_Localized: Tijeras rotas
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18420465671
+    m_Localized: Juguete roto
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18420465672
+    m_Localized: Escoba
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18420465673
+    m_Localized: Montoncito de clips
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18420465674
+    m_Localized: Fusible fundido
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18420465675
+    m_Localized: Calculadora
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18420465676
+    m_Localized: Disco compacto
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18420465677
+    m_Localized: Rallador de queso
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18420465678
+    m_Localized: Dibujo infantil
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18420465680
+    m_Localized: "Rel\xE9 de circuito"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18420465681
+    m_Localized: Carpeta
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18420465682
+    m_Localized: Cafetera
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18420465683
+    m_Localized: Memorando de la empresa
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18420465684
+    m_Localized: Libro de cocinero
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18420465685
+    m_Localized: "Tomates cr\xEDticos"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18420465686
+    m_Localized: Papel arrugado
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18420465687
+    m_Localized: Magdalena
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18420465688
+    m_Localized: "Taza medio vac\xEDa de caf\xE9"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18420465689
+    m_Localized: "Media taza llena de caf\xE9"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18420465690
+    m_Localized: Disco de datos
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18420465691
+    m_Localized: Cartera
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18420465692
+    m_Localized: Baraja de cartas
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18420465693
+    m_Localized: Baraja de cartas
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18420465694
+    m_Localized: Dentaduras postizas
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18420465695
+    m_Localized: "L\xE1mpara de mesa"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18420465696
+    m_Localized: Detergente
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18420465697
+    m_Localized: Reloj digital
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18420465698
+    m_Localized: Ropa sucia
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18420465699
+    m_Localized: Documentos de divorcio
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18420465700
+    m_Localized: "Taz\xF3n para el perro"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18424659968
+    m_Localized: Collar
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18424659969
+    m_Localized: Comida para perro
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18424659970
+    m_Localized: Perrito de juguete
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18424659971
+    m_Localized: Donut
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18424659972
+    m_Localized: Cinta adhesiva
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18424659973
+    m_Localized: Comic polvoriento
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18424659974
+    m_Localized: "Esp\xE9cimen alien\xEDgena"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18424659975
+    m_Localized: "Monedero vac\xEDo"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18424659976
+    m_Localized: "Billetera vac\xEDa"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18424659977
+    m_Localized: Enciclopedia
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18424659978
+    m_Localized: Enciclopedia F-J
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18424659979
+    m_Localized: Enciclopedia K-O
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18424659980
+    m_Localized: Enciclopedia P-R
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18424659981
+    m_Localized: Enciclopedia S-U
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18424659982
+    m_Localized: Enciclopedia V-Z
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18424659983
+    m_Localized: Vestido elegante
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18424659984
+    m_Localized: Boa de plumas
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18424659985
+    m_Localized: Fennari Llavero
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18424659986
+    m_Localized: "Pu\xF1ado de monedas"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18424659987
+    m_Localized: Bandeja de comida
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18424659988
+    m_Localized: Multiplicador Fresnel
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18424659989
+    m_Localized: "Sart\xE9n"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18424659990
+    m_Localized: Palomitas gigante
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18424659991
+    m_Localized: Pulsera de oro
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18424659992
+    m_Localized: Estuche de guitarra
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18424659993
+    m_Localized: Ositos de goma
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18424659994
+    m_Localized: "Media taza de caf\xE9"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18424659995
+    m_Localized: "S\xE1ndwich de jam\xF3n"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18424659996
+    m_Localized: "Localizador del bos\xF3n de Higgs"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18424659997
+    m_Localized: Perrito caliente
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18424659998
+    m_Localized: "Facturas dom\xE9sticas"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18424659999
+    m_Localized: Enorme centavo
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18424660000
+    m_Localized: Figurita japonesa
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18424660001
+    m_Localized: Joyero
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18424660002
+    m_Localized: Teclado
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18424660003
+    m_Localized: Llavero
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18424660004
+    m_Localized: Arena para gatos
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18424660005
+    m_Localized: Bata de laboratorio
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18424660006
+    m_Localized: "Port\xE1til"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18424660007
+    m_Localized: "\xD3ptica l\xE1ser"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18424660008
+    m_Localized: "Juguete pistola l\xE1ser"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18424660009
+    m_Localized: Fugas cubo
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18424660010
+    m_Localized: Bistec a medio comer
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18424660011
+    m_Localized: Trozo de cordel
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18424660012
+    m_Localized: Bombilla
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18424660013
+    m_Localized: Dados cargados
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18424660014
+    m_Localized: Tornillos perdidos
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18424660015
+    m_Localized: Correo
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18424660016
+    m_Localized: Rotulador
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18424660017
+    m_Localized: Llave maestra
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18424660018
+    m_Localized: "Men\xFA"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18424660019
+    m_Localized: "Micr\xF3fono"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18424660020
+    m_Localized: "Tel\xE9fono m\xF3vil"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18424660021
+    m_Localized: "Coj\xEDn de rat\xF3n"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18424660022
+    m_Localized: Servilleta
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18424660023
+    m_Localized: Libreta
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18424660024
+    m_Localized: "Bol\xEDgrafo innovador"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18424660071
+    m_Localized: "Tel\xE9fono de la empresa"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18424660072
+    m_Localized: Revistas viejas
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18428854272
+    m_Localized: "Peri\xF3dico viejo"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18428854273
+    m_Localized: Zapato viejo
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18428854274
+    m_Localized: Cuadro
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18428854275
+    m_Localized: Prototipo parcial
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18428854276
+    m_Localized: "Dispositivo emisor de part\xEDculas"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18428854277
+    m_Localized: Cacahuete
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18428854278
+    m_Localized: "Perdig\xF3n"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18428854279
+    m_Localized: "L\xE1piz"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18428854280
+    m_Localized: Ficheros del personal
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18428854281
+    m_Localized: "N\xFAmero de tel\xE9fono"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18428854282
+    m_Localized: "Gu\xEDa telef\xF3nica"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18428854283
+    m_Localized: Foto
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18428854284
+    m_Localized: "Bolsa de pl\xE1stico"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18428854285
+    m_Localized: "Vaso de pl\xE1stico"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18428854286
+    m_Localized: "Tenedor de pl\xE1stico"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18428854287
+    m_Localized: Fichas
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18428854288
+    m_Localized: "Detector de neutrinos port\xE1til"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18428854289
+    m_Localized: Separador de positrones
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18428854290
+    m_Localized: Planta en maceta
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18428854291
+    m_Localized: Ristra de costillas
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18428854292
+    m_Localized: Remoto
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18428854293
+    m_Localized: Rolodex
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18428854294
+    m_Localized: "Informe cient\xEDfico"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18428854295
+    m_Localized: "Billete de loter\xEDa usados"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18428854296
+    m_Localized: Receta de estofado de gaviota
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18428854297
+    m_Localized: Juguete del perro
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18428854298
+    m_Localized: Algo apestoso
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18428854299
+    m_Localized: Algo pegajoso
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18428854300
+    m_Localized: "Sopa del d\xEDa"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18428854301
+    m_Localized: "Buj\xEDa"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18428854302
+    m_Localized: "Diluci\xF3n espacial"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18428854303
+    m_Localized: "Mont\xF3n de papel"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18428854304
+    m_Localized: Grapadora
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18428854305
+    m_Localized: "Art\xEDculos de escritorio"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18428854306
+    m_Localized: Recipiente de espuma de poliestireno
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18428854307
+    m_Localized: "Figura de acci\xF3n de Super-Bob"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18428854308
+    m_Localized: "C\xF3mic de Super-Bob"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18428854309
+    m_Localized: Arenque agrio
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18428854310
+    m_Localized: Informe TPS
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18428854311
+    m_Localized: Mando de TV
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18428854312
+    m_Localized: Tableta
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18428854313
+    m_Localized: "Tarantula-Man edici\xF3n #1"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18428854314
+    m_Localized: Probetas
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18428854315
+    m_Localized: "Papel de v\xE1ter"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18428854316
+    m_Localized: Wok
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18428854317
+    m_Localized: Palillo
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18428854318
+    m_Localized: "L\xE1piz de memoria USB"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18428854319
+    m_Localized: Esquirla de unobtanium
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18428854320
+    m_Localized: Maquinilla de afeitarusado
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18428854321
+    m_Localized: Tarjeta Rasca y gana usada
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18428854322
+    m_Localized: Cepillo de dientes usado
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18428854323
+    m_Localized: "Cinta de v\xEDdeo"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18428854324
+    m_Localized: Grabadora de voz
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18428854325
+    m_Localized: Billete ganador
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18428854326
+    m_Localized: Planta mustia
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18428854327
+    m_Localized: "Peri\xF3dico de ayer"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18428854328
+    m_Localized: Bob dibujos animados
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18428854329
+    m_Localized: Barra de chocolate
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18428854330
+    m_Localized: Dados de seis
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18428854331
+    m_Localized: "Delicioso Bu\xF1uelo"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18428854332
+    m_Localized: Disco flexible
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18428854333
+    m_Localized: Revista de modas
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18428854334
+    m_Localized: "Revista de m\xFAsica"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18428854335
+    m_Localized: La revista de videojuegos
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18428854336
+    m_Localized: "Beneficios del d\xEDa"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18428854337
+    m_Localized: Tarjetas Rasca y gana
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18428854338
+    m_Localized: Masa
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18428854339
+    m_Localized: Silencio absoluto
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18428854340
+    m_Localized: "Port\xE1til"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18428854341
+    m_Localized: "Dos d\xF3lares"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18433048576
+    m_Localized: "Una peque\xF1a fortuna"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18433048577
+    m_Localized: "Prototipo de c\xE1mara"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18433048578
+    m_Localized: Certificado de calma
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18433048579
+    m_Localized: Dinero
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18433048580
+    m_Localized: Benjamines
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18433048581
+    m_Localized: World of Woodcraft
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18433048582
+    m_Localized: Costillitas a la miel
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18433048583
+    m_Localized: Pruebas incriminatorias
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18433048584
+    m_Localized: "Un mont\xF3n de dinero"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18433048585
+    m_Localized: Trinitroxipropano
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18433048586
+    m_Localized: "C\xF3digos de calibraci\xF3n"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18433048587
+    m_Localized: Prisma de cristal
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18433048588
+    m_Localized: "Inhibidor de arm\xF3nicos espectrales"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18433048589
+    m_Localized: "Bater\xEDa antimateria"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18433048590
+    m_Localized: Comida para mascotas
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18433048591
+    m_Localized: Taza de trimethilxanthina
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18433048592
+    m_Localized: "C\xF3digos de acceso a la plataforma de lanzamiento"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18433048593
+    m_Localized: Dispositivo P.A.L.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18433048594
+    m_Localized: Chocolatina
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18433048595
+    m_Localized: "C\xF3digo de acceso: Alfa"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18433048596
+    m_Localized: "C\xF3digo de acceso: Beta"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18433048597
+    m_Localized: "C\xF3digo de acceso: Gama"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18433048598
+    m_Localized: "C\xF3digo de acceso: Omega"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18433048599
+    m_Localized: "Se ha iniciado la autodestrucci\xF3n"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18433048600
+    m_Localized: Cartera
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18433048601
+    m_Localized: Joyero
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18433048602
+    m_Localized: Mando de TV
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18433048603
+    m_Localized: "Sart\xE9n"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18433048604
+    m_Localized: Trofeo de la bolera
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18433048605
+    m_Localized: "No 1 de Hombre Tar\xE1ntula"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18433048606
+    m_Localized: "Bob est\xE1 lleno de sorpresas"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18433048607
+    m_Localized: Documentos legales
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18433048608
+    m_Localized: Receta de estofado de gaviota
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18433048609
+    m_Localized: "N\xFAmero de tel\xE9fono"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18433048610
+    m_Localized: Cuadro
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18433048611
+    m_Localized: Billete ganador
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18433048612
+    m_Localized: Dados cargados
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18433048613
+    m_Localized: Llave maestra
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18433048614
+    m_Localized: "Tel\xE9fono"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18433048615
+    m_Localized: Tesoro
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18433048616
+    m_Localized: "Del n\xFAmero de tel\xE9fono"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18433048617
+    m_Localized: Lata de repelente de tiburones
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18433048618
+    m_Localized: Lista de Compras
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18433048619
+    m_Localized: "Calcet\xEDn viejo"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18433048620
+    m_Localized: Algo pegajoso
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18433048621
+    m_Localized: "Figura de acci\xF3n Super-Bob"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18433048622
+    m_Localized: "Tincan vac\xEDo"
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []

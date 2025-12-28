@@ -1,0 +1,173 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: TRVB_pt
+  m_EditorClassIdentifier: Unity.Localization::UnityEngine.Localization.Tables.StringTable
+  m_LocaleId:
+    m_Code: pt
+  m_SharedData: {fileID: 11400000, guid: 97402f528cb33644bbadbb7e28bb5d69, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 17648713728
+    m_Localized: Portuguese (Brazil)
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17686462464
+    m_Localized: Text
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17686462465
+    m_Localized: "O Traje de Coelho pode impedir que os guardas persigam Bob. Use
+      em qualquer lugar pelos pr\xF3ximos \"X\" minutos!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17686462466
+    m_Localized: "Bob pode chegar mais longe para pegar o saque. Aproveite sua habilidade
+      aprimorada de agarrar pelos pr\xF3ximos \"X\" minutos!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17686462467
+    m_Localized: "Um ladr\xE3o r\xE1pido \xE9 um bom ladr\xE3o. Aproveite sua velocidade
+      aprimorada pelos pr\xF3ximos \"X\" minutos!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17686462468
+    m_Localized: "Voc\xEA sabia que o Bob consegue correr uma maratona? Aproveite
+      sua resist\xEAncia aprimorada pelos pr\xF3ximos \"X\" minutos!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17686462469
+    m_Localized: "Quer ser mais furtivo? Aproveite sua furtividade aprimorada pelos
+      pr\xF3ximos \"X\" minutos!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17686462470
+    m_Localized: "Com a Armadura do Cavaleiro, os guardas n\xE3o podem prender o
+      Bob, mas ele tamb\xE9m n\xE3o pode correr. Use em qualquer lugar pelos pr\xF3ximos
+      \"X\" minutos!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17686462471
+    m_Localized: "Bob pode chegar mais longe para pegar o saque. Aproveite sua habilidade
+      de agarrar no m\xE1ximo pelos pr\xF3ximos \"X\" minutos!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17686462472
+    m_Localized: "Um ladr\xE3o r\xE1pido \xE9 um bom ladr\xE3o. Aproveite sua velocidade
+      no m\xE1ximo pelos pr\xF3ximos \"X\" minutos!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17690656768
+    m_Localized: "Voc\xEA sabia que o Bob consegue correr uma maratona? Aproveite
+      sua resist\xEAncia no m\xE1ximo pelos pr\xF3ximos \"X\" minutos!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17690656769
+    m_Localized: "Quer ser mais furtivo? Aproveite sua furtividade no m\xE1ximo pelos
+      pr\xF3ximos \"X\" minutos!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17690656770
+    m_Localized: "O Traje Ninja permite que o Bob corra ou arrombe portas silenciosamente.
+      Use em qualquer lugar pelos pr\xF3ximos \"X\" minutos!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17690656771
+    m_Localized: "O traje perfeito para o ladr\xE3o elegante. Use em qualquer lugar
+      pelos pr\xF3ximos \"X\" minutos!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17690656772
+    m_Localized: "Use o Super Traje do Bob e corra t\xE3o r\xE1pido que os guardas
+      nem v\xE3o te ver. Use em qualquer lugar pelos pr\xF3ximos \"X\" minutos!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17690656773
+    m_Localized: "O b\xF4nus expira em \"X\""
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17690656774
+    m_Localized: Compre na loja
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17690656775
+    m_Localized: Chamando
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17690656776
+    m_Localized: Gratuito
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17690656777
+    m_Localized: TRAJE DE COELHO
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17690656778
+    m_Localized: HABILIDADE DE AGARRAR APRIMORADA
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17690656779
+    m_Localized: ARMADURA DE CAVALEIRO
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17690656780
+    m_Localized: TRAJE NINJA
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17690656781
+    m_Localized: VELOCIDADE APRIMORADA
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17690656782
+    m_Localized: "RESIST\xCANCIA APRIMORADA"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17690656783
+    m_Localized: FURTIVIDADE APRIMORADA
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17690656784
+    m_Localized: TRAJE ESTILOSO
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17690656785
+    m_Localized: SUPER TRAJE DO BOB
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17690656786
+    m_Localized: EXPERIMENTE UM TRAJE GRATUITAMENTE
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17690656787
+    m_Localized: APRIMORE A HABILIDADE DE AGARRAR GRATUITAMENTE
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17690656788
+    m_Localized: AUMENTE A VELOCIDADE GRATUITAMENTE
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17690656789
+    m_Localized: "MELHORE A RESIST\xCANCIA DE GRA\xC7A"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17690656790
+    m_Localized: APRIMORE A FURTIVIDADE GRATUITAMENTE
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17690656791
+    m_Localized: A oferta expira em "X"
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []

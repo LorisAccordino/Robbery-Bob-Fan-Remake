@@ -1,0 +1,784 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: StoryEvents_en
+  m_EditorClassIdentifier: Unity.Localization::UnityEngine.Localization.Tables.StringTable
+  m_LocaleId:
+    m_Code: en
+  m_SharedData: {fileID: 11400000, guid: b1d830cb9b9413c4cacbdfcad6fba5d6, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 1775234056192
+    m_Localized: I'm sorry for ruining your ice cream.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1775234056193
+    m_Localized: Hey, forget about it! I've got the perfect solution. See I was about
+      to turn over this joint here...
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1775234056194
+    m_Localized: But the [em]camera[/] will spot me, no doubt.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1775234056195
+    m_Localized: Oh? I don't think I can help you. I'm trying to stay out of prison.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1775234056196
+    m_Localized: Hey kid! I wasn't askin'!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1775234056197
+    m_Localized: I've wanted to rob this place for weeks but the guards never leaves
+      their posts!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1775234056198
+    m_Localized: The security is [em]airtight![/] Why don't you take a stab at it,
+      kid.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1775234056199
+    m_Localized: You've got some real potential, kid.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1775234056200
+    m_Localized: Can I go home now?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1775234056201
+    m_Localized: You kiddin'!? Get in there and grab the dough before I lose my temper!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1775234056202
+    m_Localized: Here's an idea. If you break in at night, it will be dark and there
+      will be less people around.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1775234056203
+    m_Localized: But it's already way past my bedtime.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1775234056204
+    m_Localized: Get in there or I'll put your lights out for good.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1775234056205
+    m_Localized: I don't think I want to help you any more Biff. I don't want to
+      go back to prison.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1775234056206
+    m_Localized: Oh, come on, kid. You scratch my back, I won't break yours.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1775234056207
+    m_Localized: '*Gulp*'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1775234056208
+    m_Localized: I got something from this shop last week and I accidentally gave
+      them my money. Go and get it back.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1775234056209
+    m_Localized: The front's all locked up, but the back door is busted. Just watch
+      out for the security guard.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1775234056210
+    m_Localized: This loan company called me last night and asked for their money
+      back. Long story short, I ain't payin'.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1775242444800
+    m_Localized: The best way to deal with a shark is to let 'em know who's boss.
+      So get in there and rob 'em blind!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1775242444801
+    m_Localized: There sure are a lot of cameras here.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1775242444802
+    m_Localized: This company specializes in video security. They've built practically
+      every security camera in this city.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1775242444803
+    m_Localized: Then what are we doing here? I don't want to be caught on camera.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1775242444804
+    m_Localized: 'It''s like that saying: ''Prison is more comfortable than a coffin.''
+      Question me again and you''ll wake up in the latter.'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1775242444805
+    m_Localized: Y'know kid. I sometimes say things I don't mean. Or shouldn't say
+      I mean.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1775242444806
+    m_Localized: The judge ordered me to go to this [em]anger management[/] class,
+      so I need you to go in and steal a certificate.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1775242444807
+    m_Localized: Hey kid. I'm going to try something new. Gimme a sec, ok.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1775242444808
+    m_Localized: Would you... umm... be so... kind?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1775242444809
+    m_Localized: To help me... steal... uh... please? And... thankfully... appreciate...
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1775242444810
+    m_Localized: 'RAARGH! I can''t do it! [em]Get in there! Grab the moolah! Or I''ll
+      damage something important to your health![/]'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1775242444811
+    m_Localized: Y-yes, sir!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1775242444812
+    m_Localized: This should be an easy job for yah, kid. The security guards that
+      work here are all second grade numbskulls.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1775242444813
+    m_Localized: Just stay outta sight and walk past 'em.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1775242444814
+    m_Localized: This is the office of a big-shot video game company.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1775242444815
+    m_Localized: I can't wait for their [em]latest game[/] to be released, so you're
+      gonna steal it for me!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1775242444816
+    m_Localized: World of Woodcraft? Is it fun?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1775242444817
+    m_Localized: It's going to be great! I'm gonna play as a level 60 whittler.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1775242444818
+    m_Localized: This restaurant is real fancy. Exclusive dishes for members-only.
+      I used to be a member too.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1775242444819
+    m_Localized: You used to be?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1775242444820
+    m_Localized: I took the [em]One Hundred Rib Challenge[/] once and they cut my
+      membership card!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1775242444821
+    m_Localized: It's their loss, 'cause now we're robbing 'em.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1775242444822
+    m_Localized: Word on the street is that the DA has started to build a case against
+      me. I need to cover my tracks.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1775242444823
+    m_Localized: I couldn't have done it without yah kid, so if I'm going down I'm
+      pulling you down with me.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1775242444824
+    m_Localized: So we're bringing it to the DA's office. Find whatever they got
+      on me and get out.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1775242444825
+    m_Localized: Nice going kid! Y'know, you're too good a thief to let go.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1775242444826
+    m_Localized: I don't think you're going home any time soon, kid. 'cause you're
+      gonna make me rich!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1775242444827
+    m_Localized: But...
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1775242444828
+    m_Localized: Do I have to remind you who's got all the muscle in our little partnership,
+      huh?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1775242444829
+    m_Localized: What's this? It looks like Biff has got company.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1775242444830
+    m_Localized: This might be the perfect opportunity to set things right. He can't
+      boss me around any more.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1775242444831
+    m_Localized: Cops?! At my place?!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1775242444832
+    m_Localized: Now I'm REALLY mad! No-one's allowed in my room!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1775242444833
+    m_Localized: Text
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1775242444834
+    m_Localized: What is going on? Where am I?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1775242444835
+    m_Localized: Greetings Mister Bob. I am [em]Dr. Thievious[/] and you have been
+      selected to be my new lab rat.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1775242444836
+    m_Localized: Just complete my tasks and you might see the sun again. GUAH HA
+      HA!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1775242444837
+    m_Localized: No sunlight? What about my vacation!?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1775242444838
+    m_Localized: Your first task is simple. Just procure a [em]chemical sample[/]
+      for me and return to the elevator.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1775242444839
+    m_Localized: You are very lucky Mister Bob, for you are a pawn in my diabolical
+      plan!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1775242444840
+    m_Localized: I don't want to know, really.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1775242444841
+    m_Localized: ...an [em]ingenious[/] plan that will be remembered as such by all
+      humanity, forever!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1775242444842
+    m_Localized: GUAH HA HA!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1775242444843
+    m_Localized: Excellent! These [em]calibration codes[/] will be very useful to
+      realize my sinister device!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1775242444844
+    m_Localized: GUAH HA HA!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1775242444845
+    m_Localized: Are you enjoying my lasers, Mister Bob? I made them myself.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1775242444846
+    m_Localized: Considering my ample genius, these next ones should prove to be
+      impossible for your feeble mind to comprehend.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1775242444847
+    m_Localized: GUAH HA HA!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1775242444848
+    m_Localized: My clever but inferior colleagues are not yet aware of my plans
+      so you will need to stay out of their way.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1775242444849
+    m_Localized: If not, you will find their methods quite... [em]shocking![/] GUAH
+      HA HA!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1775242444850
+    m_Localized: In this lab there is another important part for the infernal device
+      I'm constructing.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1775242444851
+    m_Localized: To reach it you will need to use one of my earliest inventions.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1775242444852
+    m_Localized: Aaah! My atoms!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1775242444853
+    m_Localized: This thing is cool!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1775242444854
+    m_Localized: Certainly not. It's prone to overheating! The [em]lemonator[/] was
+      one of my greatest failures in my scientific career.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1775242444855
+    m_Localized: Originally it was supposed to be an [em]air refreshment system.[/]
+      Needless to say, the air is as stale as ever!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1775242444856
+    m_Localized: That was a long elevator ride.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1775242444857
+    m_Localized: You've travelled two miles into the earth's crust. I'd call that
+      a very quick elevator ride, considering.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1775242444858
+    m_Localized: We call this section the [em]Down Under[/] but you won't find any
+      marsupials here, except the mutant koalas of course.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1775242444859
+    m_Localized: How does [em]pet food[/] fit into your diabolical scheme?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1775242444860
+    m_Localized: It doesn't. I just thought you might be hungry.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1775242444861
+    m_Localized: I was wondering. What are all these parts I'm collecting?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1775242444862
+    m_Localized: They are components for my ingenious infernal device, the [em]Orbital
+      Mind Control Laser[/]!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1775242444863
+    m_Localized: Forget I asked.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1775242444864
+    m_Localized: Soon every single human mind will be at my beck and call! GUAH HA
+      HA!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1775242444865
+    m_Localized: Before I can launch my [em]Mind Control Laser[/] and thus make it
+      [em]Orbital[/] I need the access codes to the launch pad.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1775242444866
+    m_Localized: Can't you just use it? I thought you ran this place.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1775242444867
+    m_Localized: Me? Oh, no, no, no. I'm currently doing a six month internship at
+      this science facility.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1775242444868
+    m_Localized: My device is nearing completion. I only need to get a P.A.L.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1775242444869
+    m_Localized: Having friends is nice.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1775242444870
+    m_Localized: No, you imbecile. [em]P.A.L.[/] is the super advanced artificial
+      intelligence that will guide my mind laser.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1775242444871
+    m_Localized: The buffoon in charge of [em]The Secret Exit[/] has something I
+      want!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1775242444872
+    m_Localized: Secret exit?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1775242444873
+    m_Localized: Huh? No, forget I said that.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1775242444874
+    m_Localized: A chocolate bar? Why am I stealing this?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1775242444875
+    m_Localized: I am starving! I will collect the sugary treat from you once you've
+      returned to your cell.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1775242444876
+    m_Localized: Just stay clear of the [em]Secret Exit Laser Controls[/]! That is
+      all.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1775242444877
+    m_Localized: No! Not that way!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1775242444878
+    m_Localized: This is my chance. I must get back to the surface and leave this
+      place.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1775242444879
+    m_Localized: Your efforts are futile, Mister Bob. You will never escape my grasp.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1775242444880
+    m_Localized: Mister Bob. Turn back immediately. We're so close to completing
+      our evil mind laser.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1775242444881
+    m_Localized: If you comply, I shall let you play with the laser for approximately
+      five... no, ten minutes!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1775242444882
+    m_Localized: You are testing my patience, Mister Bob. You can forget about playing
+      with the laser now.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1775242444883
+    m_Localized: I must be getting closer to the exit. He's sounding more desperate
+      now.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1775242444884
+    m_Localized: Pleeeease, come back!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1775242444885
+    m_Localized: Hooray! I can see the exit! But how do I get there?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1775242444886
+    m_Localized: I made it! Now which one's the exit button?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1775242444887
+    m_Localized: I'll try this big red one!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1775242444888
+    m_Localized: Nooo! What have you done!?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1775242444889
+    m_Localized: You're ruining everything!!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1775242444890
+    m_Localized: Busting you out of prison was not a small favor, Bob.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1775242444891
+    m_Localized: Thank you. I really appreciated that.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1775242444892
+    m_Localized: 'Tsk, tsk, tsk. I didn''t do it out of charity. To put it simply,
+      [em]you owe me big![/]'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1775242444893
+    m_Localized: 'Ahead is an empty house. [em]Walk up and grab the item inside.[/]'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1775242444894
+    m_Localized: 'I got it!
+
+      ... Is this yours?'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1775242444895
+    m_Localized: I just wanted to give you a test before we really begin. The next
+      job will be for real.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1775242444896
+    m_Localized: To repay your [em]enormous debt[/] to me I need you to enter this
+      house and take everything!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1775242444897
+    m_Localized: You want me to do your dirty work? I guess I don't have much choice...
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1775242444898
+    m_Localized: Don't worry, Bob. I happen to know that [em]nobody is home[/] right
+      now.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1775242444899
+    m_Localized: You're doing okay Bob, but you won't repay your debt by bringing
+      me empty boxes.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1775242444900
+    m_Localized: 'To prove your worth I need you to sneak into this house [em]without
+      being seen.[/]'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1775242444901
+    m_Localized: I'll try to be extra sneaky!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1775242444902
+    m_Localized: I always lose these things.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1775242444903
+    m_Localized: Now you're getting it. I think it's time we got rich.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1775242444904
+    m_Localized: Just go in and grab anything that looks expensive.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1775242444905
+    m_Localized: Expensive stuff. Got it!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1775242444906
+    m_Localized: Why are you taking tha-? Oh, forget it...
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1775242444907
+    m_Localized: 'I don''t want to brag, but I am quite the talented bowler. One
+      time I even won a [em]trophy.[/]'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1775242444908
+    m_Localized: I mean... someone else won it but everyone knows I am the rightful
+      owner.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1775242444909
+    m_Localized: That brings us here. Go inside and take back my [em]trophy[/].
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1775242444910
+    m_Localized: Y'know what makes my blood boil? Snotty brats getting stuff I want!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1775250833408
+    m_Localized: I don't think you should be jealous of kids.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1775250833409
+    m_Localized: But I saw a couple buy the [em]limited first edition[/] of my favorite
+      comic to their son.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1775250833410
+    m_Localized: Morals? I don't want to hear about it. Go snag it or you'll be working
+      for me for a long, long time.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1775250833411
+    m_Localized: I have this [em]thing[/] I need to take care of, but first I need
+      you to get me some [em]keys[/].
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1775250833412
+    m_Localized: This job might be a little trickier than the earlier ones.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1775250833413
+    m_Localized: Don't worry. I have some [em]ninja tricks[/] up my sleeve!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1775250833414
+    m_Localized: This time I need you to steal some very important [em]legal documents[/]
+      from this lawyer's office.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1775250833415
+    m_Localized: What kind of documents?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1775250833416
+    m_Localized: They're so secret I couldn't tell you even if I wanted to.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1775250833417
+    m_Localized: And even if I could, I don't want to.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1775250833418
+    m_Localized: Good job. Bring me those divorce papers immediately.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1775250833419
+    m_Localized: I mean, uh, [em]secret legal documents[/]...
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1775250833420
+    m_Localized: ...immediately!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1775250833421
+    m_Localized: Right.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1775250833422
+    m_Localized: I haven't enjoyed a tasty meal in months...
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1775250833423
+    m_Localized: So this time I want you to steal the secret recipe for a delicious
+      dish.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1775250833424
+    m_Localized: A recipe for what?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1775250833425
+    m_Localized: It was the family dish of my ex wife. Kept our marriage alive for
+      years.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1775250833426
+    m_Localized: 'I went to my usual dive last night and I met a [em]fantastic lady.[/]'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1775250833427
+    m_Localized: I asked for her number but she refused, so I need you to go into
+      her house and take it.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1775250833428
+    m_Localized: How romantic!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1775250833429
+    m_Localized: This place stores goods for the rich and famous. Someone told me
+      an [em]expensive art piece[/] is stored here.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1775250833430
+    m_Localized: It's a painting of a banana eating a monkey with knife and fork?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1775250833431
+    m_Localized: It's art! No use questioning it, Bob.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1775250833432
+    m_Localized: Do you play the lottery, Bob?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1775250833433
+    m_Localized: Me? No. I'm not very lucky.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1775250833434
+    m_Localized: That's because you're going about it the wrong way. I've found the
+      easiest way to win!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1775250833435
+    m_Localized: 'Wait until someone else wins, then snatch the [em]ticket![/]'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1775250833436
+    m_Localized: Isn't this a bit, y'know, mean?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1775250833437
+    m_Localized: I see it as a transferral of joy.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1775250833438
+    m_Localized: This time I need you to steal one of my [em]family's heirlooms[/]
+      that has been passed down through generations.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1775250833439
+    m_Localized: I don't think it's good to rob inside the family. Can't you just
+      ask them?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1775250833440
+    m_Localized: My grand parents wrote me out of their will. Don't make me remind
+      you why you're not in jail right now.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1775250833441
+    m_Localized: Aren't you glad I got you into this [em]high security mansion?[/]
+      Unfortunately I can't get you back out.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1775250833442
+    m_Localized: And considering the number of guards at this joint I doubt you can
+      either.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1775250833443
+    m_Localized: So before you're taken back to your dusty jail cell I want to thank
+      you for making me a very wealthy man.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1775250833444
+    m_Localized: Ha Ha Ha!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1775250833445
+    m_Localized: I can't believe he tricked me like that.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1775250833446
+    m_Localized: 'At least I don''t have to do the dealer''s dirty work any more.
+      I just need to teach him a [em]valuable lesson.[/]'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1775250833447
+    m_Localized: Hello, is this the police?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1775250833448
+    m_Localized: No! What are you doing!?
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []

@@ -1,0 +1,805 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: StoryEvents_de
+  m_EditorClassIdentifier: Unity.Localization::UnityEngine.Localization.Tables.StringTable
+  m_LocaleId:
+    m_Code: de
+  m_SharedData: {fileID: 11400000, guid: b1d830cb9b9413c4cacbdfcad6fba5d6, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 1775234056192
+    m_Localized: Es tut mir leid, dass ich Ihr Eis ruiniere.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1775234056193
+    m_Localized: "Hey, vergiss das! Ich habe die perfekte L\xF6sung. Schau, ich wollte
+      gerade hier langgehen..."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1775234056194
+    m_Localized: Aber die [em]Kamera[/] wird mich entdecken, so viel steht fest.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1775234056195
+    m_Localized: "Oh? Ich glaub nicht, dass ich dir helfen kann. Ich versuche, aus
+      dem Gef\xE4ngnis drau\xDFen zu bleiben."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1775234056196
+    m_Localized: Hey du! Ich hab' nicht gefragt!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1775234056197
+    m_Localized: Ich wollte diesen Laden schon vor Wochen ausrauben, aber die Wachleute
+      verlassen niemals ihre Posten!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1775234056198
+    m_Localized: "Die Sicherheit ist [em]absolut zuverl\xE4ssig![/] Warum versuchst
+      du es nicht einmal?"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1775234056199
+    m_Localized: Du hast wirklich Potenzial, Junge.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1775234056200
+    m_Localized: Kann ich jetzt nach Hause gehen?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1775234056201
+    m_Localized: Machst du Witze? Geh da rein und nimm das Geld, bevor ich die Geduld
+      verliere!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1775234056202
+    m_Localized: "Ich habe eine Idee. Wenn du nachts einbrichst, wird es dunkel sein
+      und weniger Leute sind in der N\xE4he."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1775234056203
+    m_Localized: "Da liege ich aber normalerweise l\xE4ngst im Bett."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1775234056204
+    m_Localized: "Geh da rein oder du gehst f\xFCr immer schlafen."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1775234056205
+    m_Localized: "Ich glaube, ich m\xF6chte dir nicht mehr helfen, Biff. Ich m\xF6chte
+      zur\xFCck ins Gef\xE4ngnis."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1775234056206
+    m_Localized: "Ach, komm schon. Du kratzt meinen R\xFCcken und ich werde deinen
+      nicht brechen."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1775234056207
+    m_Localized: '*Schluck*'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1775234056208
+    m_Localized: "Ich habe letzte Woche etwas bei diesem Laden geholt und ihnen aus
+      Versehen mein Geld gegeben. Hol es mir zur\xFCck."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1775234056209
+    m_Localized: "Die Vordert\xFCren sind alle verschlossen, aber die Hintert\xFCr
+      ist kaputt. Du musst nur auf den Sicherheitsmann aufpassen."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1775234056210
+    m_Localized: "Diese Kreditgesellschaft hat mich gestern Abend angerufen und wollte
+      ihr Geld zur\xFCck. Lange Rede, kurzer Sinn: Ich zahle nicht."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1775242444800
+    m_Localized: Die beste Methode, mit einem Kredithai zu handeln, ist sie wissen
+      zu lassen, wer der Boss ist. Also geh da rein und raub sie aus!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1775242444801
+    m_Localized: Es gibt ziemlich viele Kameras hier.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1775242444802
+    m_Localized: Dieses Unternehmen spezialisiert sich auf Videosicherheit. Sie haben
+      praktisch jede Sicherheitskamera in dieser Stadt gebaut.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1775242444803
+    m_Localized: "Was machen wir also hier? Ich m\xF6chte nicht von der Kamera aufgenommen
+      werden."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1775242444804
+    m_Localized: "Das ist das Gleiche, als w\xFCrdest du sagen: \"Das Gef\xE4ngnis
+      ist bequemer als ein Sarg\". Frag mich das noch einmal und du wirst in einem
+      Sarg aufwachen."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1775242444805
+    m_Localized: "Wei\xDFt du... Manchmal sage ich Dinge, die ich nicht meine. Oder
+      von denen ich nicht sagen sollte, dass ich sie so meine."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1775242444806
+    m_Localized: "Der Richter hat mich dazu verurteilt, zu diesem [em]Wutbew\xE4ltigungskurs[/]
+      zu gehen. Deshalb muss du da hinein und ein Zertifikat stehlen."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1775242444807
+    m_Localized: Hey du! Ich will was Neues ausprobieren. Gib mir nur eine Sekunde,
+      ok.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1775242444808
+    m_Localized: "W\xE4rest du... \xE4h ... so nett?"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1775242444809
+    m_Localized: "Mir zu helfen, \xE4h, zu stehlen, bitte? Und ... danke ... wei\xDF
+      ich zu sch\xE4tzen..."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1775242444810
+    m_Localized: "AARGH! Ich kann es nicht! [em]Geh da rein! Hol das Moul\xE4n! Oder
+      ich mach was kaputt, was f\xFCr deine Gesundheit wichtig ist![/]"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1775242444811
+    m_Localized: J-ja!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1775242444812
+    m_Localized: "Das sollte eine leichte Aufgabe f\xFCr dich werden, Junge. Die
+      Sicherheitsleute, die hier arbeiten, sind alles Dumpfbacken."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1775242444813
+    m_Localized: "Verhalte dich einfach unauff\xE4llig und geh an ihnen vorbei."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1775242444814
+    m_Localized: "Dies ist das B\xFCro eines gro\xDFen Unternehmens f\xFCr Videospiele."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1775242444815
+    m_Localized: "Ihr [em]neuestes Spiel[/] ist noch nicht drau\xDFen, aber ich kann
+      es nicht abwarten. Also wirst du es klauen!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1775242444816
+    m_Localized: "World of Woodcraft? Ist das \xFCberhaupt gut?"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1775242444817
+    m_Localized: "Es wird gro\xDFartig sein! Ich werde als Whittler im Level 60 spielen."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1775242444818
+    m_Localized: "Dieses Restaurant ist echt nobel. Exklusive Gerichte nur f\xFCr
+      Mitglieder. Ich war da auch mal Mitglied."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1775242444819
+    m_Localized: Echt?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1775242444820
+    m_Localized: Einmal habe ich [em]hundert Rippchen[/] bestellt und sie haben meine
+      Mitgliedskarte zerschnitten!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1775242444821
+    m_Localized: Das ist ihr Verlust, weil wir sie nun ausrauben.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1775242444822
+    m_Localized: "Man erz\xE4hlt sich auf der Stra\xDFe, dass der Staatsanwalt was
+      gegen mich hat. Ich muss meine Spuren verwischen."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1775242444823
+    m_Localized: "Das k\xF6nnte ich auch ohne dich tun. Wenn ich also untergehe,
+      gehst du mit unter."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1775242444824
+    m_Localized: "Wir gehen also in das B\xFCro des Staatsanwalts. Und holen da raus,
+      was immer sie gegen mich haben."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1775242444825
+    m_Localized: "Nicht schlecht, Junge! Wei\xDFt du, du bist ein viel zu guter Dieb,
+      um dich laufen zu lassen."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1775242444826
+    m_Localized: Ich glaube nicht, dass du bald nach Hause gehen wirst. Weil du mich
+      reich machen wirst!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1775242444827
+    m_Localized: Aber...
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1775242444828
+    m_Localized: Muss ich dich daran erinnern, wer in unserer Partnerschaft die Muskeln
+      hat?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1775242444829
+    m_Localized: "Was ist das? Es scheint, als h\xE4tte Biff Gesellschaft bekommen."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1775242444830
+    m_Localized: "Das k\xF6nnte die perfekte Gelegenheit sein, die Dinge richtigzustellen.
+      Er kann mich nicht l\xE4nger herumschikanieren."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1775242444831
+    m_Localized: Bullen? Bei mir zu Hause?!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1775242444832
+    m_Localized: Jetzt bin ich RICHTIG sauer! Niemand darf mein Zimmer betreten!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1775242444833
+    m_Localized: Text
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1775242444834
+    m_Localized: Was ist los? Wo bin ich?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1775242444835
+    m_Localized: "Guten Tag, Herr Bob. Ich bin [em]Dr. Diebios [/] und du wurdest
+      ausgew\xE4hlt, mein neues Versuchskaninchen zu sein."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1775242444836
+    m_Localized: "F\xFChre einfach meine Aufgaben aus und vielleicht wirst du eines
+      Tages wieder Sonnenlicht sehen. GUAH HA HA!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1775242444837
+    m_Localized: Kein Sonnenlicht? Was ist mit meinem Urlaub?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1775242444838
+    m_Localized: "Deine erste Aufgabe ist einfach. Beschaffe mir einfach eine [em]chemikalische
+      Probe[/] und geh zum Aufzug zur\xFCck."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1775242444839
+    m_Localized: "Du hast Gl\xFCck, Herr Bob. Denn du bist eine wichtige Figur in
+      meinem diabolischen Plan!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1775242444840
+    m_Localized: "Ehrlich, das m\xF6chte ich gar nicht wissen."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1775242444841
+    m_Localized: "...ein [em]genialer[/] Plan, der f\xFCr immer im Ged\xE4chtnis
+      der Menschheit bleiben wird!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1775242444842
+    m_Localized: GUAH HA HA!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1775242444843
+    m_Localized: "Hervorragend! Diese [em]Kalibrierungscodes[/] werden sehr praktisch
+      sein, um mein fieses Ger\xE4t umzusetzen!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1775242444844
+    m_Localized: GUAH HA HA!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1775242444845
+    m_Localized: Gefallen dir meine Laser, Herr Bob? Ich habe sie selbst gemacht.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1775242444846
+    m_Localized: "Da ich ein Genie bin, wirst du das hier mit deiner Beschr\xE4nktheit
+      nicht verstehen k\xF6nnen."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1775242444847
+    m_Localized: GUAH HA HA!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1775242444848
+    m_Localized: "Meine schlauen, aber minderwertigen Kollegen haben keine Ahnung
+      von meinen Pl\xE4nen. Also musst du ihnen aus dem Weg gehen."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1775242444849
+    m_Localized: Wenn nicht, wirst du ihre Methode etwas... [em]schockierend finden![/]
+      GUAH HA HA!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1775242444850
+    m_Localized: "In diesem Labor gibt es einen weiteren wichtigen Teil f\xFCr das
+      teuflische Ger\xE4t, das ich baue."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1775242444851
+    m_Localized: Um es zu bekommen, muss du eine meiner neuesten Erfindungen verwenden.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1775242444852
+    m_Localized: Aaah! Meine Atome!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1775242444853
+    m_Localized: Dieses Ding ist cool!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1775242444854
+    m_Localized: "Bestimmt nicht. Es neigt dazu, sich zu \xFCberhitzen! Der [em]Limonator[/]
+      war einer meiner gr\xF6\xDFten Niederschl\xE4ge in meiner Karriere als Wissenschaftler."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1775242444855
+    m_Localized: "Urspr\xFCnglich sollte es ein [em]Lufterfrischungssystem werden.[/]
+      Ich muss nicht sagen, dass die Luft so muffig wie immer ist!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1775242444856
+    m_Localized: Das war eine lange Fahrt mit dem Aufzug.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1775242444857
+    m_Localized: "Du bist 3 Kilometer in das Innere der Erde gefahren. Ich w\xFCrde
+      das eine sehr schnelle Aufzugfahrt nennen."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1775242444858
+    m_Localized: "Wir nennen diesen Bereich [em]Ganz Unten[/], aber du wirst hier
+      keine Beuteltiere finden, au\xDFer die Mutantenkoalas nat\xFCrlich."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1775242444859
+    m_Localized: Was hat [em]Tierfutter[/] mit deinem diabolischen Plan zu tun?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1775242444860
+    m_Localized: Gar nichts. Ich dachte nur, du hast vielleicht Hunger.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1775242444861
+    m_Localized: Ich frage mich... was all diese Teile sind, die ich sammle?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1775242444862
+    m_Localized: "Es sind Komponenten f\xFCr mein geniales h\xF6llisches Ger\xE4t,
+      den [em]Orbitalen Gedankenkontroll-Laser[/]!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1775242444863
+    m_Localized: Vergiss einfach, dass ich gefragt habe.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1775242444864
+    m_Localized: Bald wird jeder einzige menschliche Gedanke allein mir gehorchen!
+      GUAH HA HA!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1775242444865
+    m_Localized: "Bevor ich meinen [em]Gedankenkontroll-Laser[/] starten und ihn
+      [em]in die Erdumlaufbahn[/] bringen kann, ben\xF6tige ich die Zugangscodes
+      f\xFCr die Startrampe."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1775242444866
+    m_Localized: Kannst du es nicht einfach bedienen? Ich dachte, du leitest das
+      hier.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1775242444867
+    m_Localized: Ich? Oh nein, nein. Ich mache zurzeit ein sechsmonatiges Praktikum
+      hier.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1775242444868
+    m_Localized: "Mein Ger\xE4t ist bald fertig. Ich muss einen P.A.L. finden."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1775242444869
+    m_Localized: Freunde zu haben ist nett.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1775242444870
+    m_Localized: "Nein, du Dummkopf. [em]P.A.L.[/] ist die supermoderne k\xFCnstliche
+      Intelligenz, die meinen Gedankenlaser steuern wird."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1775242444871
+    m_Localized: "Der zust\xE4ndige Idiot des [em]Geheimen Ausgangs[/] hat etwas,
+      das ich m\xF6chte!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1775242444872
+    m_Localized: Geheimer Ausgang?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1775242444873
+    m_Localized: "H\xE4h? Nein, vergiss, dass ich das gesagt habe."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1775242444874
+    m_Localized: Ein Schokoriegel? Warum klaue ich den?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1775242444875
+    m_Localized: "Ich sterbe vor Hunger! Ich werde den Schokoriegel nehmen, sobald
+      du in deine Zelle zur\xFCckgekehrt bist."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1775242444876
+    m_Localized: Halt dich einfach fern von den [em]Laserkontrollen des Geheimen
+      Ausgangs[/]! Das ist alles.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1775242444877
+    m_Localized: Nein! Nicht da lang!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1775242444878
+    m_Localized: "Das ist meine Chance. Ich muss zur\xFCck an die Oberfl\xE4che kommen
+      und diesen Ort verlassen."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1775242444879
+    m_Localized: "Gib dir keine M\xFChe, Herr Bob. Du wirst mir nie entkommen."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1775242444880
+    m_Localized: "Herr Bob. Komm sofort zur\xFCck. Wir sind so kurz davor, unseren
+      b\xF6sen Gedankenlaser zu Ende zu stellen."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1775242444881
+    m_Localized: "Wenn du tust, was ich sage, lasse ich dich f\xFCnf, nein zehn!
+      Minuten lang mit dem Laser spielen."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1775242444882
+    m_Localized: Du stellst meine Geduld auf die Probe, Herr Bob. Jetzt lasse ich
+      dich nicht mehr mit dem Laser spielen.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1775242444883
+    m_Localized: "Ich muss n\xE4her zum Ausgang kommen. Er klingt jetzt noch verzweifelter."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1775242444884
+    m_Localized: "Bitte, bitte, komm zur\xFCck!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1775242444885
+    m_Localized: Hurra! Ich kann den Ausgang sehen! Aber wie komme ich dahin?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1775242444886
+    m_Localized: "Ich habe es geschafft! Welches ist jetzt die Taste f\xFCr den Ausgang?"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1775242444887
+    m_Localized: Ich versuche diesen roten Knopf!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1775242444888
+    m_Localized: NEIN! Was hast du getan?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1775242444889
+    m_Localized: Du machst alles kaputt!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1775242444890
+    m_Localized: "Dich aus dem Gef\xE4ngnis zu holen, war kein kleiner Gefallen,
+      Bob."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1775242444891
+    m_Localized: "Vielen Dank. Ich wei\xDF das zu sch\xE4tzen.Tsk, tsk, tsk. Das
+      habe ich nicht aus Mitleid getan. Um es kurz zu machen: [em]Du schuldest mir
+      was![/]"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1775242444892
+    m_Localized: 'Tsk, tsk, tsk. Das habe ich nicht aus Mitleid getan. Um es kurz
+      zu machen: [em]Du schuldest mir was![/]'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1775242444893
+    m_Localized: 'Da vorn ist ein unbewohntes Haus. [em]Geh hinein und schnapp dir
+      den Gegenstand, der sich darin befindet.[/]'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1775242444894
+    m_Localized: 'Ich habe ihn!
+
+      ... Ist das deiner?'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1775242444895
+    m_Localized: "Um deine [em]enormen Schulden[/] zur\xFCckzuzahlen, musst du in
+      dieses Haus gehen und alles mitnehmen!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1775242444896
+    m_Localized: "Um deine [em]enormen Schulden[/] zur\xFCckzuzahlen, musst du in
+      dieses Haus gehen und alles mitnehmen!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1775242444897
+    m_Localized: "Ich soll die Drecksarbeit f\xFCr dich erledigen? Ich gehe davon
+      aus, dass ich keine andere Wahl habe..."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1775242444898
+    m_Localized: "Keine Sorge, Bob. Zuf\xE4llig wei\xDF ich, dass [em]gerade niemand
+      zu Hause[/] ist."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1775242444899
+    m_Localized: "Du schl\xE4gst dich gut, Bob, aber du wirst deine Schulden nicht
+      zur\xFCckzahlen k\xF6nnen, wenn du mir leere Kisten bringst."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1775242444900
+    m_Localized: 'Um dich zu beweisen, musst du in dieses Haus gelangen, [em]ohne
+      gesehen zu werden.[/]'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1775242444901
+    m_Localized: Ich werde versuchen, besonders raffiniert vorzugehen!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1775242444902
+    m_Localized: Diese Dinger verliere ich immer.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1775242444903
+    m_Localized: Jetzt hast du es kapiert. Ich denke, es wird Zeit, reich zu werden.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1775242444904
+    m_Localized: Geh einfach rein und nimm alles mit, das teuer aussieht.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1775242444905
+    m_Localized: Teurer Kram. Verstanden!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1775242444906
+    m_Localized: Warum nimmst du das...? Ach, vergiss es...
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1775242444907
+    m_Localized: "Ich m\xF6chte nicht angeben, aber ich bin ein echt guter Bowler.
+      Einmal habe ich sogar einen [em]Pokal gewonnen.[/]"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1775242444908
+    m_Localized: "Ich meine... jemand anders hat ihn gewonnen, aber jeder wei\xDF,
+      dass ich der rechtm\xE4\xDFige Eigent\xFCmer bin."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1775242444909
+    m_Localized: "Deshalb sind wir hier. Gehe hinein und hol mir meinen [em]Pokal
+      zur\xFCck[/]."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1775242444910
+    m_Localized: "Wei\xDFt du, was mich echt w\xFCtend macht? Rotzl\xF6ffel, die
+      das bekommen, was ich haben will!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1775250833408
+    m_Localized: Ich finde nicht, dass du neidisch auf Kinder sein solltest.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1775250833409
+    m_Localized: Aber ich habe Eltern gesehen, die ihrem Sohn die [em]begrenzte erste
+      Ausgabe[/] meines Lieblingscomics gekauft haben.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1775250833410
+    m_Localized: "Moral? Dar\xFCber will ich nichts h\xF6ren. Schnapp sie dir oder
+      du wirst noch lange, lange Zeit f\xFCr mich arbeiten."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1775250833411
+    m_Localized: "Ich habe da diese \"Sache\", um die ich mich k\xFCmmern muss. Aber
+      von Anfang an... Ich brauche [em]Schl\xFCssel.[/]"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1775250833412
+    m_Localized: "Dieser Job k\xF6nnte etwas komplizierter als die anderen sein."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1775250833413
+    m_Localized: Keine Sorge. Ich habe einige [em]Ninjatricks[/] in petto!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1775250833414
+    m_Localized: Dieses Mal musst du einige sehr wichtige [em]rechtliche Dokumente[/]
+      aus der Anwaltskanzlei stehlen.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1775250833415
+    m_Localized: "Was f\xFCr Dokumente?"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1775250833416
+    m_Localized: "Sie sind so geheim, dass ich dir das nicht sagen k\xF6nnte, selbst
+      wenn ich wollte."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1775250833417
+    m_Localized: "Und selbst wenn ich k\xF6nnte, w\xFCrde ich es nicht wollen."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1775250833418
+    m_Localized: Gute Arbeit. Bring mir sofort diese Scheidungspapiere.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1775250833419
+    m_Localized: "Ich meine, \xE4h, [em]die geheimen rechtlichen Dokumente[/]..."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1775250833420
+    m_Localized: ...sofort!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1775250833421
+    m_Localized: Okay.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1775250833422
+    m_Localized: Ich habe seit Monaten nichts mehr Leckeres gegessen...
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1775250833423
+    m_Localized: "Dieses Mal m\xF6chte ich, dass du das geheime Rezept f\xFCr ein
+      leckeres Gericht stiehlst."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1775250833424
+    m_Localized: "Ein Rezept wof\xFCr?"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1775250833425
+    m_Localized: Es war das Familiengericht meiner Exfrau. Hat unsere Ehe jahrelang
+      am Leben erhalten.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1775250833426
+    m_Localized: 'Ich war gestern in meiner Stammkneipe und habe eine [em]tolle Frau
+      kennen gelernt.[/]'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1775250833427
+    m_Localized: Ich hab sie nach ihrer Nummer gefragt, aber sie wollte sie mir nicht
+      geben. Deshalb musst du in ihr Haus einbrechen und sie holen.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1775250833428
+    m_Localized: Wie romantisch!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1775250833429
+    m_Localized: "Hier werden die Sachen der Reichen und Ber\xFChmten gelagert. Jemand
+      hat mir erz\xE4hlt, dass hier ein[em]teures Gem\xE4lde[/] aufbewahrt wird."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1775250833430
+    m_Localized: "Ein Gem\xE4lde, auf dem eine Banane einen Affen mit Messer und
+      Gabel isst?"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1775250833431
+    m_Localized: "Das ist Kunst! Kein Zweck, dar\xFCber zu diskutieren, Bob."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1775250833432
+    m_Localized: Spielst du Lotto, Bob?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1775250833433
+    m_Localized: Ich? Nee. Ich gewinne nie etwas.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1775250833434
+    m_Localized: Weil du es falsch anstellst. Ich habe herausgefunden, wie einfach
+      man gewinnen kann!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1775250833435
+    m_Localized: 'Warte, bis jemand anders gewinnt und dann schnappen wir uns sein
+      [em]Los![/]'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1775250833436
+    m_Localized: "Ist das nicht etwas... du wei\xDFt, was ich meine?"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1775250833437
+    m_Localized: "Ich betrachte es als die \xDCbertragung von Freude."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1775250833438
+    m_Localized: "Dieses Mal m\xF6chte ich, dass du ein [em]Familienerbst\xFCck[/]
+      stiehlst, das seit Generationen weitergegeben wird."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1775250833439
+    m_Localized: "Ich halte es f\xFCr keine gute Idee, die eigene Familie zu beklauen.
+      Kannst du sie nicht einfach darum bitten?"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1775250833440
+    m_Localized: "Meine Gro\xDFeltern haben mich aus ihrem Testament gestrichen.
+      Oder soll ich dich daran erinnnern, warum du gerade nicht im Gef\xE4ngnis sitzen
+      musst?"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1775250833441
+    m_Localized: "Bist du nicht froh, dass ich dich in dieses [em]Hochsicherheitsgeb\xE4ude
+      bekommen habe?[/] Nur leider kann ich dich nicht wieder herausholen."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1775250833442
+    m_Localized: Und angesichts der vielen Wachposten bezweifle ich, dass du es schaffst.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1775250833443
+    m_Localized: "Bevor du also zur\xFCck in deine staubige Gef\xE4ngniszelle musst,
+      wollte ich dir daf\xFCr danken, dass du aus mir einen reichen Mann gemacht
+      hast."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1775250833444
+    m_Localized: Ha Ha Ha!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1775250833445
+    m_Localized: Ich kann nicht glauben, dass er mich so hereingelegt hat.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1775250833446
+    m_Localized: "Zumindest muss ich nicht mehr die Drecksarbeit f\xFCr diesen Dealer
+      erledigen. Ich muss ihm einfach eine [em]Lektion erteilen.[/]"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1775250833447
+    m_Localized: Hallo? Ist da die Polizei?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1775250833448
+    m_Localized: Nein! Was tust du?
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []

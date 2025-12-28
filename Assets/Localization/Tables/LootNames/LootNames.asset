@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5be51871efa6c3e4eae1703925c8f5ac, type: 3}
+  m_Name: LootNames
+  m_EditorClassIdentifier: Unity.Localization.Editor::UnityEditor.Localization.StringTableCollection
+  m_SharedTableData: {fileID: 11400000, guid: 56308ec015554634f8febbfd4481ade0, type: 2}
+  m_Tables:
+  - {fileID: 11400000, guid: c3b2ec053fd14384ab784b16fe2cd031, type: 2}
+  - {fileID: 11400000, guid: 791ea0508b8e54245985eb5679294572, type: 2}
+  - {fileID: 11400000, guid: f8eb589ace7e4564f901335cafc9ea10, type: 2}
+  - {fileID: 11400000, guid: 7c7aaa6c86ed81a46b3111b4e28a7062, type: 2}
+  - {fileID: 11400000, guid: f74f668edbe680545920c306bd144ece, type: 2}
+  - {fileID: 11400000, guid: ee803721dd328b6499086796519fc157, type: 2}
+  - {fileID: 11400000, guid: 9eaf82b4175e7c348a3d2b265950506c, type: 2}
+  - {fileID: 11400000, guid: fe4a71782c7f4ad40a94a01e8084e84b, type: 2}
+  - {fileID: 11400000, guid: 9c59e870ca0424f45b1e0bf9784c3154, type: 2}
+  - {fileID: 11400000, guid: e9e7a332d3a5fad47bc70e998bc53b8d, type: 2}
+  - {fileID: 11400000, guid: f29760cdd9b78aa49a0978c81bc203d6, type: 2}
+  - {fileID: 11400000, guid: 9818c7bb1aae808468c02e1dcd3100fa, type: 2}
+  m_Extensions: []
+  m_Group: String Table
+  references:
+    version: 2
+    RefIds: []

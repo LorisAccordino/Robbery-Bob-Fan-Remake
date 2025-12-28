@@ -1,0 +1,340 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5b11a58205ec3474ca216360e9fa74a8, type: 3}
+  m_Name: InappItems Shared Data
+  m_EditorClassIdentifier: Unity.Localization::UnityEngine.Localization.Tables.SharedTableData
+  m_TableCollectionName: InappItems
+  m_TableCollectionNameGuidString: 99e3c89befe70b44682eedb4793bff27
+  m_Entries:
+  - m_Id: 18571460608
+    m_Key: New Entry
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18609209344
+    m_Key: UnlockAllOutfits_dealer
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18609209345
+    m_Key: UnlockAllOutfits_desc
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18609209346
+    m_Key: UnlockAllOutfits_name
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18609209347
+    m_Key: bunnysuit_item_dealer
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18609209348
+    m_Key: bunnysuit_item_desc
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18609209349
+    m_Key: bunnysuit_item_name
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18609209350
+    m_Key: cleptomania_item_dealer
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18609209351
+    m_Key: cleptomania_item_name
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18609209352
+    m_Key: coin_booster_item_dealer
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18609209353
+    m_Key: coin_booster_item_desc
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18609209354
+    m_Key: coin_booster_item_name
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18609209355
+    m_Key: coin_pack_item_dealer
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18609209356
+    m_Key: coin_pack_item_desc
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18609209357
+    m_Key: coin_pack_item_name
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18609209358
+    m_Key: donut_item_dealer
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18609209359
+    m_Key: donut_item_desc
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18609209360
+    m_Key: donut_item_name
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18609209361
+    m_Key: fortune_pack_item_dealer
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18609209362
+    m_Key: fortune_pack_item_desc
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18609209363
+    m_Key: fortune_pack_item_name
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18609209364
+    m_Key: hazmatsuit_item_dealer
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18609209365
+    m_Key: hazmatsuit_item_desc
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18609209366
+    m_Key: hazmatsuit_item_name
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18609209367
+    m_Key: knightarmor_item_dealer
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18609209368
+    m_Key: knightarmor_item_desc
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18609209369
+    m_Key: knightarmor_item_name
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18609209370
+    m_Key: lockpick_item_dealer
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18609209371
+    m_Key: lockpick_item_desc
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18609209372
+    m_Key: lockpick_item_name
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18609209373
+    m_Key: lucky_pack_item_dealer
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18609209374
+    m_Key: lucky_pack_item_desc
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18609209375
+    m_Key: lucky_pack_item_name
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18609209376
+    m_Key: luxury_pack_item_dealer
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18609209377
+    m_Key: luxury_pack_item_desc
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18609209378
+    m_Key: luxury_pack_item_name
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18609209379
+    m_Key: monster_item_dealer
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18609209380
+    m_Key: monster_item_desc
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18609209381
+    m_Key: monster_item_name
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18609209382
+    m_Key: mouse_item_dealer
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18609209383
+    m_Key: mouse_item_desc
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18609209384
+    m_Key: mouse_item_name
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18609209385
+    m_Key: ninjasuit_item_dealer
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18609209386
+    m_Key: ninjasuit_item_desc
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18609209387
+    m_Key: ninjasuit_item_name
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18609209388
+    m_Key: not_enough_header
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18609209389
+    m_Key: not_enough_text
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18609209390
+    m_Key: piggy_bank_item_dealer
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18609209391
+    m_Key: piggy_bank_item_info
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18609209392
+    m_Key: piggy_bank_item_name
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18609209393
+    m_Key: potion_item_dealer
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18609209394
+    m_Key: potion_item_desc
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18609209395
+    m_Key: potion_item_name
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18613403648
+    m_Key: speed_item_dealer
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18613403649
+    m_Key: speed_item_name
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18613403650
+    m_Key: stamina_item_dealer
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18613403651
+    m_Key: stamina_item_name
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18613403652
+    m_Key: stealth_item_dealer
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18613403653
+    m_Key: stealth_item_name
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18613403654
+    m_Key: stylishsuit_item_dealer
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18613403655
+    m_Key: stylishsuit_item_desc
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18613403656
+    m_Key: stylishsuit_item_name
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18613403657
+    m_Key: superbob_item_dealer
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18613403658
+    m_Key: superbob_item_desc
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18613403659
+    m_Key: superbob_item_name
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18613403660
+    m_Key: teleport_item_dealer
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18613403661
+    m_Key: teleport_item_desc
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18613403662
+    m_Key: teleport_item_name
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18613403663
+    m_Key: treasury_pack_item_dealer
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18613403664
+    m_Key: treasury_pack_item_desc
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18613403665
+    m_Key: treasury_pack_item_name
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18613403666
+    m_Key: unlockalloutfits_dealer
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18613403667
+    m_Key: unlockalloutfits_desc
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18613403668
+    m_Key: unlockalloutfits_name
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18613403669
+    m_Key: welcome_afford
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18613403670
+    m_Key: welcome_coins
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18613403671
+    m_Key: welcome_first
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18613403672
+    m_Key: welcome_items
+    m_Metadata:
+      m_Items: []
+  m_Metadata:
+    m_Items: []
+  m_KeyGenerator:
+    rid: 2016924983150510419
+  references:
+    version: 2
+    RefIds:
+    - rid: 2016924983150510419
+      type: {class: DistributedUIDGenerator, ns: UnityEngine.Localization.Tables, asm: Unity.Localization}
+      data:
+        m_CustomEpoch: 1766926868946

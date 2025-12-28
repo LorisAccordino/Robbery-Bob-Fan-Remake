@@ -1,0 +1,172 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: Hints_es
+  m_EditorClassIdentifier: Unity.Localization::UnityEngine.Localization.Tables.StringTable
+  m_LocaleId:
+    m_Code: es
+  m_SharedData: {fileID: 11400000, guid: 4405daaa85300c248a8644aa131eb1a0, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 24942608384
+    m_Localized: "Puedes modificar los controles en el men\xFA de pausa"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 24942608385
+    m_Localized: "La mayor\xEDa de civiles llamar\xE1n a la polic\xEDa si pillan
+      a Bob en sus casas"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 24942608386
+    m_Localized: "En caso de necesidad, Bob puede esconderse detr\xE1s de una puerta"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 24942608387
+    m_Localized: "La mayor\xEDa de guardas est\xE1n bajos de forma y se cansan f\xE1cilmente"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 24942608388
+    m_Localized: Bob puede cerrar una puerta abierta
+    m_Metadata:
+      m_Items: []
+  - m_Id: 24942608389
+    m_Localized: "Cuando duerme, Bob sue\xF1a en ninjas"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 24942608390
+    m_Localized: "Bob puede deslizarse siguiendo paredes para ser a\xFAn m\xE1s sigiloso"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 24942608391
+    m_Localized: Pellizca la pantalla para acceder a un esquema de todo el nivel
+    m_Metadata:
+      m_Items: []
+  - m_Id: 24942608392
+    m_Localized: Busca escondites cuando un guardia se te acerque
+    m_Metadata:
+      m_Items: []
+  - m_Id: 24942608393
+    m_Localized: "Corriendo haces mucho m\xE1s ruido que andando sigilosamente"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 24942608394
+    m_Localized: "Usa el bot\xF3n de avance r\xE1pido mientras esperas que pase un
+      guardia"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 24942608395
+    m_Localized: "Shadow Bob te puede ayudar a descubrir el mejor modo de esquivar
+      a un guardia dif\xEDcil"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 24942608396
+    m_Localized: "Bob dejar\xE1 caer el disfraz si intenta correr"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 24942608397
+    m_Localized: "Mira a d\xF3nde dirigen la mirada los guardias. No tienen ojos
+      en el cogote..."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 24942608398
+    m_Localized: "Si Bob dispara una alarma, intenta esconderte hasta que la costa
+      est\xE9 despejada"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 24942608399
+    m_Localized: "Pulsa el bot\xF3n Perspectiva para alejar la imagen y ver todo
+      el nivel."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 24942608400
+    m_Localized: "La mayor\xEDa de los guardias no est\xE1n en forma y no perseguir\xE1n
+      a Bob durante mucho tiempo."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 24942608401
+    m_Localized: "Algunos guardias observar\xE1n las puertas abiertas y lo investigar\xE1n."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 24942608402
+    m_Localized: "Cuando Bob duerme, sue\xF1a con dibujos animados ninjas."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 24942608403
+    m_Localized: "Bob puede deslizarse pegado a la pared para ser m\xE1s sigiloso."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 24942608404
+    m_Localized: "Incluso si Bob activa una alarma l\xE1ser, t\xE9cnicamente a\xFAn
+      no habr\xE1 sido visto."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 24942608405
+    m_Localized: La mina telepuerto (pendiente de patente) es una manera infalible
+      de hacer desaparecer a los guardias.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 24946802688
+    m_Localized: "\xBFDemasiado lento? Gasta las monedas recogidas para mejorar la
+      velocidad."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 24946802689
+    m_Localized: "Mejorar la capacidad de agarre de Bob ampliar\xE1 su alcance."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 24946802690
+    m_Localized: El verdadero talento de Bob es su capacidad para apreciar el valor
+      de la basura de otras personas.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 24946802691
+    m_Localized: Mantente alerta y encuentra lugares para esconderte por si un guardia
+      se aproxima a ti.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 24946802692
+    m_Localized: Los guardias pueden escucharte si sales corriendo.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 24946802693
+    m_Localized: "Pulsa el bot\xF3n de avance r\xE1pido cuando est\xE9s esperando
+      a que un guardia se vaya."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 24946802694
+    m_Localized: "Los disfraces te har\xE1n pr\xE1cticamente invisible, pero no puedes
+      correr ni recoger el bot\xEDn mientras los lleves puestos."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 24946802695
+    m_Localized: "Presta atenci\xF3n a d\xF3nde se dirigen los guardias. No tienen
+      ojos en la nuca."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 24946802696
+    m_Localized: Si Bob dispara una alarma, puede intentar esconderse hasta que no
+      haya moros en la costa.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 24946802697
+    m_Localized: "Los civiles llamar\xE1n a la polic\xEDa si pillan a Bob dentro
+      de su casa."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 24946802698
+    m_Localized: "R\xE1pidamente Bob puede esconderse detr\xE1s de una puerta abierta."
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []

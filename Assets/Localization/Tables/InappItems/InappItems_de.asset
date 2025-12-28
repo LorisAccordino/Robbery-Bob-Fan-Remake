@@ -1,0 +1,340 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: InappItems_de
+  m_EditorClassIdentifier: Unity.Localization::UnityEngine.Localization.Tables.StringTable
+  m_LocaleId:
+    m_Code: de
+  m_SharedData: {fileID: 11400000, guid: 99e3c89befe70b44682eedb4793bff27, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 18609209347
+    m_Localized: "Mit diesem Kost\xFCm wirst du l\xE4cherlich aussehen. So l\xE4cherlich,
+      dass niemand auf die Idee kommen wird, dich zu verfolgen."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18609209348
+    m_Localized: "Sieht richtig d\xE4mlich aus"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18609209349
+    m_Localized: "Hasenkost\xFCm"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18609209350
+    m_Localized: "Ohne gro\xDFes Zutun fliegen Wertgegenst\xE4nde in deine Taschen."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18609209351
+    m_Localized: Kleptomanie
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18609209352
+    m_Localized: "Jede M\xFCnze, die du findest, ist doppelt so viel wert! Langfristig
+      gesehen eine gro\xDFartige Investition!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18609209353
+    m_Localized: "2-facher M\xFCnzvermehrer"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18609209354
+    m_Localized: "M\xFCnz-Booster"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18609209355
+    m_Localized: "Eine sch\xF6ne, schnelle M\xF6glichkeit, an neue Ger\xE4te oder
+      Upgrades zu gelangen!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18609209356
+    m_Localized: "F\xFCgen Sie %0 M\xFCnzen."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18609209357
+    m_Localized: "M\xFCnzpack"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18609209358
+    m_Localized: "Diese Donuts sehen lecker aus, aber ihre heimliche F\xFCllung dreht
+      jedem den Magen um."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18609209359
+    m_Localized: "Setzt die W\xE4chter au\xDFer Gefecht"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18609209360
+    m_Localized: Alter Donut
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18609209361
+    m_Localized: "Das ist eine sch\xF6ne Stange Geld! Erweitere deine F\xE4higkeiten
+      bis zum Maximum oder hol dir ein paar Outfits!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18609209362
+    m_Localized: "F\xFCgen Sie 4500 M\xFCnzen."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18609209363
+    m_Localized: "Verm\xF6genspack"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18609209364
+    m_Localized: "Dieser Anzug ist f\xFCr gef\xE4hrliche Situationen bestimmt, was
+      immer das auch bedeuten mag."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18609209365
+    m_Localized: Erlebe einen sicheren Tag.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18609209366
+    m_Localized: Chemikalienschutzanzug
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18609209367
+    m_Localized: "Nicht die neueste Mode, aber diese R\xFCstung sch\xFCtzt dich vor
+      Gefahren."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18609209368
+    m_Localized: Schwerer Schutz
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18609209369
+    m_Localized: "Ritterr\xFCstung"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18609209370
+    m_Localized: "Nie wieder wird eine verschlossene T\xFCr zwischen dir und deiner
+      Beute stehen."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18609209371
+    m_Localized: "\xD6ffnet verschlossene T\xFCren"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18609209372
+    m_Localized: Dietrich
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18609209373
+    m_Localized: "Versch\xF6nere deinen Tag mit diesem netten M\xFCnzbonus!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18609209374
+    m_Localized: "F\xFCgen Sie 1500 M\xFCnzen."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18609209375
+    m_Localized: "Gl\xFCckspack"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18609209376
+    m_Localized: "G\xF6nn dir ein Leben im Luxus! Du wirst nie wieder einen Tag in
+      deinem Leben arbeiten m\xFCssen!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18609209377
+    m_Localized: "F\xFCgen Sie 10000 M\xFCnzen."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18609209378
+    m_Localized: Luxuspack
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18609209379
+    m_Localized: Chomp chomp
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18609209380
+    m_Localized: Chomp chomp
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18609209381
+    m_Localized: Chompzilla
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18609209382
+    m_Localized: "Ich mag sie nicht. Sie sind so nervig. Sie rattern \xFCber den
+      Boden und machen nervige Piepsger\xE4usche!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18609209383
+    m_Localized: "Eine ger\xE4uschvolle Ablenkung."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18609209384
+    m_Localized: Aufziehspielzeug
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18609209385
+    m_Localized: "Mit diesem echt aussehenden Ninja-Anzug kannst du vort\xE4uschen,
+      ein echter Ninja zu sein!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18609209386
+    m_Localized: etzt um 100 % leiser!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18609209387
+    m_Localized: Ninja-Anzug
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18609209388
+    m_Localized: "Nicht genug M\xFCnzen"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18609209389
+    m_Localized: "Du kannst deine Geldb\xF6rse jetzt auff\xFCllen, indem du mehr
+      M\xFCnzen kaufst."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18609209390
+    m_Localized: "Dieses kleine Schweinchen wird mit jeder M\xFCnze dicker!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18609209391
+    m_Localized: "Bezahle zum \xD6ffnen. Wird nach dem \xD6ffnen zur\xFCckgesetzt."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18609209392
+    m_Localized: Sparschwein
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18609209393
+    m_Localized: "Enth\xE4lt alle Vitamine, die ein heranwachsender Dieb braucht!
+      Er h\xE4lt jedoch nur einige Sekunden an."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18609209394
+    m_Localized: Macht Bob unsichtbar
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18609209395
+    m_Localized: "Merkw\xFCrdige Fl\xFCssigkeit"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18613403648
+    m_Localized: "Wenn du die Leute nicht \xFCberlisten kannst, kannst du immer noch
+      schneller sein als sie."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18613403649
+    m_Localized: Geschwindigkeit
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18613403650
+    m_Localized: "Damit du l\xE4nger laufen kannst! Wenn dir die Puste ausgeht, ist
+      das nie witzig und immer schmerzhaft."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18613403651
+    m_Localized: Ausdauer
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18613403652
+    m_Localized: Ruhig bleiben und schnell handeln sind die wichtigsten Eigenschaften
+      jedes Diebs oder Ninjas.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18613403653
+    m_Localized: Hinterlist
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18613403654
+    m_Localized: "Wenn Sie mehr Geld haben, als Sie ausgeben k\xF6nnen, warum es
+      nicht zeigen?"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18613403655
+    m_Localized: "F\xFCr die noble Einbrecher"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18613403656
+    m_Localized: Stilvoll anzug
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18613403657
+    m_Localized: "Superhelden f\xFChren in der Tat ein gutes Leben. Dieser Anzug
+      wird deines sicherlich verbessern."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18613403658
+    m_Localized: Mit feschem Umhang
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18613403659
+    m_Localized: Superbob-Anzug
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18613403660
+    m_Localized: Die Teleporter-Mine teleportiert alle, die drauftreten, ins Nirgendwo.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18613403661
+    m_Localized: Tragbarer Teleporter
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18613403662
+    m_Localized: Teleport-Mine
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18613403663
+    m_Localized: "F\xFCr den Dieb, der alles hat, gibt es immer M\xF6glichkeiten,
+      um ihr Geld ausgeben."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18613403664
+    m_Localized: "F\xFCgen Sie 22000 M\xFCnzen."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18613403665
+    m_Localized: Schatzpack
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18613403666
+    m_Localized: "Ich wusste nicht, wie Sie einen guten Sinn f\xFCr Mode hat!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18613403667
+    m_Localized: Entsperren alle Outfits
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18613403668
+    m_Localized: Kleiderschrank
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18613403669
+    m_Localized: "Du siehst schon ziemlich reich aus! Schau dir meine Waren an. Sie
+      k\xF6nnten sich als n\xFCtzlich f\xFCr dich erweisen."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18613403670
+    m_Localized: Brauchst du etwas?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18613403671
+    m_Localized: "Willkommen in meinem R\xE4uberladen! Gib mir ein paar deiner M\xFCnzen
+      und schau dir meine Waren an!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18613403672
+    m_Localized: Was kaufst du?
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []

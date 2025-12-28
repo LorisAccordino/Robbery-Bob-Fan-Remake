@@ -1,0 +1,895 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: LootNames_id
+  m_EditorClassIdentifier: Unity.Localization::UnityEngine.Localization.Tables.StringTable
+  m_LocaleId:
+    m_Code: id
+  m_SharedData: {fileID: 11400000, guid: 56308ec015554634f8febbfd4481ade0, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 18416271360
+    m_Localized: Bola Boling
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18416271361
+    m_Localized: Baterai AAA
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18416271362
+    m_Localized: Replikator Antimateri
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18416271363
+    m_Localized: Gulungan Benang
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18416271364
+    m_Localized: Gulungan Benang
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18416271365
+    m_Localized: Kue Ulang Tahun
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18420465664
+    m_Localized: Dasi Kupu-kupu
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18420465665
+    m_Localized: Piala Bowling
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18420465666
+    m_Localized: Uang Suap
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18420465667
+    m_Localized: Piringan Hitam Rusak
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18420465668
+    m_Localized: Mainan Rusak
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18420465669
+    m_Localized: Piringan Hitam Rusak
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18420465670
+    m_Localized: Gunting Rusak
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18420465671
+    m_Localized: Mainan Rusak
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18420465672
+    m_Localized: Sapu
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18420465673
+    m_Localized: Jepit Kertas
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18420465674
+    m_Localized: Sekring Putus
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18420465675
+    m_Localized: Kalkulator
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18420465676
+    m_Localized: Compact Disc
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18420465677
+    m_Localized: Parutan Keju
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18420465678
+    m_Localized: Lukisan Anak-Anak
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18420465680
+    m_Localized: Relay Sirkuit
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18420465681
+    m_Localized: Papan klip
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18420465682
+    m_Localized: Mesin Kopi
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18420465683
+    m_Localized: Memo Perusahaan
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18420465684
+    m_Localized: Buku Masak
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18420465685
+    m_Localized: Tomat
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18420465686
+    m_Localized: Kertas Kumal
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18420465687
+    m_Localized: Kue Cangkir
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18420465688
+    m_Localized: Cangkir Kopi Setengah Kosong
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18420465689
+    m_Localized: Cangkir Kopi Setengah Isi
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18420465690
+    m_Localized: Disk Data
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18420465691
+    m_Localized: Tas Kerja
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18420465692
+    m_Localized: Tumpukan Kartu
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18420465693
+    m_Localized: Tumpukan Kartu
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18420465694
+    m_Localized: Gigi palsu
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18420465695
+    m_Localized: Lampu Meja
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18420465696
+    m_Localized: Detergen
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18420465697
+    m_Localized: Jam Digital
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18420465698
+    m_Localized: Pakaian Kotor
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18420465699
+    m_Localized: Dokumen Perceraian
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18420465700
+    m_Localized: Mangkuk Anjing
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18424659968
+    m_Localized: Tali Leher Anjing
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18424659969
+    m_Localized: Makanan Anjing
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18424659970
+    m_Localized: Mainan Anjing
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18424659971
+    m_Localized: Donat
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18424659972
+    m_Localized: Lakban
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18424659973
+    m_Localized: Buku Komik Berdebu
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18424659974
+    m_Localized: Spesimen ET
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18424659975
+    m_Localized: Dompet Kosong
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18424659976
+    m_Localized: Dompet Kosong
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18424659977
+    m_Localized: Ensiklopedia
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18424659978
+    m_Localized: Ensiklopedia F-J
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18424659979
+    m_Localized: Ensiklopedia K-O
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18424659980
+    m_Localized: Ensiklopedia P-R
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18424659981
+    m_Localized: Ensiklopedia S-U
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18424659982
+    m_Localized: Ensiklopedia V-Z
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18424659983
+    m_Localized: Gaun Mewah
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18424659984
+    m_Localized: Selendang Bulu
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18424659985
+    m_Localized: Gantungan Kunci Fennari
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18424659986
+    m_Localized: Segenggam Receh
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18424659987
+    m_Localized: Baki Makanan
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18424659988
+    m_Localized: Manifold Fresnel
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18424659989
+    m_Localized: Wajan Penggorengan
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18424659990
+    m_Localized: Popcorn Raksasa
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18424659991
+    m_Localized: Gelang Emas
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18424659992
+    m_Localized: Kotak Gitar
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18424659993
+    m_Localized: Permen Beruang
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18424659994
+    m_Localized: Kopi Setengah Cangkir
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18424659995
+    m_Localized: Roti Lapis Ham
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18424659996
+    m_Localized: Penemu Lokasi Higgs Boson
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18424659997
+    m_Localized: Hot Dog
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18424659998
+    m_Localized: Tagihan Rumah Tangga
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18424659999
+    m_Localized: Giant Penny
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18424660000
+    m_Localized: Patung Jepang
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18424660001
+    m_Localized: Kotak Perhiasan
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18424660002
+    m_Localized: Keyboard
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18424660003
+    m_Localized: Gantungan Kunci
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18424660004
+    m_Localized: Kotak Kotoran
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18424660005
+    m_Localized: Jas Lab
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18424660006
+    m_Localized: Laptop
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18424660007
+    m_Localized: Optik Laser
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18424660008
+    m_Localized: Pistol Laser Mainan
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18424660009
+    m_Localized: Ember Bocor
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18424660010
+    m_Localized: Steak Sisa
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18424660011
+    m_Localized: Seutas Tali
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18424660012
+    m_Localized: Bola Lampu
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18424660013
+    m_Localized: Dadu Curang
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18424660014
+    m_Localized: Kelereng Hilang
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18424660015
+    m_Localized: Surat
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18424660016
+    m_Localized: Spidol
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18424660017
+    m_Localized: Kunci Utama
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18424660018
+    m_Localized: Menu
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18424660019
+    m_Localized: Mikrofon
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18424660020
+    m_Localized: Ponsel
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18424660021
+    m_Localized: Alas Mouse
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18424660022
+    m_Localized: Sapu Tangan
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18424660023
+    m_Localized: Buku Tulis
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18424660024
+    m_Localized: Pulpen Hias
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18424660025
+    m_Localized: Penghasilan Harian
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18424660026
+    m_Localized: Tiket Kerok
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18424660027
+    m_Localized: Uang
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18424660028
+    m_Localized: Kerang
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18424660029
+    m_Localized: Laptop
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18424660030
+    m_Localized: Dua dolar
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18424660031
+    m_Localized: Sedikit Kekayaan
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18424660032
+    m_Localized: Kamera Prototipe
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18424660033
+    m_Localized: Darah Tinggi
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18424660034
+    m_Localized: Moolah Rouge
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18424660035
+    m_Localized: Benjamins
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18424660036
+    m_Localized: Dunia Kerajinan Kayu
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18424660037
+    m_Localized: Iga Siram Madu
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18424660038
+    m_Localized: Bukti Memberatkan
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18424660039
+    m_Localized: Tumpukan Uang
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18424660040
+    m_Localized: Trinitroksipropana
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18424660041
+    m_Localized: Kode kalibrasi
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18424660042
+    m_Localized: Prisma Kristal
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18424660043
+    m_Localized: Penghambat Harmonik Spektral
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18424660044
+    m_Localized: Baterai Antimateri
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18424660045
+    m_Localized: Makanan Hewan
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18424660046
+    m_Localized: Secangkir Trimetilsantin
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18424660047
+    m_Localized: Kode akses landasan peluncuran
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18424660048
+    m_Localized: Perangkat P.A.L.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18424660049
+    m_Localized: Batang Permen
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18424660050
+    m_Localized: 'Kode Akses: Alfa'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18424660051
+    m_Localized: 'Kode Akses: Beta'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18424660052
+    m_Localized: 'Kode Akses: Gamma'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18424660053
+    m_Localized: 'Kode Akses: Omega'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18424660054
+    m_Localized: Penghancuran sendiri dimulai
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18424660055
+    m_Localized: Tas kerja
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18424660056
+    m_Localized: Kotak perhiasan
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18424660057
+    m_Localized: Remote TV
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18424660058
+    m_Localized: Wajan Penggorengan
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18424660059
+    m_Localized: Piala Bowling
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18424660060
+    m_Localized: Tarantula-Man Edisi #1
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18424660061
+    m_Localized: Gantungan Kunci
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18424660062
+    m_Localized: '"Dokumen legal"'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18424660063
+    m_Localized: Resep Semur Camar
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18424660064
+    m_Localized: Nomor Telepon
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18424660065
+    m_Localized: Lukisan
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18424660066
+    m_Localized: Tiket Menang
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18424660067
+    m_Localized: Dadu Curang
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18424660068
+    m_Localized: Kunci Utama
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18424660069
+    m_Localized: Telepon
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18424660070
+    m_Localized: Harta karun
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18424660071
+    m_Localized: Telepon Kantor
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18424660072
+    m_Localized: Majalah Usang
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18428854272
+    m_Localized: Koran Bekas
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18428854273
+    m_Localized: Sepatu Usang
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18428854274
+    m_Localized: Lukisan
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18428854275
+    m_Localized: Prototipe Parsial
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18428854276
+    m_Localized: Alat Pemancar Partikel
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18428854277
+    m_Localized: Kacang
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18428854278
+    m_Localized: Pelet
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18428854279
+    m_Localized: Pensil
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18428854280
+    m_Localized: Berkas Pribadi
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18428854281
+    m_Localized: Nomor Telepon
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18428854282
+    m_Localized: Buku Telepon
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18428854283
+    m_Localized: Gambar
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18428854284
+    m_Localized: Tas Plastik
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18428854285
+    m_Localized: Cangkir Plastik
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18428854286
+    m_Localized: Garpu Plastik
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18428854287
+    m_Localized: Chip
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18428854288
+    m_Localized: Detektor Neutrino Portabel
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18428854289
+    m_Localized: Pemisah Positron
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18428854290
+    m_Localized: Tanaman Pot
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18428854291
+    m_Localized: Daging Iga
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18428854292
+    m_Localized: Remote
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18428854293
+    m_Localized: Buku Kontak Putar
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18428854294
+    m_Localized: Laporan Ilmiah
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18428854295
+    m_Localized: Tiket Kerok Bekas
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18428854296
+    m_Localized: Resep Semur Camar
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18428854297
+    m_Localized: Mainan Gigit
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18428854298
+    m_Localized: Sesuatu yang Bau
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18428854299
+    m_Localized: Sesuatu yang Lengket
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18428854300
+    m_Localized: Soup du Jour
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18428854301
+    m_Localized: Busi
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18428854302
+    m_Localized: Pengencer Spasial
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18428854303
+    m_Localized: Tumpukan Kertas
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18428854304
+    m_Localized: Stepler
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18428854305
+    m_Localized: Alat Tulis
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18428854306
+    m_Localized: Wadah Stirofoam
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18428854307
+    m_Localized: Patung Mainan Super-Bob
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18428854308
+    m_Localized: Buku Komik Super-Bob
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18428854309
+    m_Localized: Surstromming
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18428854310
+    m_Localized: Laporan TPS
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18428854311
+    m_Localized: Remote TV
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18428854312
+    m_Localized: Tablet
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18428854313
+    m_Localized: Tarantula-Man Edisi #1
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18428854314
+    m_Localized: Tabung Reaksi
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18428854315
+    m_Localized: Tisu Toilet
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18428854316
+    m_Localized: Wajan
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18428854317
+    m_Localized: Tusuk Gigi
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18428854318
+    m_Localized: Memory Stick USB
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18428854319
+    m_Localized: Pecahan Unobtanium
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18428854320
+    m_Localized: Silet Bekas
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18428854321
+    m_Localized: Tiket Kerok Bekas
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18428854322
+    m_Localized: Sikat Gigi Bekas
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18428854323
+    m_Localized: Tape Video
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18428854324
+    m_Localized: Perekam Suara
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18428854325
+    m_Localized: Tiket Menang
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18428854326
+    m_Localized: Tanaman Layu
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18428854327
+    m_Localized: Koran Kemarin
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18428854328
+    m_Localized: Kartun Bob
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18428854329
+    m_Localized: Cokelat Batang
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18428854330
+    m_Localized: Dadu Enam
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18428854331
+    m_Localized: Donat Lezat
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18428854332
+    m_Localized: Floppy Disk
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18428854333
+    m_Localized: Majalah Mode
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18428854334
+    m_Localized: Majalah Musik
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18428854335
+    m_Localized: Majalah Game
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18433048616
+    m_Localized: Nomor Telepon
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18433048617
+    m_Localized: Kaleng Pengusir Hiu
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18433048618
+    m_Localized: Daftar Belanja
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18433048619
+    m_Localized: Kaus Kaki Usang
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18433048620
+    m_Localized: Sesuatu yang Lengket
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18433048621
+    m_Localized: Patung Mainan Super-Bob
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18433048622
+    m_Localized: Kaleng Kosong
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []

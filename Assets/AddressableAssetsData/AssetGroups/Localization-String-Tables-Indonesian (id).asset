@@ -1,0 +1,65 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Localization-String-Tables-Indonesian (id)
+  m_EditorClassIdentifier: Unity.Addressables.Editor::UnityEditor.AddressableAssets.Settings.AddressableAssetGroup
+  m_GroupName: Localization-String-Tables-Indonesian (id)
+  m_GUID: 97322f649545de043a7603641cdb569e
+  m_SerializeEntries:
+  - m_GUID: 1f47080d689a7604da94d5de82030012
+    m_Address: Hints_id
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-id
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 659cb0fb9843eee44b445572989462f2
+    m_Address: StoryEvents_id
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-id
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 9eaf82b4175e7c348a3d2b265950506c
+    m_Address: LootNames_id
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-id
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: a84a34ff5200855478c9433cc6f86ea2
+    m_Address: TRVB_id
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-id
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: b5e5e0a120cf1e045b040a40f78a244e
+    m_Address: InappItems_id
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-id
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: b9c74604d557837458243901245ccdf4
+    m_Address: Menus_id
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-id
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: e46fb54c624a7e546bb74ed6e4a58178
+    m_Address: LevelNames_id
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-id
+    FlaggedDuringContentUpdateRestriction: 0
+  m_ReadOnly: 1
+  m_Settings: {fileID: 11400000, guid: 4d17e89b8d77e5143a9dcdbd36d12aa4, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: f2a001b884ad44141b6a29f7e16bf1a9, type: 2}
+    - {fileID: 11400000, guid: 1aa5f3b9fd23b594aa9ae8c85a14ab48, type: 2}
