@@ -194,7 +194,7 @@ TextureImporter:
         serializedVersion: 2
         x: 626
         y: 1560
-        width: 169
+        width: 119
         height: 134
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
@@ -211,7 +211,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: menu1_15
+      name: tiny_sign
       rect:
         serializedVersion: 2
         x: 754
@@ -1253,7 +1253,7 @@ TextureImporter:
         width: 62
         height: 68
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1262,6 +1262,50 @@ TextureImporter:
       bones: []
       spriteID: 877766e84578ca7489b1cc2a2634524b
       internalID: 861400598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lock
+      rect:
+        serializedVersion: 2
+        x: 769
+        y: 1659
+        width: 25
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bbbd4780a35844468dc5e00a670ccbb
+      internalID: -1130585108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coin
+      rect:
+        serializedVersion: 2
+        x: 769
+        y: 1631
+        width: 26
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 346653cee7002fc46a0b62f6f47c8107
+      internalID: 1878036808
       vertices: []
       indices: 
       edges: []
@@ -1303,6 +1347,7 @@ TextureImporter:
       btn_withdraw_consent: -884770503
       challenge: -1736765527
       chinese: -284049562
+      coin: 1878036808
       cross: 861400598
       downtown: 1351125541
       english: -659565980
@@ -1315,6 +1360,7 @@ TextureImporter:
       japanese: 728876621
       korean: -2045490760
       loading_circle: 1464983157
+      lock: -1130585108
       menu1_10: -523829919
       menu1_100: 802847000
       menu1_101: -139627028
@@ -1322,7 +1368,6 @@ TextureImporter:
       menu1_12: -785698279
       menu1_13: -97746210
       menu1_14: 2093438899
-      menu1_15: 1487109528
       menu1_17: -1744192120
       menu1_20: -2074848781
       menu1_21: -285956544
@@ -1404,6 +1449,7 @@ TextureImporter:
       steam: 1575503283
       suburbs: 2067837130
       summer_camp: 884682691
+      tiny_sign: 1487109528
       ui_panel_background: 1164806885
       winter: 1305338490
   mipmapLimitGroupName: 

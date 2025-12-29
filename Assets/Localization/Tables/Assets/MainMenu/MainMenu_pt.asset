@@ -22,6 +22,18 @@ MonoBehaviour:
     m_Localized: 'fa211f26b9ccec94fac25ca2a55ef210[portuguese]'
     m_Metadata:
       m_Items: []
+  - m_Id: 101126212026368
+    m_Localized: '648915429c30d4e4181f010c7724001a[main_menu.pt_7]'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 101587384139776
+    m_Localized: '648915429c30d4e4181f010c7724001a[main_menu.pt_11]'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 101816531550208
+    m_Localized: '648915429c30d4e4181f010c7724001a[main_menu.pt_6]'
+    m_Metadata:
+      m_Items: []
   references:
     version: 2
     RefIds: []

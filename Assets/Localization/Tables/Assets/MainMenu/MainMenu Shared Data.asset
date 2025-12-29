@@ -19,6 +19,18 @@ MonoBehaviour:
     m_Key: language_flag
     m_Metadata:
       m_Items: []
+  - m_Id: 101126212026368
+    m_Key: suburbs_title
+    m_Metadata:
+      m_Items: []
+  - m_Id: 101587384139776
+    m_Key: downtown_title
+    m_Metadata:
+      m_Items: []
+  - m_Id: 101816531550208
+    m_Key: secret_labs_title
+    m_Metadata:
+      m_Items: []
   m_Metadata:
     m_Items:
     - rid: 2016924983150510663
@@ -47,6 +59,24 @@ MonoBehaviour:
           - it
           - ja
           - ko
+          - pt
+          - es
+        - m_KeyId: 101126212026368
+          m_TableCodes:
+          - it
+          - es
+          - pt
+          - en
+        - m_KeyId: 101587384139776
+          m_TableCodes:
+          - en
+          - it
+          - pt
+          - es
+        - m_KeyId: 101816531550208
+          m_TableCodes:
+          - en
+          - it
           - pt
           - es
         m_TypeString: UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0,
