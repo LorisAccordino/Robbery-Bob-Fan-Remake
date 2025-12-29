@@ -16,7 +16,8 @@ MonoBehaviour:
     m_Code: id
   m_SharedData: {fileID: 11400000, guid: 528c112f67a5b1a45ad5119a422f333b, type: 2}
   m_Metadata:
-    m_Items: []
+    m_Items:
+    - rid: 2016925003926470765
   m_TableData:
   - m_Id: 12223413092356
     m_Localized: Level Bonus
@@ -1027,9 +1028,10 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 12223429869620
-    m_Localized: 'Versi: %0'
+    m_Localized: 'Versi: {version}'
     m_Metadata:
-      m_Items: []
+      m_Items:
+      - rid: 2016925003926470765
   - m_Id: 12223429869621
     m_Localized: Tentu, ayo!
     m_Metadata:
@@ -1734,4 +1736,10 @@ MonoBehaviour:
       m_Items: []
   references:
     version: 2
-    RefIds: []
+    RefIds:
+    - rid: 2016925003926470765
+      type: {class: SmartFormatTag, ns: UnityEngine.Localization.Metadata, asm: Unity.Localization}
+      data:
+        m_Entries: 
+        m_SharedEntries:
+        - id: 12223429869620

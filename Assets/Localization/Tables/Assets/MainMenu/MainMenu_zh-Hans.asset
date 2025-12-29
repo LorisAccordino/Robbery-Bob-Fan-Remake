@@ -22,6 +22,54 @@ MonoBehaviour:
     m_Localized: 'fa211f26b9ccec94fac25ca2a55ef210[chinese]'
     m_Metadata:
       m_Items: []
+  - m_Id: 101126212026368
+    m_Localized: '201b5625a26967a43aa40ba2475a5ef8[main_menu.zh-Hans.suburbs]'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 101587384139776
+    m_Localized: '201b5625a26967a43aa40ba2475a5ef8[main_menu.zh-Hans.downtown]'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 101816531550208
+    m_Localized: '201b5625a26967a43aa40ba2475a5ef8[main_menu.zh-Hans.secret_labs]'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 343318239248384
+    m_Localized: '201b5625a26967a43aa40ba2475a5ef8[main_menu.zh-Hans.advanced]'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 343340519391232
+    m_Localized: '201b5625a26967a43aa40ba2475a5ef8[main_menu.zh-Hans.winter]'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 343388388982784
+    m_Localized: '201b5625a26967a43aa40ba2475a5ef8[main_menu.zh-Hans.highrise]'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 343588981571584
+    m_Localized: '201b5625a26967a43aa40ba2475a5ef8[main_menu.zh-Hans.summer_camp]'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 343611144273920
+    m_Localized: '201b5625a26967a43aa40ba2475a5ef8[main_menu.zh-Hans.bonus]'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 343648440025088
+    m_Localized: '201b5625a26967a43aa40ba2475a5ef8[main_menu.zh-Hans.extras]'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 343677716267008
+    m_Localized: '201b5625a26967a43aa40ba2475a5ef8[main_menu.zh-Hans.challenge]'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 344144617799680
+    m_Localized: '201b5625a26967a43aa40ba2475a5ef8[main_menu.zh-Hans.prison]'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 344176771334144
+    m_Localized: '201b5625a26967a43aa40ba2475a5ef8[main_menu.zh-Hans.out_no]'
+    m_Metadata:
+      m_Items: []
   references:
     version: 2
     RefIds: []

@@ -95,12 +95,386 @@ TextureImporter:
     forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
-    sprites: []
+    sprites:
+    - serializedVersion: 2
+      name: main_menu.zh-Hant.downtown
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 414
+        width: 218
+        height: 95
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f50939cf7483984dae578b864877ffb
+      internalID: 466611827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: main_menu.zh-Hant.extras
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 425
+        width: 329
+        height: 85
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 958c87ecc4bd4894b8044c7a8ee276a0
+      internalID: -1152361906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: main_menu.zh-Hant.tell_friend
+      rect:
+        serializedVersion: 2
+        x: 556
+        y: 473
+        width: 153
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12a4f172959c0c7439e8b2cd8256821b
+      internalID: 93704355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: main_menu.zh-Hant.free
+      rect:
+        serializedVersion: 2
+        x: 559
+        y: 428
+        width: 107
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8aa6205044113614a9dd0f8cb771e675
+      internalID: -1311468939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: main_menu.zh-Hant.summer_camp
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 309
+        width: 229
+        height: 94
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bbf992a923513f47b9f42cae3088920
+      internalID: 1489646179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: main_menu.zh-Hant.highrise
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 332
+        width: 392
+        height: 85
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ca0c855dd5626e4d91ba3dca4ab5a35
+      internalID: 1163602971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: main_menu.zh-Hant.new
+      rect:
+        serializedVersion: 2
+        x: 628
+        y: 384
+        width: 110
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19fcf1ce718297c4eb24ecfbf300b1c0
+      internalID: 1180190963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: main_menu.zh-Hant.bonus
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 214
+        width: 161
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be4a060d8aba0f74db8914bdadafcaec
+      internalID: 1029554996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: main_menu.zh-Hant.winter
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 212
+        width: 159
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93b174eddea9d2547b0805fdfd205728
+      internalID: 180678796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: main_menu.zh-Hant.out_now2
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 243
+        width: 323
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebbaf4413a0b14d4fa29da4ccde299fb
+      internalID: 2073178698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: main_menu.zh-Hant.prison
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 116
+        width: 180
+        height: 92
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03bf3788e10d7424484fbb253a41f4f4
+      internalID: -1242026423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: main_menu.zh-Hant.advanced
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 121
+        width: 301
+        height: 83
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 913f2c790ecb4434480536aa6065753e
+      internalID: 1118934823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: main_menu.zh-Hant.out_now
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 152
+        width: 318
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 264103ed54342e54281479cf7ef6b994
+      internalID: 1385566362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: main_menu.zh-Hant.suburbs
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 27
+        width: 177
+        height: 89
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01cf5c13806d2b04f9b191300f198ce9
+      internalID: -1441425589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: main_menu.zh-Hant.challenge
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 30
+        width: 310
+        height: 82
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50887855ac9a43d459a8ef632cc8ac07
+      internalID: 552530704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: main_menu.zh-Hant.secret_labs
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 81
+        width: 317
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21d341f4a1f54c4409c85048dfe123ba
+      internalID: 1472267741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: main_menu.zh-Hant.more_games
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 37
+        width: 153
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24702624871692541b5907996ca2c2ce
+      internalID: 661779657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: 98e8f434100eb924da95c047213889ed
     internalID: 0
     vertices: []
     indices: 
@@ -108,8 +482,49 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     spriteCustomMetadata:
-      entries: []
-    nameFileIdTable: {}
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":64.0,"y":64.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":0,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      main_menu.zh-Hant.advanced: 1118934823
+      main_menu.zh-Hant.bonus: 1029554996
+      main_menu.zh-Hant.challenge: 552530704
+      main_menu.zh-Hant.downtown: 466611827
+      main_menu.zh-Hant.extras: -1152361906
+      main_menu.zh-Hant.free: -1311468939
+      main_menu.zh-Hant.highrise: 1163602971
+      main_menu.zh-Hant.more_games: 661779657
+      main_menu.zh-Hant.new: 1180190963
+      main_menu.zh-Hant.out_now: 1385566362
+      main_menu.zh-Hant.out_now2: 2073178698
+      main_menu.zh-Hant.prison: -1242026423
+      main_menu.zh-Hant.secret_labs: 1472267741
+      main_menu.zh-Hant.suburbs: -1441425589
+      main_menu.zh-Hant.summer_camp: 1489646179
+      main_menu.zh-Hant.tell_friend: 93704355
+      main_menu.zh-Hant.winter: 180678796
+      main_menu.zh-Hant_10: 1734249131
+      main_menu.zh-Hant_11: -408409791
+      main_menu.zh-Hant_15: -304270718
+      main_menu.zh-Hant_17: 1660050668
+      main_menu.zh-Hant_18: 311235563
+      main_menu.zh-Hant_19: -481090889
+      main_menu.zh-Hant_21: -1861855561
+      main_menu.zh-Hant_23: 2023880595
+      main_menu.zh-Hant_25: 474320226
+      main_menu.zh-Hant_26: 1968577
+      main_menu.zh-Hant_27: 2098378835
+      main_menu.zh-Hant_29: 1332187888
+      main_menu.zh-Hant_31: -1932006376
+      main_menu.zh-Hant_32: -1018018179
+      main_menu.zh-Hant_33: -273615383
+      main_menu.zh-Hant_35: 726930319
+      main_menu.zh-Hant_36: 1677564076
+      main_menu.zh-Hant_38: -677718664
+      main_menu.zh-Hant_39: 785537889
+      main_menu.zh-Hant_4: -727541496
+      main_menu.zh-Hant_7: 790954983
+      main_menu.zh-Hant_9: -1116769247
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

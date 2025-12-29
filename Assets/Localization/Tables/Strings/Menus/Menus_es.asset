@@ -16,7 +16,8 @@ MonoBehaviour:
     m_Code: es
   m_SharedData: {fileID: 11400000, guid: 528c112f67a5b1a45ad5119a422f333b, type: 2}
   m_Metadata:
-    m_Items: []
+    m_Items:
+    - rid: 2016925003926470764
   m_TableData:
   - m_Id: 12223413092356
     m_Localized: Niveles de bonus
@@ -1007,9 +1008,10 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 12223429869620
-    m_Localized: "Versi\xF3n: %0"
+    m_Localized: "Versi\xF3n: {version}"
     m_Metadata:
-      m_Items: []
+      m_Items:
+      - rid: 2016925003926470764
   - m_Id: 12223429869621
     m_Localized: "Claro, \xA1adelante!"
     m_Metadata:
@@ -1619,4 +1621,10 @@ MonoBehaviour:
       m_Items: []
   references:
     version: 2
-    RefIds: []
+    RefIds:
+    - rid: 2016925003926470764
+      type: {class: SmartFormatTag, ns: UnityEngine.Localization.Metadata, asm: Unity.Localization}
+      data:
+        m_Entries: 
+        m_SharedEntries:
+        - id: 12223429869620

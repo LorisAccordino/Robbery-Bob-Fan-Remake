@@ -22,6 +22,54 @@ MonoBehaviour:
     m_Localized: 'fa211f26b9ccec94fac25ca2a55ef210[indonesian]'
     m_Metadata:
       m_Items: []
+  - m_Id: 343611144273920
+    m_Localized: 'a7917e53a331eeb46b9a12fb02ec326a[main_menu.id_12]'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 343648440025088
+    m_Localized: 'a7917e53a331eeb46b9a12fb02ec326a[main_menu.id_15]'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 101816531550208
+    m_Localized: 'a7917e53a331eeb46b9a12fb02ec326a[main_menu.id_14]'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 344144617799680
+    m_Localized: 'a7917e53a331eeb46b9a12fb02ec326a[main_menu.id_17]'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 344176771334144
+    m_Localized: 'a7917e53a331eeb46b9a12fb02ec326a[main_menu.id_11]'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 101126212026368
+    m_Localized: 'a7917e53a331eeb46b9a12fb02ec326a[main_menu.id_9]'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 101587384139776
+    m_Localized: 'a7917e53a331eeb46b9a12fb02ec326a[main_menu.id_6]'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 343588981571584
+    m_Localized: 'a7917e53a331eeb46b9a12fb02ec326a[main_menu.id_0]'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 343677716267008
+    m_Localized: 'a7917e53a331eeb46b9a12fb02ec326a[main_menu.id_20]'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 343318239248384
+    m_Localized: 'a7917e53a331eeb46b9a12fb02ec326a[main_menu.id_1]'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 343340519391232
+    m_Localized: 'a7917e53a331eeb46b9a12fb02ec326a[main_menu.id_4]'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 343388388982784
+    m_Localized: 'a7917e53a331eeb46b9a12fb02ec326a[main_menu.id_5]'
+    m_Metadata:
+      m_Items: []
   references:
     version: 2
     RefIds: []

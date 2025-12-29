@@ -4,21 +4,21 @@ using UnityEngine;
 public class MenuManager : MonoBehaviour
 {
     [Header("Panels")]
-    [SerializeField] private GameObject mainMenu;
+    [SerializeField] private CanvasGroup mainMenu;
 
-    private Stack<GameObject> menuStack = new Stack<GameObject>();
+    private Stack<CanvasGroup> menuStack = new Stack<CanvasGroup>();
 
-    void Start()
+    private void Start()
     {
         OpenMenu(mainMenu);
     }
 
-    public void OpenMenu(GameObject menu)
+    public void OpenMenu(CanvasGroup menu)
     {
         if (menuStack.Count > 0)
-            menuStack.Peek().SetActive(false);
+            SetMenuState(menuStack.Peek(), false);
 
-        menu.SetActive(true);
+        SetMenuState(menu, true);
         menuStack.Push(menu);
     }
 
@@ -27,20 +27,27 @@ public class MenuManager : MonoBehaviour
         if (menuStack.Count <= 1)
             return;
 
-        GameObject current = menuStack.Pop();
-        current.SetActive(false);
+        CanvasGroup current = menuStack.Pop();
+        SetMenuState(current, false);
 
-        menuStack.Peek().SetActive(true);
+        SetMenuState(menuStack.Peek(), true);
     }
 
     public void GoToMainMenu()
     {
         while (menuStack.Count > 1)
         {
-            GameObject menu = menuStack.Pop();
-            menu.SetActive(false);
+            CanvasGroup menu = menuStack.Pop();
+            SetMenuState(menu, false);
         }
 
-        menuStack.Peek().SetActive(true);
+        SetMenuState(menuStack.Peek(), true);
+    }
+
+    private void SetMenuState(CanvasGroup menu, bool visible)
+    {
+        menu.alpha = visible ? 1f : 0f;
+        menu.interactable = visible;
+        menu.blocksRaycasts = visible;
     }
 }

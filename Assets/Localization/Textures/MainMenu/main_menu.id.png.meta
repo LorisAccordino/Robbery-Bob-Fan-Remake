@@ -387,8 +387,8 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 0
-        y: 17
-        width: 202
+        y: 18
+        width: 361
         height: 67
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
@@ -400,28 +400,6 @@ TextureImporter:
       bones: []
       spriteID: 8d2516dc8985c054b8c3d178fb9f2ccc
       internalID: -404360112
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: main_menu.id_18
-      rect:
-        serializedVersion: 2
-        x: 198
-        y: 18
-        width: 163
-        height: 66
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: a17a639bbf50b184181c095937a34474
-      internalID: -297259785
       vertices: []
       indices: 
       edges: []

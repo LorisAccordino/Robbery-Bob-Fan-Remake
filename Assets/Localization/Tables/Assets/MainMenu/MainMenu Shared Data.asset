@@ -31,6 +31,42 @@ MonoBehaviour:
     m_Key: secret_labs_title
     m_Metadata:
       m_Items: []
+  - m_Id: 343318239248384
+    m_Key: advanced_title
+    m_Metadata:
+      m_Items: []
+  - m_Id: 343340519391232
+    m_Key: winter_title
+    m_Metadata:
+      m_Items: []
+  - m_Id: 343388388982784
+    m_Key: high_rise_title
+    m_Metadata:
+      m_Items: []
+  - m_Id: 343588981571584
+    m_Key: summer_camp_title
+    m_Metadata:
+      m_Items: []
+  - m_Id: 343611144273920
+    m_Key: bonus_title
+    m_Metadata:
+      m_Items: []
+  - m_Id: 343648440025088
+    m_Key: extras_title
+    m_Metadata:
+      m_Items: []
+  - m_Id: 343677716267008
+    m_Key: challenge_title
+    m_Metadata:
+      m_Items: []
+  - m_Id: 344144617799680
+    m_Key: prison_title
+    m_Metadata:
+      m_Items: []
+  - m_Id: 344176771334144
+    m_Key: out_now
+    m_Metadata:
+      m_Items: []
   m_Metadata:
     m_Items:
     - rid: 2016924983150510663
@@ -67,17 +103,131 @@ MonoBehaviour:
           - es
           - pt
           - en
+          - fr
+          - de
+          - id
+          - zh-Hans
+          - zh-Hant
         - m_KeyId: 101587384139776
           m_TableCodes:
           - en
           - it
           - pt
           - es
+          - fr
+          - de
+          - id
+          - zh-Hans
+          - zh-Hant
         - m_KeyId: 101816531550208
           m_TableCodes:
           - en
           - it
           - pt
           - es
+          - fr
+          - de
+          - id
+          - zh-Hans
+          - zh-Hant
+        - m_KeyId: 343318239248384
+          m_TableCodes:
+          - en
+          - it
+          - es
+          - pt
+          - fr
+          - de
+          - id
+          - zh-Hans
+          - zh-Hant
+        - m_KeyId: 343340519391232
+          m_TableCodes:
+          - en
+          - it
+          - es
+          - pt
+          - fr
+          - de
+          - id
+          - zh-Hans
+          - zh-Hant
+        - m_KeyId: 343388388982784
+          m_TableCodes:
+          - en
+          - it
+          - es
+          - pt
+          - fr
+          - de
+          - id
+          - zh-Hans
+          - zh-Hant
+        - m_KeyId: 343588981571584
+          m_TableCodes:
+          - en
+          - it
+          - es
+          - pt
+          - fr
+          - de
+          - id
+          - zh-Hans
+          - zh-Hant
+        - m_KeyId: 343611144273920
+          m_TableCodes:
+          - en
+          - it
+          - es
+          - pt
+          - fr
+          - de
+          - id
+          - zh-Hans
+          - zh-Hant
+        - m_KeyId: 343648440025088
+          m_TableCodes:
+          - en
+          - it
+          - es
+          - pt
+          - fr
+          - de
+          - id
+          - zh-Hans
+          - zh-Hant
+        - m_KeyId: 343677716267008
+          m_TableCodes:
+          - en
+          - it
+          - es
+          - pt
+          - fr
+          - de
+          - id
+          - zh-Hans
+          - zh-Hant
+        - m_KeyId: 344144617799680
+          m_TableCodes:
+          - en
+          - it
+          - es
+          - pt
+          - fr
+          - de
+          - id
+          - zh-Hans
+          - zh-Hant
+        - m_KeyId: 344176771334144
+          m_TableCodes:
+          - en
+          - it
+          - es
+          - pt
+          - fr
+          - de
+          - id
+          - zh-Hans
+          - zh-Hant
         m_TypeString: UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0,
           Culture=neutral, PublicKeyToken=null

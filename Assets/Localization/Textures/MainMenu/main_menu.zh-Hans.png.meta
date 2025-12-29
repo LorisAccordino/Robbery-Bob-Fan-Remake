@@ -95,12 +95,386 @@ TextureImporter:
     forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
-    sprites: []
+    sprites:
+    - serializedVersion: 2
+      name: main_menu.zh-Hans.downtown
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 414
+        width: 147
+        height: 94
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94c98da3710e0494b98cd71f10302b98
+      internalID: -1477282004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: main_menu.zh-Hans.prison
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 423
+        width: 170
+        height: 89
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b610eb0fd38ab942a332490bd2990f2
+      internalID: 1096157795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: main_menu.zh-Hans.out_no
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 426
+        width: 320
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7dc64c4cf1299524bb8ba5116947f200
+      internalID: -1077444155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: main_menu.zh-Hans.challenge
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 311
+        width: 171
+        height: 91
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e148294fc1a35c4f964453deb6105cd
+      internalID: 1235233483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: main_menu.zh-Hans.suburbs
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 332
+        width: 175
+        height: 86
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b519c582002bba447873ff3882824479
+      internalID: -900804436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: main_menu.zh-Hans.winter
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 332
+        width: 161
+        height: 85
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5d3738d15cd3d145ad376bbf8ce3b9e
+      internalID: 237846022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: main_menu.zh-Hans.bonus
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 206
+        width: 184
+        height: 93
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48d6b0d49d0a77342816c1ec36324447
+      internalID: 1021621740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: main_menu.zh-Hans.advanced
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 240
+        width: 177
+        height: 85
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac5d3ad9c57ec75449ed03e698f915f3
+      internalID: 150859619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: main_menu.zh-Hans.secret_labs
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 263
+        width: 317
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7cf77c76687458544b74eb27f7f14286
+      internalID: 1069275414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: main_menu.zh-Hans.highrise
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 149
+        width: 232
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d23633003ea6224b87e9761a1f41b75
+      internalID: -850044641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: main_menu.zh-Hans.free
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 220
+        width: 107
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a03e995f20cbedb46ae0a82c64780cfe
+      internalID: 1791487912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: main_menu.zh-Hans.extras
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 102
+        width: 186
+        height: 95
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 929834c5e93ff1149af2a35002db4f7e
+      internalID: 627643726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: main_menu.zh-Hans.new
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 176
+        width: 109
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdd9b0aa223ec4d46a8bbac71644d7ee
+      internalID: 679817150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: main_menu.zh-Hans.summer_camp
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 228
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 054f0bda095c2c240a83dcc52c5cc77a
+      internalID: -1894809246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: main_menu.zh-Hans.out_now
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 57
+        width: 323
+        height: 82
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08e894d47574a6946bece56ee14f004f
+      internalID: -749337433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: main_menu.zh-Hans.more_games
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 13
+        width: 153
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c98dbd2159c2684fa9bc86b8f773f31
+      internalID: 233633905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: main_menu.zh-Hans.tell_frien
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 13
+        width: 153
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e788c0fe924702e4aaed4c4d6fa8ecff
+      internalID: 1030208611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: 463dec5cd8d3896478c01326700d34ec
     internalID: 0
     vertices: []
     indices: 
@@ -108,8 +482,41 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     spriteCustomMetadata:
-      entries: []
-    nameFileIdTable: {}
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":64.0,"y":64.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":0,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      main_menu.zh-Hans.advanced: 150859619
+      main_menu.zh-Hans.bonus: 1021621740
+      main_menu.zh-Hans.challenge: 1235233483
+      main_menu.zh-Hans.downtown: -1477282004
+      main_menu.zh-Hans.extras: 627643726
+      main_menu.zh-Hans.free: 1791487912
+      main_menu.zh-Hans.highrise: -850044641
+      main_menu.zh-Hans.more_games: 233633905
+      main_menu.zh-Hans.new: 679817150
+      main_menu.zh-Hans.out_no: -1077444155
+      main_menu.zh-Hans.out_now: -749337433
+      main_menu.zh-Hans.prison: 1096157795
+      main_menu.zh-Hans.secret_labs: 1069275414
+      main_menu.zh-Hans.suburbs: -900804436
+      main_menu.zh-Hans.summer_camp: -1894809246
+      main_menu.zh-Hans.tell_frien: 1030208611
+      main_menu.zh-Hans.winter: 237846022
+      main_menu.zh-Hans_10: -94411248
+      main_menu.zh-Hans_13: 796953253
+      main_menu.zh-Hans_15: -236915829
+      main_menu.zh-Hans_17: 1763579012
+      main_menu.zh-Hans_18: 1952988886
+      main_menu.zh-Hans_19: -1330130833
+      main_menu.zh-Hans_21: 1669260990
+      main_menu.zh-Hans_24: 1588736869
+      main_menu.zh-Hans_26: 1602243685
+      main_menu.zh-Hans_28: 1523878082
+      main_menu.zh-Hans_29: 1352798700
+      main_menu.zh-Hans_5: -1292565890
+      main_menu.zh-Hans_7: -2056396839
+      main_menu.zh-Hans_9: 642347580
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
