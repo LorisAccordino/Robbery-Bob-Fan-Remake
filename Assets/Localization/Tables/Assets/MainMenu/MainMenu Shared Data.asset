@@ -108,6 +108,9 @@ MonoBehaviour:
           - id
           - zh-Hans
           - zh-Hant
+          - ar
+          - ja
+          - ko
         - m_KeyId: 101587384139776
           m_TableCodes:
           - en
@@ -119,6 +122,9 @@ MonoBehaviour:
           - id
           - zh-Hans
           - zh-Hant
+          - ar
+          - ja
+          - ko
         - m_KeyId: 101816531550208
           m_TableCodes:
           - en
@@ -130,6 +136,9 @@ MonoBehaviour:
           - id
           - zh-Hans
           - zh-Hant
+          - ar
+          - ja
+          - ko
         - m_KeyId: 343318239248384
           m_TableCodes:
           - en
@@ -141,6 +150,9 @@ MonoBehaviour:
           - id
           - zh-Hans
           - zh-Hant
+          - ar
+          - ja
+          - ko
         - m_KeyId: 343340519391232
           m_TableCodes:
           - en
@@ -152,6 +164,9 @@ MonoBehaviour:
           - id
           - zh-Hans
           - zh-Hant
+          - ar
+          - ja
+          - ko
         - m_KeyId: 343388388982784
           m_TableCodes:
           - en
@@ -163,6 +178,9 @@ MonoBehaviour:
           - id
           - zh-Hans
           - zh-Hant
+          - ar
+          - ja
+          - ko
         - m_KeyId: 343588981571584
           m_TableCodes:
           - en
@@ -174,6 +192,9 @@ MonoBehaviour:
           - id
           - zh-Hans
           - zh-Hant
+          - ar
+          - ja
+          - ko
         - m_KeyId: 343611144273920
           m_TableCodes:
           - en
@@ -185,6 +206,9 @@ MonoBehaviour:
           - id
           - zh-Hans
           - zh-Hant
+          - ar
+          - ja
+          - ko
         - m_KeyId: 343648440025088
           m_TableCodes:
           - en
@@ -196,6 +220,9 @@ MonoBehaviour:
           - id
           - zh-Hans
           - zh-Hant
+          - ar
+          - ja
+          - ko
         - m_KeyId: 343677716267008
           m_TableCodes:
           - en
@@ -207,6 +234,9 @@ MonoBehaviour:
           - id
           - zh-Hans
           - zh-Hant
+          - ar
+          - ja
+          - ko
         - m_KeyId: 344144617799680
           m_TableCodes:
           - en
@@ -218,6 +248,9 @@ MonoBehaviour:
           - id
           - zh-Hans
           - zh-Hant
+          - ar
+          - ja
+          - ko
         - m_KeyId: 344176771334144
           m_TableCodes:
           - en
@@ -229,5 +262,8 @@ MonoBehaviour:
           - id
           - zh-Hans
           - zh-Hant
+          - ar
+          - ja
+          - ko
         m_TypeString: UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0,
           Culture=neutral, PublicKeyToken=null

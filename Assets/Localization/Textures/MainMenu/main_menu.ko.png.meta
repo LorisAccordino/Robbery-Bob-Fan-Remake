@@ -95,12 +95,386 @@ TextureImporter:
     forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
-    sprites: []
+    sprites:
+    - serializedVersion: 2
+      name: main_menu.ko.advanced
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 407
+        width: 181
+        height: 105
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d06a4adbd8e0fbb47851a69012caf0ed
+      internalID: 620307990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: main_menu.ko.suburbs
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 423
+        width: 141
+        height: 89
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bff6fb06f32881543b2d6ea357278370
+      internalID: -1659881502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: main_menu.ko.challenge
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 428
+        width: 300
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a817bc23fc172bc47892ae30bfe00a8c
+      internalID: 1507278445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: main_menu.ko.downtown
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 305
+        width: 168
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 297c2710757412446b007ae2f77e08d0
+      internalID: 1389871004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: main_menu.ko.secret_labs
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 338
+        width: 283
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15229ea926aa41c4a8c95c441af13162
+      internalID: 1929389444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: main_menu.ko.prison
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 368
+        width: 204
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53a70b4355508e4428b3fcfb26c87fc2
+      internalID: 432362492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: main_menu.ko.winter
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 199
+        width: 171
+        height: 101
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb1230a121d70434fbf1321f14609d72
+      internalID: -1378836737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: main_menu.ko.highrise
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 204
+        width: 236
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: acc641f3a3ee98342ad4e117280308d4
+      internalID: 2107020528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: main_menu.ko.out_now
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 257
+        width: 367
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ced7f3fbffe6c954483393c1e3d44050
+      internalID: 1730323577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: main_menu.ko.more_games
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 218
+        width: 153
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9e9673e9aaaef14195ce01997fb4059
+      internalID: -1984580876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: main_menu.ko.new
+      rect:
+        serializedVersion: 2
+        x: 571
+        y: 216
+        width: 107
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95ac9b2a79405344da7dcf0e3af6fd9a
+      internalID: 393642552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: main_menu.ko.bonus
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 104
+        width: 208
+        height: 89
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1bd067aa0a42e74fb8892902d96f47e
+      internalID: 973212128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: main_menu.ko.summer_camp
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 120
+        width: 340
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f757c5d6531dbfd42ab9347f1afe535d
+      internalID: 1595300125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: main_menu.ko.tell_friend
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 174
+        width: 153
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb2ee166e34a3f6429e57238c209b164
+      internalID: -599409197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: main_menu.ko.free
+      rect:
+        serializedVersion: 2
+        x: 555
+        y: 128
+        width: 107
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e74c3b0f9351e084685f13a43cb7840c
+      internalID: -601007726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: main_menu.ko.extras
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 5
+        width: 339
+        height: 94
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1d45f6c47e78c549aa1956da0b9c9a5
+      internalID: 77107729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: main_menu.ko.out_no
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 41
+        width: 357
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15692690c38b79b40b51270d1b208e7b
+      internalID: 2024374088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: 8e7aacfabfcac204bb4f9073b065f87c
     internalID: 0
     vertices: []
     indices: 
@@ -108,8 +482,42 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     spriteCustomMetadata:
-      entries: []
-    nameFileIdTable: {}
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":64.0,"y":64.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":0,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      main_menu.ko.advanced: 620307990
+      main_menu.ko.bonus: 973212128
+      main_menu.ko.challenge: 1507278445
+      main_menu.ko.downtown: 1389871004
+      main_menu.ko.extras: 77107729
+      main_menu.ko.free: -601007726
+      main_menu.ko.highrise: 2107020528
+      main_menu.ko.more_games: -1984580876
+      main_menu.ko.new: 393642552
+      main_menu.ko.out_no: 2024374088
+      main_menu.ko.out_now: 1730323577
+      main_menu.ko.prison: 432362492
+      main_menu.ko.secret_labs: 1929389444
+      main_menu.ko.suburbs: -1659881502
+      main_menu.ko.summer_camp: 1595300125
+      main_menu.ko.tell_friend: -599409197
+      main_menu.ko.winter: -1378836737
+      main_menu.ko_0: 1350899366
+      main_menu.ko_12: -848974539
+      main_menu.ko_15: 1207586493
+      main_menu.ko_16: -399325656
+      main_menu.ko_22: 491199204
+      main_menu.ko_23: -925878269
+      main_menu.ko_27: -437978150
+      main_menu.ko_28: 151052880
+      main_menu.ko_29: 698851080
+      main_menu.ko_3: -461788049
+      main_menu.ko_30: 1251231878
+      main_menu.ko_5: 906875799
+      main_menu.ko_6: -732094302
+      main_menu.ko_7: -866028265
+      main_menu.ko_9: -1784480172
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

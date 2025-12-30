@@ -10,20 +10,20 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
-  m_Name: Localization-Assets-Arabic (ar)
+  m_Name: Localization-Assets-Japanese (ja)
   m_EditorClassIdentifier: Unity.Addressables.Editor::UnityEditor.AddressableAssets.Settings.AddressableAssetGroup
-  m_GroupName: Localization-Assets-Arabic (ar)
-  m_GUID: b70f57a0d3f93ba4a9e4e698a627a0ff
+  m_GroupName: Localization-Assets-Japanese (ja)
+  m_GUID: 1dc9f50b4c615f346aa5e8562e5f2152
   m_SerializeEntries:
-  - m_GUID: c231cfca1ab975349ad7a75f674b9d87
-    m_Address: main_menu.ar
+  - m_GUID: 85b1cb6edf674464b8c1da50e5febdbd
+    m_Address: main_menu.ja
     m_ReadOnly: 1
     m_SerializedLabels:
-    - Locale-ar
+    - Locale-ja
     FlaggedDuringContentUpdateRestriction: 0
   m_ReadOnly: 1
   m_Settings: {fileID: 11400000, guid: 4d17e89b8d77e5143a9dcdbd36d12aa4, type: 2}
   m_SchemaSet:
     m_Schemas:
-    - {fileID: 11400000, guid: 36ae3c5989f6e5f41bfb45f73383223e, type: 2}
-    - {fileID: 11400000, guid: 20fc5183848df714b9128761643b3156, type: 2}
+    - {fileID: 11400000, guid: 99aaac51a7fbb4f4982f68174c13a316, type: 2}
+    - {fileID: 11400000, guid: 2fd2ae119ebc40f4e8645092d8eea75d, type: 2}

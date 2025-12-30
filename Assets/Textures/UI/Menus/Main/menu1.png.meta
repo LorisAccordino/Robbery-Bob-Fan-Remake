@@ -805,7 +805,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: loading_circle
+      name: loading_spinner
       rect:
         serializedVersion: 2
         x: 762
@@ -1324,6 +1324,7 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
+      0: 1464983157
       advanced: 350794163
       arabic: 983998972
       bob2: -431797100
@@ -1359,7 +1360,7 @@ TextureImporter:
       italian: 1238569828
       japanese: 728876621
       korean: -2045490760
-      loading_circle: 1464983157
+      loading_spinner: 1464983157
       lock: -1130585108
       menu1_10: -523829919
       menu1_100: 802847000

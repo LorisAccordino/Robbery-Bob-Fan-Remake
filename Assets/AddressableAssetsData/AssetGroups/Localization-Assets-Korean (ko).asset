@@ -10,20 +10,20 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
-  m_Name: Localization-Assets-Arabic (ar)
+  m_Name: Localization-Assets-Korean (ko)
   m_EditorClassIdentifier: Unity.Addressables.Editor::UnityEditor.AddressableAssets.Settings.AddressableAssetGroup
-  m_GroupName: Localization-Assets-Arabic (ar)
-  m_GUID: b70f57a0d3f93ba4a9e4e698a627a0ff
+  m_GroupName: Localization-Assets-Korean (ko)
+  m_GUID: 6e3b5810bc304f34e9b3fe001ba23785
   m_SerializeEntries:
-  - m_GUID: c231cfca1ab975349ad7a75f674b9d87
-    m_Address: main_menu.ar
+  - m_GUID: 51dca80e16afcab4985c60c15ea9cabe
+    m_Address: main_menu.ko
     m_ReadOnly: 1
     m_SerializedLabels:
-    - Locale-ar
+    - Locale-ko
     FlaggedDuringContentUpdateRestriction: 0
   m_ReadOnly: 1
   m_Settings: {fileID: 11400000, guid: 4d17e89b8d77e5143a9dcdbd36d12aa4, type: 2}
   m_SchemaSet:
     m_Schemas:
-    - {fileID: 11400000, guid: 36ae3c5989f6e5f41bfb45f73383223e, type: 2}
-    - {fileID: 11400000, guid: 20fc5183848df714b9128761643b3156, type: 2}
+    - {fileID: 11400000, guid: c5f75446e1c8da54b86f9988448fd6a0, type: 2}
+    - {fileID: 11400000, guid: 87a5a0aed274ca340ac66eda71bd3770, type: 2}

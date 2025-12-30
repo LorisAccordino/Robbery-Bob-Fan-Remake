@@ -95,12 +95,386 @@ TextureImporter:
     forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
-    sprites: []
+    sprites:
+    - serializedVersion: 2
+      name: main_menu.ar.extras
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 400
+        width: 138
+        height: 112
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 502079d7c987aa74cb0f6b22f2631c17
+      internalID: -347842194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: main_menu.ar.highrise
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 415
+        width: 259
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9af4fddd36b52814795150d1d19e1110
+      internalID: 882965192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: main_menu.ar.secret_labs
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 427
+        width: 368
+        height: 85
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81537860ad733634e917ac3d818ddb14
+      internalID: -1459549300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: main_menu.ar.prison
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 295
+        width: 224
+        height: 102
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f23b29a69b31f784b85312e2f195718b
+      internalID: -634811942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: main_menu.ar.suburbs
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 320
+        width: 198
+        height: 93
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b55564af38d1dc42b1286e166a4498d
+      internalID: 1842225812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: main_menu.ar.advanced
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 352
+        width: 156
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f733957aee4b6c4bac78c43bbffb4db
+      internalID: 76636610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: main_menu.ar.new
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 384
+        width: 110
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06b1b5f39d09cf74da806c7be9bdc244
+      internalID: -471860554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: main_menu.ar.bonus
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 223
+        width: 158
+        height: 93
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27e5df8fd346fc24183b92f234118ff6
+      internalID: -1179453119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: main_menu.ar.winter
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 291
+        width: 134
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f73a24ac9ad002448f1861b985820c2
+      internalID: 656780614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: main_menu.ar.out_now1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 188
+        width: 342
+        height: 101
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7dbb0070c4009794898b43ea72017540
+      internalID: 1901236256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: main_menu.ar.more_games
+      rect:
+        serializedVersion: 2
+        x: 508
+        y: 244
+        width: 156
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ea3c6463152a1f48a962e0373b57527
+      internalID: -1452111748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: main_menu.ar.out_now2
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 84
+        width: 342
+        height: 101
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41570c5c3d7a6494184f97ab72bb3770
+      internalID: 1910463941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: main_menu.ar.summer_camp
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 127
+        width: 346
+        height: 93
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e1b751fa1eda2346ba95fd2a22f399c
+      internalID: -872831318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: main_menu.ar.downtown
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 0
+        width: 279
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07346e376fc61af49a190e3afb06506c
+      internalID: 816197060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: main_menu.ar.challenge
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 35
+        width: 164
+        height: 86
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 403cae59ca8497d44b64b32edc69448f
+      internalID: -168361391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: main_menu.ar.tell_friend
+      rect:
+        serializedVersion: 2
+        x: 508
+        y: 80
+        width: 156
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dda5ea8d149802a4a97c1a07abdf3fd1
+      internalID: 463657120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: main_menu.ar.free
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 41
+        width: 107
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d400fc072201c541867bdc5e847ffe2
+      internalID: -203451002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: 4720e5000c64b1746983b6a5a167aa01
     internalID: 0
     vertices: []
     indices: 
@@ -108,8 +482,34 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     spriteCustomMetadata:
-      entries: []
-    nameFileIdTable: {}
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":64.0,"y":64.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":0,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      main_menu.ar.advanced: 76636610
+      main_menu.ar.bonus: -1179453119
+      main_menu.ar.challenge: -168361391
+      main_menu.ar.downtown: 816197060
+      main_menu.ar.extras: -347842194
+      main_menu.ar.free: -203451002
+      main_menu.ar.highrise: 882965192
+      main_menu.ar.more_games: -1452111748
+      main_menu.ar.new: -471860554
+      main_menu.ar.out_now1: 1901236256
+      main_menu.ar.out_now2: 1910463941
+      main_menu.ar.prison: -634811942
+      main_menu.ar.secret_labs: -1459549300
+      main_menu.ar.suburbs: 1842225812
+      main_menu.ar.summer_camp: -872831318
+      main_menu.ar.tell_friend: 463657120
+      main_menu.ar.winter: 656780614
+      main_menu.ar_11: -881378013
+      main_menu.ar_13: 1467659272
+      main_menu.ar_15: 711202429
+      main_menu.ar_17: -976482709
+      main_menu.ar_19: 1863207437
+      main_menu.ar_23: -441369564
+      main_menu.ar_5: 2126984475
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

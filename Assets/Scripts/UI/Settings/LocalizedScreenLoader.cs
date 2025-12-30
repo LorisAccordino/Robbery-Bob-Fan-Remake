@@ -22,6 +22,22 @@ public class LocalizedScreenLoader : MonoBehaviour
     [Tooltip("If true, waits for all Localize*Events in the scene; if false, only waits for active/visible elements")]
     [SerializeField] private bool waitAllElements = false;
 
+    [Header("References")]
+    public MenuManager menuManager;
+
+    // Cache the fade controller for efficiency
+    private UIFadeController loadingFadeController;
+
+    private void Awake()
+    {
+        if (loadingOverlay)
+        {
+            loadingFadeController = loadingOverlay.GetComponent<UIFadeController>();
+            if (loadingFadeController == null)
+                loadingFadeController = loadingOverlay.gameObject.AddComponent<UIFadeController>();
+        }
+    }
+
     private void OnEnable()
     {
         // Listen for global locale changes
@@ -46,7 +62,7 @@ public class LocalizedScreenLoader : MonoBehaviour
     {
         // Hide the UI and show the loading overlay
         ShowUI(false);
-        ShowLoading(true);
+        StartCoroutine(ShowLoading(true));
 
         float startTime = Time.time;
 
@@ -68,25 +84,21 @@ public class LocalizedScreenLoader : MonoBehaviour
         {
             bool updated = false;
 
-            // Callback to reduce pending counter
             void OnUpdated()
             {
                 pendingUpdates--;
                 if (pendingUpdates <= 0) updated = true;
             }
 
-            // Subscribe to element update events
             foreach (var e in stringEvents)
                 e.OnUpdateString.AddListener(_ => OnUpdated());
 
             foreach (var e in spriteEvents)
                 e.OnUpdateAsset.AddListener(_ => OnUpdated());
 
-            // Wait until all elements have updated
             while (!updated)
                 yield return null;
 
-            // Clean up listeners
             foreach (var e in stringEvents)
                 e.OnUpdateString.RemoveListener(_ => OnUpdated());
 
@@ -99,21 +111,46 @@ public class LocalizedScreenLoader : MonoBehaviour
         if (elapsed < minLoadingTime)
             yield return new WaitForSeconds(minLoadingTime - elapsed);
 
-        // Show the UI and hide the loading overlay
-        ShowLoading(false);
+        // Go to main menu, after language changed
+        menuManager.GoToMainMenu();
+
+        // Wait for fade out
+        yield return StartCoroutine(ShowLoading(false));
+
+        // Now show UI
         ShowUI(true);
     }
 
     /// <summary>
     /// Shows or hides the loading overlay
     /// </summary>
-    private void ShowLoading(bool show)
+    private IEnumerator ShowLoading(bool show)
     {
-        if (!loadingOverlay) return;
+        if (loadingFadeController)
+        {
+            bool fadeFinished = false;
+            System.Action callback = () => fadeFinished = true;
 
-        loadingOverlay.alpha = show ? 1f : 0f;
-        loadingOverlay.interactable = show;
-        loadingOverlay.blocksRaycasts = show;
+            loadingFadeController.OnFadeComplete += callback;
+
+            if (show)
+                loadingFadeController.FadeIn();
+            else
+                loadingFadeController.FadeOut();
+
+            // Wait until fade finished
+            while (!fadeFinished)
+                yield return null;
+
+            loadingFadeController.OnFadeComplete -= callback;
+        }
+        else
+        {
+            // Fallback
+            loadingOverlay.alpha = show ? 1f : 0f;
+            loadingOverlay.interactable = show;
+            loadingOverlay.blocksRaycasts = show;
+        }
     }
 
     /// <summary>
@@ -123,6 +160,7 @@ public class LocalizedScreenLoader : MonoBehaviour
     {
         if (!uiRoot) return;
 
+        // Set alpha settings
         uiRoot.alpha = show ? 1f : 0f;
         uiRoot.interactable = show;
         uiRoot.blocksRaycasts = show;
