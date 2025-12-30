@@ -97,7 +97,7 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: chapter_titles.fr_0
+      name: chapter_titles.fr.secret_labs
       rect:
         serializedVersion: 2
         x: 19
@@ -119,35 +119,13 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: chapter_titles.fr_1
+      name: chapter_titles.fr.completed_chapter
       rect:
         serializedVersion: 2
-        x: 541
-        y: 164
-        width: 260
-        height: 69
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 343b5178060ef2841a2a708c5579b512
-      internalID: 1454462988
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: chapter_titles.fr_2
-      rect:
-        serializedVersion: 2
-        x: 809
-        y: 168
-        width: 245
-        height: 85
+        x: 537
+        y: 155
+        width: 517
+        height: 98
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -163,7 +141,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: chapter_titles.fr_4
+      name: chapter_titles.fr.chapter3
       rect:
         serializedVersion: 2
         x: 1109
@@ -185,11 +163,11 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: chapter_titles.fr_5
+      name: chapter_titles.fr.suburbs
       rect:
         serializedVersion: 2
         x: 4
-        y: 60
+        y: 61
         width: 350
         height: 85
       alignment: 0
@@ -207,7 +185,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: chapter_titles.fr_6
+      name: chapter_titles.fr.downtown
       rect:
         serializedVersion: 2
         x: 459
@@ -229,7 +207,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: chapter_titles.fr_8
+      name: chapter_titles.fr.chapter1
       rect:
         serializedVersion: 2
         x: 917
@@ -251,7 +229,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: chapter_titles.fr_10
+      name: chapter_titles.fr.chapter2
       rect:
         serializedVersion: 2
         x: 917
@@ -290,16 +268,15 @@ TextureImporter:
       - key: SpriteEditor.SliceOnImport
         value: False
     nameFileIdTable:
-      chapter_titles.fr_0: 710824305
-      chapter_titles.fr_1: 1454462988
-      chapter_titles.fr_10: 868479757
-      chapter_titles.fr_2: -1752402204
+      chapter_titles.fr.chapter1: 85711389
+      chapter_titles.fr.chapter2: 868479757
+      chapter_titles.fr.chapter3: -427018371
+      chapter_titles.fr.completed_chapter: -1752402204
+      chapter_titles.fr.downtown: 1629994135
+      chapter_titles.fr.secret_labs: 710824305
+      chapter_titles.fr.suburbs: -47637770
       chapter_titles.fr_3: -1158126759
-      chapter_titles.fr_4: -427018371
-      chapter_titles.fr_5: -47637770
-      chapter_titles.fr_6: 1629994135
       chapter_titles.fr_7: 2111541220
-      chapter_titles.fr_8: 85711389
       chapter_titles.fr_9: -1383440432
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0

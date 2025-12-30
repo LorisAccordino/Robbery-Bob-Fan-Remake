@@ -67,6 +67,22 @@ MonoBehaviour:
     m_Key: out_now
     m_Metadata:
       m_Items: []
+  - m_Id: 652046222098432
+    m_Key: free
+    m_Metadata:
+      m_Items: []
+  - m_Id: 652140178702336
+    m_Key: new
+    m_Metadata:
+      m_Items: []
+  - m_Id: 652192519421952
+    m_Key: more_games
+    m_Metadata:
+      m_Items: []
+  - m_Id: 652248853118976
+    m_Key: tell_a_friend
+    m_Metadata:
+      m_Items: []
   m_Metadata:
     m_Items:
     - rid: 2016924983150510663
@@ -263,6 +279,62 @@ MonoBehaviour:
           - zh-Hans
           - zh-Hant
           - ar
+          - ja
+          - ko
+        - m_KeyId: 652046222098432
+          m_TableCodes:
+          - en
+          - it
+          - pt
+          - es
+          - fr
+          - de
+          - id
+          - ar
+          - zh-Hans
+          - zh-Hant
+          - ja
+          - ko
+        - m_KeyId: 652140178702336
+          m_TableCodes:
+          - en
+          - it
+          - pt
+          - es
+          - fr
+          - de
+          - id
+          - ar
+          - zh-Hans
+          - zh-Hant
+          - ja
+          - ko
+        - m_KeyId: 652192519421952
+          m_TableCodes:
+          - en
+          - it
+          - pt
+          - es
+          - fr
+          - de
+          - id
+          - ar
+          - zh-Hans
+          - zh-Hant
+          - ja
+          - ko
+        - m_KeyId: 652248853118976
+          m_TableCodes:
+          - en
+          - it
+          - pt
+          - es
+          - fr
+          - de
+          - id
+          - ar
+          - zh-Hans
+          - zh-Hant
           - ja
           - ko
         m_TypeString: UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0,

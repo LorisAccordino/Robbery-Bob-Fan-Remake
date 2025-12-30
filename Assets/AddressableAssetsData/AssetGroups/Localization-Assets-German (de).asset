@@ -15,6 +15,12 @@ MonoBehaviour:
   m_GroupName: Localization-Assets-German (de)
   m_GUID: d17102998fadb8b47990d4883f2d7a31
   m_SerializeEntries:
+  - m_GUID: 9e08b5d1ca86b6e499cfc9cfe68eb950
+    m_Address: chapter_titles.de
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-de
+    FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: c2a649e1f92f73644a8fd2a53beb3766
     m_Address: main_menu.de
     m_ReadOnly: 1

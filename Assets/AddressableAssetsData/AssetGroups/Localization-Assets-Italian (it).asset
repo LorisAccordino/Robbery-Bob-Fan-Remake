@@ -15,6 +15,12 @@ MonoBehaviour:
   m_GroupName: Localization-Assets-Italian (it)
   m_GUID: 5d1ebf0ea10f2884bb8b41799dae64dd
   m_SerializeEntries:
+  - m_GUID: 12f3297b5cf817a43ae424831a64ebb6
+    m_Address: chapter_titles.it
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-it
+    FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: eafef182b57cb3148ae9aa0183a404d3
     m_Address: main_menu.it
     m_ReadOnly: 1

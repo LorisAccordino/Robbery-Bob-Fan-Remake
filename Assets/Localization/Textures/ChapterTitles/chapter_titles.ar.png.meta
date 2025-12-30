@@ -97,7 +97,7 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: chapter_titles.ar_0
+      name: chapter_titles.ar.secret_labs
       rect:
         serializedVersion: 2
         x: 0
@@ -119,7 +119,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: chapter_titles.ar_1
+      name: chapter_titles.ar.chapter3
       rect:
         serializedVersion: 2
         x: 461
@@ -141,7 +141,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: chapter_titles.ar_2
+      name: chapter_titles.ar.suburbs
       rect:
         serializedVersion: 2
         x: 0
@@ -163,7 +163,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: chapter_titles.ar_4
+      name: chapter_titles.ar.downtown
       rect:
         serializedVersion: 2
         x: 0
@@ -185,7 +185,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: chapter_titles.ar_6
+      name: chapter_titles.ar.chapter1
       rect:
         serializedVersion: 2
         x: 5
@@ -207,7 +207,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: chapter_titles.ar_8
+      name: chapter_titles.ar.chapter2
       rect:
         serializedVersion: 2
         x: 241
@@ -229,7 +229,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: chapter_titles.ar_9
+      name: chapter_titles.ar.completed_chapter
       rect:
         serializedVersion: 2
         x: 60
@@ -266,18 +266,18 @@ TextureImporter:
       - key: SpriteEditor.SliceSettings
         value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":64.0,"y":64.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":0,"keepEmptyRects":false,"isAlternate":false}'
     nameFileIdTable:
-      chapter_titles.ar_0: 234504936
-      chapter_titles.ar_1: 1942707584
+      chapter_titles.ar.chapter1: -389277435
+      chapter_titles.ar.chapter2: 1720743736
+      chapter_titles.ar.chapter3: 1942707584
+      chapter_titles.ar.completed_chapter: -315029346
+      chapter_titles.ar.downtown: -1630313013
+      chapter_titles.ar.secret_labs: 234504936
+      chapter_titles.ar.suburbs: 1098713690
       chapter_titles.ar_10: -1389060364
       chapter_titles.ar_11: -1857111537
-      chapter_titles.ar_2: 1098713690
       chapter_titles.ar_3: 598176154
-      chapter_titles.ar_4: -1630313013
       chapter_titles.ar_5: 559188136
-      chapter_titles.ar_6: -389277435
       chapter_titles.ar_7: 927424673
-      chapter_titles.ar_8: 1720743736
-      chapter_titles.ar_9: -315029346
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

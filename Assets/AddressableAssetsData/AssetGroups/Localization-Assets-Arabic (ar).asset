@@ -15,6 +15,12 @@ MonoBehaviour:
   m_GroupName: Localization-Assets-Arabic (ar)
   m_GUID: b70f57a0d3f93ba4a9e4e698a627a0ff
   m_SerializeEntries:
+  - m_GUID: 6ebfefaf74e53ec4098b91d678146af7
+    m_Address: chapter_titles.ar
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-ar
+    FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: c231cfca1ab975349ad7a75f674b9d87
     m_Address: main_menu.ar
     m_ReadOnly: 1

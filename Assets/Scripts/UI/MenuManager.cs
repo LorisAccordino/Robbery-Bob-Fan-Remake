@@ -47,7 +47,7 @@ public class MenuManager : MonoBehaviour
     private void SetMenuState(CanvasGroup menu, bool visible)
     {
         menu.alpha = visible ? 1f : 0f;
-        menu.interactable = visible;
+        //menu.interactable = visible;
         menu.blocksRaycasts = visible;
     }
 }

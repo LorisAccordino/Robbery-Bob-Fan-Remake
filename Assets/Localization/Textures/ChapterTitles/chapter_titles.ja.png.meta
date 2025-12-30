@@ -97,7 +97,7 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: chapter_titles.ja_0
+      name: chapter_titles.ja.secret_labs
       rect:
         serializedVersion: 2
         x: 38
@@ -119,7 +119,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: chapter_titles.ja_4
+      name: chapter_titles.ja.completed_chapter
       rect:
         serializedVersion: 2
         x: 536
@@ -141,11 +141,11 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: chapter_titles.ja_9
+      name: chapter_titles.ja.chapter3
       rect:
         serializedVersion: 2
         x: 1108
-        y: 187
+        y: 188
         width: 232
         height: 63
       alignment: 0
@@ -163,7 +163,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: chapter_titles.ja_10
+      name: chapter_titles.ja.suburbs
       rect:
         serializedVersion: 2
         x: 51
@@ -185,10 +185,10 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: chapter_titles.ja_12
+      name: chapter_titles.ja.downtown
       rect:
         serializedVersion: 2
-        x: 469
+        x: 468
         y: 52
         width: 424
         height: 92
@@ -207,11 +207,11 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: chapter_titles.ja_19
+      name: chapter_titles.ja.chapter1
       rect:
         serializedVersion: 2
         x: 916
-        y: 91
+        y: 92
         width: 232
         height: 61
       alignment: 0
@@ -229,7 +229,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: chapter_titles.ja_21
+      name: chapter_titles.ja.chapter2
       rect:
         serializedVersion: 2
         x: 916
@@ -266,28 +266,26 @@ TextureImporter:
       - key: SpriteEditor.SliceSettings
         value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":64.0,"y":64.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":0,"keepEmptyRects":false,"isAlternate":false}'
     nameFileIdTable:
-      chapter_titles.ja_0: -1447896708
-      chapter_titles.ja_1: -1610959047
-      chapter_titles.ja_10: -1611678943
+      chapter_titles.ja.chapter1: 558505681
+      chapter_titles.ja.chapter2: 1008299131
+      chapter_titles.ja.chapter3: 5336989
+      chapter_titles.ja.completed_chapter: -1756642055
+      chapter_titles.ja.downtown: 935817628
+      chapter_titles.ja.secret_labs: -1447896708
+      chapter_titles.ja.suburbs: -1611678943
       chapter_titles.ja_11: 1076503170
-      chapter_titles.ja_12: 935817628
       chapter_titles.ja_13: 1747350282
       chapter_titles.ja_14: -1886668482
       chapter_titles.ja_15: 1167147831
       chapter_titles.ja_16: -1386781215
       chapter_titles.ja_17: -245251028
       chapter_titles.ja_18: -1305347182
-      chapter_titles.ja_19: 558505681
-      chapter_titles.ja_2: -133064081
       chapter_titles.ja_20: 1889663607
-      chapter_titles.ja_21: 1008299131
       chapter_titles.ja_3: -324875073
-      chapter_titles.ja_4: -1756642055
       chapter_titles.ja_5: -1329976135
       chapter_titles.ja_6: -502085463
       chapter_titles.ja_7: 1576523823
       chapter_titles.ja_8: -710573104
-      chapter_titles.ja_9: 5336989
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

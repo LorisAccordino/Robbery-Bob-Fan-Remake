@@ -97,7 +97,7 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: chapter_titles.es_0
+      name: chapter_titles.es.secret_labs
       rect:
         serializedVersion: 2
         x: 14
@@ -119,35 +119,13 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: chapter_titles.es_1
+      name: chapter_titles.es.completed_chapter
       rect:
         serializedVersion: 2
         x: 498
-        y: 164
-        width: 258
-        height: 83
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 936ef0e23ed6b4141a5cdcb2c2c8b85b
-      internalID: 1746200335
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: chapter_titles.es_2
-      rect:
-        serializedVersion: 2
-        x: 762
-        y: 179
-        width: 339
-        height: 74
+        y: 152
+        width: 603
+        height: 101
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -163,7 +141,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: chapter_titles.es_4
+      name: chapter_titles.es.chapter3
       rect:
         serializedVersion: 2
         x: 1109
@@ -185,11 +163,11 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: chapter_titles.es_5
+      name: chapter_titles.es.suburbs
       rect:
         serializedVersion: 2
         x: 4
-        y: 59
+        y: 60
         width: 392
         height: 87
       alignment: 0
@@ -207,7 +185,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: chapter_titles.es_6
+      name: chapter_titles.es.downtown
       rect:
         serializedVersion: 2
         x: 459
@@ -229,7 +207,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: chapter_titles.es_8
+      name: chapter_titles.es.chapter1
       rect:
         serializedVersion: 2
         x: 917
@@ -251,11 +229,11 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: chapter_titles.es_9
+      name: chapter_titles.es.chapter2
       rect:
         serializedVersion: 2
         x: 912
-        y: 15
+        y: 16
         width: 232
         height: 61
       alignment: 0
@@ -288,16 +266,16 @@ TextureImporter:
       - key: SpriteEditor.SliceSettings
         value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":64.0,"y":64.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":0,"keepEmptyRects":false,"isAlternate":false}'
     nameFileIdTable:
-      chapter_titles.es_0: -969013114
+      chapter_titles.es.chapter1: -850370997
+      chapter_titles.es.chapter2: 66349850
+      chapter_titles.es.chapter3: -1469735886
+      chapter_titles.es.completed_chapter: 466619115
+      chapter_titles.es.downtown: -1847354289
+      chapter_titles.es.secret_labs: -969013114
+      chapter_titles.es.suburbs: 1332380445
       chapter_titles.es_1: 1746200335
-      chapter_titles.es_2: 466619115
       chapter_titles.es_3: 1573140941
-      chapter_titles.es_4: -1469735886
-      chapter_titles.es_5: 1332380445
-      chapter_titles.es_6: -1847354289
       chapter_titles.es_7: 1459019668
-      chapter_titles.es_8: -850370997
-      chapter_titles.es_9: 66349850
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

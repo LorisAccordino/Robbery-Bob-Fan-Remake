@@ -1,12 +1,252 @@
 fileFormatVersion: 2
 guid: c7cbfc673af836b4d94c3458d6ffa344
 TextureImporter:
-  internalIDToNameTable: []
+  internalIDToNameTable:
+  - first:
+      213: -8073963954644516030
+    second: Ability1
+  - first:
+      213: -661660969119498674
+    second: Ability2
+  - first:
+      213: 6650762686407335916
+    second: Ability3
+  - first:
+      213: 5459093662451533856
+    second: Ability4
+  - first:
+      213: -5396929935704041297
+    second: Btn_Back
+  - first:
+      213: 76853809892762834
+    second: Btn_BackA
+  - first:
+      213: -418521201979691805
+    second: Btn_FacebookA
+  - first:
+      213: 5258330195020410511
+    second: Btn_Play
+  - first:
+      213: 9108667117433029138
+    second: Btn_PlayA
+  - first:
+      213: -5274213745273878495
+    second: Btn_Unlock
+  - first:
+      213: -388596668819454892
+    second: Category
+  - first:
+      213: 7993634066289706516
+    second: Check
+  - first:
+      213: -5948121758542569984
+    second: chibibob_purchase_1
+  - first:
+      213: -3083153282459373679
+    second: chibibob_purchase_2
+  - first:
+      213: 4466931607763588621
+    second: chibibob_purchase_3
+  - first:
+      213: -9153489133492751465
+    second: chibibob_purchase_4
+  - first:
+      213: -4669086218532776725
+    second: chibibob_purchase_5
+  - first:
+      213: -282526065459504332
+    second: chibibob_purchase_6
+  - first:
+      213: 3709951100996436746
+    second: chibibob_purchase_7
+  - first:
+      213: -7196204041629639063
+    second: chibibob_purchase_8
+  - first:
+      213: 8765955682749052824
+    second: Coin
+  - first:
+      213: -261862030015320381
+    second: CoinBooster
+  - first:
+      213: -6365950343966322112
+    second: Coins1
+  - first:
+      213: -5135158445118140973
+    second: Coins2
+  - first:
+      213: -4674850839483015183
+    second: Coins3
+  - first:
+      213: 2408308128484333646
+    second: Coins4
+  - first:
+      213: 5719177751954935290
+    second: Coins5
+  - first:
+      213: -2378687312435322797
+    second: CoinsPiggy
+  - first:
+      213: -1917389914534059754
+    second: FreeCoins_FB
+  - first:
+      213: 7812180748542176251
+    second: FreeCoins_OfferWall
+  - first:
+      213: -2804843058608487126
+    second: FreeCoins_Twitter
+  - first:
+      213: 9114741695948346250
+    second: FreeCoins_YT
+  - first:
+      213: -309542638548259621
+    second: Item1
+  - first:
+      213: -1530446478423820976
+    second: Item2
+  - first:
+      213: -7654450365383949745
+    second: Item3
+  - first:
+      213: -6853891267703359097
+    second: Item4
+  - first:
+      213: -3038022795667681224
+    second: Item5
+  - first:
+      213: 6482410778482288163
+    second: ListBG
+  - first:
+      213: 2085035480561357926
+    second: ListBorder
+  - first:
+      213: -1970253249407823358
+    second: Movie
+  - first:
+      213: 6173905964422799124
+    second: Offerwall_Free_coins
+  - first:
+      213: -5611428304059236612
+    second: Outfit1
+  - first:
+      213: 269870977147011196
+    second: Outfit2
+  - first:
+      213: -1942118404583508969
+    second: Outfit3
+  - first:
+      213: 5720986774626058983
+    second: Outfit4
+  - first:
+      213: -5327758077865651068
+    second: Outfit5
+  - first:
+      213: -6906505032227255537
+    second: Outfit6
+  - first:
+      213: 7416072021761162479
+    second: Outfit7
+  - first:
+      213: 1190070178226899733
+    second: Outfit8
+  - first:
+      213: 7091370515037650279
+    second: OutfitBundle1
+  - first:
+      213: 2259521937062671993
+    second: PopupBG
+  - first:
+      213: -8628332639435628671
+    second: PopupBG_Corner
+  - first:
+      213: -6078873209039468623
+    second: PopupBG_StretchH
+  - first:
+      213: 6312378668726311156
+    second: PopupBG_StretchV
+  - first:
+      213: 2133356486081137987
+    second: PortraitBorderThing
+  - first:
+      213: 9066136635864707522
+    second: PotionPack1
+  - first:
+      213: -8546691429848887398
+    second: PotionPack2
+  - first:
+      213: 1398332877426196784
+    second: PotionPack3
+  - first:
+      213: 2940364127002861826
+    second: PotionPack4
+  - first:
+      213: -555949604736077088
+    second: QuantityBG
+  - first:
+      213: -4967462827832428378
+    second: RewardedTools
+  - first:
+      213: 8298697966516399928
+    second: RewardedToolsDisabled
+  - first:
+      213: -5939840058689134279
+    second: ShadyDealer
+  - first:
+      213: 366645375089012697
+    second: TalkBubble
+  - first:
+      213: -3489347656983471036
+    second: Wallet
+  - first:
+      213: -5240889122419182949
+    second: WalletNoBtn
+  - first:
+      213: -4412756517101985521
+    second: AbilityBar_Empty
+  - first:
+      213: 3196137856417584168
+    second: AbilityBar_Full
+  - first:
+      213: 2143223754355426414
+    second: Btn_AbilityUpgrade
+  - first:
+      213: 3607560950971415542
+    second: Btn_AbilityUpgradeA
+  - first:
+      213: -4719014242946107798
+    second: Btn_AbilityUpgradeGreen
+  - first:
+      213: 6190581432319804474
+    second: Btn_AbilityUpgradeGreenA
+  - first:
+      213: -3851165514546855612
+    second: Btn_Buy
+  - first:
+      213: -7507653651435070644
+    second: Btn_BuyA
+  - first:
+      213: -7374325685761949113
+    second: Btn_Equip
+  - first:
+      213: -2052804913343923338
+    second: Btn_EquipA
+  - first:
+      213: 8753939080886833206
+    second: Btn_SkipWait_Play
+  - first:
+      213: 5711325270756341159
+    second: ItemBG
+  - first:
+      213: 2608126083307496487
+    second: ItemBGA
+  - first:
+      213: 5279808201969929876
+    second: MovieIcon_30x30_01
   externalObjects: {}
-  serializedVersion: 12
+  serializedVersion: 13
   mipmaps:
     mipMapMode: 0
-    enableMipMap: 1
+    enableMipMap: 0
     sRGBTexture: 1
     linearTexture: 0
     fadeOut: 0
@@ -37,13 +277,13 @@ TextureImporter:
     filterMode: 1
     aniso: 1
     mipBias: 0
-    wrapU: 0
-    wrapV: 0
+    wrapU: 1
+    wrapV: 1
     wrapW: 0
-  nPOTScale: 1
+  nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
-  spriteMode: 0
+  spriteMode: 2
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
@@ -52,9 +292,9 @@ TextureImporter:
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
-  alphaIsTransparency: 0
+  alphaIsTransparency: 1
   spriteTessellationDetail: -1
-  textureType: 0
+  textureType: 8
   textureShape: 1
   singleChannelComponent: 0
   flipbookRows: 1
@@ -67,7 +307,7 @@ TextureImporter:
   swizzle: 50462976
   cookieLightType: 0
   platformSettings:
-  - serializedVersion: 3
+  - serializedVersion: 4
     buildTarget: DefaultTexturePlatform
     maxTextureSize: 2048
     resizeAlgorithm: 0
@@ -80,7 +320,7 @@ TextureImporter:
     ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
-  - serializedVersion: 3
+  - serializedVersion: 4
     buildTarget: Standalone
     maxTextureSize: 2048
     resizeAlgorithm: 0
@@ -93,7 +333,7 @@ TextureImporter:
     ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
-  - serializedVersion: 3
+  - serializedVersion: 4
     buildTarget: Android
     maxTextureSize: 2048
     resizeAlgorithm: 0
@@ -106,7 +346,7 @@ TextureImporter:
     ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
-  - serializedVersion: 3
+  - serializedVersion: 4
     buildTarget: Server
     maxTextureSize: 2048
     resizeAlgorithm: 0
@@ -121,18 +361,1565 @@ TextureImporter:
     forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
-    sprites: []
+    sprites:
+    - serializedVersion: 2
+      name: Ability1
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 214
+        width: 108
+        height: 106
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cff34b567ed4420a8eadefdd00e7c64e
+      internalID: -8073963954644516030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ability2
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 573
+        width: 106
+        height: 107
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 317fea444c5f45b6a70740f6ac752247
+      internalID: -661660969119498674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ability3
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 465
+        width: 106
+        height: 105
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99d20451aed64d90b3efd1bb6920043f
+      internalID: 6650762686407335916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ability4
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 354
+        width: 106
+        height: 106
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 808022c4106b438794b8de1f01e09c3f
+      internalID: 5459093662451533856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Btn_Back
+      rect:
+        serializedVersion: 2
+        x: 476
+        y: 956
+        width: 38
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5daae384c404d579dafb64c959d15ab
+      internalID: -5396929935704041297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Btn_BackA
+      rect:
+        serializedVersion: 2
+        x: 558
+        y: 394
+        width: 54
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a1474f0a61f43758db2f331da656048
+      internalID: 76853809892762834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Btn_FacebookA
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 32
+        width: 172
+        height: 172
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d83a1211234e4755933d2b0cc9a57295
+      internalID: -418521201979691805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Btn_Play
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 84
+        width: 78
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c17784eab41465188260dd118880682
+      internalID: 5258330195020410511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Btn_PlayA
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 8
+        width: 78
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c784433a8204aaa9f4ac685916f5fba
+      internalID: 9108667117433029138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Btn_Unlock
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 322
+        width: 314
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7da2bddfead4ddaa92a5b5be0898000
+      internalID: -5274213745273878495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Category
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 982
+        width: 475
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 32, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0862b7f32f2d4751bff8366759741728
+      internalID: -388596668819454892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Check
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2
+        width: 154
+        height: 158
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c0c132834f9445cb926fcd66e1f9adf
+      internalID: 7993634066289706516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chibibob_purchase_1
+      rect:
+        serializedVersion: 2
+        x: 836
+        y: 396
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f232a95e7614a9db8d56b7591fbd9ea
+      internalID: -5948121758542569984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chibibob_purchase_2
+      rect:
+        serializedVersion: 2
+        x: 848
+        y: 952
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39160e5b575742fbb12b4a4941b50382
+      internalID: -3083153282459373679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chibibob_purchase_3
+      rect:
+        serializedVersion: 2
+        x: 848
+        y: 880
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f157e63258d8475fa3f432693f352ecd
+      internalID: 4466931607763588621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chibibob_purchase_4
+      rect:
+        serializedVersion: 2
+        x: 848
+        y: 808
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ab9462deaf442eb91fa1f9a6f5c537f
+      internalID: -9153489133492751465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chibibob_purchase_5
+      rect:
+        serializedVersion: 2
+        x: 856
+        y: 324
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 976467fd93cd4bb6b24dd67f5131d70a
+      internalID: -4669086218532776725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chibibob_purchase_6
+      rect:
+        serializedVersion: 2
+        x: 856
+        y: 252
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db1210efed13412cb4cec8e78b807729
+      internalID: -282526065459504332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chibibob_purchase_7
+      rect:
+        serializedVersion: 2
+        x: 856
+        y: 180
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b84196b996354721a7b16f66849d62bc
+      internalID: 3709951100996436746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chibibob_purchase_8
+      rect:
+        serializedVersion: 2
+        x: 856
+        y: 108
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0065386f5589427d9c0bd9074b6bf9f1
+      internalID: -7196204041629639063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Coin
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 2
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26b8b5d784854bd1963786862c9bb922
+      internalID: 8765955682749052824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CoinBooster
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 246
+        width: 106
+        height: 106
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b1f9558864e4a2b905b95af45bddda0
+      internalID: -261862030015320381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Coins1
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 814
+        width: 106
+        height: 106
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6428dc63794344eb90730f82b4dc5d34
+      internalID: -6365950343966322112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Coins2
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 704
+        width: 106
+        height: 106
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89cb56aa43454ebba14c7db4b2f77df1
+      internalID: -5135158445118140973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Coins3
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 136
+        width: 106
+        height: 106
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb71099426154a6083593504802847ef
+      internalID: -4674850839483015183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Coins4
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 26
+        width: 106
+        height: 106
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd5e69c1c2f64eb2af0aa9c0f0a3e4d9
+      internalID: 2408308128484333646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Coins5
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 594
+        width: 106
+        height: 106
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa1127b88a82495881e80567eadb6b1f
+      internalID: 5719177751954935290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CoinsPiggy
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 484
+        width: 106
+        height: 106
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b38fa4bc73947e1b99f409112c6ccd0
+      internalID: -2378687312435322797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FreeCoins_FB
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 374
+        width: 106
+        height: 106
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b87bfb15715e483ba63541e7a7a7989b
+      internalID: -1917389914534059754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FreeCoins_OfferWall
+      rect:
+        serializedVersion: 2
+        x: 506
+        y: 264
+        width: 106
+        height: 106
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3e7675be9c04b6cb5c7ddee7d13b1c3
+      internalID: 7812180748542176251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FreeCoins_Twitter
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 918
+        width: 106
+        height: 106
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdf5f90616554ab2ad14122d15f1629c
+      internalID: -2804843058608487126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FreeCoins_YT
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 808
+        width: 106
+        height: 106
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9dc686c0814440f8c6b75d4a6dae61e
+      internalID: 9114741695948346250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item1
+      rect:
+        serializedVersion: 2
+        x: 526
+        y: 154
+        width: 106
+        height: 106
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac175ab8d550440ea8442c004832cad2
+      internalID: -309542638548259621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item2
+      rect:
+        serializedVersion: 2
+        x: 526
+        y: 44
+        width: 106
+        height: 106
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d0bbbbe383e4de3a90d718ca43630f7
+      internalID: -1530446478423820976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item3
+      rect:
+        serializedVersion: 2
+        x: 558
+        y: 698
+        width: 106
+        height: 106
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ab0aba1a9df408d805e6a1652f5ce1f
+      internalID: -7654450365383949745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item4
+      rect:
+        serializedVersion: 2
+        x: 558
+        y: 588
+        width: 106
+        height: 106
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a54c6fd37a26422288fed5e14c6f218d
+      internalID: -6853891267703359097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item5
+      rect:
+        serializedVersion: 2
+        x: 558
+        y: 478
+        width: 106
+        height: 106
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ede20600aabe4eb0a9fd232d1471b10a
+      internalID: -3038022795667681224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ListBG
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 968
+        width: 472
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f100c89730f544f4a167b41349a61724
+      internalID: 6482410778482288163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ListBorder
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 4
+        width: 28
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 5, y: 0, z: 1, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c77f5966c804bdbb7a503dd5a1325a7
+      internalID: 2085035480561357926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Movie
+      rect:
+        serializedVersion: 2
+        x: 616
+        y: 368
+        width: 106
+        height: 106
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7728b10385dd4216a28d8f69b8dc6b8d
+      internalID: -1970253249407823358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Offerwall_Free_coins
+      rect:
+        serializedVersion: 2
+        x: 628
+        y: 918
+        width: 106
+        height: 106
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 246d4eb794e94a80803f0627aa7b4061
+      internalID: 6173905964422799124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Outfit1
+      rect:
+        serializedVersion: 2
+        x: 628
+        y: 808
+        width: 106
+        height: 106
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95659d4477cb4213a8fb32439ab55a43
+      internalID: -5611428304059236612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Outfit2
+      rect:
+        serializedVersion: 2
+        x: 636
+        y: 258
+        width: 106
+        height: 106
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa9c1881e8874ea2bcbdf1a1a2062ca7
+      internalID: 269870977147011196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Outfit3
+      rect:
+        serializedVersion: 2
+        x: 636
+        y: 148
+        width: 106
+        height: 106
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1720cdc803584e1e99c98ea01a8614c9
+      internalID: -1942118404583508969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Outfit4
+      rect:
+        serializedVersion: 2
+        x: 636
+        y: 38
+        width: 106
+        height: 106
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a246707b0012420ca033c68674e6e8a2
+      internalID: 5720986774626058983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Outfit5
+      rect:
+        serializedVersion: 2
+        x: 668
+        y: 698
+        width: 106
+        height: 106
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59a8fe3f52194f64a72857941458745c
+      internalID: -5327758077865651068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Outfit6
+      rect:
+        serializedVersion: 2
+        x: 778
+        y: 588
+        width: 106
+        height: 106
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8cf037c818c4d48aa2531f2ceb7c7af
+      internalID: -6906505032227255537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Outfit7
+      rect:
+        serializedVersion: 2
+        x: 746
+        y: 38
+        width: 106
+        height: 106
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e081122cc1ba467fb3313714a18e34d6
+      internalID: 7416072021761162479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Outfit8
+      rect:
+        serializedVersion: 2
+        x: 778
+        y: 698
+        width: 106
+        height: 106
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cbb94a1e01b41d79f79dbac25cb7fc9
+      internalID: 1190070178226899733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OutfitBundle1
+      rect:
+        serializedVersion: 2
+        x: 668
+        y: 588
+        width: 106
+        height: 106
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62ef5d2aa2d442ac9bc23f1a4f66c338
+      internalID: 7091370515037650279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PopupBG
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 4
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a38e975df76441a1ac190610cef22e95
+      internalID: 2259521937062671993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PopupBG_Corner
+      rect:
+        serializedVersion: 2
+        x: 836
+        y: 472
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fef0e5d8c6d14cc096554b02f6a21397
+      internalID: -8628332639435628671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PopupBG_StretchH
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 734
+        width: 10
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33da68434de5483299d5257612e6af7c
+      internalID: -6078873209039468623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PopupBG_StretchV
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 18
+        width: 70
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e72eb57fa484a11a28e600eb255ab17
+      internalID: 6312378668726311156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PortraitBorderThing
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 924
+        width: 468
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40f5e4b2922842529267563412a12e26
+      internalID: 2133356486081137987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PotionPack1
+      rect:
+        serializedVersion: 2
+        x: 668
+        y: 478
+        width: 106
+        height: 106
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44f3932ae199490893c7623a15989ce4
+      internalID: 9066136635864707522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PotionPack2
+      rect:
+        serializedVersion: 2
+        x: 726
+        y: 368
+        width: 106
+        height: 106
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9419803c15334e82810d1eaa747ce65e
+      internalID: -8546691429848887398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PotionPack3
+      rect:
+        serializedVersion: 2
+        x: 738
+        y: 918
+        width: 106
+        height: 106
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95eaf6aef3d842929a2564cbca68d841
+      internalID: 1398332877426196784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PotionPack4
+      rect:
+        serializedVersion: 2
+        x: 738
+        y: 808
+        width: 106
+        height: 106
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2bf770793324058b1d83e8dc81094fd
+      internalID: 2940364127002861826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: QuantityBG
+      rect:
+        serializedVersion: 2
+        x: 778
+        y: 542
+        width: 98
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1d1e9a517784579b39b3e169f39d941
+      internalID: -555949604736077088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RewardedTools
+      rect:
+        serializedVersion: 2
+        x: 746
+        y: 258
+        width: 106
+        height: 106
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55b46cd7b1a14877bcb866a682ed069f
+      internalID: -4967462827832428378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RewardedToolsDisabled
+      rect:
+        serializedVersion: 2
+        x: 746
+        y: 148
+        width: 106
+        height: 106
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be05316027ff4fb6a2e91daf2126f517
+      internalID: 8298697966516399928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShadyDealer
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 378
+        width: 334
+        height: 304
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a888cb81e064fdaaa96ded000fc922d
+      internalID: -5939840058689134279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TalkBubble
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 684
+        width: 406
+        height: 236
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8683324038a54e038ff5de7cab45a804
+      internalID: 366645375089012697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wallet
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 208
+        width: 282
+        height: 114
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb80154a22df4552867f86b4bd7cc6fd
+      internalID: -3489347656983471036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WalletNoBtn
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 160
+        width: 240
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f10ea07f21f4264bc45a2e4af85419c
+      internalID: -5240889122419182949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
+    customData: 
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: 176c70ac4af3a7c47a3c3d583266a4cb
     internalID: 0
     vertices: []
     indices: 
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":64.0,"y":64.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":0,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      Ability1: -8073963954644516030
+      Ability2: -661660969119498674
+      Ability3: 6650762686407335916
+      Ability4: 5459093662451533856
+      AbilityBar_Empty: -4412756517101985521
+      AbilityBar_Full: 3196137856417584168
+      Btn_AbilityUpgrade: 2143223754355426414
+      Btn_AbilityUpgradeA: 3607560950971415542
+      Btn_AbilityUpgradeGreen: -4719014242946107798
+      Btn_AbilityUpgradeGreenA: 6190581432319804474
+      Btn_Back: -5396929935704041297
+      Btn_BackA: 76853809892762834
+      Btn_Buy: -3851165514546855612
+      Btn_BuyA: -7507653651435070644
+      Btn_Equip: -7374325685761949113
+      Btn_EquipA: -2052804913343923338
+      Btn_FacebookA: -418521201979691805
+      Btn_Play: 5258330195020410511
+      Btn_PlayA: 9108667117433029138
+      Btn_SkipWait_Play: 8753939080886833206
+      Btn_Unlock: -5274213745273878495
+      Category: -388596668819454892
+      Check: 7993634066289706516
+      Coin: 8765955682749052824
+      CoinBooster: -261862030015320381
+      Coins1: -6365950343966322112
+      Coins2: -5135158445118140973
+      Coins3: -4674850839483015183
+      Coins4: 2408308128484333646
+      Coins5: 5719177751954935290
+      CoinsPiggy: -2378687312435322797
+      FreeCoins_FB: -1917389914534059754
+      FreeCoins_OfferWall: 7812180748542176251
+      FreeCoins_Twitter: -2804843058608487126
+      FreeCoins_YT: 9114741695948346250
+      Item1: -309542638548259621
+      Item2: -1530446478423820976
+      Item3: -7654450365383949745
+      Item4: -6853891267703359097
+      Item5: -3038022795667681224
+      ItemBG: 5711325270756341159
+      ItemBGA: 2608126083307496487
+      ListBG: 6482410778482288163
+      ListBorder: 2085035480561357926
+      Movie: -1970253249407823358
+      MovieIcon_30x30_01: 5279808201969929876
+      Offerwall_Free_coins: 6173905964422799124
+      Outfit1: -5611428304059236612
+      Outfit2: 269870977147011196
+      Outfit3: -1942118404583508969
+      Outfit4: 5720986774626058983
+      Outfit5: -5327758077865651068
+      Outfit6: -6906505032227255537
+      Outfit7: 7416072021761162479
+      Outfit8: 1190070178226899733
+      OutfitBundle1: 7091370515037650279
+      PopupBG: 2259521937062671993
+      PopupBG_Corner: -8628332639435628671
+      PopupBG_StretchH: -6078873209039468623
+      PopupBG_StretchV: 6312378668726311156
+      PortraitBorderThing: 2133356486081137987
+      PotionPack1: 9066136635864707522
+      PotionPack2: -8546691429848887398
+      PotionPack3: 1398332877426196784
+      PotionPack4: 2940364127002861826
+      QuantityBG: -555949604736077088
+      RewardedTools: -4967462827832428378
+      RewardedToolsDisabled: 8298697966516399928
+      ShadyDealer: -5939840058689134279
+      TalkBubble: 366645375089012697
+      Wallet: -3489347656983471036
+      WalletNoBtn: -5240889122419182949
+      chibibob_purchase_1: -5948121758542569984
+      chibibob_purchase_2: -3083153282459373679
+      chibibob_purchase_3: 4466931607763588621
+      chibibob_purchase_4: -9153489133492751465
+      chibibob_purchase_5: -4669086218532776725
+      chibibob_purchase_6: -282526065459504332
+      chibibob_purchase_7: 3709951100996436746
+      chibibob_purchase_8: -7196204041629639063
+      store1_0: -193247126
+      store1_1: -1802789059
+      store1_2: 740061254
+      store1_3: -294935726
+      store1_4: 1664072087
+      store1_5: -1931774650
+      store1_6: -61318648
+      store1_7: -753749012
+      store1_8: -706589569
+      store1_9: 914817842
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

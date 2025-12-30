@@ -251,13 +251,13 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: main_menu.id_10
+      name: main_menu.id.tell_friend
       rect:
         serializedVersion: 2
         x: 640
         y: 240
         width: 156
-        height: 88
+        height: 43
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -448,6 +448,28 @@ TextureImporter:
       indices: 
       edges: []
       weights: []
+    - serializedVersion: 2
+      name: main_menu.id.more_games
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 284
+        width: 156
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e47d1f589c78b714e81cab59b58aa437
+      internalID: 358296258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     customData: 
     physicsShape: []
@@ -464,9 +486,10 @@ TextureImporter:
       - key: SpriteEditor.SliceSettings
         value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":64.0,"y":64.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":0,"keepEmptyRects":false,"isAlternate":false}'
     nameFileIdTable:
+      main_menu.id.more_games: -729497351
+      main_menu.id.tell_friend: 330455332
       main_menu.id_0: -1732682672
       main_menu.id_1: 848748884
-      main_menu.id_10: 330455332
       main_menu.id_11: 45261355
       main_menu.id_12: 1750406788
       main_menu.id_13: 1311450571
@@ -476,7 +499,6 @@ TextureImporter:
       main_menu.id_17: -404360112
       main_menu.id_18: -297259785
       main_menu.id_19: -1666524684
-      main_menu.id_2: -729497351
       main_menu.id_20: 1076452102
       main_menu.id_3: 1776906660
       main_menu.id_4: 1296970751

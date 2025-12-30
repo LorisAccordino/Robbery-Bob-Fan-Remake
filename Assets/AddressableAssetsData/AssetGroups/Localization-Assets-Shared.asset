@@ -50,10 +50,23 @@ MonoBehaviour:
     m_ReadOnly: 1
     m_SerializedLabels: []
     FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: a74efcc3b60879f4e98c158a72245239
+    m_Address: Assets/Localization/Tables/Assets/ChapterTitles/Chapter Titles Shared
+      Data.asset
+    m_ReadOnly: 1
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: b1d830cb9b9413c4cacbdfcad6fba5d6
     m_Address: Assets/Localization/Tables/StoryEvents/StoryEvents Shared Data.asset
     m_ReadOnly: 1
     m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: bb9744a5c7b875b4e9763ffc4546d23d
+    m_Address: chapter_titles.zh-Hans
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-zh-Hans
+    - Locale-zh-Hant
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: fa211f26b9ccec94fac25ca2a55ef210
     m_Address: menu1

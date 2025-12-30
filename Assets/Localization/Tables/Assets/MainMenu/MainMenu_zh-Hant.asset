@@ -70,6 +70,22 @@ MonoBehaviour:
     m_Localized: '52468be1b613fca43b4b062412499543[main_menu.zh-Hant.out_now]'
     m_Metadata:
       m_Items: []
+  - m_Id: 652046222098432
+    m_Localized: '52468be1b613fca43b4b062412499543[main_menu.zh-Hant.free]'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 652140178702336
+    m_Localized: '52468be1b613fca43b4b062412499543[main_menu.zh-Hant.new]'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 652192519421952
+    m_Localized: '52468be1b613fca43b4b062412499543[main_menu.zh-Hant.more_games]'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 652248853118976
+    m_Localized: '52468be1b613fca43b4b062412499543[main_menu.zh-Hant.tell_friend]'
+    m_Metadata:
+      m_Items: []
   references:
     version: 2
     RefIds: []

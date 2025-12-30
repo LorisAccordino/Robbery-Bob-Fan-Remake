@@ -15,6 +15,12 @@ MonoBehaviour:
   m_GroupName: Localization-Assets-Spanish (es)
   m_GUID: 9d6df0c720043274cbdd9adf23948537
   m_SerializeEntries:
+  - m_GUID: 590ca0f20b2d1d445a4d96e87565fac8
+    m_Address: chapter_titles.es
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-es
+    FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 7fe9096e0748d0c45bb9d4909e847910
     m_Address: main_menu.es
     m_ReadOnly: 1

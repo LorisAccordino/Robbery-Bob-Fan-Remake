@@ -97,7 +97,7 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: chapter_titles.zh-Hans_0
+      name: chapter_titles.zh-Hans.secret_labs
       rect:
         serializedVersion: 2
         x: 26
@@ -119,11 +119,11 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: chapter_titles.zh-Hans_4
+      name: chapter_titles.zh-Hans.suburbs
       rect:
         serializedVersion: 2
         x: 51
-        y: 308
+        y: 309
         width: 197
         height: 95
       alignment: 0
@@ -141,7 +141,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: chapter_titles.zh-Hans_7
+      name: chapter_titles.zh-Hans.chapter3
       rect:
         serializedVersion: 2
         x: 460
@@ -163,11 +163,11 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: chapter_titles.zh-Hans_8
+      name: chapter_titles.zh-Hans.downtown
       rect:
         serializedVersion: 2
         x: 10
-        y: 208
+        y: 209
         width: 161
         height: 95
       alignment: 0
@@ -185,11 +185,11 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: chapter_titles.zh-Hans_9
+      name: chapter_titles.zh-Hans.completed_chapter
       rect:
         serializedVersion: 2
         x: 139
-        y: 119
+        y: 120
         width: 345
         height: 85
       alignment: 0
@@ -207,7 +207,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: chapter_titles.zh-Hans_15
+      name: chapter_titles.zh-Hans.chapter1
       rect:
         serializedVersion: 2
         x: 4
@@ -229,7 +229,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: chapter_titles.zh-Hans_17
+      name: chapter_titles.zh-Hans.chapter2
       rect:
         serializedVersion: 2
         x: 240
@@ -266,24 +266,23 @@ TextureImporter:
       - key: SpriteEditor.SliceSettings
         value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":64.0,"y":64.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":0,"keepEmptyRects":false,"isAlternate":false}'
     nameFileIdTable:
-      chapter_titles.zh-Hans_0: -1601126415
-      chapter_titles.zh-Hans_1: -2019813083
+      chapter_titles.zh-Hans.chapter1: 120797347
+      chapter_titles.zh-Hans.chapter2: 529142350
+      chapter_titles.zh-Hans.chapter3: -340519771
+      chapter_titles.zh-Hans.completed_chapter: 1182350985
+      chapter_titles.zh-Hans.downtown: 896407395
+      chapter_titles.zh-Hans.secret_labs: -1601126415
+      chapter_titles.zh-Hans.suburbs: 1685511428
       chapter_titles.zh-Hans_10: 738827221
       chapter_titles.zh-Hans_11: -511473154
       chapter_titles.zh-Hans_12: -1379171389
       chapter_titles.zh-Hans_13: -1957820389
       chapter_titles.zh-Hans_14: 1787960344
-      chapter_titles.zh-Hans_15: 120797347
       chapter_titles.zh-Hans_16: -166105772
-      chapter_titles.zh-Hans_17: 529142350
       chapter_titles.zh-Hans_2: 1178129498
       chapter_titles.zh-Hans_3: 561925341
-      chapter_titles.zh-Hans_4: 1685511428
       chapter_titles.zh-Hans_5: 435430099
       chapter_titles.zh-Hans_6: -1210704746
-      chapter_titles.zh-Hans_7: -340519771
-      chapter_titles.zh-Hans_8: 896407395
-      chapter_titles.zh-Hans_9: 1182350985
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

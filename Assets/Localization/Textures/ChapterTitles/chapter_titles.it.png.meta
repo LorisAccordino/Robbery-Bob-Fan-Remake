@@ -97,7 +97,7 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: chapter_titles.it_0
+      name: chapter_titles.it.secret_labs
       rect:
         serializedVersion: 2
         x: 5
@@ -119,35 +119,13 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: chapter_titles.it_1
+      name: chapter_titles.it.completed_chapter
       rect:
         serializedVersion: 2
         x: 498
-        y: 166
-        width: 254
-        height: 65
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 709c1e0be23155d429f315c93bca7d15
-      internalID: -1517114060
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: chapter_titles.it_2
-      rect:
-        serializedVersion: 2
-        x: 758
-        y: 175
-        width: 342
-        height: 75
+        y: 155
+        width: 602
+        height: 95
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -163,7 +141,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: chapter_titles.it_4
+      name: chapter_titles.it.chapter3
       rect:
         serializedVersion: 2
         x: 1109
@@ -185,7 +163,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: chapter_titles.it_5
+      name: chapter_titles.it.suburbs
       rect:
         serializedVersion: 2
         x: 7
@@ -207,7 +185,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: chapter_titles.it_6
+      name: chapter_titles.it.downtown
       rect:
         serializedVersion: 2
         x: 456
@@ -229,7 +207,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: chapter_titles.it_8
+      name: chapter_titles.it.chapter1
       rect:
         serializedVersion: 2
         x: 917
@@ -251,10 +229,10 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: chapter_titles.it_9
+      name: chapter_titles.it.chapter2
       rect:
         serializedVersion: 2
-        x: 912
+        x: 911
         y: 15
         width: 232
         height: 61
@@ -288,16 +266,16 @@ TextureImporter:
       - key: SpriteEditor.SliceSettings
         value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":64.0,"y":64.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":0,"keepEmptyRects":false,"isAlternate":false}'
     nameFileIdTable:
-      chapter_titles.it_0: 1659022528
+      chapter_titles.it.chapter1: -289729843
+      chapter_titles.it.chapter2: -988808645
+      chapter_titles.it.chapter3: -1082995500
+      chapter_titles.it.completed_chapter: -1706934947
+      chapter_titles.it.downtown: -1042786356
+      chapter_titles.it.secret_labs: 1659022528
+      chapter_titles.it.suburbs: 1130587400
       chapter_titles.it_1: -1517114060
-      chapter_titles.it_2: -1706934947
       chapter_titles.it_3: 2066903553
-      chapter_titles.it_4: -1082995500
-      chapter_titles.it_5: 1130587400
-      chapter_titles.it_6: -1042786356
       chapter_titles.it_7: -401108524
-      chapter_titles.it_8: -289729843
-      chapter_titles.it_9: -988808645
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

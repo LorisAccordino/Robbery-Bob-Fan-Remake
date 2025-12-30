@@ -97,35 +97,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: chapter_titles.en_0
+      name: chapter_titles.en.secret_labs
       rect:
         serializedVersion: 2
         x: 0
-        y: 155
-        width: 279
-        height: 83
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 62761470dc6049a4c8b477ff797e1492
-      internalID: -187027624
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: chapter_titles.en_1
-      rect:
-        serializedVersion: 2
-        x: 297
-        y: 174
-        width: 198
-        height: 79
+        y: 145
+        width: 495
+        height: 109
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -141,35 +119,13 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: chapter_titles.en_2
+      name: chapter_titles.en.completed_chapter
       rect:
         serializedVersion: 2
-        x: 498
-        y: 160
-        width: 271
-        height: 76
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 3efc97896d04c3740bdc86bb3389785f
-      internalID: -1315700102
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: chapter_titles.en_3
-      rect:
-        serializedVersion: 2
-        x: 779
-        y: 173
-        width: 322
-        height: 83
+        x: 499
+        y: 157
+        width: 602
+        height: 99
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -185,7 +141,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: chapter_titles.en_5
+      name: chapter_titles.en.chapter3
       rect:
         serializedVersion: 2
         x: 1109
@@ -207,7 +163,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: chapter_titles.en_6
+      name: chapter_titles.en.suburbs
       rect:
         serializedVersion: 2
         x: 4
@@ -229,7 +185,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: chapter_titles.en_7
+      name: chapter_titles.en.downtown
       rect:
         serializedVersion: 2
         x: 456
@@ -251,7 +207,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: chapter_titles.en_9
+      name: chapter_titles.en.chapter1
       rect:
         serializedVersion: 2
         x: 917
@@ -273,7 +229,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: chapter_titles.en_11
+      name: chapter_titles.en.chapter2
       rect:
         serializedVersion: 2
         x: 917
@@ -310,18 +266,18 @@ TextureImporter:
       - key: SpriteEditor.SliceSettings
         value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":64.0,"y":64.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":0,"keepEmptyRects":false,"isAlternate":false}'
     nameFileIdTable:
+      chapter_titles.en.chapter1: -1395752349
+      chapter_titles.en.chapter2: -680604323
+      chapter_titles.en.chapter3: 376369668
+      chapter_titles.en.completed_chapter: 1013587242
+      chapter_titles.en.downtown: 473580215
+      chapter_titles.en.secret_labs: -1770674185
+      chapter_titles.en.suburbs: -345718737
       chapter_titles.en_0: -187027624
-      chapter_titles.en_1: -1770674185
       chapter_titles.en_10: 2068766049
-      chapter_titles.en_11: -680604323
       chapter_titles.en_2: -1315700102
-      chapter_titles.en_3: 1013587242
       chapter_titles.en_4: 1245875165
-      chapter_titles.en_5: 376369668
-      chapter_titles.en_6: -345718737
-      chapter_titles.en_7: 473580215
       chapter_titles.en_8: -1751033829
-      chapter_titles.en_9: -1395752349
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -15,6 +15,12 @@ MonoBehaviour:
   m_GroupName: Localization-Assets-Indonesian (id)
   m_GUID: 53ef292073f7ec44995aba85cc99d277
   m_SerializeEntries:
+  - m_GUID: 2265444546d635c4a8fd3da4f48ac976
+    m_Address: chapter_titles.id
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-id
+    FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: a7917e53a331eeb46b9a12fb02ec326a
     m_Address: main_menu.id
     m_ReadOnly: 1

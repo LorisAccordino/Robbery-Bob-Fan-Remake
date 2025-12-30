@@ -15,6 +15,12 @@ MonoBehaviour:
   m_GroupName: Localization-Assets-Japanese (ja)
   m_GUID: 1dc9f50b4c615f346aa5e8562e5f2152
   m_SerializeEntries:
+  - m_GUID: 45a4c03d21bb1ed44b328a145b1b6bfd
+    m_Address: chapter_titles.ja
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-ja
+    FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 85b1cb6edf674464b8c1da50e5febdbd
     m_Address: main_menu.ja
     m_ReadOnly: 1
