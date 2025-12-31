@@ -1,44 +1,66 @@
 using UnityEngine;
 using UnityEngine.UI;
+using System.Collections.Generic;
 
 public class UpgradeProgressUI : MonoBehaviour
 {
-    [Header("Save Settings")]
-    [Tooltip("PlayerPrefs key that stores the current upgrade level")]
-    public string saveKey;
+    [System.Serializable]
+    public class UpgradeData
+    {
+        [Header("Save Settings")]
+        [Tooltip("PlayerPrefs key that stores the current upgrade level")]
+        public string saveKey;
 
-    [Tooltip("Maximum number of upgrades")]
-    public int maxUpgrades = 5;
+        [Tooltip("Maximum number of upgrades")]
+        public int maxUpgrades = 5;
 
-    [Header("UI")]
-    [Tooltip("Filled image (Image Type must be Filled, Horizontal, Left)")]
-    public Image fillImage;
+        [Header("UI")]
+        [Tooltip("Filled image (Image Type must be Filled, Horizontal, Left)")]
+        public Image fillImage;
 
-    [Header("Debug")]
-    [SerializeField] private int currentUpgrade;
+        [Header("Debug")]
+        [SerializeField] public int currentUpgrade;
+    }
+
+    [Header("Upgrades")]
+    public List<UpgradeData> upgrades = new List<UpgradeData>();
 
     void Start()
     {
-        Refresh();
+        RefreshAll();
     }
 
     /// <summary>
-    /// Public method callable via UnityEvent
+    /// Refresh all upgrades (callable via UnityEvent)
     /// </summary>
-    public void Refresh()
+    public void RefreshAll()
     {
-        currentUpgrade = PlayerPrefs.GetInt(saveKey, 0);
-        currentUpgrade = Mathf.Clamp(currentUpgrade, 0, maxUpgrades);
-
-        UpdateFill();
+        foreach (var upgrade in upgrades)
+        {
+            RefreshUpgrade(upgrade);
+        }
     }
 
-    private void UpdateFill()
+    /// <summary>
+    /// Refresh a single upgrade
+    /// </summary>
+    private void RefreshUpgrade(UpgradeData upgrade)
     {
-        if (fillImage == null || maxUpgrades <= 0)
+        if (upgrade == null)
             return;
 
-        float normalizedValue = (float)currentUpgrade / maxUpgrades;
-        fillImage.fillAmount = normalizedValue;
+        upgrade.currentUpgrade = PlayerPrefs.GetInt(upgrade.saveKey, 0);
+        upgrade.currentUpgrade = Mathf.Clamp(upgrade.currentUpgrade, 0, upgrade.maxUpgrades);
+
+        UpdateFill(upgrade);
+    }
+
+    private void UpdateFill(UpgradeData upgrade)
+    {
+        if (upgrade.fillImage == null || upgrade.maxUpgrades <= 0)
+            return;
+
+        float normalizedValue = (float)upgrade.currentUpgrade / upgrade.maxUpgrades;
+        upgrade.fillImage.fillAmount = normalizedValue;
     }
 }

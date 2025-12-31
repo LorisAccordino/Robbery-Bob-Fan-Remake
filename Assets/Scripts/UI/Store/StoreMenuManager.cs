@@ -15,6 +15,9 @@ public class StoreMenuManager : MonoBehaviour
     public UnityEvent onPurchaseSuccess;
     public UnityEvent onItemMaxed;
 
+    [Header("Scroll")]
+    public SmoothScrollToItem smoothScroll;
+
     [Header("Localize Text")]
     public LocalizeStringEvent storeItemCaption;
 
@@ -68,6 +71,13 @@ public class StoreMenuManager : MonoBehaviour
 
         UpdateSelectionVisuals();
         UpdateLocalizedText();
+
+        // Smooth scroll to center
+        if (smoothScroll != null)
+        {
+            RectTransform rt = storeButtons[index].rectTransform;
+            smoothScroll.ScrollTo(rt);
+        }
     }
 
     public void BuySelectedItem()

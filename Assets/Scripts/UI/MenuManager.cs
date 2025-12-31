@@ -3,23 +3,57 @@ using UnityEngine;
 
 public class MenuManager : MonoBehaviour
 {
-    [Header("Panels")]
-    [SerializeField] private CanvasGroup mainMenu;
+    [Header("Screens")]
+    [SerializeField] private MenuScreen mainMenu;
+    [SerializeField] private List<MenuScreen> screens;
 
-    private Stack<CanvasGroup> menuStack = new Stack<CanvasGroup>();
+    private Stack<MenuScreen> menuStack = new Stack<MenuScreen>();
+    private Dictionary<string, MenuScreen> screenLookup;
+
+    private void Awake()
+    {
+        screenLookup = new Dictionary<string, MenuScreen>();
+
+        foreach (var screen in screens)
+        {
+            if (!screenLookup.ContainsKey(screen.id))
+                screenLookup.Add(screen.id, screen);
+
+            SetScreenState(screen, false, instant: true);
+        }
+    }
 
     private void Start()
     {
-        OpenMenu(mainMenu);
+        Open(mainMenu.id);
     }
 
-    public void OpenMenu(CanvasGroup menu)
-    {
-        if (menuStack.Count > 0)
-            SetMenuState(menuStack.Peek(), false);
+    // ==========================
+    // PUBLIC API
+    // ==========================
 
-        SetMenuState(menu, true);
-        menuStack.Push(menu);
+    public void Open(string screenId)
+    {
+        if (!screenLookup.TryGetValue(screenId, out MenuScreen next))
+        {
+            Debug.LogWarning($"MenuScreen '{screenId}' not found.");
+            return;
+        }
+
+        if (menuStack.Count > 0)
+        {
+            MenuScreen current = menuStack.Peek();
+            current.OnBlur?.Invoke();
+            SetScreenState(current, false);
+        }
+
+        if (next.clearStackOnOpen)
+            ClearStack();
+
+        menuStack.Push(next);
+        SetScreenState(next, true);
+        next.OnEnter?.Invoke();
+        next.OnFocus?.Invoke();
     }
 
     public void GoBack()
@@ -27,27 +61,58 @@ public class MenuManager : MonoBehaviour
         if (menuStack.Count <= 1)
             return;
 
-        CanvasGroup current = menuStack.Pop();
-        SetMenuState(current, false);
+        MenuScreen current = menuStack.Peek();
+        if (current.blockBack)
+            return;
 
-        SetMenuState(menuStack.Peek(), true);
+        current = menuStack.Pop();
+        current.OnExit?.Invoke();
+        SetScreenState(current, false);
+
+        MenuScreen previous = menuStack.Peek();
+        SetScreenState(previous, true);
+        previous.OnFocus?.Invoke();
     }
 
     public void GoToMainMenu()
     {
-        while (menuStack.Count > 1)
-        {
-            CanvasGroup menu = menuStack.Pop();
-            SetMenuState(menu, false);
-        }
-
-        SetMenuState(menuStack.Peek(), true);
+        ClearStack();
+        Open(mainMenu.id);
     }
 
-    private void SetMenuState(CanvasGroup menu, bool visible)
+    public void Confirm()
     {
-        menu.alpha = visible ? 1f : 0f;
-        //menu.interactable = visible;
-        menu.blocksRaycasts = visible;
+        if (menuStack.Count > 0)
+            menuStack.Peek().OnConfirm?.Invoke();
+    }
+
+    public void Cancel()
+    {
+        if (menuStack.Count > 0)
+            menuStack.Peek().OnCancel?.Invoke();
+    }
+
+    // ==========================
+    // INTERNAL
+    // ==========================
+
+    private void ClearStack()
+    {
+        while (menuStack.Count > 0)
+        {
+            MenuScreen screen = menuStack.Pop();
+            screen.OnExit?.Invoke();
+            SetScreenState(screen, false);
+        }
+    }
+
+    private void SetScreenState(MenuScreen screen, bool visible, bool instant = false)
+    {
+        screen.isVisible = visible;
+
+        CanvasGroup cg = screen.canvasGroup;
+        cg.alpha = visible ? 1f : 0f;
+        cg.blocksRaycasts = visible;
+        //cg.interactable = visible;
     }
 }

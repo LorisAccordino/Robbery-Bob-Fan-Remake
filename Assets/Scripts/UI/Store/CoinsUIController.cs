@@ -1,7 +1,6 @@
 ﻿using UnityEngine;
 using TMPro;
 
-[RequireComponent(typeof(TextMeshProUGUI))]
 public class CoinsUIController : MonoBehaviour
 {
     [Header("PlayerPrefs Key")]
@@ -11,12 +10,8 @@ public class CoinsUIController : MonoBehaviour
     [SerializeField] private int debugCoinsValue = 100;
     [SerializeField] private int debugAddAmount = 10;
 
-    private TextMeshProUGUI coinsLabel;
-
-    private void Awake()
-    {
-        coinsLabel = GetComponent<TextMeshProUGUI>();
-    }
+    [Header("Text")]
+    public TextMeshProUGUI coinsLabel;
 
     private void Start()
     {
