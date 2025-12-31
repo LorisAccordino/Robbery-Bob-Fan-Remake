@@ -3,6 +3,7 @@ using UnityEngine.Localization.Components;
 using UnityEngine.Localization.Settings;
 using System.Collections;
 using System.Collections.Generic;
+using System.Threading;
 
 /// <summary>
 /// Manages a loading screen for localized UI.
@@ -15,9 +16,11 @@ public class LocalizedScreenLoader : MonoBehaviour
     [SerializeField] private CanvasGroup loadingOverlay; // The loading screen overlay
     [SerializeField] private CanvasGroup uiRoot;         // The main UI root
 
-    [Header("Settings")]
+    [Header("Timing settings")]
     [Tooltip("Minimum time (seconds) the loading screen will remain visible")]
     [SerializeField] private float minLoadingTime = 1f;
+    [Tooltip("Maximum time (seconds) the loading screen will remain visible")]
+    [SerializeField] private float timeout = 5f;
 
     [Tooltip("If true, waits for all Localize*Events in the scene; if false, only waits for active/visible elements")]
     [SerializeField] private bool waitAllElements = false;
@@ -82,25 +85,39 @@ public class LocalizedScreenLoader : MonoBehaviour
 
         if (pendingUpdates > 0)
         {
-            bool updated = false;
-
-            void OnUpdated()
+            void SafeOnUpdated()
             {
-                pendingUpdates--;
-                if (pendingUpdates <= 0) updated = true;
+                try
+                {
+                    pendingUpdates--;
+                }
+                catch (System.Exception ex)
+                {
+                    Debug.LogError("Error in localization update: " + ex);
+                    pendingUpdates--;
+                }
             }
 
             foreach (var e in stringEvents)
-                e.OnUpdateString.AddListener(_ => OnUpdated());
+                e.OnUpdateString.AddListener(_ => SafeOnUpdated());
 
             foreach (var e in spriteEvents)
-                e.OnUpdateAsset.AddListener(_ => OnUpdated());
+                e.OnUpdateAsset.AddListener(_ => SafeOnUpdated());
 
-            while (!updated)
+            while (pendingUpdates > 0)
+            {
+                // If elapsed time is greater than timeout, stop waiting
+                if (Time.time - startTime > timeout)
+                {
+                    Debug.LogWarning("Localization loading timeout reached. Continuing anyway.");
+                    break;
+                }
                 yield return null;
+            }
 
+            // Cleanup listener
             foreach (var e in stringEvents)
-                e.OnUpdateString.RemoveListener(_ => OnUpdated());
+                e.OnUpdateString.RemoveAllListeners();
 
             foreach (var e in spriteEvents)
                 e.OnUpdateAsset.RemoveAllListeners();

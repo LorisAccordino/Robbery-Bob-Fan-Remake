@@ -1,47 +1,60 @@
 using System.Collections.Generic;
 using UnityEngine;
-using UnityEngine.UI;
 using UnityEngine.Localization.Components;
-
-[System.Serializable]
-public class StoreButton
-{
-    public Button button;               // The actual button
-    public GameObject selectedVisual;   // Object to show/hide when selected
-    public RectTransform rectTransform; // RectTransform to adjust left offset
-    public string localizedItemKey;
-}
+using UnityEngine.Events;
+using TMPro;
+using UnityEngine.UI;
 
 public class StoreMenuManager : MonoBehaviour
 {
     [Header("Store Items")]
-    public List<StoreButton> storeButtons; // Assign buttons in Inspector
+    public List<StoreButton> storeButtons;
+
+    [Header("Store Events")]
+    public UnityEvent onNotEnoughCoins;
+    public UnityEvent onPurchaseSuccess;
+    public UnityEvent onItemMaxed;
 
     [Header("Localize Text")]
-    public LocalizeStringEvent storeItemCaption; // Updates localized text
+    public LocalizeStringEvent storeItemCaption;
 
     [Header("Selection Settings")]
-    public float selectedOffsetX = -10f; // Left offset when selected
+    public float selectedOffsetX = -10f;
 
     [Header("Audio")]
-    public AudioSource clickSound; // sound to play on click
+    public AudioSource clickSound;
+    public AudioSource purchaseSound;
 
+
+    private int coins;
     private int selectedIndex = -1;
-    private Dictionary<StoreButton, float> originalLeftOffsets = new Dictionary<StoreButton, float>();
+    private Dictionary<StoreButton, Vector2> originalAnchoredPositions = new Dictionary<StoreButton, Vector2>();
 
     void Start()
     {
-        // Save original left offsets and register button clicks
-        foreach (var btn in storeButtons)
-        {
-            if (btn.rectTransform != null)
-                originalLeftOffsets[btn] = btn.rectTransform.offsetMin.x;
+        LoadCoins();
 
-            int index = storeButtons.IndexOf(btn);
-            if (btn.button != null)
-                btn.button.onClick.AddListener(() => OnItemClicked(index));
+        for (int i = 0; i < storeButtons.Count; i++)
+        {
+            var btn = storeButtons[i];
+
+            if (btn.rectTransform != null)
+                originalAnchoredPositions[btn] = btn.rectTransform.anchoredPosition;
+
+            int index = i;
+            btn.button.onClick.AddListener(() => OnItemClicked(index));
+
+            // Safe link to the buy button
+            if (btn.buyButton != null)
+            {
+                StoreButton capturedBtn = btn;
+                btn.buyButton.onClick.AddListener(() => BuyItem(capturedBtn));
+            }
+
+            UpdateCostUI(btn);
         }
     }
+
 
     public void OnItemClicked(int index)
     {
@@ -50,14 +63,117 @@ public class StoreMenuManager : MonoBehaviour
 
         selectedIndex = index;
 
-        // Play click sound
         if (clickSound != null)
             clickSound.Play();
 
         UpdateSelectionVisuals();
         UpdateLocalizedText();
+    }
 
-        Debug.Log($"Item {index} selected");
+    public void BuySelectedItem()
+    {
+        if (selectedIndex < 0)
+            return;
+
+        StoreButton item = storeButtons[selectedIndex];
+        int purchaseIndex = GetPurchaseIndex(item);
+
+        int cost = GetCurrentCost(item, purchaseIndex);
+
+        // Item fully purchased
+        if (cost < 0)
+        {
+            onItemMaxed?.Invoke();
+            return;
+        }
+
+        // Not enough coins
+        if (coins < cost)
+        {
+            onNotEnoughCoins?.Invoke();
+            return;
+        }
+
+        // Purchase success
+        coins -= cost;
+        SaveCoins();
+
+        PlayerPrefs.SetInt(item.saveKey, purchaseIndex + 1);
+
+        if (purchaseSound != null)
+            purchaseSound.Play();
+
+        UpdateCostUI(item);
+
+        onPurchaseSuccess?.Invoke();
+    }
+
+    public void BuyItem(StoreButton clickedItem)
+    {
+        int clickedIndex = storeButtons.IndexOf(clickedItem);
+        if (clickedIndex < 0)
+            return;
+
+        // If the clicked item is NOT selected, select it
+        if (selectedIndex != clickedIndex)
+        {
+            OnItemClicked(clickedIndex);
+            return;
+        }
+
+        BuySelectedItem();
+    }
+
+    public void DeselectAll()
+    {
+        selectedIndex = -1;
+
+        // Reset visual selection
+        for (int i = 0; i < storeButtons.Count; i++)
+        {
+            var btn = storeButtons[i];
+
+            if (btn.selectedVisual != null)
+                btn.selectedVisual.SetActive(false);
+
+            if (btn.rectTransform != null && originalAnchoredPositions.ContainsKey(btn))
+                btn.rectTransform.anchoredPosition = originalAnchoredPositions[btn];
+        }
+    }
+
+
+    private int GetCurrentCost(StoreButton item, int purchaseIndex)
+    {
+        if (item.costs == null || item.costs.Count == 0)
+            return 0;
+
+        if (purchaseIndex < item.costs.Count)
+            return item.costs[purchaseIndex];
+
+        return item.repeatLastCost ? item.costs[item.costs.Count - 1] : -1;
+    }
+
+    private int GetPurchaseIndex(StoreButton item)
+    {
+        return PlayerPrefs.GetInt(item.saveKey, 0);
+    }
+
+    private void UpdateCostUI(StoreButton item)
+    {
+        int purchaseIndex = GetPurchaseIndex(item);
+        int cost = GetCurrentCost(item, purchaseIndex);
+
+        bool canBuy = cost >= 0;
+
+        if (item.costLabel != null)
+            item.costLabel.text = canBuy ? cost.ToString() : "MAX";
+
+        if (!canBuy)
+        {
+            var button = item.costLabel.GetComponentInParent<Button>();
+            if (button != null)
+                button.gameObject.SetActive(false);
+        }
     }
 
     private void UpdateSelectionVisuals()
@@ -66,39 +182,37 @@ public class StoreMenuManager : MonoBehaviour
         {
             var btn = storeButtons[i];
 
-            // Activate or deactivate the "selected" visual
             if (btn.selectedVisual != null)
-                btn.selectedVisual.SetActive((i == selectedIndex));
+                btn.selectedVisual.SetActive(i == selectedIndex);
 
-            // Adjust the left offset
-            if (btn.rectTransform != null && originalLeftOffsets.ContainsKey(btn))
+            if (btn.rectTransform != null)
             {
-                Vector2 offsetMin = btn.rectTransform.offsetMin;
-                offsetMin.x = originalLeftOffsets[btn] + ((i == selectedIndex) ? selectedOffsetX : 0f);
-                btn.rectTransform.offsetMin = offsetMin;
+                Vector2 basePos = originalAnchoredPositions[btn];
+                btn.rectTransform.anchoredPosition =
+                    (i == selectedIndex)
+                        ? new Vector2(basePos.x + selectedOffsetX, basePos.y)
+                        : basePos;
             }
         }
     }
 
     private void UpdateLocalizedText()
     {
-        if (storeItemCaption != null && selectedIndex >= 0 && selectedIndex < storeButtons.Count)
+        if (storeItemCaption != null && selectedIndex >= 0)
         {
-            string key = storeButtons[selectedIndex].localizedItemKey;
-            storeItemCaption.StringReference.TableEntryReference = key;
+            storeItemCaption.StringReference.TableEntryReference =
+                storeButtons[selectedIndex].localizedItemKey;
             storeItemCaption.RefreshString();
         }
     }
 
-    public void DeselectAll()
+    private void LoadCoins()
     {
-        selectedIndex = -1;
-        UpdateSelectionVisuals();
+        coins = PlayerPrefs.GetInt("PLAYER_COINS", coins);
+    }
 
-        if (storeItemCaption != null)
-        {
-            storeItemCaption.StringReference.TableEntryReference = "";
-            storeItemCaption.RefreshString();
-        }
+    private void SaveCoins()
+    {
+        PlayerPrefs.SetInt("PLAYER_COINS", coins);
     }
 }
