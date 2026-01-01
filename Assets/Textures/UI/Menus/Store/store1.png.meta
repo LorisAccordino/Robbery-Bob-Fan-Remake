@@ -1070,8 +1070,8 @@ TextureImporter:
       name: Item1
       rect:
         serializedVersion: 2
-        x: 526
-        y: 154
+        x: 528
+        y: 152
         width: 106
         height: 106
       alignment: 0
@@ -1092,8 +1092,8 @@ TextureImporter:
       name: Item2
       rect:
         serializedVersion: 2
-        x: 526
-        y: 44
+        x: 528
+        y: 42
         width: 106
         height: 106
       alignment: 0
@@ -1114,8 +1114,8 @@ TextureImporter:
       name: Item3
       rect:
         serializedVersion: 2
-        x: 558
-        y: 698
+        x: 560
+        y: 696
         width: 106
         height: 106
       alignment: 0
@@ -1136,8 +1136,8 @@ TextureImporter:
       name: Item4
       rect:
         serializedVersion: 2
-        x: 558
-        y: 588
+        x: 560
+        y: 586
         width: 106
         height: 106
       alignment: 0
@@ -1158,8 +1158,8 @@ TextureImporter:
       name: Item5
       rect:
         serializedVersion: 2
-        x: 558
-        y: 478
+        x: 560
+        y: 476
         width: 106
         height: 106
       alignment: 0
@@ -1268,8 +1268,8 @@ TextureImporter:
       name: Outfit1
       rect:
         serializedVersion: 2
-        x: 628
-        y: 808
+        x: 630
+        y: 806
         width: 106
         height: 106
       alignment: 0
@@ -1290,8 +1290,8 @@ TextureImporter:
       name: Outfit2
       rect:
         serializedVersion: 2
-        x: 636
-        y: 258
+        x: 638
+        y: 256
         width: 106
         height: 106
       alignment: 0
@@ -1312,8 +1312,8 @@ TextureImporter:
       name: Outfit3
       rect:
         serializedVersion: 2
-        x: 636
-        y: 148
+        x: 638
+        y: 146
         width: 106
         height: 106
       alignment: 0
@@ -1334,8 +1334,8 @@ TextureImporter:
       name: Outfit4
       rect:
         serializedVersion: 2
-        x: 636
-        y: 38
+        x: 638
+        y: 36
         width: 106
         height: 106
       alignment: 0
@@ -1356,8 +1356,8 @@ TextureImporter:
       name: Outfit5
       rect:
         serializedVersion: 2
-        x: 668
-        y: 698
+        x: 670
+        y: 696
         width: 106
         height: 106
       alignment: 0
@@ -1400,8 +1400,8 @@ TextureImporter:
       name: Outfit7
       rect:
         serializedVersion: 2
-        x: 746
-        y: 38
+        x: 748
+        y: 36
         width: 106
         height: 106
       alignment: 0
@@ -1422,8 +1422,8 @@ TextureImporter:
       name: Outfit8
       rect:
         serializedVersion: 2
-        x: 778
-        y: 698
+        x: 780
+        y: 696
         width: 106
         height: 106
       alignment: 0
@@ -1664,8 +1664,8 @@ TextureImporter:
       name: QuantityBG
       rect:
         serializedVersion: 2
-        x: 778
-        y: 542
+        x: 779
+        y: 541
         width: 98
         height: 46
       alignment: 0

@@ -14,6 +14,12 @@ public class MenuManager : MonoBehaviour
     {
         screenLookup = new Dictionary<string, MenuScreen>();
 
+        if (mainMenu != null && !string.IsNullOrEmpty(mainMenu.id))
+        {
+            screenLookup.Add(mainMenu.id, mainMenu);
+            SetScreenState(mainMenu, false, instant: true);
+        }
+
         foreach (var screen in screens)
         {
             if (!screenLookup.ContainsKey(screen.id))
