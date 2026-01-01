@@ -9,11 +9,13 @@ public class StoreMenuManager : MonoBehaviour
 {
     [Header("Store Items")]
     public List<StoreButton> storeButtons;
+    [HideInInspector] public StoreButton SelectedButton => storeButtons[selectedIndex];
 
-    [Header("Store Events")]
+    [Header("Events")]
     public UnityEvent onNotEnoughCoins;
     public UnityEvent onPurchaseSuccess;
     public UnityEvent onItemMaxed;
+    public UnityEvent onItemClicked;
 
     [Header("Scroll")]
     public SmoothScrollToItem smoothScroll;
@@ -26,7 +28,6 @@ public class StoreMenuManager : MonoBehaviour
 
     [Header("Audio")]
     public AudioSource clickSound;
-    public AudioSource purchaseSound;
 
 
     private int coins;
@@ -45,7 +46,7 @@ public class StoreMenuManager : MonoBehaviour
                 originalAnchoredPositions[btn] = btn.rectTransform.anchoredPosition;
 
             int index = i;
-            btn.button.onClick.AddListener(() => OnItemClicked(index));
+            btn.button.onClick.AddListener(() => ClickItem(index));
 
             // Safe link to the buy button
             if (btn.buyButton != null)
@@ -59,15 +60,12 @@ public class StoreMenuManager : MonoBehaviour
     }
 
 
-    public void OnItemClicked(int index)
+    public void ClickItem(int index)
     {
         if (selectedIndex == index)
             return;
 
         selectedIndex = index;
-
-        if (clickSound != null)
-            clickSound.Play();
 
         UpdateSelectionVisuals();
         UpdateLocalizedText();
@@ -75,9 +73,11 @@ public class StoreMenuManager : MonoBehaviour
         // Smooth scroll to center
         if (smoothScroll != null)
         {
-            RectTransform rt = storeButtons[index].rectTransform;
+            RectTransform rt = SelectedButton.rectTransform;
             smoothScroll.ScrollTo(rt);
         }
+
+        onItemClicked?.Invoke();
     }
 
     public void BuySelectedItem()
@@ -85,7 +85,7 @@ public class StoreMenuManager : MonoBehaviour
         if (selectedIndex < 0)
             return;
 
-        StoreButton item = storeButtons[selectedIndex];
+        StoreButton item = SelectedButton;
         int purchaseIndex = GetPurchaseIndex(item);
 
         int cost = GetCurrentCost(item, purchaseIndex);
@@ -107,14 +107,8 @@ public class StoreMenuManager : MonoBehaviour
         // Purchase success
         coins -= cost;
         SaveCoins();
-
         PlayerPrefs.SetInt(item.saveKey, purchaseIndex + 1);
-
-        if (purchaseSound != null)
-            purchaseSound.Play();
-
         UpdateCostUI(item);
-
         onPurchaseSuccess?.Invoke();
     }
 
@@ -127,7 +121,7 @@ public class StoreMenuManager : MonoBehaviour
         // If the clicked item is NOT selected, select it
         if (selectedIndex != clickedIndex)
         {
-            OnItemClicked(clickedIndex);
+            ClickItem(clickedIndex);
             return;
         }
 
@@ -210,8 +204,7 @@ public class StoreMenuManager : MonoBehaviour
     {
         if (storeItemCaption != null && selectedIndex >= 0)
         {
-            storeItemCaption.StringReference.TableEntryReference =
-                storeButtons[selectedIndex].localizedItemKey;
+            storeItemCaption.StringReference.TableEntryReference = SelectedButton.localizedItemKey;
             storeItemCaption.RefreshString();
         }
     }
