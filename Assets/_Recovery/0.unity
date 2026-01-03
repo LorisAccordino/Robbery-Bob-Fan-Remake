@@ -2492,7 +2492,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ee0475bfb70111b469b60ab6f81621b2, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::UIFadeController
-  defaultDuration: 0.075
+  defaultDuration: 0.1
   disableInteraction: 0
   OnFadeInComplete:
     m_PersistentCalls:
@@ -17163,7 +17163,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::LocalizationUpdateWatcher
   waitAllElements: 1
-  minDuration: 0.1
   timeout: 2.5
   OnLocalizationStarted:
     m_PersistentCalls:
@@ -19881,7 +19880,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ee0475bfb70111b469b60ab6f81621b2, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::FadeUIController
-  defaultDuration: 0.075
+  defaultDuration: 0.1
   disableInteraction: 0
   OnFadeInComplete:
     m_PersistentCalls:

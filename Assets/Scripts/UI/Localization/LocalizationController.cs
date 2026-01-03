@@ -32,6 +32,10 @@ public class LocalizationController : MonoBehaviour
 
     private void ApplyLocale(Locale locale)
     {
+        // If the selected locale is already loaded, no op
+        if (LocalizationSettings.SelectedLocale == locale)
+            return;
+
         LocalizationSettings.SelectedLocale = locale;
         SaveLocale(locale);
     }

@@ -11,6 +11,7 @@ using UnityEngine.Events;
 public class LocalizationUpdateWatcher : MonoBehaviour
 {
     public bool waitAllElements = false;
+    public float minDuration = 0.15f;
     public float timeout = 5f;
 
     public UnityEvent OnLocalizationStarted;
@@ -19,6 +20,7 @@ public class LocalizationUpdateWatcher : MonoBehaviour
     private void OnEnable()
     {
         LocalizationSettings.SelectedLocaleChanged += OnLocaleChanged;
+        OnLocaleChanged(LocalizationSettings.SelectedLocale);
     }
 
     private void OnDisable()
@@ -50,6 +52,7 @@ public class LocalizationUpdateWatcher : MonoBehaviour
         int pending = stringEvents.Count + spriteEvents.Count;
         if (pending == 0)
         {
+            yield return new WaitForSeconds(minDuration);
             OnLocalizationReady?.Invoke();
             yield break;
         }
@@ -65,7 +68,12 @@ public class LocalizationUpdateWatcher : MonoBehaviour
         while (pending > 0 && Time.time - startTime < timeout)
             yield return null;
 
-        // cleanup
+        // Ensure waiting min duration
+        float elapsed = Time.time - startTime;
+        if (elapsed < minDuration)
+            yield return new WaitForSeconds(minDuration - elapsed);
+
+        // Cleanup
         foreach (var e in stringEvents) e.OnUpdateString.RemoveAllListeners();
         foreach (var e in spriteEvents) e.OnUpdateAsset.RemoveAllListeners();
 

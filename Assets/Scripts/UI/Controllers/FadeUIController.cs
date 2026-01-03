@@ -5,8 +5,10 @@ using UnityEngine.Events;
 [RequireComponent(typeof(CanvasGroup))]
 public class FadeUIController : MonoBehaviour
 {
+    [Header("Fade Settings")]
     [Tooltip("Default fade duration (used if no duration is specified)")]
     [SerializeField] private float defaultDuration = 0.3f;
+    [SerializeField] private bool disableInteraction = false;
 
     // Events for external systems
     [Header("Fade Events")]
@@ -50,7 +52,7 @@ public class FadeUIController : MonoBehaviour
         float time = 0f;
         cg.alpha = from;
         cg.blocksRaycasts = false;
-        cg.interactable = false;
+        if (disableInteraction) cg.interactable = false;
 
         while (time < duration)
         {
@@ -64,7 +66,7 @@ public class FadeUIController : MonoBehaviour
 
         // Enable/disable interaction based on visibility
         bool visible = to > 0.99f;
-        cg.interactable = visible;
+        if (disableInteraction) cg.interactable = visible;
         cg.blocksRaycasts = visible;
 
         // Fire the appropriate event
