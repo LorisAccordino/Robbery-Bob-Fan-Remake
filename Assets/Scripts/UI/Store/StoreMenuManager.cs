@@ -71,12 +71,7 @@ public class StoreMenuManager : MonoBehaviour
         UpdateLocalizedText();
 
         // Smooth scroll to center
-        if (smoothScroll != null)
-        {
-            RectTransform rt = SelectedButton.rectTransform;
-            smoothScroll.ScrollTo(rt);
-        }
-
+        if (smoothScroll != null) smoothScroll.ScrollTo(SelectedButton);
         onItemClicked?.Invoke();
     }
 

@@ -18,12 +18,12 @@ public class SmoothScrollToItem : MonoBehaviour
     /// <summary>
     /// Scroll adaptively to keep target near viewport center
     /// </summary>
-    public void ScrollTo(RectTransform target)
+    public void ScrollTo(StoreButton target)
     {
         if (scrollRoutine != null)
             StopCoroutine(scrollRoutine);
 
-        scrollRoutine = StartCoroutine(ScrollToTargetCenter(target));
+        scrollRoutine = StartCoroutine(ScrollToTargetCenter(target.rectTransform));
     }
 
     private IEnumerator ScrollToTargetCenter(RectTransform target)

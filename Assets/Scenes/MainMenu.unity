@@ -20957,11 +20957,13 @@ MonoBehaviour:
   onItemMaxed:
     m_PersistentCalls:
       m_Calls: []
+  onItemClicked:
+    m_PersistentCalls:
+      m_Calls: []
   smoothScroll: {fileID: 0}
   storeItemCaption: {fileID: 2110689880}
   selectedOffsetX: -10
   clickSound: {fileID: 1535177836}
-  purchaseSound: {fileID: 242271234}
 --- !u!225 &915687841
 CanvasGroup:
   m_ObjectHideFlags: 0
@@ -45814,11 +45816,37 @@ MonoBehaviour:
   onItemMaxed:
     m_PersistentCalls:
       m_Calls: []
+  onItemClicked:
+    m_PersistentCalls:
+      m_Calls:
+      - m_Target: {fileID: 1535177836}
+        m_TargetAssemblyTypeName: UnityEngine.AudioSource, UnityEngine
+        m_MethodName: Play
+        m_Mode: 1
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
+      - m_Target: {fileID: 1191680353}
+        m_TargetAssemblyTypeName: UnityEngine.AudioSource, UnityEngine
+        m_MethodName: 
+        m_Mode: 1
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
   smoothScroll: {fileID: 1191680357}
   storeItemCaption: {fileID: 825203070}
   selectedOffsetX: -10
   clickSound: {fileID: 1535177836}
-  purchaseSound: {fileID: 242271234}
 --- !u!1 &2091049192
 GameObject:
   m_ObjectHideFlags: 0
