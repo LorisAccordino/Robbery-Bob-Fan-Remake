@@ -29,15 +29,15 @@ public class LocalizedScreenLoader : MonoBehaviour
     public MenuManager menuManager;
 
     // Cache the fade controller for efficiency
-    private UIFadeController loadingFadeController;
+    private FadeUIController loadingFadeController;
 
     private void Awake()
     {
         if (loadingOverlay)
         {
-            loadingFadeController = loadingOverlay.GetComponent<UIFadeController>();
+            loadingFadeController = loadingOverlay.GetComponent<FadeUIController>();
             if (loadingFadeController == null)
-                loadingFadeController = loadingOverlay.gameObject.AddComponent<UIFadeController>();
+                loadingFadeController = loadingOverlay.gameObject.AddComponent<FadeUIController>();
         }
     }
 
@@ -148,7 +148,7 @@ public class LocalizedScreenLoader : MonoBehaviour
             bool fadeFinished = false;
             System.Action callback = () => fadeFinished = true;
 
-            loadingFadeController.OnFadeComplete += callback;
+            //loadingFadeController.OnFadeComplete += callback;
 
             if (show)
                 loadingFadeController.FadeIn();
@@ -159,7 +159,7 @@ public class LocalizedScreenLoader : MonoBehaviour
             while (!fadeFinished)
                 yield return null;
 
-            loadingFadeController.OnFadeComplete -= callback;
+            //loadingFadeController.OnFadeComplete -= callback;
         }
         else
         {

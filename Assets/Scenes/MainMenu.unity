@@ -2493,7 +2493,12 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::UIFadeController
   defaultDuration: 0.1
-  forceBlack: 0
+  OnFadeInComplete:
+    m_PersistentCalls:
+      m_Calls: []
+  OnFadeOutComplete:
+    m_PersistentCalls:
+      m_Calls: []
 --- !u!1 &100993926
 GameObject:
   m_ObjectHideFlags: 0
@@ -4910,6 +4915,8 @@ GameObject:
   - component: {fileID: 246007723}
   - component: {fileID: 246007724}
   - component: {fileID: 246007725}
+  - component: {fileID: 246007726}
+  - component: {fileID: 246007727}
   m_Layer: 5
   m_Name: Main Menu
   m_TagString: Untagged
@@ -4970,12 +4977,6 @@ MonoBehaviour:
     clearStackOnOpen: 0
     OnEnter:
       m_PersistentCalls:
-        m_Calls: []
-    OnExit:
-      m_PersistentCalls:
-        m_Calls: []
-    OnFocus:
-      m_PersistentCalls:
         m_Calls:
         - m_Target: {fileID: 1298400953}
           m_TargetAssemblyTypeName: CoinsUIController, Assembly-CSharp
@@ -5001,7 +5002,7 @@ MonoBehaviour:
             m_StringArgument: 
             m_BoolArgument: 0
           m_CallState: 2
-    OnBlur:
+    OnExit:
       m_PersistentCalls:
         m_Calls:
         - m_Target: {fileID: 1400486127}
@@ -5016,13 +5017,6 @@ MonoBehaviour:
             m_StringArgument: 
             m_BoolArgument: 0
           m_CallState: 2
-    OnConfirm:
-      m_PersistentCalls:
-        m_Calls: []
-    OnCancel:
-      m_PersistentCalls:
-        m_Calls: []
-    isVisible: 0
   screens:
   - id: settings
     canvasGroup: {fileID: 617436314}
@@ -5034,19 +5028,6 @@ MonoBehaviour:
     OnExit:
       m_PersistentCalls:
         m_Calls: []
-    OnFocus:
-      m_PersistentCalls:
-        m_Calls: []
-    OnBlur:
-      m_PersistentCalls:
-        m_Calls: []
-    OnConfirm:
-      m_PersistentCalls:
-        m_Calls: []
-    OnCancel:
-      m_PersistentCalls:
-        m_Calls: []
-    isVisible: 0
   - id: language
     canvasGroup: {fileID: 772177349}
     blockBack: 0
@@ -5057,19 +5038,6 @@ MonoBehaviour:
     OnExit:
       m_PersistentCalls:
         m_Calls: []
-    OnFocus:
-      m_PersistentCalls:
-        m_Calls: []
-    OnBlur:
-      m_PersistentCalls:
-        m_Calls: []
-    OnConfirm:
-      m_PersistentCalls:
-        m_Calls: []
-    OnCancel:
-      m_PersistentCalls:
-        m_Calls: []
-    isVisible: 0
   - id: store
     canvasGroup: {fileID: 2089569242}
     blockBack: 0
@@ -5104,19 +5072,50 @@ MonoBehaviour:
             m_StringArgument: 
             m_BoolArgument: 0
           m_CallState: 2
-    OnFocus:
-      m_PersistentCalls:
-        m_Calls: []
-    OnBlur:
-      m_PersistentCalls:
-        m_Calls: []
-    OnConfirm:
-      m_PersistentCalls:
-        m_Calls: []
-    OnCancel:
-      m_PersistentCalls:
-        m_Calls: []
-    isVisible: 0
+--- !u!114 &246007726
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 246007722}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e8e8c8096b7bc1545918adda134ab732, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::MenuUIController
+  manager: {fileID: 246007725}
+--- !u!114 &246007727
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 246007722}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ee0475bfb70111b469b60ab6f81621b2, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::FadeUIController
+  defaultDuration: 0.1
+  OnFadeInComplete:
+    m_PersistentCalls:
+      m_Calls: []
+  OnFadeOutComplete:
+    m_PersistentCalls:
+      m_Calls:
+      - m_Target: {fileID: 246007725}
+        m_TargetAssemblyTypeName: MenuManager, Assembly-CSharp
+        m_MethodName: GoToMainMenu
+        m_Mode: 1
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
 --- !u!1 &249953286
 GameObject:
   m_ObjectHideFlags: 0
@@ -17130,6 +17129,8 @@ GameObject:
   m_Component:
   - component: {fileID: 772177348}
   - component: {fileID: 772177349}
+  - component: {fileID: 772177351}
+  - component: {fileID: 772177350}
   m_Layer: 5
   m_Name: Language Menu
   m_TagString: Untagged
@@ -17180,6 +17181,86 @@ CanvasGroup:
   m_Interactable: 1
   m_BlocksRaycasts: 0
   m_IgnoreParentGroups: 0
+--- !u!114 &772177350
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 772177347}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 513d357a95144124881b3c0b3d259af4, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::LocalizationUpdateWatcher
+  waitAllElements: 1
+  timeout: 5
+  OnLocalizationStarted:
+    m_PersistentCalls:
+      m_Calls:
+      - m_Target: {fileID: 246007727}
+        m_TargetAssemblyTypeName: FadeUIController, Assembly-CSharp
+        m_MethodName: FadeOut
+        m_Mode: 4
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: -1
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
+      - m_Target: {fileID: 100492130}
+        m_TargetAssemblyTypeName: FadeUIController, Assembly-CSharp
+        m_MethodName: FadeIn
+        m_Mode: 4
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: -1
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
+  OnLocalizationReady:
+    m_PersistentCalls:
+      m_Calls:
+      - m_Target: {fileID: 100492130}
+        m_TargetAssemblyTypeName: FadeUIController, Assembly-CSharp
+        m_MethodName: FadeOut
+        m_Mode: 4
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: -1
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
+      - m_Target: {fileID: 246007727}
+        m_TargetAssemblyTypeName: FadeUIController, Assembly-CSharp
+        m_MethodName: FadeIn
+        m_Mode: 4
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: -1
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
+--- !u!114 &772177351
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 772177347}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fc27fbea987d9ca449c59ad2a45dae9c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::LocalizationController
 --- !u!1 &777958058
 GameObject:
   m_ObjectHideFlags: 0
@@ -18682,6 +18763,7 @@ MonoBehaviour:
     weight: 0.25
   - key: welcome_items
     weight: 0.25
+  autoRefreshOnEnable: 1
 --- !u!1 &832862615
 GameObject:
   m_ObjectHideFlags: 0
@@ -44969,7 +45051,7 @@ MonoBehaviour:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 2055329545}
-  m_Enabled: 1
+  m_Enabled: 0
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: fc27fbea987d9ca449c59ad2a45dae9c, type: 3}
   m_Name: 
@@ -44996,7 +45078,7 @@ MonoBehaviour:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 2055329545}
-  m_Enabled: 1
+  m_Enabled: 0
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: be3e5f38848a38747911e6af6331f10a, type: 3}
   m_Name: 
@@ -46352,6 +46434,7 @@ MonoBehaviour:
     weight: 0.25
   - key: welcome_items
     weight: 0.25
+  autoRefreshOnEnable: 1
 --- !u!114 &2110689880
 MonoBehaviour:
   m_ObjectHideFlags: 0

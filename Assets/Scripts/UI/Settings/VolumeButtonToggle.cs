@@ -15,16 +15,22 @@ public class VolumeButtonToggle : MonoBehaviour
 
     private bool isVolumeOn = true;
 
-    void Start()
+    private void Awake()
     {
-        // Load saved volume state (default = ON)
-        isVolumeOn = PlayerPrefs.GetInt(VolumePrefKey, 1) == 1;
+        if (volumeButton != null)
+            volumeButton.onClick.AddListener(ToggleVolume);
+    }
 
+    private void Start()
+    {
+        LoadVolume();
         ApplyVolume();
         UpdateIcon();
+    }
 
-        // Assign button click
-        volumeButton.onClick.AddListener(ToggleVolume);
+    private void LoadVolume()
+    {
+        isVolumeOn = PlayerPrefs.GetInt(VolumePrefKey, 1) == 1;
     }
 
     public void ToggleVolume()

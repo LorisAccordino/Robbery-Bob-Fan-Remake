@@ -3,7 +3,7 @@ using UnityEngine.Localization;
 using UnityEngine.Localization.Settings;
 using System.Collections;
 
-public class ChangeLanguage : MonoBehaviour
+public class LocalizationController : MonoBehaviour
 {
     private const string LocalePrefKey = "SelectedLocaleCode";
 
@@ -33,7 +33,11 @@ public class ChangeLanguage : MonoBehaviour
     private void ApplyLocale(Locale locale)
     {
         LocalizationSettings.SelectedLocale = locale;
+        SaveLocale(locale);
+    }
 
+    private void SaveLocale(Locale locale)
+    {
         PlayerPrefs.SetString(LocalePrefKey, locale.Identifier.Code);
         PlayerPrefs.Save();
     }

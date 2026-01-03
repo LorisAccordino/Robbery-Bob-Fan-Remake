@@ -14,15 +14,7 @@ public class MenuScreen
     public bool blockBack = false;
     public bool clearStackOnOpen = false;
 
-    [Header("Lifecycle Events")]
+    [Header("Events")]
     public UnityEvent OnEnter;
     public UnityEvent OnExit;
-    public UnityEvent OnFocus;
-    public UnityEvent OnBlur;
-
-    [Header("Custom Events")]
-    public UnityEvent OnConfirm;
-    public UnityEvent OnCancel;
-
-    [HideInInspector] public bool isVisible;
 }

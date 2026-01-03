@@ -13,6 +13,10 @@ public class DynamicLocalizedString : MonoBehaviour
     }
 
     public List<WeightedEntry> entries = new List<WeightedEntry>();
+
+    [Header("Auto Refresh")]
+    public bool autoRefreshOnEnable = true;
+
     private LocalizeStringEvent localizeEvent;
 
     private void Awake()
@@ -20,16 +24,27 @@ public class DynamicLocalizedString : MonoBehaviour
         localizeEvent = GetComponent<LocalizeStringEvent>();
     }
 
+    private void OnEnable()
+    {
+        if (autoRefreshOnEnable)
+            Refresh();
+    }
+
     private void Start()
     {
         Refresh();
     }
+
+    private string lastKey;
 
     public void Refresh()
     {
         if (entries.Count == 0) return;
 
         string selectedKey = GetRandomKey();
+        if (selectedKey == lastKey) return; // No change
+        lastKey = selectedKey;
+
         if (localizeEvent != null)
             localizeEvent.StringReference.TableEntryReference = selectedKey;
     }
