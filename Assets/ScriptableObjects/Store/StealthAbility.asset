@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 00392920d5b0d3f488a516e0aecc1b22, type: 3}
+  m_Name: StealthAbility
+  m_EditorClassIdentifier: Assembly-CSharp::StoreItemData
+  id: stealth
+  icon: {fileID: -8073963954644516030, guid: c7cbfc673af836b4d94c3458d6ffa344, type: 3}
+  titleKey: stealth_item_name
+  descriptionKey: 
+  buyTextKey: upgrade
+  type: 1
+  costs: 140000003200000096000000c2010000
+  repeatLastCost: 0
+  maxLevel: 4
